@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Van Life on Carry On Round The World</title>
+    <link>/van-life/</link>
+    <description>Recent content in Van Life on Carry On Round The World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Sep 2020 20:35:00 -0700</lastBuildDate>
+    
+	<atom:link href="/van-life/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Parking Pad</title>
+      <link>/van-life/parking-pad/</link>
+      <pubDate>Sun, 13 Sep 2020 10:22:15 -0700</pubDate>
+      
+      <guid>/van-life/parking-pad/</guid>
+      <description>Paul&amp;rsquo;s parents have graciously offered to let us park the van at the side of their house when its not in use as we are off travelling. There was tons of room for the van and it is nicely sheltered between 2 houses. The first time we parked it there it spun out a lot as the pebbles are quite large and round making them like ball bearings. Rather than digging holes with spinning wheels and having to fill them in every time we come and go we decided to make a better parking pad.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">{{ humanize .Section }}</span>
+    <h1 class="f3 near-black">
+      <a href="{{ .Permalink }}" class="link black dim">
+        {{ .Title }}
+      </a>
+    </h1>
+    {{ with .Params.author }}
+      By <strong>{{ . | markdownify }}</strong>
+    {{ end }}
+    <time class="f6 mv4 tracked" {{ printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safeHTMLAttr }}>
+      {{- .Date.Format "January 2, 2006" -}}
+    </time><br></br>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      {{ .Summary  }}
+    </div>
+    <a href="{{.URL}}" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">{{ $.Param "read_more_copy" | default (i18n "readMore") }}</a>
+  </div>
+</div>

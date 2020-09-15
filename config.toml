@@ -1,0 +1,114 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Carry On Round The World"
+theme = "ananke"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 9 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[markup.goldmark.renderer]
+unsafe= true
+
+[params]
+  favicon = "/images/favicons.png"
+  site_logo = "/images/cropped-rtw_icon-150x150.png"
+  description = ""
+  facebook = ""
+  #twitter = "https://twitter.com/CarryOnRTW"
+  instagram = ""
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  rss = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "noto bg-near-white"
+  post_content_classes = "arial"
+  featured_image = "https://lh3.googleusercontent.com/pw/ACtC-3cIHwloNWDNzbmrs9zjP1IMY3dTwjcBK-nlazzyG-p55SgqrripkjmG0pqahMbGWXvX5KPVMDlCCaCsoLqzrcEuTBqehgwAtH_YrjvLwlIojUtyiTjYeog5Q_eyaQphKJ3BE9V7zRR1NnDDvWTEdrbErg=w1920-h670-no"
+  recent_posts_number = 25
+  show_reading_time = true
+  commentoEnable = false
+  mainSections = ["travels", "van-life", "articles", "packs"]
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    identifier = "home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Travels"
+    identifier = "travels"
+    url = "/travels/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Van Life"
+    identifier = "van-life"
+    url = "/van-life/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Parking Pad"
+    identifier = "parking-pad"
+    parent = "van-life"
+    url = "/van-life/parking-pad/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Packs"
+    identifier = "packs"
+    url = "/packs/"
+    weight = 5
+  
+  [[menu.main]]
+    name = "Paul's Pack"
+    identifier = "paulspack"
+    url = "/packs/paulspack/"
+    parent = "packs"
+    weight = 1
+
+  [[menu.main]]
+    name = "Helen's Pack"
+    identifier = "helenspack"      
+    url = "/packs/helenspack/"
+    parent = "packs"
+    weight = 2
+
+  [[menu.main]]
+    name = "Articles"
+    identifier = "articles"
+    url = "/articles/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Arc'Teryx Bora 65"
+    identifier = "arcteryx-bora-65"
+    url = "/articles/arcteryx-bora-65/"
+    weight = 1
+    parent="articles"
+
+  [[menu.main]]
+    name = "Definition of Home"
+    identifier = "definition-of-home"
+    url = "/articles/definition-of-home/"
+    weight = 3
+    parent="articles"
+
+  [[menu.main]]
+    name = "About Us"
+    identifier = "about"
+    url = "/about/"
+    weight = 6

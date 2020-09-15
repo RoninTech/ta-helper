@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Our Travels on Carry On Round The World</title>
+    <link>/travels/</link>
+    <description>Recent content in Our Travels on Carry On Round The World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Sep 2020 20:35:00 -0700</lastBuildDate>
+    
+	<atom:link href="/travels/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Se Asia on Our Way</title>
+      <link>/travels/se-asia-on-our-way/</link>
+      <pubDate>Mon, 27 Feb 2017 08:29:40 -0700</pubDate>
+      
+      <guid>/travels/se-asia-on-our-way/</guid>
+      <description>After some very crazy, hectic, emotional weeks we are on our way. We left on the first leg of our adventure on February 28, 2017! Before I get into too much, we need to send a big thank you to Paul’s Mom and Dad. We wouldn’t have made it through the last weekend without their help. Between letting us store things, taking care of our mail and our car (VW TDI to be returned), helping us pack up and clean the apartment and taking us to the airport… well needless to say we got it all done and I was even able to spend several hours with my Mom the day before we left with no stress.</description>
+    </item>
+    
+  </channel>
+</rss>

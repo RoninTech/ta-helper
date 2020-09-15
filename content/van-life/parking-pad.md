@@ -1,0 +1,28 @@
+---
+title: "Parking Pad"
+date: 2020-09-13T10:22:15-07:00
+featured_image: 'https://lh3.googleusercontent.com/pw/ACtC-3cJSxonyTmC65j3pL_eatOCylb8hDs8eO-xYOu2Wk6OKGJAgpsq8v3bbuEbdECkQ5kTNJcxBT3KFz_0Y9pICwUPiinObhhm7uMp4JsM4-WsDLmMCdsvwsxiDby-62rkAxtQn0AkLeMgB-4qCVBuceAoPg=w1210-h908-no'
+author: "Paul"
+toc: true
+type: "article"
+omit_header_text: true
+draft: false
+---
+
+Paul's parents have graciously offered to let us park the van at the side of their house when its not in use as we are off travelling.  There was tons of room for the van and it is nicely sheltered between 2 houses.  The first time we parked it there it spun out a lot as the pebbles are quite large and round making them like ball bearings.  Rather than digging holes with spinning wheels and having to fill them in every time we come and go we decided to make a better parking pad.  Paul's Mum came across some [plastic driveway panels](https://www.amazon.ca/CORE-Gravel-Stabilizer-Geo-Textile-Eco-Friendly/dp/B084RHQ1LQ) that solved this problem perfectly.  We dug out the old bigger pebbles from where we wanted to park,  leveled the surface,  laid the panels in and filled them with 1/2" gravel.  No more sinking and tire spinning!
+
+
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO-0rET7XafecISfWb_1cuW2bY9RzO3vEmhvtBrr3Jx-A-tkV5uajVaanHs-YAJXg/photo/AF1QipMXgJY9xR22UN6NT1YoBoH-4np7I9KTqCeqcZ4J?key=c2lmY3NBczBtaVBZRy1XT3FTZUNiRUpoNmJNY3R3" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3e8EabtQyfaYHc1XZ0WzeO4FnGzuqHOaVrcxqLh-TQOYUdRSYmolrB4gAsTt9I5iBrIhsD38MVy_xaW1HaBBCPI0enHNHmwW-5dZeaU9aEw38M_jkyUj8h5sVcIMH-u65lY-lCmn8ESxrRwuqOwWuG92A=w682-h908-no" width="235" /><div>Before</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO-0rET7XafecISfWb_1cuW2bY9RzO3vEmhvtBrr3Jx-A-tkV5uajVaanHs-YAJXg/photo/AF1QipN_foGusRo0zkrd4PgmCHl_RHfbWS0t6kPst_3l?key=c2lmY3NBczBtaVBZRy1XT3FTZUNiRUpoNmJNY3R3" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3d9N23qyngJAAXf4SMLemh2DgF3n5EPRHJZtLvX-tZRE-KtMNTJumODWFTLrHYG5mfeNmGeq_qX4H3fBU9umHg-j-a7Dx1sRQ9fxpLLoBYJEDR5KT6YBittYvG33XHxzrfZ11m7U5mh0iTnfWRdxa4IIA=w682-h908-no" width="235" /><div>Move big gravel out</div></a> 
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO-0rET7XafecISfWb_1cuW2bY9RzO3vEmhvtBrr3Jx-A-tkV5uajVaanHs-YAJXg/photo/AF1QipN3PrePgd-29ToB04OONNM--sEszYGAkEC7y7xq?key=c2lmY3NBczBtaVBZRy1XT3FTZUNiRUpoNmJNY3R3" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3eHUzCyo5fHSpjk70bo-qLxuiE6O_bupMISi8TirBcRSyAJDENn4YANSVgaSaq7dnuyLYNzgFH-gHpln-wChiSyojIMp4n051e0cu9Ar5IrDXXY5mAbbWq1jYvtkvzbiiLsDaNrxFoJ0spEzgcm3uv5GA=w1210-h908-no" width="420" /><div>Lay down panels and fill with small gravel</div></a>
+</div>
+
+
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO-0rET7XafecISfWb_1cuW2bY9RzO3vEmhvtBrr3Jx-A-tkV5uajVaanHs-YAJXg/photo/AF1QipOM6m0dvA9NfpENCHvmFKivgPt_FwWRs--QnEs3?key=c2lmY3NBczBtaVBZRy1XT3FTZUNiRUpoNmJNY3R3" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3enGTIKDQiF03WgMYc-EEvvCpaoN3Vt-iWl8eQhabEuyrvDl9KdwJ0LIwUB04b06bOsHCVYC12GHR_UMwTtxcAnH_ldHWar9z7TyTeVghT-mAI_fYbv-rTb5QXhNyfGeYIdz4BDViuhE4tQxYJHKANyrA=w682-h908-no" width="235" /><div>Almost done</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO-0rET7XafecISfWb_1cuW2bY9RzO3vEmhvtBrr3Jx-A-tkV5uajVaanHs-YAJXg/photo/AF1QipNrDUy8zpZMkW_CqloRVQf04FpZSjuzq4BzcwuZ?key=c2lmY3NBczBtaVBZRy1XT3FTZUNiRUpoNmJNY3R3" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3dfr8WVbW9A9anHu7LTF3k7fvTLyrrvcIdNslA4YlvKqt1z1eVeQ3zpWanqKnNuvBuQ1_HE-opDRSTf0k7q3QuNF4kIdzoGm9Dqwscg6AbO6SiM0jvp3KTv-XAL3AcbnfNUNFvTvYJrTSpx3__w15aZ9w=w682-h908-no" width="235" /><div>Finished!</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO-0rET7XafecISfWb_1cuW2bY9RzO3vEmhvtBrr3Jx-A-tkV5uajVaanHs-YAJXg/photo/AF1QipOaCrXPpbFCZXqXL78yzgfdqJWfdUuJpcADNbb1?key=c2lmY3NBczBtaVBZRy1XT3FTZUNiRUpoNmJNY3R3" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3e1VgF_xkpdbjrbyRU35SCtcSnJAkqIbacIoJxSVFhVxTbZVLYyKFKyt6AxfYB9sRb-A3_jYZEHmX1ZF1fD9pEnCG3cFc8W2VcNUlKXsMj7AGgym1Lqovo69Tl5W1bTu1vd6_CHxutLlC45CVfiMA6sLg=w682-h908-no" width="235" /><div>No more tire spinning</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO-0rET7XafecISfWb_1cuW2bY9RzO3vEmhvtBrr3Jx-A-tkV5uajVaanHs-YAJXg/photo/AF1QipOQpNK4FhodNqOpvKdUwa-fUNvQJBPi3wdzyw_k?key=c2lmY3NBczBtaVBZRy1XT3FTZUNiRUpoNmJNY3R3" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3dNWq_xt_Acrfk38kXYEfT1TSAPCj2lD5_Da_uLqhfLNZHoYUnCE0wPA0w_iW0WDCy2BhBIaE2U_-muF-9O4eZMXHis9gYvpf6-S2li0wR2Y2fr74YIDlmVu4Jcf_MH705Z25_xMW-nlzrjDPKcud3nEA=w682-h908-no" width="235" /><div>Worked out great!</div></a>
+</div>
+
