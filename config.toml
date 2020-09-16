@@ -15,7 +15,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [markup.goldmark.renderer]
-unsafe= true
+  unsafe= true
 
 [params]
   favicon = "/images/favicons.png"
@@ -112,3 +112,4 @@ unsafe= true
     identifier = "about"
     url = "/about/"
     weight = 6
+    

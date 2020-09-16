@@ -1,6 +1,6 @@
 ---
 title: "Chinese Diesel Heater"
-date: 2020-09-10T10:28:42-07:00
+date: 2020-09-06T16:51:42-07:00
 featured_image: 'https://lh3.googleusercontent.com/pw/ACtC-3eiJmVssAiiqepUXdBr4V0VWwX2EHgvq8UDhpoIiPivXyP88r0-Pnc2U3rmG09LdkSAnLD2isJZweg8jnBeSvvgZFWi2GEQhSSJ3uzSQXu18k1VSSPch1Z1umxcLeZZ2rotjj2iaWfppczZ0y7tnQNMEw=w1210-h908-no'
 author: "Paul"
 type: "article"
