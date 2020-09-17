@@ -1,5 +1,5 @@
 ---
-title: "Se Asia on Our Way"
+title: "SE Asia on Our Way"
 date: 2017-02-27T08:29:40-07:00
 draft: false
 featured_image: 'https://lh3.googleusercontent.com/pw/ACtC-3cYLV6Azf2S-ap46uPGBOsD1GXvpkc5A2vHmcYHNhNamIxn12970wc0RLfZzzH-4mMeEBbtm-KEDFWDIa9KvKpR70Fg7aLx7eIk1YubXcxt69wwLJ2HUeJ7yu5ybuYU0-RUkZis4wyBjBokbFeQliFAoA=w1216-h912-no'
@@ -62,7 +62,7 @@ Off we went on our tour of the city.  It was really neat, cobbled pathways narro
 
 </br>
 <div style="text-align: center">
-  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMRRr-AVcEUnTPVJN4jjfbgpF5xLKvTlgO0zljx3o0n8KbTDx0V_L1_N0Dz0N0EYQ/photo/AF1QipNQAZ4bBmbBooQ1pQEBuK7kmnr1sF9hotPCZlme?key=ZzZzWlRObHA5a01fVy1hSXJGYzMwQTBnVlVjSnp" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3c4Nx8ojfi7jBkjjntA6rBKI_qpbbZXzPMLKFeCvCSdCW6qqBmEV-78PH_MPNkNNOjW7CZRnvNAWn_5E1oNwQsF7tEDeuN6xkspkd3nLJjy9G8KMHkadojTli_7ENVmMBpDXEOI5OW92yy9uVv5HF30Og=w1368-h912-no" width="470" /></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://lh3.googleusercontent.com/pw/ACtC-3c4Nx8ojfi7jBkjjntA6rBKI_qpbbZXzPMLKFeCvCSdCW6qqBmEV-78PH_MPNkNNOjW7CZRnvNAWn_5E1oNwQsF7tEDeuN6xkspkd3nLJjy9G8KMHkadojTli_7ENVmMBpDXEOI5OW92yy9uVv5HF30Og=w1414-h943-no" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3c4Nx8ojfi7jBkjjntA6rBKI_qpbbZXzPMLKFeCvCSdCW6qqBmEV-78PH_MPNkNNOjW7CZRnvNAWn_5E1oNwQsF7tEDeuN6xkspkd3nLJjy9G8KMHkadojTli_7ENVmMBpDXEOI5OW92yy9uVv5HF30Og=w1368-h912-no" width="470" /></a>
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMRRr-AVcEUnTPVJN4jjfbgpF5xLKvTlgO0zljx3o0n8KbTDx0V_L1_N0Dz0N0EYQ/photo/AF1QipPXZUyvp8jGspGd0lhpwGcxQwOSFaHMmFkRicqk?key=ZzZzWlRObHA5a01fVy1hSXJGYzMwQTBnVlVjSnpR" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3d2mLh2PdXIlz04Oc1b5fxpxxL3i-ekrpKBO3XZwPPMAb5gX6ImSX1Jzb0DHVb-OiAcMXJp_9P5J8jbFy5Z3sRI1K4KE3atG4BX9CYdmizFmp8T1OlJi9JstMO6NQ0Rv3entfNEcqT2Y3LpbCcUEhv_0g=w1368-h912-no" width="470" /></a> 
 </div>
 

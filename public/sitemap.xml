@@ -3,27 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/travels/2-months-in-kampot/</loc>
-    <lastmod>2020-09-15T17:30:23-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/packs/helenspack/</loc>
-    <lastmod>2020-09-09T20:41:24-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/packs/paulspack/</loc>
-    <lastmod>2020-09-09T20:41:14-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>/packs/</loc>
     <lastmod>2020-09-09T20:35:00-07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -94,6 +73,20 @@
   </url>
   
   <url>
+    <loc>/packs/paulspack/</loc>
+    <lastmod>2020-03-15T20:41:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/packs/helenspack/</loc>
+    <lastmod>2020-03-15T10:41:24-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/travels/sobo-pct-2019/</loc>
     <lastmod>2019-09-15T17:43:24-07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -138,6 +131,13 @@
   <url>
     <loc>/travels/australia-brisbane-to-daintree/</loc>
     <lastmod>2017-10-15T09:31:21-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/travels/2-months-in-kampot/</loc>
+    <lastmod>2017-09-25T17:30:23-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
