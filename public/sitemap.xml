@@ -3,36 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/van-life/headliner-and-thinsulate/</loc>
-    <lastmod>2020-09-14T10:28:24-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/van-life/roof-fan-installation/</loc>
-    <lastmod>2020-09-14T10:28:03-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/van-life/sound-deadener-and-flooring/</loc>
-    <lastmod>2020-09-14T10:27:37-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/van-life/parking-pad/</loc>
-    <lastmod>2020-09-13T10:22:15-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/van-life/chinese-diesel-heater/</loc>
-    <lastmod>2020-09-10T10:28:42-07:00</lastmod>
+    <loc>/travels/2-months-in-kampot/</loc>
+    <lastmod>2020-09-15T17:30:23-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -82,6 +54,132 @@
   <url>
     <loc>/</loc>
     <lastmod>2020-09-09T18:26:37-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/van-life/chinese-diesel-heater/</loc>
+    <lastmod>2020-09-06T16:51:42-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/van-life/headliner-and-thinsulate/</loc>
+    <lastmod>2020-08-23T09:14:24-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/van-life/roof-fan-installation/</loc>
+    <lastmod>2020-08-21T15:22:03-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/van-life/sound-deadener-and-flooring/</loc>
+    <lastmod>2020-08-10T11:17:37-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/van-life/parking-pad/</loc>
+    <lastmod>2020-06-15T10:22:15-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/travels/sobo-pct-2019/</loc>
+    <lastmod>2019-09-15T17:43:24-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/packs/helens-pct-pack/</loc>
+    <lastmod>2019-09-09T16:44:12-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/packs/pauls-pct-pack/</loc>
+    <lastmod>2019-09-09T16:44:05-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/packs/helens-annapurna-pack/</loc>
+    <lastmod>2018-09-15T16:43:47-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/packs/pauls-annapurna-pack/</loc>
+    <lastmod>2018-09-15T16:43:01-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/travels/creston-summer-2018/</loc>
+    <lastmod>2018-09-10T12:35:55-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/travels/australia-brisbane-to-daintree/</loc>
+    <lastmod>2017-10-15T09:31:21-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/travels/hong-kong-what/</loc>
+    <lastmod>2017-07-25T13:28:47-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/travels/cambodia-part-1/</loc>
+    <lastmod>2017-07-20T07:28:16-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/travels/the-land-of-laos/</loc>
+    <lastmod>2017-07-15T17:27:38-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/travels/northern-thailand/</loc>
+    <lastmod>2017-06-29T20:27:10-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/travels/myanmar/</loc>
+    <lastmod>2017-06-15T17:26:57-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/travels/coles-notes/</loc>
+    <lastmod>2017-05-15T17:26:44-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

@@ -12,21 +12,58 @@
     
     
     <item>
-      <title>Helen&#39;s Pack</title>
+      <title>Helen&#39;s Travel Pack</title>
       <link>/packs/helenspack/</link>
       <pubDate>Wed, 09 Sep 2020 20:41:24 -0700</pubDate>
       
       <guid>/packs/helenspack/</guid>
-      <description>This page is generated using lighterpack.com which is a great way to organize your packing lists for various activities.</description>
+      <description>This page shows what is in Helen&amp;rsquo;s pack for travel. It is generated using lighterpack.com which is a great way to organize your packing lists for various activities. You can see her Pacific Crest Trail load out here and her Annapurna Circuit load out here.</description>
     </item>
     
     <item>
-      <title>Paul&#39;s Pack</title>
+      <title>Paul&#39;s Travel Pack</title>
       <link>/packs/paulspack/</link>
       <pubDate>Wed, 09 Sep 2020 20:41:14 -0700</pubDate>
       
       <guid>/packs/paulspack/</guid>
-      <description>This page is generated using lighterpack.com which is a great way to organize your packing lists for various activities.</description>
+      <description>This page shows what is in Paul&amp;rsquo;s pack for travel. It is generated using lighterpack.com which is a great way to organize your packing lists for various activities. You can see his Pacific Crest Trail load out here and his Annapurna Circuit load out here.</description>
+    </item>
+    
+    <item>
+      <title>Helen&#39;s PCT Pack</title>
+      <link>/packs/helens-pct-pack/</link>
+      <pubDate>Mon, 09 Sep 2019 16:44:12 -0700</pubDate>
+      
+      <guid>/packs/helens-pct-pack/</guid>
+      <description>This page shows what was in Helen&amp;rsquo;s pack for the Pacific Crest Trail. It is generated using lighterpack.com which is a great way to organize your packing lists for various activities. You can see her travel load out here and her Annapurna Circuit load out here.
+ </description>
+    </item>
+    
+    <item>
+      <title>Paul&#39;s PCT Pack</title>
+      <link>/packs/pauls-pct-pack/</link>
+      <pubDate>Mon, 09 Sep 2019 16:44:05 -0700</pubDate>
+      
+      <guid>/packs/pauls-pct-pack/</guid>
+      <description>This page shows what was in Paul&amp;rsquo;s pack for the Pacific Crest Trail. It is generated using lighterpack.com which is a great way to organize your packing lists for various activities. You can see his travel load out here and his Annapurna Circuit load out here.</description>
+    </item>
+    
+    <item>
+      <title>Helen&#39;s Annapurna Pack</title>
+      <link>/packs/helens-annapurna-pack/</link>
+      <pubDate>Sat, 15 Sep 2018 16:43:47 -0700</pubDate>
+      
+      <guid>/packs/helens-annapurna-pack/</guid>
+      <description>This page shows what was in Helen&amp;rsquo;s pack for the Annapurna Circuit treks. It is generated using lighterpack.com which is a great way to organize your packing lists for various activities. You can see her travel load out here and her PCT load out here.</description>
+    </item>
+    
+    <item>
+      <title>Paul&#39;s Annapurna Pack</title>
+      <link>/packs/pauls-annapurna-pack/</link>
+      <pubDate>Sat, 15 Sep 2018 16:43:01 -0700</pubDate>
+      
+      <guid>/packs/pauls-annapurna-pack/</guid>
+      <description>This page shows what was in Paul&amp;rsquo;s pack for the Annapurna Circuit treks. It is generated using lighterpack.com which is a great way to organize your packing lists for various activities. You can see his travel load out here and his PCT load out here.</description>
     </item>
     
   </channel>

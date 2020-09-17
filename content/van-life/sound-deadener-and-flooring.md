@@ -8,7 +8,7 @@ omit_header_text: true
 draft: false
 ---
 
-The first thing we did to our new van was to add some Noico sound deadener to the metal panels.  This stops a lot of the resonance that the larger panel sections are pron to and drastically reduces noise.  We ordered 2 boxes of the [80 mil 36 sqft Noico](https://www.amazon.ca/dp/B00URUIKAK) and it worked out almost perfectly to do the walls, ceiling, above the front headliner, inside the side and rear door panels and inside the passenger seat pedestal (to help with noise from our Chinese diesel heater).
+The first thing we did to our new van was to add some Noico sound deadener to the metal panels.  This stops a lot of the resonance that the larger panel sections are prone to and drastically reduces noise.  We ordered 2 boxes of the [80 mil 36 sqft Noico](https://www.amazon.ca/dp/B00URUIKAK) and it worked out almost perfectly to do the walls, ceiling, above the front headliner, inside the side and rear door panels and inside the passenger seat pedestal (to help with noise from our [Chinese diesel heater](/van-life/chinese-diesel-heater/)).
 
 All you need to do this is a sharp knife, a straight edge, sharpie, a roller, something to cut on, gloves so you don't get cut from the metal edges and a [cheap trim removal kit](https://www.amazon.ca/dp/B01L8GHB7O) to get the door panels and foam blobs off.  We left the doors and area above the headliner to last as we wanted to wait for the Thinsulate insulation to show up so we could do both at the same time.
 
