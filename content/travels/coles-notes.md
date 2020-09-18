@@ -10,31 +10,36 @@ omit_header_text: true
 
 On Facebook, you may have been exposed to our constant updates and many temple and/or Pagoda photos.  For those not on Facebook or who have blocked us after being fed up with the aforementioned pagodas… here is the Cole’s notes version of our first couple of months: 
 
-[Photo Album: Koh Lipe – March 2017](https://photos.app.goo.gl/esSFk43cjfq5oeUm7)
+#### Koh Lipe – March 2017 [Photo Album](https://photos.app.goo.gl/esSFk43cjfq5oeUm7)
 
-This time we stayed at The Reef instead of our usual Andaman Resort, which was taken over by new owners.  We really enjoyed our accommodation and met some great people.  We highly recommend The Reef, the staff was super nice, beds comfortable and breakfast was good. The orange tabby cat that I spent a lot of time with has no bearing on my opinion.
+This time we stayed at [The Reef](https://goo.gl/maps/Rt72kc2nSC2DiwSk8) instead of our usual Andaman Resort, which was taken over by new owners.  We really enjoyed our accommodation and met some great people.  We highly recommend The Reef, the staff was super nice, beds comfortable and breakfast was good. The orange tabby cat that I spent a lot of time with has no bearing on my opinion.
 
 </br>
 <div style="text-align: center">
-  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipM9dxLx8Pxy8STdCtLfOY4ErF6zJgNP3m1XXDeJvjQLYVv6hhbcG-_pHiNWjfJ-lA/photo/AF1QipPYySAsC-gN9cHpOczSSXvNcvdXHzeaJ9eoHQQc?key=RVdIajRsWGV5N0k2eWdZVG9CeGk1Y0F2c1RtQndn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3eqb9BdFp5drtc1OR87iuoEAet-SxbkevCf-oLByb9WTQwHeJMsCmCsEDa7vET_xPsaOmdDGail2kiWxx2nqu_kMZfU15VlWd_IJxE3qCUiznnmrj0IPfrlNqwezZHy2mFMKapcRZa3_UGZ7id0DKNYAQ=w1210-h908-no?authuser=0" width="470" /><div>River in Krabi</div></a>
-  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipM9dxLx8Pxy8STdCtLfOY4ErF6zJgNP3m1XXDeJvjQLYVv6hhbcG-_pHiNWjfJ-lA/photo/AF1QipMzyaXNCXonSus6icJkqm4RrhPmDuNqwgqFAB4h?key=RVdIajRsWGV5N0k2eWdZVG9CeGk1Y0F2c1RtQndn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3eu36-_4LD6hUYJObfHz4acZixkQ_Q874cyRp5HIqB6osML5Fem0Djwa8qKw58drv6p023SYdQTaJu6NqPf_3mdIB8VVdt_wBHiej1B9hXFDRU0Vjoon9LrDm7p5bgtRHoxl3xaScwS-uCFCpaPVykZmA=w1210-h908-no?authuser=0" width="470" /><div>Krabi sculptures</div></a> 
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipM9dxLx8Pxy8STdCtLfOY4ErF6zJgNP3m1XXDeJvjQLYVv6hhbcG-_pHiNWjfJ-lA/photo/AF1QipPYySAsC-gN9cHpOczSSXvNcvdXHzeaJ9eoHQQc?key=RVdIajRsWGV5N0k2eWdZVG9CeGk1Y0F2c1RtQndn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3eqb9BdFp5drtc1OR87iuoEAet-SxbkevCf-oLByb9WTQwHeJMsCmCsEDa7vET_xPsaOmdDGail2kiWxx2nqu_kMZfU15VlWd_IJxE3qCUiznnmrj0IPfrlNqwezZHy2mFMKapcRZa3_UGZ7id0DKNYAQ=w1210-h908-no?authuser=0" width="470" /><div>The Reef Hotel in 2017.  Big (good!) Changes since then.</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipM9dxLx8Pxy8STdCtLfOY4ErF6zJgNP3m1XXDeJvjQLYVv6hhbcG-_pHiNWjfJ-lA/photo/AF1QipMzyaXNCXonSus6icJkqm4RrhPmDuNqwgqFAB4h?key=RVdIajRsWGV5N0k2eWdZVG9CeGk1Y0F2c1RtQndn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3eu36-_4LD6hUYJObfHz4acZixkQ_Q874cyRp5HIqB6osML5Fem0Djwa8qKw58drv6p023SYdQTaJu6NqPf_3mdIB8VVdt_wBHiej1B9hXFDRU0Vjoon9LrDm7p5bgtRHoxl3xaScwS-uCFCpaPVykZmA=w1210-h908-no?authuser=0" width="470" /><div>One of the friendly cats at the Reef</div></a> 
 </div>
 
 We connected with old friends, made new ones, learned how to play “shithead”, developed a taste for unsweetened chai minao, volunteered at a vet clinic, had copious amounts of BBQ squid, saw awesome lightning storms and spent time on the beach.
 
 </br>
 <div style="text-align: center">
-  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipM9dxLx8Pxy8STdCtLfOY4ErF6zJgNP3m1XXDeJvjQLYVv6hhbcG-_pHiNWjfJ-lA/photo/AF1QipNZ93EC2arnvD3iCEc_UA0G11zJFc8WOODx4GUy?key=RVdIajRsWGV5N0k2eWdZVG9CeGk1Y0F2c1RtQndn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3eq8h1uGmk5M4NLKR7KfhmTVtv0Vk_RmCD3au-hpFIvI34D7rVsx_Q_HhD3c3F0yxJM6FQFuPm9UazV_xQ4BLUJN7ecFIsqTUEmw5nfceyrDXECBCC01IZTSHuM_b7lPy4L-BGb3s9ScyELyXyKUzsyWw=w1210-h908-no?authuser=0" width="470" /><div>River in Krabi</div></a>
-  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipM9dxLx8Pxy8STdCtLfOY4ErF6zJgNP3m1XXDeJvjQLYVv6hhbcG-_pHiNWjfJ-lA/photo/AF1QipOXH-G1RsLHHJ3qpVXwbZf-9SPALDBhBsu0Yd2q?key=RVdIajRsWGV5N0k2eWdZVG9CeGk1Y0F2c1RtQndn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3cZ4ydJEB0VesF_v36z6vffAMetoROQqvbksVTcJmui4tZCJYq43U7XPF9DSj2KCE3teD2ElxtVeX4RJdSRIRoa61irM2AaDN1UN-dStgRGZCF2It-vsmxASTyrLpnbsntxKdeBv7QJxuNS444iKGt-LA=w1210-h908-no?authuser=0" width="470" /><div>Krabi sculptures</div></a> 
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipM9dxLx8Pxy8STdCtLfOY4ErF6zJgNP3m1XXDeJvjQLYVv6hhbcG-_pHiNWjfJ-lA/photo/AF1QipNZ93EC2arnvD3iCEc_UA0G11zJFc8WOODx4GUy?key=RVdIajRsWGV5N0k2eWdZVG9CeGk1Y0F2c1RtQndn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3eq8h1uGmk5M4NLKR7KfhmTVtv0Vk_RmCD3au-hpFIvI34D7rVsx_Q_HhD3c3F0yxJM6FQFuPm9UazV_xQ4BLUJN7ecFIsqTUEmw5nfceyrDXECBCC01IZTSHuM_b7lPy4L-BGb3s9ScyELyXyKUzsyWw=w1210-h908-no?authuser=0" width="470" /><div>Helen volunteered for a day at the animal clinic with Gita and Milos</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipM9dxLx8Pxy8STdCtLfOY4ErF6zJgNP3m1XXDeJvjQLYVv6hhbcG-_pHiNWjfJ-lA/photo/AF1QipOXH-G1RsLHHJ3qpVXwbZf-9SPALDBhBsu0Yd2q?key=RVdIajRsWGV5N0k2eWdZVG9CeGk1Y0F2c1RtQndn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3cZ4ydJEB0VesF_v36z6vffAMetoROQqvbksVTcJmui4tZCJYq43U7XPF9DSj2KCE3teD2ElxtVeX4RJdSRIRoa61irM2AaDN1UN-dStgRGZCF2It-vsmxASTyrLpnbsntxKdeBv7QJxuNS444iKGt-LA=w1210-h908-no?authuser=0" width="470" /><div>The shithead (card game) crew</div></a> 
 </div>
 
-Couple of Highlights:
-Paul finally took a diving class and passed his PADI open water test.  The instructor told Paul it was like he was diving for years and he was one of the easiest people he had ever taught.  My thought on that was that he should be happy I didn’t take mine.  Paul was able to get in a few dives and meet some nice people…even though they are “divers”.
+</br>
+{{< youtube wvb83ypeV4E >}}
+</br>
+
+#### Couple of Highlights
+
+Paul finally took a diving class and passed his PADI open water test.  The instructor told Paul it was like he was diving for years and he was one of the easiest people he had ever taught.  My thought on that was that he should be happy I didn’t take mine.  Paul was able to get in a few dives and meet some nice people…even though they are “divers”. 😉
 
 </br>
 <div style="text-align: center">
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipM9dxLx8Pxy8STdCtLfOY4ErF6zJgNP3m1XXDeJvjQLYVv6hhbcG-_pHiNWjfJ-lA/photo/AF1QipPPV6Axs663O-c6Hy1NxT0HjmriZuEgkjXnSSbg?key=RVdIajRsWGV5N0k2eWdZVG9CeGk1Y0F2c1RtQndn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3cXdpit9VZ108DQCFDpkjp4zEfaNApxpMHv9BALLTZuIj2oyX9zPSOl3tJ4wS2PKfhNS_GciPRVMW6dnxlSQG6eYUFyruTZnScbQOGq576_SCjz2uAAcHa_II38AyfcC7cJoc-XM0bwm6vB4qYG26UJKw=w682-h908-no?authuser=0" width="235" /><div>PADI Open Water success</div></a>
-  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipM9dxLx8Pxy8STdCtLfOY4ErF6zJgNP3m1XXDeJvjQLYVv6hhbcG-_pHiNWjfJ-lA/photo/AF1QipNKC1iE_ktepEvRcRTL3xB7225bvguCJl2PBHNe?key=RVdIajRsWGV5N0k2eWdZVG9CeGk1Y0F2c1RtQndn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3dxaUhHHntZkTLt02qOMa4g7yxs1LzjQPQxg7f4TQ1bWsYXXB_Z97Oca8JMvqi-c4h-4QJSQ-J1c6LF-W7QWiMkrv9Ni2qJ97D2vQ4DFaKGQ7nlcjIt7zD4szUdLxDu70IkKk0zufQF8tgbtv3K1b52lA=w1000-no-tmp.jpg" width="470" /><div>My dive buddy Anne from Denmark</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipM9dxLx8Pxy8STdCtLfOY4ErF6zJgNP3m1XXDeJvjQLYVv6hhbcG-_pHiNWjfJ-lA/photo/AF1QipNKC1iE_ktepEvRcRTL3xB7225bvguCJl2PBHNe?key=RVdIajRsWGV5N0k2eWdZVG9CeGk1Y0F2c1RtQndn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3dxaUhHHntZkTLt02qOMa4g7yxs1LzjQPQxg7f4TQ1bWsYXXB_Z97Oca8JMvqi-c4h-4QJSQ-J1c6LF-W7QWiMkrv9Ni2qJ97D2vQ4DFaKGQ7nlcjIt7zD4szUdLxDu70IkKk0zufQF8tgbtv3K1b52lA=w1000-no-tmp.jpg" width="470" /><div>Paul's dive buddy Anne from Denmark</div></a>
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipM9dxLx8Pxy8STdCtLfOY4ErF6zJgNP3m1XXDeJvjQLYVv6hhbcG-_pHiNWjfJ-lA/photo/AF1QipO1BG98gLVeYlayd36Z6JvJctC49_yuV9ou1_Dj?key=RVdIajRsWGV5N0k2eWdZVG9CeGk1Y0F2c1RtQndn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3fB1YLt-5SiO62oEHuCjy6NeSlRs1NyvHb7TjMfxbaInfQKb773GNQJH9XuxC552va5jshTzBVupQRUCvPQ02jZe_0a0m8PAtucmkNYNJhhdG-H6Ec5s8cR2G7tO2cXMmvfD0eRMkt6MpwRtE1uRjURUA=w1000-no-tmp.jpg" width="235" /><div>Adang Sea Divers</div></a>
 </div>
 
@@ -43,7 +48,7 @@ We met Chip, his wife and daughter.  Chip invited us to watch sunset at his plac
 </br>
 <div style="text-align: center">
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipM9dxLx8Pxy8STdCtLfOY4ErF6zJgNP3m1XXDeJvjQLYVv6hhbcG-_pHiNWjfJ-lA/photo/AF1QipOHih_92eqn6pyQigICByW9isQpbfbDB_6CcA33?key=RVdIajRsWGV5N0k2eWdZVG9CeGk1Y0F2c1RtQndn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3ciYHCGQa4gSXTbgZ_EEytZ_gg1YU5p6195U3rdy-ksW3j9_8YNzG0XBpzB-R6YXWJmERdbMSL4QQfX5ch0WyDLAG9NOdxdMJ3XPWkLkcuqrLoafjaYFOs-M0vPOn3u152RuKNeiAvXMuVmDslHBIpHtA=w1210-h908-no?authuser=0" width="470" /><div>Chatting with Pascal on Chip's private beach</div></a>
-  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipM9dxLx8Pxy8STdCtLfOY4ErF6zJgNP3m1XXDeJvjQLYVv6hhbcG-_pHiNWjfJ-lA/photo/AF1QipPmGdLsQ2DtNmGF90zEZXwV1ig8MEqmd7fQgFA5?key=RVdIajRsWGV5N0k2eWdZVG9CeGk1Y0F2c1RtQndn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3eqIhOk70YLgU3_JLmCsUPT2Mgk5ovz_NZtIQ-9oamEToVTZJbZYHGyjcF8FRZ6J-uv-gaiwg5eSOtI5b6JidhhKPB--QKcvqrou5WRAxVZrksYPQ_a-Xn7Y50GSWg3B5vnQeEfBHyAFhBPxcavLT-3oQ=w1210-h908-no?authuser=0" width="470" /><div>.</div></a> 
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipM9dxLx8Pxy8STdCtLfOY4ErF6zJgNP3m1XXDeJvjQLYVv6hhbcG-_pHiNWjfJ-lA/photo/AF1QipPmGdLsQ2DtNmGF90zEZXwV1ig8MEqmd7fQgFA5?key=RVdIajRsWGV5N0k2eWdZVG9CeGk1Y0F2c1RtQndn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3eqIhOk70YLgU3_JLmCsUPT2Mgk5ovz_NZtIQ-9oamEToVTZJbZYHGyjcF8FRZ6J-uv-gaiwg5eSOtI5b6JidhhKPB--QKcvqrou5WRAxVZrksYPQ_a-Xn7Y50GSWg3B5vnQeEfBHyAFhBPxcavLT-3oQ=w1210-h908-no?authuser=0" width="470" /><div>The sunsets never get old</div></a> 
 </div>
 
 </br>
@@ -71,7 +76,8 @@ We met Chip, his wife and daughter.  Chip invited us to watch sunset at his plac
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipM9dxLx8Pxy8STdCtLfOY4ErF6zJgNP3m1XXDeJvjQLYVv6hhbcG-_pHiNWjfJ-lA/photo/AF1QipON3RQX-arZ_JVYSN-TDEb4h8jiXeA69ty3b2S6?key=RVdIajRsWGV5N0k2eWdZVG9CeGk1Y0F2c1RtQndn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3cdy29yZGY6CPB9GvS1gnODyEXYnTtRvpR3vDmej_B-6tGyFx7PwC8L7zh5twgd77IyuFeQ1p56LNndKiyU66VuDUJ9eMNLLAuyxa0x_BQXB1oYiqbPLOq9xLArTTWsbA3OokxmMOUm2mDTioWtZyVSWA=w1000-no-tmp.jpg" width="470" /><div>Corner Bar</div></a> 
 </div>
 
-Photo Album: Satun to Bangkok, March 31 – April 4, 2017
+#### Satun to Bangkok, March 31 – April 4, 2017
+
 Our friend Pn (Nut) invited us to come and spend some time at her home on the mainland. She picked us up from the ferry, iced coffee in hand and brought us to a beautiful beach area to relax and visit. Turns out our timing coincided with a family ceremony to honour her great, great grandfather.  Many of her Aunts and Uncles were in town so we were invited to attend the festivities. It started with a massive family BBQ and everyone had a duty. I helped with the skewers and Paul tried to BBQ,  We were quickly given guest status.  I also received a first hand lesson on making Som Tam (papaya salad)… no more needs to be said on that. The meal was great and we were spoiled rotten.
 
 </br>
@@ -109,6 +115,10 @@ We had a drive to the Malaysia border with Pn and her friend Napat. We spent a d
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipNWYl3tuP-npTqrST82biUH3ge_4FqIjfifs7VwupsAbpWexjBkHT-YnOW5-B-mvQ/photo/AF1QipOFIgH6kFEc8YHSBvbdaEgmDq0MUxYu_px8vtIw?key=SWs0aTVfbC1velI4cG9ScDdPLXFHRllRWW9EbVFn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3cyanbhvrr08LRhy_6jmhpwUbeCGYh5KcT-j2K4RKDqru-b4K9rdPPI3BWRxhRPMYZALGjvlh8TVYDe8gLCNJVGn0jib_ETm2moPHB8ff7BkavpB5F8TU5nlWmP9Jyc9VAwE2P2vsZkub-5kJjH-XgWEA=w1210-h908-no" width="470" /><div>Lonely tree under water at high tide</div></a>
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipNWYl3tuP-npTqrST82biUH3ge_4FqIjfifs7VwupsAbpWexjBkHT-YnOW5-B-mvQ/photo/AF1QipN77ZZmGTVyXBkdA6_DMH5_wiPho1gIdVJu6Ofo?key=SWs0aTVfbC1velI4cG9ScDdPLXFHRllRWW9EbVFn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3dKXtCxrjfQc8QXfJ2kO9fFsV4KWtbXnBN2Nfb4zrejRMTb7awmCfCObkyHZ5BljpEi8kDXwzHKOXo80NbZR3Qwce-YMFHxwTyXxJr4G00yhDGlafq_aypZn6L1DPuwrSe6G6AYihaTyc-q3dhvnodVcg=w1210-h908-no" width="470" /><div>Jelly fish processing</div></a>
 </div>
+
+</br>
+{{< youtube Z0kZ-VF2fJ8 >}}
+</br>
 
 Finally, it was on to Hat Yai with the family to visit a sick uncle, a family supper and finally get dropped off for the night train to Bangkok. Pn was heading to BKK with her Auntie and had arranged for us to get on the same train.  I hadn’t been on a train before so I was very much looking forward to it. It was awesome! I will state that top bunks aren’t my favorite but we were comfortable and enjoyed it.
 

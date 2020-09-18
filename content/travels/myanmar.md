@@ -62,6 +62,10 @@ The next day we arranged a tuktuk tour of the <a href="https://photos.google.com
 </div>
 
 </br>
+{{< youtube xfzIlWvU2Yw >}}
+</br>
+
+</br>
 <div style="text-align: center">
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipOP5QEo-49gJ3dUxXHk0tb3nusvNg2WRaq1YxMijpk76W1VNsG9jbbXJVXcqsJNCQ/photo/AF1QipMsRANcA0IJnR1CYjlC1rjxtp1Hmfgujt4IbG0i?key=N0o1X0hXQktGWFZEWFRibWlBWEtjMU5udDhxTVJn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3czlpXit0nOuO5fZabiCmT_I5JGX3H61GNsXaHbHAkZF-2oBjSvOUooCkfcujn7MGeKtlTHzhi7Pz13IdmW4SXHbIwfs_7619Vd1ULW-FIK-beNPR3MfNJObEmFzsGfP3gxqVCPN7M2Qoe2ZUS85ySXsA=w682-h908-no" width="235" /><div>All aboard</div></a>
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipOP5QEo-49gJ3dUxXHk0tb3nusvNg2WRaq1YxMijpk76W1VNsG9jbbXJVXcqsJNCQ/photo/AF1QipOPov8YhV4DcJDPnk1D4OkDdvXvk2i97yOM51WY?key=N0o1X0hXQktGWFZEWFRibWlBWEtjMU5udDhxTVJn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3fGUyi6lP-qoztmXJ3q9wsSjzPqtJntF17BLpsJg6PDCAtr40DJ2BWkdHymKMutuRPEUKMP7ol_Pcw24U0JTGVG0gFrzK8lwLE8KAgEs91w23Mm-ycT7S46tZTsjs8WZhCvVRSm7051bV2Lh1wa8dN-QA=w1210-h908-no" width="470" /><div>Boat ride through cave back to tuk tuk</div></a>
@@ -74,6 +78,14 @@ The next day we arranged a tuktuk tour of the <a href="https://photos.google.com
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipOP5QEo-49gJ3dUxXHk0tb3nusvNg2WRaq1YxMijpk76W1VNsG9jbbXJVXcqsJNCQ/photo/AF1QipM9pqWc9xVD8HPWnlIdgOCAXBf5PHqPuupKk5I8?key=N0o1X0hXQktGWFZEWFRibWlBWEtjMU5udDhxTVJn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3fDHj_xPLuHm9cHyCYczgk4-_KtWWd8_8uJPIf_7SeNOWUHmJs9q04CwWAXJ3H62kxrYXlyutTad1DVLa8sj1gPje2dewo_4p8anMG4YwrkIbXy8EQvo6Mqg_SSdiB4_Xem-PKkd9dKP9LbJo9DccgztQ=w1210-h908-no" width="470" /><div>Millions of bats and it was a full moon!</div></a> 
 </div>
 
+</br>
+{{< youtube iL0AeSopRDQ >}}
+</br>
+
+</br>
+{{< youtube FnK5AHznOz8 >}}
+</br>
+
 Spent the next day wandering the area with Karen and Verena having a relaxing time, more tomato salad. Then off to Yangon. 
 
 </br>
@@ -83,6 +95,10 @@ Spent the next day wandering the area with Karen and Verena having a relaxing ti
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipOP5QEo-49gJ3dUxXHk0tb3nusvNg2WRaq1YxMijpk76W1VNsG9jbbXJVXcqsJNCQ/photo/AF1QipMvu5ANYMx7a2JlPNDvv7IY7-94utyfAkdxqoWM?key=N0o1X0hXQktGWFZEWFRibWlBWEtjMU5udDhxTVJn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3fH05K05tx2SZFDk17SfJK3V75WriQvuoTVptsN5m72_qnO97UTFPHtjHQaNjjlFm2q6KtNxCfGYVGGXa7og3SMHPL4PAob_Vv-4onHeu3tKWLkfjg1BX9zEUZhbhD2UUDKIgxTp3BYRA8UYVQBbVV3SQ=w682-h908-no" width="235" /><div>Amazing food in Myanmar!</div></a> 
 </div>
 
+</br>
+{{< youtube q9q6D9g-Kwg >}}
+</br>
+
 #### Yangon
 
 [Yangon Photo Album](https://photos.app.goo.gl/Nw2m7stPlpZrpMYE2)
@@ -90,8 +106,12 @@ Spent the next day wandering the area with Karen and Verena having a relaxing ti
 The bus station was utter chaos yet functioned.  Took a long cab ride to our [Shwe Yo Vintage Hostel](https://goo.gl/maps/nUjPNyk5svq).  Went and checked out the Canadian embassy… they weren’t going to let us up but Paul said “it’s okay we’re Canadian” and flashed his passport.  It didn’t change the fact that it was closed but we got to see it from outside.  We wandered around and both got pooped on.  At breakfast we were talking to a couple.. after a couple of questions discovered they were also Canadians… then more questions and we are all Calgarians. Awesome coincidence! Enter Liz and Pat.  We spoke to a fellow from the French/German border who’d been travelling for 4 years all over in a massive camper truck and had amazing experiences. Enter Yann.
 
 </br>
+{{< youtube sh7ei9RlSQ4 >}}
+</br>
+
+</br>
 <div style="text-align: center">
-  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipPkqsk_nURUEDH972DDKGRMnuGYax7PKihCrDgcpGDkMULRcouefnvMr0gfs8iGDg/photo/AF1QipMwBw4Wd8vaV7L-ZdAk5sm43GJmYoPTpefdonLP?key=WFlidEdQNXVRdlhKVmVJc0ZRRFRSMGpwd0NEUVJR" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3fNmYlo6ZmkfmHopqUCVWUx4MU5Vdq0NJI-xGrzD8DsC44G2eBG-0cu7BfA5NMqlu2MV5uYB7kKEv2Biqm0JTNrUrtEqFu83oFlXmWzAbcBlITyGQa15t9mnCRRLxMEL6XMHO6x7ywuSuPw5MXZ1WJSHw=w1210-h908-no" width="470" /><div>Stealth photo, embassy was closed an dsign said no pics</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipPkqsk_nURUEDH972DDKGRMnuGYax7PKihCrDgcpGDkMULRcouefnvMr0gfs8iGDg/photo/AF1QipMwBw4Wd8vaV7L-ZdAk5sm43GJmYoPTpefdonLP?key=WFlidEdQNXVRdlhKVmVJc0ZRRFRSMGpwd0NEUVJR" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3fNmYlo6ZmkfmHopqUCVWUx4MU5Vdq0NJI-xGrzD8DsC44G2eBG-0cu7BfA5NMqlu2MV5uYB7kKEv2Biqm0JTNrUrtEqFu83oFlXmWzAbcBlITyGQa15t9mnCRRLxMEL6XMHO6x7ywuSuPw5MXZ1WJSHw=w1210-h908-no" width="470" /><div>Stealth photo, embassy was closed and sign said no pics</div></a>
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipPkqsk_nURUEDH972DDKGRMnuGYax7PKihCrDgcpGDkMULRcouefnvMr0gfs8iGDg/photo/AF1QipPJY2AWswlI3Uw-ewGlDAPhxazaLtewU0tuwMYV?key=WFlidEdQNXVRdlhKVmVJc0ZRRFRSMGpwd0NEUVJR" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3dfewbgLYzS6i83SPdnqFOczr9mBmg5d_bboBrO0WcyNOFIWOEVOQpb_-iMjQj-rl1wlVxl3kNnB42PN2bOxmEiepVHeWDvArm62FDmrnNfV9YuPgeBM5gBHUKEyAEwqe5VUQywfHE8Dwtq8tJZazHB3w=w1210-h908-no" width="470" /><div>Awesome produce!</div></a> 
 </div>
 
@@ -142,6 +162,10 @@ We were dropped off at 4AM with a bunch of taxi drivers all colluding on high pr
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipORd-KbQPZ1-3xVuCaDgWhGkbGPxARSVmaoBSbVoyMF3a-L9CnYxa150MatdshXjg/photo/AF1QipNFVg3S6csdmZKkNoIpX2ly27VXtTpq_kfYtQPz?key=SjRSNlFVa2lodnBza2lVV2xrQWFUMkExZzhXSW9R" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3dpnU2m6xyI4fdVS2u0OiH3HTta0doYbyvCHa32kVk49ic0Iier-44zbJz_WkiSqbQAIHotPa62jgI8k5P0kEFQIWM5SLZKVkDpyujjr34WMtNMfc9sQBc0PhpM3EO19tpcJ3p_i_HQwO3o02qo8TlZbA=w1210-h908-no" width="470" /><div>10,000 temples in Bagan built in 9th to 13th century</div></a> 
 </div>
 
+</br>
+{{< youtube eBz6-l71SUg >}}
+</br>
+
 For our last day the 5 of us took a van to [Mount Popa](https://goo.gl/maps/5Qw8jqrcjuS2) and braved the cheeky monkeys that tried to steal our stuff.
 
 </br>
@@ -165,7 +189,7 @@ Headed off to Inle Lake with Yann on the day bus.  The bus rides in Myanmar are 
 
 </br>
 <div style="text-align: center">
-  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipNaiCORSbeSIt2ty5nP-nFdeNw1YZarr3VqbSuKo465vsLF4qhCx8Q47zZV3rP8dw/photo/AF1QipOHo36MrdmVtvy6j256fWc5fNhg-eH7qeSGzDTC?key=dzhYQ0lJZklZaDlyTUkzM0tHYURJZmlRd3BiWlp3" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3dk4hD5VWQCHdrE8-wmcJpAx9FEEaqlzWS-2mS4h2OD3adJsSyJOi-wOCVHc8UZuUr922FuUenbFEjIVlj0AMOBkpp2kCpp_sRg2LjCIZpR0y8tzM_O4sJqHF0zqNGYqP_XOgkU8Eukbk414gUof76x7w=w1210-h908-no" width="470" /><div>Professional drivers</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipNaiCORSbeSIt2ty5nP-nFdeNw1YZarr3VqbSuKo465vsLF4qhCx8Q47zZV3rP8dw/photo/AF1QipOHo36MrdmVtvy6j256fWc5fNhg-eH7qeSGzDTC?key=dzhYQ0lJZklZaDlyTUkzM0tHYURJZmlRd3BiWlp3" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3dk4hD5VWQCHdrE8-wmcJpAx9FEEaqlzWS-2mS4h2OD3adJsSyJOi-wOCVHc8UZuUr922FuUenbFEjIVlj0AMOBkpp2kCpp_sRg2LjCIZpR0y8tzM_O4sJqHF0zqNGYqP_XOgkU8Eukbk414gUof76x7w=w1210-h908-no" width="470" /><div>Professional boat drivers</div></a>
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipNaiCORSbeSIt2ty5nP-nFdeNw1YZarr3VqbSuKo465vsLF4qhCx8Q47zZV3rP8dw/photo/AF1QipNg73bRWq6mCBJ3qkDhh6qxojcpP1EYahz_tipH?key=dzhYQ0lJZklZaDlyTUkzM0tHYURJZmlRd3BiWlp3" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3eaRgn8CtKFxbgfaNYqIgnOUpWmdieRqrvjm0jKuKWeYSNAK5gBuWQOBl5i2elOG1bdpVUdADmaKPwkLtn_H0bB2pbAqVNsqjVZhjfugUcT5KN-9ESO3iOB0N4i1hJdGvnP3ffzHQQL34F-FYwbvsuyEA=w1210-h908-no" width="470" /><div>The crew at a vineyard near Inle lake</div></a> 
 </div>
 
@@ -178,11 +202,19 @@ Headed off to Inle Lake with Yann on the day bus.  The bus rides in Myanmar are 
 </div>
 
 </br>
+{{< youtube joYnWYVXqHg >}}
+</br>
+
+</br>
 <div style="text-align: center">
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipNaiCORSbeSIt2ty5nP-nFdeNw1YZarr3VqbSuKo465vsLF4qhCx8Q47zZV3rP8dw/photo/AF1QipM9-sHreMMQoniA91qPitQuEeZra0tdqDLF5JZh?key=dzhYQ0lJZklZaDlyTUkzM0tHYURJZmlRd3BiWlp3" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3cIhdqqYjfeH9MxjDcXH1mKqACgEcO-LsqWkUUqu04D4EQV2txUyzh1KRmof3DtVOSB_UMZAp6gHcaV4QeUuEHBDZEYQIvb5nAYgI4smSiWC_w5RbAQqUnBulNT8I0poCHFyevlBoiP3nqKJ55xbSNRxg=w682-h908-no" width="235" /><div>Amazing dim sum gorge fest!</div></a>
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipNaiCORSbeSIt2ty5nP-nFdeNw1YZarr3VqbSuKo465vsLF4qhCx8Q47zZV3rP8dw/photo/AF1QipMO6E3yVCNBR073c4g8AILGFFhGllJc4eSc_wJw?key=dzhYQ0lJZklZaDlyTUkzM0tHYURJZmlRd3BiWlp3" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3f9bVeROl-sm06EyjBMtF5ArCbueqkiy4Uqn0FyPZed5xR7DYIwGSQY3BnGXric_MOeaAtHZxmlEzlpqtdwDDQjhkVQYVttrWKnqLbfvStSmfpue-yXgaayVKwGmAay909n-QOHEW33jEUPZEX8v-iTGg=w1210-h908-no" width="470" /><div>Another big temple on the water</div></a> 
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipNaiCORSbeSIt2ty5nP-nFdeNw1YZarr3VqbSuKo465vsLF4qhCx8Q47zZV3rP8dw/photo/AF1QipPRIc0LZDkgtiVcjNYU_mXxPPpJiz-crBA3F7BG?key=dzhYQ0lJZklZaDlyTUkzM0tHYURJZmlRd3BiWlp3" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3ct4uUVd-y9mmoG-XwCIX_T1LpvjP5uz9giKrviJnZoGXuqdVMOlFWtmjiNnLfRrAAWAc4GHH2s6SfFsoDzAlHePvsqhv0tKTs9JVMLaq8QZJef9Vl7XuC-_o12idH_sqvRCgB_-c3UKPHCYtdcW8Kx_A=w682-h908-no" width="235" /><div>Longbottom leaf for ride home</div></a> 
 </div>
+
+</br>
+{{< youtube _0Mr9MCQRKo >}}
+</br>
 
 #### 3 Day Trek: Kalaw to Inle Lake
 
@@ -205,10 +237,18 @@ Next day, started the trek from Kalaw to Inle. Turns out one of the other people
 </div>
 
 </br>
+{{< youtube XZkeQZYGhAo >}}
+</br>
+
+</br>
 <div style="text-align: center">
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipNaiCORSbeSIt2ty5nP-nFdeNw1YZarr3VqbSuKo465vsLF4qhCx8Q47zZV3rP8dw/photo/AF1QipOSVZ8u3fmPbS4u5W9VWkmfitqlSVSBvsRshRMr?key=dzhYQ0lJZklZaDlyTUkzM0tHYURJZmlRd3BiWlp3" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3d9hv4wSB8HYlF0p2ncbraFdcHuPDbMcxXJiK3LAKQXLFGu5qRbh3mUY6fWUT0YcrMzItoYGD0R8LH8eV1jFym-OuDvI9BbPeAcikeE8GlndVhlO5PAsPjJRqib2cMyx3Xi_Lc44NyB-xI_blbPF4--kA=w1210-h908-no" width="470" /><div>Everyone was super friendly, Mingalaba!</div></a>
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipNaiCORSbeSIt2ty5nP-nFdeNw1YZarr3VqbSuKo465vsLF4qhCx8Q47zZV3rP8dw/photo/AF1QipN0X1ETHrhjz6LX3yL0ecNEjooeZ5ENe4AH4meM?key=dzhYQ0lJZklZaDlyTUkzM0tHYURJZmlRd3BiWlp3" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3fLfYsJGLDq_cZfdlvXZQZbJhXVLXe9NKhcE5GZWimKxqL1LJTujTvUXbvBDmBuQoU0CU36_Fr4bVM0JwYDTjVJj-SCRjm9jM9MSfJ_3RVu-Vf8hoDr6dlj4m4GHIxeoOIGpy0sv5fCsOBTJhs6MISE_g=w1210-h908-no" width="470" /><div>Our last day of the trek, down to Inle lake</div></a> 
 </div>
+
+</br>
+{{< youtube Ae1z0MtnQDM >}}
+</br>
 
 #### Mandalay
 
@@ -260,3 +300,7 @@ We all took the night bus together. Stayed at the [Galaxy Hotel](https://goo.gl/
 <div style="text-align: center">
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipP3Tto6XFM7ZDD9itCrmyRgER5jFEpx0P7saaBym_GEd8zyyw2EYi1LCnxm1poxdg/photo/AF1QipPgU1WaG-CDl-K0ssIqc3EotRSJFcV60DAAsiIV?key=bHhWTkxtWGZZeTlYQUIxaWhJZTZkcWdRVmRMaFh3" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3duoqNNEeCQgt020G_Hz7jiUpTVcPx6Va0xYoqdZfcScmgP_lhaXO-O5on4mvYHJjN9ZLli6PJDKQsGi5APLdB5bjT1wTo9eI1ebQbP3cP49XsIzsK5LwTPulQQgEk65a2xBCecfoKUjqA8kzC1q32kvw=w1920-h380-no" width="940" /><div>It was all worth it</div></a> 
 </div>
+
+</br>
+{{< youtube vF5NtCzhHn4 >}}
+</br>
