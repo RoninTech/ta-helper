@@ -1,6 +1,46 @@
 ---
 title: "New Zealand North Island"
-date: 2020-09-15T17:33:33-07:00
-draft: true
+date: 2018-02-02T17:33:33-07:00
+featured_image: 'https://lh3.googleusercontent.com/pw/ACtC-3e3NDTKDvVwnsrVmNXmhwTXNdZQMz9w3As5aAsIZgsipidav0L0bN7l2QA6l27Kd4i6_p8OEZjgAMP-NQHALI5xMSsbcaA91GIFBfsicdp3JTl4jmwo4Y81556WWPHs4A1M8qITMK6C4c_xivBxICH_Nw=w1920-h979-no?authuser=0'
+author: "Helen"
+type: "article"
+omit_header_text: true
 ---
 
+### The Ferry
+
+We had booked in advance to get the ferry so with tickets in hand we headed over at the recommended time, strangely we were some of the first people there.  I needed coffee but Paul didn't want one so I ran into a little trouble when I went to order.   I only brought my credit card and needed to have a minimum purchase to use it at the coffee place.  I didn't want to walk all the back to the van for cash, so bought two coffee's and a cookie.   Paul had the cookie but still refused the coffee... I spent the rest of the day being hyper.  
+
+The ferry was great.  They were very well organized and it was surprising how much they got on from trains, semi's, campers, cars and people.  The seating area was busy but we were still able to get a nice spot to sit and relax.  We went outside a couple of times but it was quite windy so we didn't stay long.  Paul was awesome at getting us on and off the ferry, through Wellington traffic and out to our campsite.
+
+#### Wellington
+
+We decided to spend two nights in Wellington so we could see The Museum of New Zealand Te Papa Tongarewa.  On our first day, still hyped on my coffee, I decided to walk to the bank, the nearest being a 30 minute walk each way.  I didn't get lost or chased by dogs so considered this a win.  The next day we headed off the to the bus and downtown Wellington.  The transit here was easy to navigate and the bus stop was only 15 minutes from the campground so it didn't make sense to drive.  We stopped for a coffee, wandered around the downtown area a bit before we headed off to the Museum.  Peter Jackson and Weta Studio were involved in the Gallipoli display.  This was an incredible display but unfortunately extremely popular, it was so packed you could barely move.  Still glad we saw it.  The rest of the Museum was well done and we spent hours wandering around seeing all sorts of different displays.  I also learnt how Vegemite got it's name.  We walked around downtown a little before heading back to our bus stop.  
+
+#### Himitangi Beach
+
+We stopped here for an overnight based on some google reviews.  The beach was more black sand and had huge dunes around it.  A lot of people had quads or cars driving down the beach, we just walked.  You could swim but it was a little chilly.  There was a weekend festival where items were hidden on the beach and people had to dig them up so it was very busy.  Lots and lots of kids.  Had a nice conversation with some people who came for this yearly from further north.  We didn't participate, deciding to continue on our way after a coffee stop at The Fat Seagull.  We had to go there because how you could not with a name like that?
+
+#### Mt. Taranaki
+
+Our next stop was at Stratford, which was in the Mt. Taranaki area.   This wasn't our original choice, the first campground we went to we had an electrical issue... there is a pattern developing here... so we moved to this site.  It was actually a really nice place, a pool, hedges between sites and a cat.  We drove up to Dawson Falls and did a walk, checked out the power house and the falls.  
+
+We decided to take the Forgotten Worlds Highway inland.  It was amazing, beautiful and we did discuss the possibility of seeing dinosaurs come out of the hills.  At one point we thought were were seeing some form of prehistoric rodent but as we got closer it turned out to just be sheep.  
+
+#### Tongariro
+
+So, being that we had been hiking and walked at almost every opportunity we thought we should try the Tongariro Alpine Crossing.  To do this hike the best way to to stay in Whakapapa... and with a name like that you almost have to.  From the Whakapapa Holiday Park you can do several hikes, we choose Taranaki Falls loop.   We had a nice day and enjoyed the walk to the falls.  You could go pretty much to the edge and look down before you walked it.  You booked the bus to get to Tangariro from the park office as well with Roam Shuttle Services.  Not cheap but after a 19km hike, we didn't want to have to drive.   Being able to do the hike is weather dependent, you do go high to Mt Doom, so you have to be careful.  Several people have actually died doing the crossing when they strayed off the path or got caught in bad weather.   Unfortunately our scheduled day was pouring with rain so the shuttle was cancelled.  We hung out for a day reading and resting.   Again, still cancelled the next day so we headed into the local town to get a few things, including coffee so we could stay to do the hike.  When we were in town, I decided I could walk to the coffee shop while Paul used the Spark hot spot to download some podcasts.  He checked and it was only 5 minutes.  15 minutes later I realized that it was 5 minutes driving not walking and with that, it started to rain.  The best part is I couldn't call Paul to come get me since I didn't have a sim.  I can say that when I made it back to the van, juggling 2 coffees and an umbrella, the look on my face was enough to let Paul know not to comment.  
+
+Luck changed the next day and the weather cleared.  We had booked the early shuttle so that we could take our time on the crossing and not be in the  heat of the day.  The Tongariro crossing was great.  Yep, it's busy and there are lots of people who haven't hike before... of if they had they definitely have an interesting gear choice... think ballerina flats, jeans and a dress shirt.  We were all geared up with proper shoes, appropriate weather gear and lunch!  You went up the Devil's Staircase, passing Mt. Doom to get to the Red Crater.  From there you continued up and passed the Emerald Lakes, went down a scree slope and over through some volcanic areas on your way down.  It was great and we finished in a respectable 4 hours.   We were a bit tired so the next day just went to Lake Taupo.  Again, power issue so had to switch campgrounds but luckily for us people were really great about it.  
+
+#### Waitomo
+
+We decided to head to this area after reading about some caves... after our "cave stream" experience we decided we were ready for another go.  We stayed at Juno Hall  which was a hostel with a few spots for vans or tents.  Great people who run it, super friendly and down to earth.  The kitchen was really well set up and they had real coffee on offer all day!  This was part of a farm where they had a rescued deer, goats, calves and a pig which were all funny to watch.  On the first day we drove down to Marokopa Falls, stopped off at the PiriPiri Cave and the Mangapohue Natural Bridge.  We stopped in at The Legendary Black Water Rafting Co to book our adventure to the Ruakuri Cave.  After some discussion with the staff, we decided on the Black Abyss tour.  
+
+To clarify, when we were discussing this I was under the impression that we were talking feet, not meters and that I would always be able to stand up and touch the botto m of the underground river.  I won't even mention the zip line in the dark.  I handled it like a champ... if your champ has a panic attack, cries a little and swears like a trucker on steroids to express their fear.  I'd say just kidding here but I'm not.  
+
+What can we say about it?  Wow, cold, amazing, terrifying, incredible... still can't believe we did it super awesome experiences that we will always cherish.  The two guides for our group were wonderful.  Paul was asked how many times he had done this before since he was that good... me, I got a hug or two and a compliment on my combination of swear words.  
+
+Well how do you follow that?  By taking it easy that's how.  We had two more nights before we turned in the van at Auckland.  So we stayed one night in Kawhia, a small town at the end of another beautiful road.  We hung out the beach, watching families and friends dare each other to jump off the pier, there was a huge group of locals there for a celebration.  We were told to take "the scenic route" to the next area, but quickly discovered that scenic means twisty, winding gravel road... still traumatized by our Tasmanian road experience, we went the normal way.  Our last night was at Muriwai Beach Campground.   We were given quite the send off when Paul was almost impaled by the large shade umbrella.  We were eating supper outside when the wind caught it, lifted it up and, literally, rammed it into his chest.  People rushed to help and luckily he was only grazed and bruised but talk about scary.  Turns out the umbrella wasn't secured to the table as it should of been, the people who run the place thought since it was solid wood that it was heavy enough.  I wanted Paul to get xrays or looked at but he, being Mr Tough, decided he was fine.  
+
+The next day was our drop off in Auckland, a ride to the airport and away to the Philippines.    

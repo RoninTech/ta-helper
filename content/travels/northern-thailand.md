@@ -9,7 +9,9 @@ omit_header_text: true
 
 After Myanmar we spent several weeks in Northern Thailand. All the Chiangâ€™s together: Chiang Mai, Chiang Dao, Chiang Rai and Chiang Khong! 
 
-#### Chiang Mai [Photo Album](https://photos.app.goo.gl/qglYDEQDLrifYFH22)
+#### Chiang Mai
+
+[Photo Album](https://photos.app.goo.gl/qglYDEQDLrifYFH22)
 
 We decided to get organized in Chiang Mai.  Mailed some items back that we donâ€™t use, saw Wonder Woman and did a cooking class with Pat and Liz. Iâ€™d wanted to a do a class so this was more for me then Paul.  We got to make several dishes and no injuries occured.  After wandering the night market we spent some time at the shopping malls, not either of our favorite things to do but we managed.  Had a nice evening at [Small House Kafe](https://goo.gl/maps/HG6bY4qjTYiincyu8) where some advice from Dao had us heading off to Chiang Dao instead of Pai. 
 
@@ -25,7 +27,9 @@ We decided to get organized in Chiang Mai.  Mailed some items back that we donâ€
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipNKjb6LFrsqTgOX2lBkNTbL39y8enOkuVlCdfNYUJw8sbtjoweP38FP_7waJFcaPA/photo/AF1QipMC3MrP_Ong_lXGtBkiy4VOkSo0nHJpMyq-gGAP?key=VnVLLXBNb1Y4bWVNYWFrbGo4RmxqNzJwa1dBY3dn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3ep2wjgfZl71krhLSwsxVXxyQ5NgJ4dbpfzEn5JsduDcYRTlW6uhShxhejnChFePtlapeL9QXxiO8GNqc5UAvTHZHt6IYBoIkcEmRNwtvaC81c_3GtTL4q9OmvZp_cxL3KPrCUlO3HAgAsgI3pAZpsU0Q=w1210-h908-no" width="470" /><div>Cool graffiti</div></a> 
 </div>
 
-#### Chiang Dao [Photo Album](https://photos.app.goo.gl/qglYDEQDLrifYFH22)
+#### Chiang Dao
+
+[Photo Album](https://photos.app.goo.gl/qglYDEQDLrifYFH22)
 
  Awesome place!  Our friend from Small House Kafe, Dao, recommended it to us.  We spent a few nights there, ate some amazing food, had a great time with Buppa (and her homemade spiced whiskey) at [The Cave Bar](https://g.page/cavewomanthecavebar?share), walked around and went on an awesome scooter ride in the national park through the clouds. 
 
@@ -57,7 +61,9 @@ We decided to get organized in Chiang Mai.  Mailed some items back that we donâ€
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipNKjb6LFrsqTgOX2lBkNTbL39y8enOkuVlCdfNYUJw8sbtjoweP38FP_7waJFcaPA/photo/AF1QipNFY9rj5N_DZ8GyBdrtGcAaqBs6yUZotT1gI2Ro?key=VnVLLXBNb1Y4bWVNYWFrbGo4RmxqNzJwa1dBY3dn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3dQUDNtaS9P9TqUU67xYGORuhWc7D6AU9Ch3611W88aCdTQV3wnD3SxpCy-4HEbpJCt_nKs75bdFURHqn6cWnODYaOEXCg_4thOJkspxHRDYOOuwts0nfmOcYwY0NaLMwYL-O2jCvyV5pAhlMMmzk2P7w=w1210-h908-no" width="470" /><div>Great fun at Bhuppas bar: "The Cave"</div></a> 
 </div>
 
-#### Chiang Rai [Photo Album](https://photos.app.goo.gl/3rbPrXwsLLRY9n5V6)
+#### Chiang Rai
+
+[Photo Album](https://photos.app.goo.gl/3rbPrXwsLLRY9n5V6)
 
 Took a bus from Chiang Dao to [Tha Ton](https://goo.gl/maps/jkwD2LbXtGXQxFiV8), then a cool [longtail boat ride](https://goo.gl/maps/nJuV8jYczL72) to Change Rai. We saw some elephants being bathed in the river. There was a stop where you can get a photo with a snake but we choose not to.  Spent the next morning at the White Temple, Black House and Blue Temple before heading to see our friends God and Yves at their hostel in Chiang Khong on the Laos border. 
 
@@ -91,7 +97,9 @@ Took a bus from Chiang Dao to [Tha Ton](https://goo.gl/maps/jkwD2LbXtGXQxFiV8), 
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipP1eIQcHtRzhzteIs43dmv1RAtY7q83OTyEpuo6azFfEEZWGaxCAoL6ombaN4whMA/photo/AF1QipM6ywxVqcS0J4CtCedAbp6SVr4bbRFLecgZyCXH?key=d28xdzBHSlBpNmRHM0RYOWlCUGZUOWlmUUZnckl3" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3cz60x4z4TUIOZft1ExUTs_Tdq7whHNPyS7zPV5UNxQh5y01hHFGdxsHVeuZVKpveEUEfWSijlQGl3JDfccPIoEcW8UqfM7CO1uCx8XodDLBMR2b2ccBBLy8mgOkQrBt0hl9YkqJqtRuaY0b7xYRzstcQ=w1210-h908-no" width="470" /><div>Lots of death at the Black Temple</div></a> 
 </div>
 
-#### Chiang Khong [Photo Album](https://photos.app.goo.gl/MiNuevFXuwjGYPYD2)
+#### Chiang Khong
+
+[Photo Album](https://photos.app.goo.gl/MiNuevFXuwjGYPYD2)
 
 Finally made it to see God and Yves at their most excellent Hub Pub and Funky Box hostel where we had a fantastic week.  We went on a jungle hike to a beautiful waterfall, were shown the area and taken to some viewpoints, spent several days being lazy, went fishing, had some cooking lessons, ate great food and had an awesome time visiting and being spoiled rotten.   Make sure to go for a coffee at [The View Coffee](https://goo.gl/maps/8JekXbuzKuY3P5vn8) and checkout the views of the Mekong and Laos!
 

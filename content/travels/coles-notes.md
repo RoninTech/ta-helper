@@ -10,7 +10,9 @@ omit_header_text: true
 
 On Facebook, you may have been exposed to our constant updates and many temple and/or Pagoda photos.  For those not on Facebook or who have blocked us after being fed up with the aforementioned pagodas… here is the Cole’s notes version of our first couple of months: 
 
-#### Koh Lipe – March 2017 [Photo Album](https://photos.app.goo.gl/esSFk43cjfq5oeUm7)
+#### Koh Lipe – March 2017 
+
+[Photo Album](https://photos.app.goo.gl/esSFk43cjfq5oeUm7)
 
 This time we stayed at [The Reef](https://goo.gl/maps/Rt72kc2nSC2DiwSk8) instead of our usual Andaman Resort, which was taken over by new owners.  We really enjoyed our accommodation and met some great people.  We highly recommend The Reef, the staff was super nice, beds comfortable and breakfast was good. The orange tabby cat that I spent a lot of time with has no bearing on my opinion.
 
@@ -144,13 +146,17 @@ This was quick. We were lucky to meet up with God and Yves who were heading for 
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipNWYl3tuP-npTqrST82biUH3ge_4FqIjfifs7VwupsAbpWexjBkHT-YnOW5-B-mvQ/photo/AF1QipOAAIqw9S_DA8mUc9N4zxEhEGLyC_gtdKPKt5Kh?key=SWs0aTVfbC1velI4cG9ScDdPLXFHRllRWW9EbVFn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3fnUPmSn_XMMSMDfyTjyoX_fuwCMcvxsxIeSJRVOV2saEZ98wif3L73vWt2KMzvnYL5XscJz0d2M0pNw5fSW8vrQAqYfpTFH1S3sWU_1fRmeyGpfXJnqVKRWjo8HM8X5pye2F2ikaWsai4fVpFRoSIW7g=w1210-h908-no" width="470" /><div>Helen throwing a hissy cause no time for shopping</div></a> 
 </div>
 
-[Photo Album: Chiang Mai, April 8 – May 8, 2017](https://photos.app.goo.gl/AE13PLKfrEQmYEAt6)
+#### Chiang Mai, April 8 – May 8, 2017
+
+[Photo Album](https://photos.app.goo.gl/AE13PLKfrEQmYEAt6)
 
 We rented an Airbnb place for a month ([Prompt Condo](https://goo.gl/maps/9HMFzrWNmJDC5Qnu7), near Maya Mall) which was okay. Decent place, good pool and easy to get places.  The highlights:
 
 Songkran – A 3 day festival of water fights, being drenched and having a blast. Paul was a hero for figuring out how to open the Songthaew windows from the outside, no one was safe.
 
+</br>
 {{< youtube 1yQx7D0yUxQ >}}
+</br>
 
 [Small House Kafe](https://goo.gl/maps/dVkkYanpfpUky1dZA) – great place and nice people. Dao and Chris were great and there was such a cool mix of people, each time we went there it was a good night.
 
