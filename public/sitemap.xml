@@ -108,6 +108,34 @@
   </url>
   
   <url>
+    <loc>/travels/malaysia/</loc>
+    <lastmod>2019-02-18T15:49:36-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/travels/vietnam/</loc>
+    <lastmod>2018-12-25T21:34:00-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/travels/nepal-in-fall/</loc>
+    <lastmod>2018-11-05T17:36:59-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/travels/sri-lanka/</loc>
+    <lastmod>2018-10-05T07:18:08-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/packs/helens-annapurna-pack/</loc>
     <lastmod>2018-09-15T16:43:47-07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -124,6 +152,48 @@
   <url>
     <loc>/travels/creston-summer-2018/</loc>
     <lastmod>2018-09-10T12:35:55-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/travels/nepal-in-spring/</loc>
+    <lastmod>2018-04-25T19:51:56-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/travels/taipei/</loc>
+    <lastmod>2018-03-21T19:51:56-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/travels/philippines/</loc>
+    <lastmod>2018-02-28T17:33:59-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/travels/new-zealand-north-island/</loc>
+    <lastmod>2018-02-02T17:33:33-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/travels/new-zealand-south-island/</loc>
+    <lastmod>2018-01-19T17:33:25-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/travels/tasmania/</loc>
+    <lastmod>2017-12-20T12:48:33-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -208,6 +278,13 @@
   <url>
     <loc>/articles/we-quit/</loc>
     <lastmod>2017-01-28T15:53:22-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/articles/travel-banking-for-canadians/</loc>
+    <lastmod>2016-12-24T16:21:23-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
