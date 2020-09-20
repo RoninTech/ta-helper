@@ -2,7 +2,7 @@
 title: "Bangkok & Chiang Mai"
 date: 2020-01-15T12:40:22-06:00
 draft: false
-featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3fQXTYZk2T_iVcTTvnaOCrAEkelYTkq7CN0GqW0LHViEKA81UTcCNtls8nmzI1cuSgT7l3bZbfIZtgUTIweeFg011EIoIk1wa3DbHRpHhDrlby7B8Hq9D-_3M-ywLKo6h_SXQ7nOC259QA9uvBCrMOmIQ=w1300-h975-no "
+featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3fQXTYZk2T_iVcTTvnaOCrAEkelYTkq7CN0GqW0LHViEKA81UTcCNtls8nmzI1cuSgT7l3bZbfIZtgUTIweeFg011EIoIk1wa3DbHRpHhDrlby7B8Hq9D-_3M-ywLKo6h_SXQ7nOC259QA9uvBCrMOmIQ=w1300-h975-no"
 author: "Helen"
 type: "article"
 omit_header_text: true
