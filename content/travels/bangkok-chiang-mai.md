@@ -8,7 +8,7 @@ type: "article"
 omit_header_text: true
 ---
 
-John and Rita dropped us off at Cranbrook airport on December 12, it was a nice morning but there had been some snow. We had left early so we could take our time on the drive so went for coffee together before leaving. Our flight this time was Cranbrook-Vancouver-Tokyo-Bangkok. I had arranged to meet Jayne at the airport, we were supposed to have 2 hours but it was pouring when we arrived and took over 30 minutes to get a gate and get off the plane. We did get to spend a quick half hour with Jayne before we headed through customs. 
+John and Rita dropped us off at Cranbrook airport on December 12.  It was a nice morning but there had been some snow. We'd left early so we could take our time on the drive and went for coffee together before leaving. Our flight this time was [Cranbrook-Vancouver-Tokyo-Bangkok](http://www.gcmap.com/mapui?P=YXC-YVR-HND-BKK). I had arranged to meet my sister Jayne at the airport.  We were supposed to have 2 hours in Vancouver but it was pouring when we arrived and took over 30 minutes to get a gate and get off the plane. We did get to spend a quick half hour with Jayne before we headed through customs. 
 
 </br>
 <div style="text-align: center">
@@ -18,9 +18,9 @@ John and Rita dropped us off at Cranbrook airport on December 12, it was a nice 
 
 #### BKK December 14-16
 
-The flights were uneventful, which is always good! There was a long stopover in Tokyo, we were in Haneda not Narita so we didn’t leave the airport. We arrived in Bangkok quite early, but being old hands took the train to the hotel. They arranged to check us in early, so we enjoyed a nice breakfast before settling in for a snooze. 
+The flights were uneventful, which is always good! There was a long stopover in Tokyo, we were in Haneda not Narita so we didn’t bother to leave the airport. We arrived in Bangkok quite early, but being old hands took the train to our hotel, the [Vie Bangkok](https://g.page/viehotelbangkok?share). They arranged to check us in early, so we enjoyed a nice breakfast before settling in for a snooze. 
 
-We slept, went to the malls, ate great Thai food around the corner and found a place to watch the LFC game. We sat at the bar with some other supporters, one of the quieter footie evenings! We ended up taking the wrong train on one of our trips, but we were able to rectify that quickly. After a nice couple of days, we headed back to the airport to go to Chiang Mai. 
+We slept, went to the malls, ate great Thai food around the corner at [Grandmothers](https://goo.gl/maps/2zp46goEeNjNBc487) and found a place to watch the LFC game. We sat at the bar with some other supporters, one of the quieter footie evenings! We ended up taking the wrong train on one of our trips, but we were able to rectify that quickly. After a nice couple of days, we headed back to the airport to go to Chiang Mai. 
 
 #### Chiang Mai December 16- January 11
 
