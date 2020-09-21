@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://carryonrtw.com"
 languageCode = "en-us"
 title = "Carry On Round The World"
 theme = "ananke"
@@ -33,7 +33,7 @@ enableRobotsTXT = true
   stackoverflow = ""
   rss = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "noto bg-near-white"
+  background_color_class = "bg-near-white"
   post_content_classes = "arial"
   featured_image = "https://lh3.googleusercontent.com/pw/ACtC-3cIHwloNWDNzbmrs9zjP1IMY3dTwjcBK-nlazzyG-p55SgqrripkjmG0pqahMbGWXvX5KPVMDlCCaCsoLqzrcEuTBqehgwAtH_YrjvLwlIojUtyiTjYeog5Q_eyaQphKJ3BE9V7zRR1NnDDvWTEdrbErg=w1920-h670-no"
   recent_posts_number = 25
