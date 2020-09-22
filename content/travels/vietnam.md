@@ -10,104 +10,136 @@ omit_header_text: true
 [Photo Album](https://photos.app.goo.gl/LQG6J6B8jre5U6xQA)
 
 Our next stop was Vietnam… well, with a stop in Bangkok to get our Vietnamese visas.  We decided to stay at the Vie again, partly because it was central to everywhere we needed to go and we deserved to be spoiled after Nepal!  We were also able to spend an evening with Ben since he lived close enough to come into the area.  
+</br>
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMqOG3tFh_Usm-gDDcpCLYh_VWl4rTC0mJGnE0l4M4imhi40H7VbDpe6pC8LB9VlQ/photo/AF1QipPdOuVvr_kNB1--8MrC-3FcuTHb9NPtDIqTQB9t?key=UFlyUTNZOHgtZHFNVlJ2cG4wRlJYbUZNVzdCaXdR" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3daqjlECl_nsV06llSR2550OIM_ZtWeVzq0OARZWg4JV4Pn7aFLgqSnZwMYpRuN5lA4DSI7_536jJ9d7akB5fktn5HPg_ePYAATizUCOCd0uZI64ECpt2yhgVCeRvkXP1mEpjXDGjne_HAYBt1udYbYhg=w1300-h975-no" width="265" /><div>Ben</div></a>
+</div>
 
-Ha Noi
+#### Ha Noi
 We arrived in Ha Noi on a Friday evening.  We had heard so many bad things about taxis in Vietnam that we had decided to get a pick up from our guesthouse.  We went to the ATM, which was challenging, got our sims and headed out.  The taxi was waiting and we had a long, but nice ride to the hotel.  We got our rooms and went out in the chaos that is Hanoi!  
 
 It was amazing and we loved it.  There was a night market down one street, an area by a lake that had roads closed off so people could walk around it.  There was a dance party hosted by the German Embassy, areas for kids to play, dance and drive little electric cars, stalls selling items, people putting on displays and anything else you could think of!  It was also packed but so much fun.  We wandered around then headed back up beer street where people were trying to get us to come into bars.  It was packed with little tables, stools and a crush of people.  
 
 We spent a couple of days enjoying walking the area of Old Town, drinking coffees, cheap beer and eating amazing food while determining what we wanted to do next.  
 
+</br>
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMqOG3tFh_Usm-gDDcpCLYh_VWl4rTC0mJGnE0l4M4imhi40H7VbDpe6pC8LB9VlQ/photo/AF1QipMj--YJ6Qv2tu1eBLfFuwv9vJ7OTT1LfRYcQcQ9?key=UFlyUTNZOHgtZHFNVlJ2cG4wRlJYbUZNVzdCaXdR" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3cSSRn3fBAGwfXOgLv4ooIcq8kSXhebkoutDvsdKaDOuS6MNi__wVhZTeJ6gdp-QZCwAQjyPEA0dKGxrepOIDCClOKzEkMhBjgouF9CaEBEK2MWLJRTZsTTLJBHOehBigcYWKVu5I9vRlc-OQXAhweuYw=w1300-h975-no" width="300" /><div>Chaos</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="hhttps://photos.google.com/share/AF1QipMqOG3tFh_Usm-gDDcpCLYh_VWl4rTC0mJGnE0l4M4imhi40H7VbDpe6pC8LB9VlQ/photo/AF1QipPea7gYJBft54W6d8_MIYLviC-4kKsviCdALUgI?key=UFlyUTNZOHgtZHFNVlJ2cG4wRlJYbUZNVzdCaXdR" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3fqH6sHKhvb1KqLqcZMiEf4h6e_t43kaYTLAcpzIRRKLn8t7Fn999fPoY3S9KUJ6mal0Kq-x_-GgXOqLIMODQ6pr88HZu5mFn01Md9nSiTY0SDwR5Z5TN24CWLhBguRCO9FvLTRfrluw0Je9_5G1FGB0A=w732-h975-no" width="170" /><div>Coffee Search</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMqOG3tFh_Usm-gDDcpCLYh_VWl4rTC0mJGnE0l4M4imhi40H7VbDpe6pC8LB9VlQ/photo/AF1QipMV97MSlSPnUb_GRfAgPp2MtD62XriHrgTF3_IR?key=UFlyUTNZOHgtZHFNVlJ2cG4wRlJYbUZNVzdCaXdR" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3dzbneQ4y4zU6IVx0pOs8-pVJJjwoBfPNkBhWesWnGPo1DOWc3x9_G0KYUJFbA9TxT0ufeWMxIcJBGNJykfNe_eijScAOTL1ewTn1aY8NTPHjl1LeSVvsDk1Fi7hNFgki2WSxf636k5jzjLmVxdxL0W1A=w732-h975-no" width="170" /><div>Hoan Kiem Lake</div></a>
+    </div>
 
 
-Cat Ba Island
+#### Cat Ba Island
 We booked a trip to Cat BA Island, leaving the following day.  A small bus picked us up, then took us to where we transferred to a larger bus.  The trip was a few hours and we stopped at one of the huge highway stations for a rest break.  When we got to Hai Phong we had to transfer to a ferry, it was a little chaotic but we made it to Cat Ba.  Where we got on another bus and headed to the accommodation.  We stayed at Le Pont Hotel where we had a great room for $9, including breakfast.  Arranged a day trip to the Lan Ha Bay area with Cat Ba Green TRail Travel.  They picked us the next morning, then we headed to the boat.  Our guide, Tahn, was awesome.  He joked around, kept everything and everyone organized along with providing some great history of the area.  Part of our trip was a kayaking tour through one area, which in my usual style I handled like a champ.  Really, I didn’t, Paul even said I would try the patience of Jesus to which I responded that maybe he had never kayaked either!  It ended up being really fun and we headed back to the boat for lunch.  It was a huge seafood spread and was delish!
 
 People had the opportunity to jump off into the water, which Paul did several times, even encouraging a girl from England to jump with him. Her husband had gone before she was ready, turns out it was a good thing because he got stung by a jelly fish… luckily no one else was badly stung.  After that it was a switch to a small boat to get to monkey island where we were warned not to pet the monkeys… so the guy, who had been annoying most of the rest of the group, immediately tried to pet a monkey and was bitten.  Little bit of karma.  Paul climbed up Monkey Rocks, I choose to wait at the bottom… a good choice because it got sketchy quickly.  
 
-
+</br>
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMqOG3tFh_Usm-gDDcpCLYh_VWl4rTC0mJGnE0l4M4imhi40H7VbDpe6pC8LB9VlQ/photo/AF1QipMj--YJ6Qv2tu1eBLfFuwv9vJ7OTT1LfRYcQcQ9?key=UFlyUTNZOHgtZHFNVlJ2cG4wRlJYbUZNVzdCaXdR" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3fSCY2Nf0l7ivJa2KtdKWWrKuAaOSR8JtWrYuhbBs2cUsgJOU_Y_-veFBdCZxEKYYin5f8i2ozlnHpszYPiBnNrKxmt3WEXozeNnt-ccFjmGvM2erxyiZ-bhvb0ubn8vUOinEG6WKw93-ywEENgqAAIAg=w1300-h975-no" width="300" /><div>Kayaking</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMqOG3tFh_Usm-gDDcpCLYh_VWl4rTC0mJGnE0l4M4imhi40H7VbDpe6pC8LB9VlQ/photo/AF1QipMp6sKK_0L1UlF0bkyS5yuvwO7zBQkg4zFnjyva?key=UFlyUTNZOHgtZHFNVlJ2cG4wRlJYbUZNVzdCaXdR" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3fw-F2iAbRXGkLK82EN9fLiPGcwncI0ke_NnzA-DkijcohEJBEz0HmetWTjW7097LtANVGplQfZ0HR3aBroSvJAUavGCCiEh03OCTsRSjmGulVxR1KRIWR4tY4OkrfBwQIZ6taIO8hkQzV_etn-7B8Qpw=w1300-h975-no" width="300" /><div>On the Boat</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMqOG3tFh_Usm-gDDcpCLYh_VWl4rTC0mJGnE0l4M4imhi40H7VbDpe6pC8LB9VlQ/photo/AF1QipNQbOssS8Q9D6RbpJ4QVrMI7TusJKT0yNvfx2q_?key=UFlyUTNZOHgtZHFNVlJ2cG4wRlJYbUZNVzdCaXdR" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3drQbRaU8bf7TQUiylWUAHSLeFmQqrq_xabBtnijfCz_H0DXbH-k2i3bGvjQBkoVMVdVVBsEdnGCRADzKPNu24wRkXSrH3LlQaXkdDJz7jvTTRcvOXF_mkl-bEzGoLU5-7h6AOXOuQzdDVqb51-0ln51g=w1300-h975-no" width="300" /><div>Monkey Island</div></a>
+    </div>
 
 
 We found a good restaurant that night, had a nice chat with the owner who had been to Vancouver.  The following day we rented a scooter and drove around the island, going to Hospital Caves and around the island.  We were going to go to the National Park but it was very expensive.  We headed back to Hanoi the following day.  
 
+</br>
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMqOG3tFh_Usm-gDDcpCLYh_VWl4rTC0mJGnE0l4M4imhi40H7VbDpe6pC8LB9VlQ/photo/AF1QipOvk83-DumlQLDV2IlTFVh95ts0hJewoVX3YW5e?key=UFlyUTNZOHgtZHFNVlJ2cG4wRlJYbUZNVzdCaXdR" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3dJd8KIso-5ZfqzlFL4Y-MkLNWD6L2-ZugaeT1LcSm5eecW_NugbK7tK2-8w8SbobcR3RlXyIHcPHzfZ0QLuw6r4k4qTi1u2Hf48fIrUiwB_jNBV8cFI3udxl3kV822iVYPbKucSuMVs_7VjRs04OCy2Q=w1300-h975-no" width="300" /><div>Scooter</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMqOG3tFh_Usm-gDDcpCLYh_VWl4rTC0mJGnE0l4M4imhi40H7VbDpe6pC8LB9VlQ/photo/AF1QipPa-jdT3JjSyY49adlp2Shgydc_Lpt_KOMa4Nt8?key=UFlyUTNZOHgtZHFNVlJ2cG4wRlJYbUZNVzdCaXdR" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3cQTT7GQ6iF2cjFLj0-AvSv5rkmQ4YuwK13FbN_W2BTGx5PPd_TlDmH7G7rQN1dZug4LRfR5dnqophO3OOGqQRtuJyTi9uFztP1Qp_cyN-ZM4blHFh_sWtwco16wWI_TIPKuRXdAIHwdwUXP5nfoYKARQ=w1300-h975-no" width="300" /><div>Cat Ba</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMqOG3tFh_Usm-gDDcpCLYh_VWl4rTC0mJGnE0l4M4imhi40H7VbDpe6pC8LB9VlQ/photo/AF1QipMU4-vLYmA8ickoHv2g9W-R0JsiWRuDd2U7Ofa1?key=UFlyUTNZOHgtZHFNVlJ2cG4wRlJYbUZNVzdCaXdR" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3d4_73GjjZ08-ik68fcf9wKRays1QdmG60uw_SsNjcbTQL7tntrjwWaBM51lZppr9VFgkVzqiWaxOTOv8CCOWqqvj3_rIAzEfU9B_Ar00b2yI9cRsliF5_rVMifwEpmx6YA_vfTSfcWmQSbLXQtTpjnnQ=w1300-h975-no" width="300" /><div>Hospital Cave</div></a>
+    </div>
 
 
-
-
-Hai Giang Loop
+#### Hai Giang Loop
 We spent a week in Hanoi, finding more excellent food and coffee while planning a trip to Northern Vietnam.  We couldn’t decide if we wanted to go on a trek in Sapa or the Hai Giang Loop.  We had a rough start when the bus that was supposed to get us to Hai Giang ended up breaking down so never came to get us.  Lily Travel, who we booked with, arranged a separate pick up and got us on to another bus.  It was a local sleeper but we had good seats and it was comfortable.  We arrived in Hai Giang and arranged our rental at QT Motorbike and Tours .  We left early the next morning and immediately got stuck in traffic… the amount of trucks, scooters, large cars and transport trucks here was almost unbelievable.  We had an amazing 3 days out on the scooter!  The scenery went from fog enshrouded mountains to sunlight valleys, villages and towns back to farms.  There were some incredible stops… we crossed the border into China, went to some monuments, did some off roading because the map took us the wrong way and eventually made it back.  A lot more that happened over these few days including a festival at the school, a minor accident, being lent a hair dryer to dry off because it had rained so much, loads of food but those are other stories.  It was a highlight of our time in Vietnam.
 
+</br>
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMqOG3tFh_Usm-gDDcpCLYh_VWl4rTC0mJGnE0l4M4imhi40H7VbDpe6pC8LB9VlQ/photo/AF1QipOn7dgoj1X5N2G_H80PeRMrqVIN_l5BZmlhFliX?key=UFlyUTNZOHgtZHFNVlJ2cG4wRlJYbUZNVzdCaXdR" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3e5AR9KEUZaFykOrfcFvQQMISwFAPXoTBnUgekB4ilH9-EsDHzYzi6R5TngWoTx3g9qJeObUoZ-zjvI4CSwfiI7g6ovN6NN6q9BawVsd03F-dkVrfc_EvsDn9UimHYBgL5WWs4xm14D-R2fdZOcgfqv4Q=w732-h975-no" width="170" /><div>Drying out</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMqOG3tFh_Usm-gDDcpCLYh_VWl4rTC0mJGnE0l4M4imhi40H7VbDpe6pC8LB9VlQ/photo/AF1QipO-qxIS5r4hHUNbY7h7fHw5zHxLV6HkYoJ5UfOZ?key=UFlyUTNZOHgtZHFNVlJ2cG4wRlJYbUZNVzdCaXdR" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3dt3C2XTo8m729VfFg3LNct0Ybxi8-OJV0_ZIf0gJnSNDna3zx-DHykJCegt3RFBBSd0CbBBW4759sLZIwihyc3sT9Xa0sDxSxTWyQ2I89Ha56vw5CHjnvfh4z1R0NodPY5ZzCLFQ77vFqpNjvwZfOZXg=w1300-h975-no" width="300" /><div>FOG</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMqOG3tFh_Usm-gDDcpCLYh_VWl4rTC0mJGnE0l4M4imhi40H7VbDpe6pC8LB9VlQ/photo/AF1QipMckVs6L58d7mOicMXrHk0QQ2bqf3IKvBkS7XHB?key=UFlyUTNZOHgtZHFNVlJ2cG4wRlJYbUZNVzdCaXdR" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3daXXsTvP8Uk9wxWkEoKudOgJBGrdJNlBOEEC3MSydl17KV-asVOkC7ZPFmxznlBRr1Ye3bDa74SR3uvLpe17nvDuuzdtsWNWXTrf2_zmWk5X_e9eCimWfNgRgnCcxLex8Wvou4goLZyolClTuFeE6HHA=w1300-h975-no" width="300" /><div>Unmanned Border with China</div></a>
+    </div>
 
 
+These few photos don't do this justice, so check out the album. We headed back to Hanoi to plan our next part of the trip.  We found Dream Beans which was amazing.  Tuan and his wife, Huyen started their own coffee shop and made delicious coffees… we went so often that Tuan and Duh, his friend/employee took us out one night for beers!  It was a lot of fun. We were lucky enough to meet up with Flo and his girlfriend before we all went in opposite directions.  
 
+</br>
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMqOG3tFh_Usm-gDDcpCLYh_VWl4rTC0mJGnE0l4M4imhi40H7VbDpe6pC8LB9VlQ/photo/AF1QipMkF2o8U0BbzZdSu1iHzjWNO1LgkZYz5OnhmJ2J?key=UFlyUTNZOHgtZHFNVlJ2cG4wRlJYbUZNVzdCaXdR" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3caoBFYWffce8X1fCFoJdHgb7hRBulAXV4fms3531RHyWNS545Y36o7BFF-8doK5v8_5q_Cnj7wyo5lmjZyowqIFWK3KLUZkliqU-XSI-aEZEvBDAXHYi2c1bEXVTgA5OBU8n2WdoMdZknCoo2OeXXhZA=w1300-h975-no" width="300" /><div>Flo</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMqOG3tFh_Usm-gDDcpCLYh_VWl4rTC0mJGnE0l4M4imhi40H7VbDpe6pC8LB9VlQ/photo/AF1QipNgr_hCVSOYJcPmCG15lbhShVQ_K1VgKoF8MrwR?key=UFlyUTNZOHgtZHFNVlJ2cG4wRlJYbUZNVzdCaXdR" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3cjzeZE-6CcOoTyVa8aoovM7E6kqkfMG0jhkAwX0UnN-zMRCkYrVGq3f9htI-38Eg9U3DBqs-l2Vr3yP5bnuIFpHNZu4x9GKtXNx3zyAGUFAorWDmlVDr50noagJJ69kxe5BIqPBTVNBRplUjjq1sujQw=w1300-h975-no" width="300" /><div>Bia</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMqOG3tFh_Usm-gDDcpCLYh_VWl4rTC0mJGnE0l4M4imhi40H7VbDpe6pC8LB9VlQ/photo/AF1QipOmxnfg6DH0tkWvMgz8zphBxnaiVRWHYIzKIsDT?key=UFlyUTNZOHgtZHFNVlJ2cG4wRlJYbUZNVzdCaXdR" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3cV3EGSKMAiiSyfXcteQBSPEHdTXuA-DnQAhSnYFYnd7tLOScYKjpWuTqKn3XsKbU_L62HgJLP3yO7w9JNuvEQ6DCcXRV0Oekrsnf8mQ_upVWZv1N5lr1aarvCLWg81mdE4KtHX738fX9FP-uRTTJ1g1w=w1300-h975-no" width="300" /><div>Tuan and Huyen</div></a>
+    </div>
 
-
-
-
-
-
-
-
-
-We headed back to Hanoi to plan our next part of the trip.  We found Dream Beans which was amazing.  Tuan and his wife started their own coffee shop and made delicious coffees… we went so often that Tuan and Duh, his friend/employee took us out one night for beers!  It was a lot of fun.  
-
-
-
-Phong Nha
-Our next adventure was a caving trip to Hang En, the 3rd largest cave in the world. We took an overnight train and car to Phong Nha.  The town itself was nice, lots of good food and nice places to stay.  Our trip to the cave was a day of trekking, crossing rivers and lunch stop in a small village, where I promptly wiped out and had a muddy arse for the rest of the day.  Then to the cave, where had to raft over to where all the tents were set up.  We had a great supper and then slept in the cave.  The next morning after a great breakfast, we headed on the tour through the cave before hiking out.  The hike out was intense… up hill through the jungle, leeches, heat and everything in between.  When we got to the top, they made everyone strip down before we could get on the bus to do a leech check.  I had a massive one on my leg and Paul had one on his foot, and all the guides were laughing and pointing, surprised we didn’t freak out.  It was a great experience! 
-
-
-
-
-
-
-
-
-
+#### Phong Nha
+Our next adventure was a caving trip to Hang En, the 3rd largest cave in the world. We took an overnight train and car to Phong Nha.  The town itself was nice, lots of good food and nice places to stay.  Our trip to the cave was a day of trekking, crossing rivers and lunch stop in a small village, where I promptly wiped out and had a muddy arse for the rest of the day.  Then to the cave, where had to raft over to where all the tents were set up.  We had a great supper and then slept in the cave.  The next morning after a great breakfast, we headed on the tour through the cave before hiking out.  The hike out was intense… up hill through the jungle, leeches, heat and everything in between.  When we got to the top, they made everyone strip down before we could get on the bus to do a leech check.  I had a massive one on my leg and Paul had one on his foot, and all the guides were laughing and pointing, surprised we didn’t freak out.  It was a great experience and another highlight... Vietnam has been amazing so far! 
+</br>
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO238Bhbl6m_uvAgzTNS8v43bdB1092elq-P66qfXt4GWEXRLVbz_KDjTlQUCYCQw/photo/AF1QipOMROcfEwbX82uBuDzumZCjiXPHrj4nHBM7du9I?key=bDVGbXVNcGRQa0FtOXhnaXcwUUpfU0dVdUxqd01B" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3c5O5R61qdTpWzK4DWAsrDx7vTenUAuK1jEh8rGOXdUkY5jhJZPgiTHGwITfOEMuAVD2Jxf5PaE10Meqhtn6BibOos32Ismjs4mf6QXO0Ls8LhBRZCKHbywKa22Ktad79ANW8cEttBzzeMooBYxCeRFyw=w1300-h975-no" width="300" /><div>Hang En Entrance</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO238Bhbl6m_uvAgzTNS8v43bdB1092elq-P66qfXt4GWEXRLVbz_KDjTlQUCYCQw/photo/AF1QipMOKQC68N7J4oPBJIgycDbpAIubsnZvp9Gps558?key=bDVGbXVNcGRQa0FtOXhnaXcwUUpfU0dVdUxqd01B" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3ezvfV9Xcw0fIN6v7aHv9o1pdE6I8YxUqL3TDlrRbRwGQNXmRNFDt6VpFgI-vwM7l31NWA2V5_MqpkFEmVHuK_5uGZk6mBztyWko7Kb70I7iDkUnRKAO6eTJQzaOlhS6LJ4xxOi24clLlg9AAO2OzmPCg=w1300-h975-no" width="300" /><div>The other side</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO238Bhbl6m_uvAgzTNS8v43bdB1092elq-P66qfXt4GWEXRLVbz_KDjTlQUCYCQw/photo/AF1QipMoKSvkAP3lSJUxntq_cjImWRT3F5nyjoeagqA2?key=bDVGbXVNcGRQa0FtOXhnaXcwUUpfU0dVdUxqd01B" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3d383U4G1AqWTptt1Rr0K1cVYgxwE4oyNi3QIt-sOIi_iIW3ImE1n_9SfWa1FpW9uegDT0WHfC7SLca9bdIm4xsACw5nlTWUWbLV7cFptsUnKD-rJiigEms1rQ66gjxmYb7JFsbq2bwyfgHGxewzydl4w=w1300-h975-no" width="300" /><div>Finished</div></a>
+    </div>
 
 The next day we rented a scooter and heading into the mountains, we did have an engine problem so had to go exchange the scooter and head back out.  We went to Paradise Cave which was neat.  Unfortunately we didn’t get a lot of time there due to the scooter issue but it was a nice ride. We really enjoyed our stay at Phong Nha Homestay, really friendly family run place and they helped us get a good bus for our next stop.  
 
+</br>
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO238Bhbl6m_uvAgzTNS8v43bdB1092elq-P66qfXt4GWEXRLVbz_KDjTlQUCYCQw/photo/AF1QipMt6eYuODoqqwptVNnH12sD778fplSZ1KKG2jaa?key=bDVGbXVNcGRQa0FtOXhnaXcwUUpfU0dVdUxqd01B" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3cGC8Xd-NL4pSP0f_isJ1CBhWcfkiFKPsQJiQxoLZyt1nHDAb5WpXP5AKOBUavmnH70IZRQXSX-3Rcdqq1nZoFGqXyyizxUIgztpb5wMP7gCGVB4Sr9g7svmaX1myylSq10qQGAk9jUH9ghF13Q1MqQzA=w1734-h975-no" width="400" /><div>Duck Stop</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO238Bhbl6m_uvAgzTNS8v43bdB1092elq-P66qfXt4GWEXRLVbz_KDjTlQUCYCQw/photo/AF1QipMggn7i7hf9qg5DYmn1wqgiYslfjaxkfQh2MBqU?key=bDVGbXVNcGRQa0FtOXhnaXcwUUpfU0dVdUxqd01B" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3e74sKZmFOAn67auTnV8wEtQ3I6w0BTvN8FTD9vFLOtQ6UpMybOcOM3qt44Ms8jkGHYH8PU_gILIk5bfjci1Ywx-0TRHI3pdOWWFKllmH7FsIBbvQK5CYRWt8Cmv-v_AsNnSQ3bRtsfelok8a8uh02AkQ=w1300-h975-no" width="300" /><div>Paradise Cave</div></a>
+  </div>
 
 
 
+#### Hue and Hoi An
+We decided to spend a few days in Hue, getting some history.  It was also the best place to get a scooter to go over the Hai Van Pass.  We decided to spoil ourselves so stayed at Beaulieu Boutique Hotel.  It was central, close to the Imperial Palace, food and where we were getting the bike from.  We decided to walk to the palace, which may of been a mistake since it was incredibly hot so we were exhausted when we got there!  We had a great experience at a Hanh Restaurant where we sampled some local dishes.  Then off to Hai Van Pass.  
 
-Hue and Hoi An
-We decided to spend a few days in Hue, getting some history.  It was also the best place to get a scooter to go over the Hai Van Pass.  We decided to spoil ourselves so stayed at Beaulieu Boutique Hotel .  It was central, close to the Imperial Palace, food and where we were getting the bike from.  We decided to walk to the palace, which may of been a mistake since it was incredibly hot so we were exhausted when we got there!  We had a great experience at a Hanh Restaurant where we sampled some local dishes.  Then off to Hai Van Pass.  
-
-
-
-
-We got our scooter and head off to Hoi An over Hai Van Pass.  The weather was nice when we started but by the time we got to the pass it was raining and cloudy.  The drive was okay, but the pass itself was crowded with tourist buses and large groups.  We took a few photos and headed off.  We had to drive through Da Nang, over the Dragon Bridge… Paul handled everything like he’d been driving scooters for years.  It was raining at this point which added extra difficulty but we made it to Hoi An.  
-
-We only had a few days here before flying out to Dalat.  Wasn’t a huge fan of Hoi An, it was okay but rained most of the time and other than shopping and wandering the old quarter there wasn’t much to do.  We rode bikes, which is always a bad idea for me.  Not sure how many times I almost crashed.  We met a really great couple at Halo Homestay, Laura and Jim from Nova Scotia.  We spent a couple of nights hanging out with them before everyone headed out.  
+</br>
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMqOG3tFh_Usm-gDDcpCLYh_VWl4rTC0mJGnE0l4M4imhi40H7VbDpe6pC8LB9VlQ/photo/AF1QipMwQvWEUk8aHMAdWjui6oIagFYuuIOgGzVoLxG_?key=UFlyUTNZOHgtZHFNVlJ2cG4wRlJYbUZNVzdCaXdR" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3cStbxeWcA0E-UeTCuzKfCrppUFoX7b0GK3s2bgmoSTxWvrZ0T9X8raSxNJBgxo-Uj2n0dT4OOdqrfGA1vg5SMGXweHpEzMyHzMK9-2X-peWya9wUlrf-raSwIwsYMI9q7Ko50bufn6ozMsr8Y6UnGZrA=w1300-h975-no" width="300" /><div>Hue</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMqOG3tFh_Usm-gDDcpCLYh_VWl4rTC0mJGnE0l4M4imhi40H7VbDpe6pC8LB9VlQ/photo/AF1QipOysUVieCoI3TnCG3PpsjfnZoqlMmeqCUIJqQYa?key=UFlyUTNZOHgtZHFNVlJ2cG4wRlJYbUZNVzdCaXdR" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3fys97gPufqBWDGZ6rAgEUOJrrxD0IMPOdokuPLVU092q7WKXgQbLv-ksivmXPps87fptFr5GcF9GyJocA80g1s0YnjwmQVraYwNfVju0EcoAwRIfh9baNvEsR_PKdxEJoFB95JxAOYvfcLRyaOVzqBGg=w732-h975-no" width="170" /><div>Hanh Restaurant</div></a>
+  </div>
 
 
+We got our scooter and headed off to Hoi An over Hai Van Pass.  The weather was nice when we started but by the time we got to the pass it was raining and cloudy.  The drive was okay, but the pass itself was crowded with tourist buses and large groups.  We took a few photos and headed off.  We had to drive through Da Nang, over the Dragon Bridge… Paul handled everything like he’d been driving scooters for years.  It was raining at this point which added extra difficulty but we made it to Hoi An. We only had a few days here before flying out to Dalat.  Wasn’t a huge fan of Hoi An, it was okay but rained most of the time and other than shopping and wandering the old quarter there wasn’t much to do.  We rode bikes, which is always a bad idea for me.  Not sure how many times I almost crashed.  We met a really great couple at Halo Homestay, Laura and Jim from Nova Scotia.  We spent a couple of nights hanging out with them before everyone headed out.
+</br>
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMqOG3tFh_Usm-gDDcpCLYh_VWl4rTC0mJGnE0l4M4imhi40H7VbDpe6pC8LB9VlQ/photo/AF1QipPVKRYgDGnlo9dN42Cf9-87e8M4tJcliOLDBlJO?key=UFlyUTNZOHgtZHFNVlJ2cG4wRlJYbUZNVzdCaXdR" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3cbj0w4Q1CbJ8y7vUDzpm6N4jNcGbPH1uAZhQ_t1oVCfXI8r6FyBCdJxBSZrdj5akqZSGx019QkDoY6zw9LKBwI7e6fNt1D_wjugpydt5Q-ly7EckF7-EIn3y6hxvfNqEFGyIRsbiLW0tL50iXmKAKCIQ=w1300-h975-no" width="300" /><div>Hai Van Pass</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMqOG3tFh_Usm-gDDcpCLYh_VWl4rTC0mJGnE0l4M4imhi40H7VbDpe6pC8LB9VlQ/photo/AF1QipNF5vyM3u3H-X-NA6gHBTUvY-B5EJ8S8HRQa-MT?key=UFlyUTNZOHgtZHFNVlJ2cG4wRlJYbUZNVzdCaXdR" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3cm0HxyxNs7dZzvec2EYf5jGzaUjauFnn22OpCVntZrevVmKcbuyxHPNMqfXxx2vQWeu2GNw0LZyphhlod4J6vx4lrl85Cj9zlEqwYH1voYNMvOw_of__Sy3YPqMmfjiGGYzU6cBbTJ8ql81tVYJ3dlmQ=w1300-h975-no" width="300" /><div>DaNang Dragon Bridge</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMqOG3tFh_Usm-gDDcpCLYh_VWl4rTC0mJGnE0l4M4imhi40H7VbDpe6pC8LB9VlQ/photo/AF1QipPVGR21D7EaS3gq9gVrmz-y5ebW4uM2a9yUwavW?key=UFlyUTNZOHgtZHFNVlJ2cG4wRlJYbUZNVzdCaXdR" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3cvwie_G8clC6kW-YjrUh4ryf3hFrJ8ytZ3MISMrbLCVylRmbzddfeKoEib-0L09Gc8Sw0aSD56rPR33liEPmp--g4AD5gMDWdKcY25zdLzFqHO_nbrrT8E-q-wf_8snq71Q-DP4UUkCJTAJHVpe5lLvQ=w1300-h975-no" width="300" /><div>Hoi An</div></a>
+  </div>
 
-
-
-Dalat
+#### Dalat
 We had to get back to Da Nang to get a flight but it was raining so much lots of the streets were flooded.  Luckily our place arranged a SUV taxi for us, so we were able to make it through.  At one point the driver stopped and was really concerned about going through a huge puddle.  We made and got to Dalat… which was awesome!  We did have a bad taxi experience where the driver tried to rip us off, but our guest house rescued us.  WE stayed at the family run Hotel Lalani which was central to everything.  We walked over to the night market had rice pizzas, bbq yams, chestnuts, soups all sitting at little random tables set up along the street.  We found another great coffee shop, we tried several, even going on a coffee tour.  
 
 One night we were invited into a local shop to watch Vietnam play in the footie finals.  It was so much fun, they put stickers on our cheeks, gave us a vuvuzela to blow and beer.  They even offered to share their meal and wouldn’t let us pay anything.  It was a wonderful experience.  The next day Paul made me go on a rollercoaster… I shouldn’t of been such a chicken, it wasn’t that bad but you’d of thought I was on a death defying event based on my reactions!
 
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMqOG3tFh_Usm-gDDcpCLYh_VWl4rTC0mJGnE0l4M4imhi40H7VbDpe6pC8LB9VlQ/photo/AF1QipMgCDFMRl5XsoC2GgTBtspbYDrOb7IjPz-ts7NC?key=UFlyUTNZOHgtZHFNVlJ2cG4wRlJYbUZNVzdCaXdR" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3dp-9r2mKjemgbSNr2BwMiyVyO0nD9yf3cUKHOJ2v8ama2vL-Rd9MbUbRmkt7Ie52mSNz9MbqasoC_kl7PsTUZWJhOpOL3o6PSqSgDhqOfFnAISM4-i8hveRRzOs2gXc_UnD5sOpw54q2hsLVeK4fZMjA=w1300-h975-no" width="300" /><div>Night Market Stall</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMqOG3tFh_Usm-gDDcpCLYh_VWl4rTC0mJGnE0l4M4imhi40H7VbDpe6pC8LB9VlQ/photo/AF1QipOr_o32TC8mqFdPX2JgFlnrvg_2c677H2bpIgWu?key=UFlyUTNZOHgtZHFNVlJ2cG4wRlJYbUZNVzdCaXdR" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3fI-K-NXseyXZsraK8UZfQX9iMeP3LUiIUYNboRi5afSUxuzxS27c2GkR-ugsspaoV-Ydcw31eEAyZheasznk3YaWere4t9kuxifjUXTjA7L6rB2hwPaFP2vbZfzXQnz9-laB3d3nbgZSqXMHoE5B7t4Q=w732-h975-no" width="170" /><div>Roller Coaster</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMqOG3tFh_Usm-gDDcpCLYh_VWl4rTC0mJGnE0l4M4imhi40H7VbDpe6pC8LB9VlQ/photo/AF1QipNXt3AJe1EE9v-NA6xjy6B1XhBqUleKu2YM91nR?key=UFlyUTNZOHgtZHFNVlJ2cG4wRlJYbUZNVzdCaXdR" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3fw6cSTYp19qZDdNJEfcSXhzfOL7Tda29qL7HFgl2_L6bYIFBjwPq2tGczRMQkDnxrmHh_vLKXUe0vwZviiDmUSzEU9LNBwoYUgmAHE4XeX8SRnI2PO7q0zE3bkf8cLUZhvu4aa1txV-dXyQjRvfha1ng=w1300-h975-no" width="300" /><div>The Game</div></a>
+  </div>
 
-
-
-
-
-HCMC
+#### HCMC
 We had met an English couple when we flew into Dalat, and were on the same plane with them to HCMC.  We had stayed in an airbnb that was horrible.  I was ready to walk away but the location was perfect.  We went to the War Museum, some breweries and saw the roof of the American embassy where people were rescued from.  We went out with John and Liz, the English couple who are both actors in the London Theatre scene.  Vietnam was in the soccer final so we were out on the streets with thousands of others.  It was pretty incredible.  Streets were closed off, scooters were 20 across with everyone waving flags, blowing horns and vuvuzelas and any other noise maker.  We went down to the beer area and had a few beers which was crazy.  The next day we all flew to Phu Quoc.
 
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMqOG3tFh_Usm-gDDcpCLYh_VWl4rTC0mJGnE0l4M4imhi40H7VbDpe6pC8LB9VlQ/photo/AF1QipMopoAdBCfuCI5oKLFp-VA_dbJLxy3AfBRAi0VD?key=UFlyUTNZOHgtZHFNVlJ2cG4wRlJYbUZNVzdCaXdR" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3dWXJRwkwzwvx9ubdO3t5firHPpmQT3vp4M_KbUcfo-XkRzhRObWFN9TK8xx_vtUpYdMK1zl6kklKC-wFSJSVLn_doqOMQzbPQEqhEMtwXTzKPaSXxpjd001yFNIFWsdkgs5UgEBzYMH8eEIWaZuAVIAg=w1300-h975-no" width="300" /><div>War Museum</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMqOG3tFh_Usm-gDDcpCLYh_VWl4rTC0mJGnE0l4M4imhi40H7VbDpe6pC8LB9VlQ/photo/AF1QipOENh6GgCaCXZpKOTSGg_zfY1ZSc5cMYAcAFgvv?key=UFlyUTNZOHgtZHFNVlJ2cG4wRlJYbUZNVzdCaXdR" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3fkSV4rtTEkqGQ2NAEyxw47tgE0-sHNuusUM8kYk0fAKKsGlL5Uvj4eUqVxlSD7N1jCcMAEWPtaWa9kRB7aOyji2A0DCbufeV5tB_xoOMNu26vhMt_q-Ba5YzEAB_Eg_Qzwd2VWX0tD3fiDLPXq_saIvw=w1300-h975-no" width="300" /><div>They Won!</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMqOG3tFh_Usm-gDDcpCLYh_VWl4rTC0mJGnE0l4M4imhi40H7VbDpe6pC8LB9VlQ/photo/AF1QipOqXQWTroaeB6WGu48Oj2KXsveiApMHOPV4AR4I?key=UFlyUTNZOHgtZHFNVlJ2cG4wRlJYbUZNVzdCaXdR" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3czrcZHQsagjaPq4GRIw8ZBQSoenKyG1W8lDD0QXq9kqWOaIhBRS_y0DrUGL3cVGHDF0ZlTZFeSNKOE_922zyl7bz-UmdVmGikyMTNKLRwHuoaUybHBFtygETegDwGaR2Bjo4DF-MpFfQVldRvVRHnDaQ=w1300-h975-no" width="300" /><div>Unofficial Cup</div></a>
+  </div>
 
-
-
-
-
-Phu Quoc
+#### Phu Quoc
 We had a nice Airbnb here, was a bit off the beaten track so you needed a scooter to get around.  We went to beach and hung out for most of our days.  We did drive up to the other end of the island where we had to buy lunch to get access to the fancy beach, it was on a private resort.  It worked out because they let us spend the afternoon. We ended up having to get a tire repair done, had a flat but everyone was very helpful.  
 
 We ate at Iris Restaurant every night, they had the best Creme Brulee I’ve ever had.  The first night the lady insisted on bringing two spoons even though I had said I wasn’t having any so glad she did.  We rented sun chair at Joe’s Beach Bar and went for drink there where we met Lz and Josh from the US.  Had a fun night with them.  The area is mostly Russian, even had Russian signs and everything!  I had the best massage ever on the beach for $11 and I thank the Russians for that!  It was one of those really put hard pressure on your muscle type ones… with the added bonus that you get ice cold aloe put on your facial area.  
 
 Booked our ferry and trip to Ha Tien then a ride over the border to Cambodia! 
 
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMqOG3tFh_Usm-gDDcpCLYh_VWl4rTC0mJGnE0l4M4imhi40H7VbDpe6pC8LB9VlQ/photo/AF1QipO_5IBjGjSIZz07IYej_HfZmGOOY3rBx9ZZLV_o?key=UFlyUTNZOHgtZHFNVlJ2cG4wRlJYbUZNVzdCaXdR" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3d17M9QE09xyclu1zXNFmp3El1cPNXGIpRYdXFhieJ3fTvrU8kCp-GXHkvVFFT98TzH2HpyRVHMlj__Hg2y-TwN-_73jNgQJfHsSSzkawQ3DBwwlCy8S8o1i1rBUJfy6G28ubXtLzlRq-VprEBYAWD6yA=w1300-h975-no" width="300" /><div>Phu Quoc</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMqOG3tFh_Usm-gDDcpCLYh_VWl4rTC0mJGnE0l4M4imhi40H7VbDpe6pC8LB9VlQ/photo/AF1QipMs4SemuTOWZJJa6fIlSe2ufywGdnk71U8Bunt5?key=UFlyUTNZOHgtZHFNVlJ2cG4wRlJYbUZNVzdCaXdR" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3f_9OhevnwCTngLez3-VhVndikgaAlo6D7bYoLgD7ysBDigJJT_BE-rvBy93XfzaDcsqww-OUsjGpRXimnoa88RqYUOJ0TAGRGiu2_RyBWA-SznLeaOhuWz_SoyZCiZMVzrRxgpl8VICUQJCuPPCTmjPA=w1300-h975-no" width="300" /><div>Northern Edge</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMqOG3tFh_Usm-gDDcpCLYh_VWl4rTC0mJGnE0l4M4imhi40H7VbDpe6pC8LB9VlQ/photo/AF1QipNPF8Qs2-MiiujIenHfv_TTA39PlkEakJLRlqtv?key=UFlyUTNZOHgtZHFNVlJ2cG4wRlJYbUZNVzdCaXdR" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3dqk-C2gukEVY08lgmDIsG490KDfO_T3NzkDD3OuIjSJ3i5fbOsgrOvG7vbcvB2YCY5TpL9_14YrTJN8eGbn3Gl4d8RllFmyvp2S0N-dLfxur90VRhKmB9p7o-FIC4s7cNvPuU-TSsTlbhqWWNCwCW1uQ=w732-h975-no" width="170" /><div>Creme Brulee</div></a>
+</div>
 
