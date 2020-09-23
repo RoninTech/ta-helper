@@ -69,7 +69,7 @@ Final step is laying down the sheet of lino we bought from a local flooring comp
 
 #### Side and Rear Ford HD Sill Plates
 
-Since the floor is now ~1.5" higher than stock we added a piece of 2 by 8 under the side heavy duty sill plate which made it the perfect height for the new floor.  Installed it with screws into factory holes and some PL300.  At the back doors we attached the rear heavy duty sill plate.  A piece of angle trim hides the new floor layer edges and silicon2 around the whole perimeter seals it all up nicely.  
+When we bought the van off the dealer lot there was a big box in the back.  Turns out our new van came with the Heavy Duty Ford sill plate kit.  Since our floor is now ~1.5" higher than stock we added a piece of 2 by 8 under the side heavy duty sill plate which made it the perfect height for the new floor.  Installed it with screws into factory holes and some PL300.  At the back doors we attached the rear heavy duty sill plate.  A piece of angle trim hides the new floor layer edges and silicon2 around the whole perimeter seals it all up nicely.  
 
 </br>
 <div style="text-align: center">
