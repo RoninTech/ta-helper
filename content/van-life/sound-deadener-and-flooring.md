@@ -67,6 +67,7 @@ Final step is laying down the sheet of lino we bought from a local flooring comp
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO-0rET7XafecISfWb_1cuW2bY9RzO3vEmhvtBrr3Jx-A-tkV5uajVaanHs-YAJXg/photo/AF1QipNqTnjhcm82RSAYN_sjUhUgOiGO2LI-XIt4T2mB?key=c2lmY3NBczBtaVBZRy1XT3FTZUNiRUpoNmJNY3R3" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3cc11K7qVX7P0d2bQqfG-y9iPxwRDcHPTZoeB5ScdXTkTZX0PbCmRUB-B0SB0ou8QMY8RfJMBoIZw6MPMF-uOitAHQ2xE3aEgtg5mUoHt2rS4fGoYy76aZ23YdwnrdaUpAiua0gAMhM4LhPJbfRgnQRjw=w1210-h908-no" width="460" /><div>Edging and great stuff under carpet to finish</div></a>
 </div>
 
+#### Side and Rear Ford HD Sill Plates
 
 Since the floor is now ~1.5" higher than stock we added a piece of 2 by 8 under the side heavy duty sill plate which made it the perfect height for the new floor.  Installed it with screws into factory holes and some PL300.  At the back doors we attached the rear heavy duty sill plate.  A piece of angle trim hides the new floor layer edges and silicon2 around the whole perimeter seals it all up nicely.  
 
