@@ -1,7 +1,7 @@
 ---
 title: "Parking Pad"
 date: 2020-06-15T10:22:15-07:00
-featured_image: 'https://lh3.googleusercontent.com/pw/ACtC-3cJSxonyTmC65j3pL_eatOCylb8hDs8eO-xYOu2Wk6OKGJAgpsq8v3bbuEbdECkQ5kTNJcxBT3KFz_0Y9pICwUPiinObhhm7uMp4JsM4-WsDLmMCdsvwsxiDby-62rkAxtQn0AkLeMgB-4qCVBuceAoPg=w1210-h908-no'
+featured_image: 'https://lh3.googleusercontent.com/pw/ACtC-3cxlTG5_FptmkEdNU2ojKB3aDsVHsqNQGX8rF3pU1OjaR4QVDVXcXL11maBt8wks2985GUJPWDHjZ8Y2LYvYFBOc1Y1EVToNQ1W0DevqGyN61gQNd5yfHfgzTh2GXBrQqhUcwiUFWFAv3zlAwUQ7wXRFg=w1296-h972-no'
 author: "Paul"
 type: "article"
 omit_header_text: true
