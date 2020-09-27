@@ -9,103 +9,124 @@ omit_header_text: true
 
 10 days in Tasmania wasn’t enough.  We could of easily spent at least a couple more weeks to explore this lovely island but we only had a short time left on our Ozzy visas.  It remains one of our favorite places… even though we landed during a massive rain storm and spent the day hunkered in the van.  🙂
 
-Hobart Area:
-We arrived here quite early and went to get our next van from Tassie Motor Shacks.  It was on the weekend but the owner was nice enough to pick us up from the airport in the pouring rain.  This older van we called Tassie because it was tough like a Tasmanian devil and got us through some sketchy roads… thanks to Google and it’s preference to take us on undeveloped roads.  We spent a cold, wet night in the camp kitchen at the 7 Mile Beach campground before heading off to Port Arthur.  Luckily the van had power and a space heater, and the owner had given us extra blankets and towels, so we were nice and cozy.
+</br>
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipNBff90gBf2AEwop4aLRg4knGVqJwUT6va4pGjm?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3fXsQvQieCT2GUUr875W8YhBDzqqGX0IhwWDaQnsqVKV-08iNQ74m7l3-gCTC-G66k_8nWwp__NQAmBiHUroK1YuuGGvlcJr7bb1cOX9jNcG1h1kU3HRHgmqYPZnzwnAoW7uG8chaLttMv7qciC2-LxSw=w1300-h975-no" width="310" /><div>Raining</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipN6mEVFRqf2Qfa3POcIYEd__PFDa7crJ2jZMkXk?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3dhHUW2YCbMjaTQyqoHeVf3mMc2mRZCA-zH67DGIfMo8QZfTiSsoVzBTxa_NXlCRrXNIpHIDQ7FL6J79QdWe48Qy2jM2EJvnU_Ypqetp7dVeC2Hhev9mTWZ1TGjZFHoDcaLVBr6KQHummuddvynfA3Yjw=w1300-h975-no" width="310" /><div>Blustery</div></a>
+  </div>
 
+#### Hobart Area 
+We arrived here quite early and went to get our next van from Tassie Motor Shacks.  It was on the weekend but the owner was nice enough to pick us up from the airport in the pouring rain.  This older van we called Tassie because it was tough like a Tasmanian devil and got us through some sketchy roads… thanks to Google and it’s preference to take us on undeveloped roads.  We spent a cold, wet night in the camp kitchen at the 7 Mile Beach campground before heading off to Port Arthur.  Luckily the van had power and a space heater, and the owner had given us extra blankets and towels, so we were nice and cozy. 
 
+A special mention should go to Paul for trying to start a fire with extremely wet wood for the kitchen. An honorable mention should go to Helen for not causing an international incident when someone used her knife without asking. Short story is I had washed some dishes and piled them up on our bag to go back to the van before finishing the rest, when getting ready to head back to the van my knife wasn't there. There were some other people in the kitchen and I noticed the one girl was using my knife. I asked her if she had gotten that knife from the pile of clean dishes that obviously belonged to someone and not to the kitchen... thankfully she must of seen the look on my face and was quick to wash it and return it with an apology. A note about kitchens - they usually have shared dishes and such, but most people have bring their own from the vans. Luckily this was pretty much our one and only camp kitchen incident. 
 
+</br>
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipOL7E_QyNWNVQqJ-B9rEgolUwYsqspcQTmEX4Jy?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3ftv7fbYZO8V5VhBVPAgy18zPwKR1DLGspfpPrDDKz8dJXa8sckUG5A1-mUsq47MCDUfNknjFUCuMRtAbml5rvVTnr2s4eMh6vUuTzuPgVF-80fQ8_xxi936Ux0ZbkmeSzO-bVDAFhsaxquhehapBfd-w=w1300-h975-no" width="310" /><div>Pre Knife Theft</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipMcE5zsgzE5VhLwxb1nPVJ-Vjc-i_8OrpZ8Rh8R?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3cQmUKg_gTqzHSSNrSydWp6Nun72WkJIPGkUgvbbaRtN1Ie0zwLVsLWUt9Cx6NRlv1yhaYBp6s4W5u-8ivrzJYAS3nOV5e8xmqRqUrd-Uek43hfkoC3BfgIocigt8LtM7Y0_Is43a2kRTVO_d6aqSC58A=w1300-h975-no" width="310" /><div>Seven Mile Beach</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipOCJKk9pllM3YsHhideqcX5kGPW2RNM5l2Spbsq?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3cXljH8EhLZujE5HxHyzbhBkq6mTqY7QNpbJywB5YkNGZO4LgYRVZyxUwPSTz1ijRRR7Slp5vsmzu8QmGuHpkFVvPX1JG9M2y87M-O-HMVpPNQLzwU_5yx1Xreq5xsFYBB92ONsJYgEjpAVnDFvqIbrtA=w1300-h975-no" width="310" /><div>Paul practicing driving with eyes closed</div></a>
+</div>
 
-
-Port Arthur:
-This is an area that is totally worth exploring.  On the way there you see Pirates Bay Beach, the Devil’s Kitchen, blow holes and the Remarkable Caves.  Someone may of climbed over the fence and explored the Remarkable caves…  If you guessed that was Paul, you are correct.
+#### Port Arthur 
+This is an area that is totally worth exploring.  On the way there you see Pirates Bay Beach, the Devil’s Kitchen, the Remarkable Caves and a hike to the Maignon Blowhole. Someone may of climbed over the fence and explored the Remarkable caves…  If you guessed that was Paul, you are correct. The funniest bit was when he was climbing back up, he was rushing because some people were coming and he didn't want to get caught. He ended up wiping out coming over the railing so everyone noticed!
 
 After exploring all day we checked in at NRMA Port Arthur Holiday Park.  We had a great night sitting around a campfire and having a few bevvies with a Tasmanian couple we met.  They had just harvested a ton of broad beans from their yard and gave us a big bag of them,  They were awesome!  The next day we headed off to do some hiking.  The area here is lovely but the roads are somewhat lacking to get to the Capes.  Still totally worth a little effort to get there. 
 
+</br>
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipPIcnF_D1Oy8nf4OkRE8EC6jDX-de9bt1aCx_PP?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3e29HjeaOHJC5zUTwI0b2rEx2hmaW8nm32c5qmpKaS3IEn_hcOgS1QCYsVob_gA-430QGKG4EWmOE2-IpKBqibjiwBcSuyXMPTQyJaLI3PHpNi2TR5AxodT4YvlOnMo-uzx1x_Vdsi4eftzQrv64M44tQ=w1300-h975-no" width="350" /><div>Pirate's Bay</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipMdmtG35uLF0-4PrFx3egfG5DaFuXRt6r-gOmhd?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3f4iuqahjs4ckwMSd74-friPwS-hSYijdZzc20P0SO5Dvv_WkvJbMw7x9XFxDXxhi2XZRLpvYdf76uQWRZEbHFyjIBluDxTesTg0Qbviu26CKpIkpWVRBH_6qY3YDMXsMo3yIQ2SCkC1m6mjVDjsoe3Lg=w732-h975-no" width="200" /><div>Breaking the Rules</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipNA4X8No-fy6g0MITtKcQ7AhQN__moSlSosywTR?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3e_qK0wYMyvlGVPASre26Npu_0BGOIh9DFFxIuY0BxS2hRNgFdL1gIHiD3oeY9TgOUtolHlgtAXkfWnKXhbR60v98NYziWlwJGFcAQbob6eAVMDV5SWLKAZgcnF2HCOdUayXXZIr29kwUEjVlYHo0Ui9w=w1300-h975-no" width="350" /><div>Remarkable Cave</div></a>
+  </div>
+</br>
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipM6_fDmygk6qvOywnUeAqcd388A8FpVhmdXkiZs?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3eiLGPM1bUzSS_qC-KE9-nIgUARmuzjNvlW1IqxirS2iSwnPhGG2cISaSHKoY_2FPig5e0E36ZPkjh0TdRGu4Z_GtDYoy8kKk1rIHyhokIMvp27Y0_uberfq6IEGtu1rmlxd41oiFr7xaT4Bk4503fnsQ=w732-h975-no" width="240" /><div>Devil's Kitchen</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipOACxIT3F4kn011hKAwiCNLC8dzFoXIVJ30i-p9?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3ciPq3n_FsxoJ8J4_Pb5HGPOFeU3EzlgjfvSh7imH8fmfsw8nthbA1LeDtaMRGyIKFbWLCO45mNA5asfJQ00baDKpgqMld9GI4OWuxZg_hBBrSaKPjRb0oVLarEA-Q6iwiSfwf1sZxeReOsTfQ1t3vZxA=w732-h975-no" width="240" /><div>View from Maignon Blowhole</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipN3f061FqAnWehai0C0ys5z7743o-Dd3jLG3Uyu?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3e-nEN8_O8sJXRV5kX9_fo7uk1uJ6oFwNnpsbyqW5Iz_OiXVpESRxPukZn460jd7-U3VcRt3biunb-WzOghvPa8z-__aXqhsQzY0ie28kbn394CsLfU9UrYmeAQ0ruVQpSfjgooOnSDku6Q3mg16KHR_A=w1300-h975-no" width="400" /><div>Camp Creatures</div></a>
+  </div>
 
-
-
-
-
-
-Cape Raoul:
+#### Cape Raoul
 This is an awesome hike, a bit of a slog at 14km there and back, but so worth it.  The weather was perfect for hiking as it wasn't too hot and we were lucky enough to see humpback whales from the top of the cliffs.  We had gotten to the tip of the cape when we heard a voice.  There was a lady up there having lunch and once we recovered from our fright we had a lovely visit for over an hour sharing stories of travels.
 
-The trail starts off in a forest and heads up to the cliffs
+The trail starts off in a forest and heads up to the cliffs, then goes back through a forest, flat lands and cliffs. It was a great hike and we were very happy we took the time to complete it. There were many view points along the way to keep you moving.
 
+</br>
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipPmwoA7jn0MhDXZs81AP35VTSmwmkQmOAHE91U3?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3c4p2xbexfOnSSEtRB1ScQwzr566C9CJPZf_S9eWWUaNrvRGou5xuKhDU70gAjQpNamep9YOq0qdXvubxgi6o1nw6c81ym9m9FJLbx1F2Q4eKjPY-TcFdADm9SucFngltuLu5vIBEhbNqcjcc08H9ayJA=w1300-h975-no" width="310" /><div>One of Many View Points</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipOF_sb5KQsUtlJO7xOkShhEJrol6DF3J3mD_Q7F?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3fL8S2umbkTNHu35BO5xcwRw2UsydtM1GusfcD9cyufp-6pBt5lorlJKN2q7Y3AAEVS3VnQFTAbogtlwItKnjAFlHcoYyHuSjckE_uiaEuvG0nASslmdHFQsesa5oe45WmPhTIIf5Sx7-niR-3tYzSMBA=w1300-h975-no" width="310" /><div>Sampling the local berries</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipNn_JE10ySd_MRJCEKDJotUeewXUIXApXC878tW?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3csiCKRweCpNwUG-1Y65j2JvMdJSWaCf4VZgvaFxAvymShgrYxCt36n7ljS02hUurL2qbwrrjzJL9fAk2FoYcxEtc4zW4f2ncv_HtEoKrcE5UTEmTYrUcgOJTEYIVc_AxBwF429sRTPzNNT1BSCMdlo1w=w1300-h975-no" width="310" /><div>Windswept </div></a>
+  </div>
+</br>
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipMH2hTl-bOX0VdJh_BMT6vJ67nVoDLZVQWGiCou?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3fp_6_ZBM4OrzdJst4kpyuXQJa6-E8J8mxIbkU_JFR8MJGTECX0gNs1xuSmgQIXgYlEVgBzRQWaee6QJAf0AoQnBSuZK1FZ3stpCsKpQruxx3vsnys07SvgzVYCiZU0DeoPJQHyb6KXKYwtlP8Ihq9vfw=w732-h975-no" width="240" /><div>Ship Stern Bluffs</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipMWQV6Ttzk2sdoBuhvuMNw9sTjnEdMRQ3FeonI5?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3e8ssyfFKUSLeyut_3jwR4kuc_agPO1yhhIHAG2zGibJyKvnnAsYBX98Y2sE_fdCchPoQ5p1PDyyBr5LauhxLhbhEuIU2b3b7Ji4Dw3GAc8OIUcwxMhuEQsEUwbx1MuiTU8GkJoKg5wnnC1A3HUkb5cYA=w1300-h975-no" width="420" /><div>Cape Raoul Viewpoint</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipNRSn3o_XteipHtnYH14XDbyB4UiMGvMgO3ZUya?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3eYMkaCvl2XHTO9YQbol0v2f_b8RXHRVhOI_BnfvpUj9GJfRQLqhm_sgYki3zaWPQR_NPcrU7HHlOKBCzcfQ-PXJL_1BsU4V0PiJz2_XmdvrZVb8lnGFora6H9KMHN0VI0ubwaTMCt7d5lg_DWXPPdxOw=w732-h975-no" width="240" /><div>Made it!</div></a>
+  </div>
 
+#### Cape Hauy 
+After a night of rest, we decided to head off on the next part of our journey but first we had to hike Cape Hauy (9km return).  We were warned there were a lot of stairs but we thought we could handle it.  We did it, it hurt, but the views were totally worth it.  There were a lot of up and downs rather than just a steady uphill/downhill.  When you get to the platform at the end its a crazy vertigo inducing view, especially if you look down over the railing. There is a stone pillar called the Toem Pole that people climb and sometimes even highline back to the main area... crazy!
 
-
-
-
-
-
-
-
-Cape Hauy:
-After a night of rest, we decided to head off on the next part of our journey but first we had to hike Cape Hauy (9km return).  We were warned there were a lot of stairs but we thought we could handle it.  We did it, it hurt, but the views were totally worth it.  There were a lot of up and downs rather than just a steady uphill/downhill.  When you get to the platform at the end its a crazy vertigo inducing view, especially if you look down over the railing.
-
-
-
-
-
-
-
-
-
-
-
+</br>
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipMJKEVzggr-j12MZrvNzwA9h0ZG3SzoWS_zemvf?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3c4p2xbexfOnSSEtRB1ScQwzr566C9CJPZf_S9eWWUaNrvRGou5xuKhDU70gAjQpNamep9YOq0qdXvubxgi6o1nw6c81ym9m9FJLbx1F2Q4eKjPY-TcFdADm9SucFngltuLu5vIBEhbNqcjcc08H9ayJA=w1300-h975-no" width="310" /><div>3 Capes Trek Monument</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipPSJCPxFAK6kG3OofGseOv_YxZbYT88zlaPtOhV?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3caWJdlfZcHbxvWRH6URrBFI_bIZGJpqykklMVSMvAF9FMH8iLuZy22zBiXgrYqYsd3XNNw_jd-7x_zdWffPdkbfPJg8lJZTzeC8-w-Zq8UxNW0HUjkNNniGnABd9ia_aXyHJf1pUmorgojIO0XaSNW7w=w1300-h975-no" width="310" /><div>Strange little pine cones</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipOfVHFwT76KfPx3q2xLITDnJu5ouAOFS5765NUU?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3fG5Vj306KHoC_-PLYw2S8IfL3YS1F15RW2dOMsEhgOI_KnO_61vv8OPMC4hB1GksJ2YsnUofzfGyFT4ajMQRpGqtQfCj3clMi3hY9LfSQ8rMbvXdUjGchRSn5D6mBOnp4MO9PPBPFeC2B63X9NvYkwpg=w1300-h975-no" width="310" /><div>Over 2000 Stairs </div></a>
+  </div>
+</br>
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipO0fMvfcuQ1OuJ4e9O7j862H52oY3tciR9VaPPa?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3cqLQnNI7G9xFsdIYkw34vrtJFAWs3Mh-RGlwx3YHApL7y_tXusFJhldcJAc_2yzmfFhsYXBRv20ic-xBy3BZr99LYAwUNAloRHaAhaDOcUj-dmLvR2TfrdT9F2ULkJoKivXqJH0I9qotJZJLJblb6f8g=w1300-h975-no" width="310" /><div>Monument Stone</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipPRBst7Xy6cWrjJdR2JyjvQe1SKPdO8HyMwXm7J?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3cKB9s7-p3MeE9IPY4mdju2308I6vwIi_93vsJXaoforehBNMXqAN9Q3CsDk3Xx0L5el4y16--AWfTDKc7E7kNphOhpJChpZCGFZ5hyMFxpwz1nfCKtOVIn4XdwisG1eKLKFcUZtf7LaLJMWOG_Y9qj6A=w1300-h975-no" width="310" /><div>Cape Hauy Viewpoint</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipNj9UweYK7avnypjkQvWy7apDCV2RsN7dENJAgL?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3ciuEPziPE0jPIbf_9QN8I_2Xwl_nYgiA24BhyyVGinrNK7JrF2MUwHgVl6LchJnYs3AE7DJ1RYT20X2iAeUpvwe7zBrMUx1MnPpPL7cldnMCjOpZmNAjUOlt2AwfC3DQ-QTPgXYKUbEpGmwnFJL7fA_w=w1300-h975-no" width="310" /><div>Totem Pole</div></a>
+  </div>
 
 From here we headed to the north part of the island.  We decided not to go to Cradle Mountain in the North of Tasmania due to the crappy weather.  There was still quite a bit of snow in the area and so we headed to Freycinet National Park and Wine Glass Bay instead.  We had a nice day, did the hike and headed back down to Orford after a lunch of fresh scallops and mussels.
 
+</br>
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipNKDFqS_EmyHINWQArLUcBrObhBoQ2AZuTS3r2a?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3dFHmh5JTYZINXbb14S2coS5LUWuD5072UED8krbWCU_Wm94LmzCquqUBYOCAO7mBP0N4vt_p86_Zwmu7m7Kj-JlLrmUSTs--LF0YUjvEpvBG8uS0GUoNjwk2ajyMKkU3EQ_36CMACkSieizWyAQsZoLw=w1300-h975-no" width="310" /><div> Cool shade rock</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipPHeZiM8VE5ltT0vov-mvEuz-0hyUO2FWUqNjb2?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3dXvnUnCIdKd2r7WkzqjCTs9cS_1AGAgcaX0oFUOGvd8byWdc8zxrxXVbh7rt9bpp-uHFcHVEoxuwwl8u2VbqPayJUWYmDK6BlNiQOEYhvqrAkWxu-2SbtrwbRTknXllqBaGKIN5g78dyN4srQRj2z5lA=w1300-h975-no" width="310" /><div>Wineglass Bay</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipNu0u4L-9SOWl-UjQVBbNbtGsov34GBkjT7eJ4c?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3d17GLY9ccO4pr4T6NZtDz1kNEOWIMrOtnohnW5XrO9vGNAAMU9gUekmUtF-nJ1_w9DHbN5vYN20aU2dhp_kDGyeTqBdTuApmFKguuNnpp8BQNBYQQVqKE8chsacBBFMsFZiNabwoGL16mmyf8gjjxpEQ=w1300-h975-no" width="310" /><div>NomNom delish!</div></a>
+  </div>
 
 
+#### Maria Island
+We hesitated about doing our day trip to Maria Island as it was very expensive ($50 per person with Encounter Maria Island) but in the end we are so glad we went.  It was a great day and we really enjoyed wandering around the island and seeing the sights and the animals.  The painted cliffs are amazing, the photos don’t do them justice,  The island is covered in ruins and has quite the history.  It was originally settled by Aborigines, then the British, convicts, whalers and sealers.  Now it’s a national park inhabited by wombats (we weren't allowed to take one home) and roos.
+
+</br>
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipMVIjI698qfTTYYMJ3D7sr5nnjMd39f93qHzDa3?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3d_KvL4NAxKL2CAIKbsl3ocWTf5Z1JiQW5cOBATYexQ38S59yPifvIaqwL5uaaFysaTePq_bPjz6DStPC9GWmJZ_TqIYp3GoRPXZtsZ4akBhzDVKqKZZiTv3Vy1iY2mb1S1OmgNn-PxEM4Hm6xeqV81uQ=w1300-h975-no" width="360" /><div>Painted Cliffs</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipOHhf8PwrXoAa_mtXQFmDlRtVWChaicczOtXSbQ?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3dDfkbeXW8IV1GV4ZjA67hbd6l4mY2W1xkOotE4YpDiAf4VysqfGFYHG3FlpXamfgI20_uAdtiBjhj3kPsajjjNUmorYv0EHTWvgVuTIuXfHD1HA6tAGPAk1pYYNh6JxGqHlyLA_rwcG9hUcILeymKFZQ=w732-h975-no" width="210" /><div>Painted Cliffs</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipOHxyNdh5KTaxseJoKJt2AEdHAR_K_SNWqztsET?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3fELkMwqJpXzlMMkFgbPeyf5IB88y_Ioy-Ac7QzR83t_Ma3xLBNQ1Mwq5K78i58d1ouQ_yvVCiATulJFd7pgR0-791jlLiApbMoYZjxlTgvgIFPWdgiWXHFlOwL4pO4l25_rA4Jwp7Jl2kxasVUVJNpVQ=w1300-h975-no" width="350" /><div>Some ruins & the Fort </div></a>
+  </div>
+</br>
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipMx2uNgiwMGk3wqXOnEmmuvJzUq0VNTt-fMIFQY?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3fD-xtXaw89ynW1PXHFTzMdv-SQDuz2rGnjZ2wwped_yZ2ohqOgaYUGemfR2ZnNf6SDNmdXZwAUWLmTtiE43HwUhK9DyY8ryMmugurB9Fwo-W9kC1ofpG7WPhBYRp8jpGcbidcL-PVII8tiiVDTraf_nQ=w1300-h975-no" width="310" /><div>Wombats</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipMsLxBt_o5E0WPHBigtTpf77iBr2AtKFhgmmRnb?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3cl4Y4gkIzaXmRjaNebZNV2cGnNa0CCxZQPppD3nn5JKAIzng5sgnVAywvBFLC37kRUFUuMlpC-OPbgDtFnpXBFjEIDEePEoLmLLEWfOJL6bQywd2eSLF1E26BwOCy0rHTQn5eEy7c0uu6wJD0dm398QA=w1300-h975-no" width="310" /><div>Kangaroos</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipPEtRWh6I7gVS1dA9o4szM7GVuz5NaHv7AT72nw?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3fDVdOAQp_bWTOqTsNjFN6ABeuhHNM4AXjDCKsIHVhIuu4LXaZRBddKEHk_VmJX54QuCbFGCXUMus673H1rlTwdu2eARyu8oYRcRECQiuqeZdGY735lfPN3imyUHPDEYRnUa3BEwcN5f82zLLdpNi6MNA=w1300-h975-no" width="310" /><div>Old Equipment</div></a>
+  </div>
 
 
-Maria Island:
-We hesitated about doing our day trip to Maria Island as it was very expensive ($50 per person with Encounter Maria Island) but in the end we are so glad we went.  It was a great day and we really enjoyed wandering around the island and seeing the sights and the animals.  The painted cliffs are amazing, the photos don’t do them justice,  The island is covered in ruins and has quite the history.  It was originally settled by Aborigines, then the British, convicts, whalers and sealers.  Now it’s a national park inhabited by wombats and roos.
+The next day, the weather wasn’t co-operating where we so we headed back down south to Mt Field National Park.  We did a nice hike on the Russell Falls/Horseshoe Falls/Lady Barron Falls/Tall Trees circuit and saw lots of ducks. They even had it set up that you could see if you could figure out the height of the "tall tree". Paul got it, no problem. After that we headed to Mt. Wellington just outside Hobart, braving the twisty road and the crowds.
+
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipMZ9t5GSjmFd0cNbT68-3C_wpStUf3bko_M0C9v?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3eHpk3C0TzGkkmQrk-mA3U3cE17QghjEtgWcOdGfdMsG6C4aPs4DfAH8q3f2fzTCm7to4elIepF8EboHvRYYxRtzA2WFOuSBJrhWJwqyXDssUMEMaOpy2zdFwwmgeSwvj5whnMso9wtApFhfWTfFxO16A=w732-h975-no" width="177" /><div>Waterfalls</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipMtiEwa3LNThPvNGdw7IQ2ccHIqIuOaa8rt6ziB?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3cxsJX_xgAyI6OLNJ67oiSQbVeNjS2swCC5JfgnFnDtliB4gvmkqy59NYob2JulqPMDt0hNM_Ayw7r_A-K9DO7IvVCVQTNKXQZtpU4GSLfn3U-iESC6nvJ0U56WdEcDAjQmMOZhwQHVb3hivrXL0YP7pw=w1300-h975-no" width="310" /><div>Huge Tree Roots</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipMxN7qJ5TTzLQY_tSJyhhb22fobeXEIitwiynNN?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3coK_hRhAW85uiaKYJBsdoo4RVB-bcibhVqh-VUIY_Uz3tq_6upNU2HtsX2wxZzCQoLbae5NbRjtpfwoqD36DcLuzQVR5Jgy4BGqLKwyp9Q57s5hb81JypbDa1l1qBtItBwSh0jQCkUrA5whOsShsiBPw=w1300-h975-no" width="310" /><div>Mt. Wellington</div></a>
+  </div>
 
 
+#### Huonville & Area 
 
-
-
-
-
-
-
-
-
-
-
-The next day, the weather wasn’t co-operating where we so we headed back down south to Mt Field National Park.  We did a nice hike on the Russell Falls/Horseshoe Falls/Lady Barron Falls/Tall Trees circuit and saw lots of ducks.  After that we headed to Mt. Wellington just outside Hobart, braving the twisty road and the crowds.
-
-
-
-
-
-
-
-The view from the top of Mount Wellington, just outside Hobart
-Huonville & Area:
 We decided to spend our last days in Tasmania in this area.  The place we stayed, Huon Valley Caravan Park, was a small working farm and Tasmanian Devil rescue.  They had some of the remaining breeding devils on the island.  Few, if any, live in the wild.  There were ducks galore, calves, cows, chicks, and a platypus stop on the river.  We never saw the platypus but Paul was itching for his fly fishing gear when we were down by the creek.
-
-
-
-
-
-
-We have to give a shout out to the great coffee shop we found in Huonville, the DS Coffee House & Internet Lounge.   The coffee and WiFi were great and it was fun just to sit there and read all of their signs.  Here's a couple of good ones:
-
-
-
-
 
 We spent the day exploring the area and the next day headed up to Mt Hartz National Park for a hike.  Unfortunately it rained.  Not even rained, poured would be a better  description and we got soaked through.  Paul was soaked from the waist down and Helen was wet through all over as we discovered her rain jacket (from Decathalon in Chiang Mai) wasn't waterproof.  It was weird because Paul has the same jacket in the men's version and water beaded right off it.  It also made us think about getting rain kilts for future hikes. (which we now have: 3FUL rain skirts).  We didn’t get to do the longer hike to Hartz Pass that we wanted to but did make it to Lake Osborne.  After changing into some warm dry clothes when we got back, we grabbed a couple of cup-a-soups from the van and brewed up some warm drinks in the shelter.
 
-Note the beads on Paul's jacket and Helen's wetted out fabric
-Nothing like a hot drink after being cold and wet
-MONA:
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipMHPjxtrZbwghLFKPWaP7dbxLaWT_kRxlBQR-sa?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3cut8dLfMGo53Gr8GLGemFa4biWomHWXP1LB09JYCLr8ea9r6SWNOk4s8pJ4b9SmhDCBehAB9DO8lQDc3jVynulZGvkGU-J_Lqmu4dujpzdsPkma7yPyZFii-tHnAwviUjOMEHEPdnlvraiXsqHY6BFdw=w1300-h975-no" width="310" /><div>Tasmanian Devil</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipMfaIIPep8gR3ZWLRYzPxUuWKmIiiwnsv4Vzrix?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3dJj06v-Fb1dG0mz8YD-JfFqDjM66p2uN0yfrpSLI0z-38xc0Ew8o49Mjrb3bApXCWUsRN21j9cSKh1EZbBoyY7tpTXhiztMyF5_y4su4PKM6KflSbZIo1wEzrzOJGC6gGbWeOQcK21BvBCtLSlj6LYEg=w732-h975-no" width="180" /><div>River by the camp</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipMzE2mVRxeCLoU6Tbf6veY-xPPOmPbSpnx5jY47?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3e6CRui7x4q2IxuI_-fW1wBTP8VXtxTDEH0wQDP6KIi_eGoKyhfQW2Iyu5Cy70OT436Pq2Q80tAA_bRM3SUxpJW7N9ihXNxg_1wZxDCH5LL1jn0-5RJZU6zmGttxKYKT8Qk-NOY1nAwcl1i0JR8QkhpLg=w1300-h975-no" width="310" /><div>Lake Osborne</div></a>
+  </div>
+
+#### MONA 
+
 We had sometime before heading to the land of hobbits, so decided to go see the recommended Museum of Old and New Art, MONA.  People we met kept telling us “it’s spectacular”.  They weren’t wrong, they just didn’t specify it’s spectacularly weird.  I know art is subjective but… we were done before we were halfway through. A guy sitting showing a tattoo on his back, a room of ceramic vagina casts and a poop machine?  I can see tattoo’d backs on any beach, the vagina room well… use your imagination… and who isn’t a poop machine, really?  If you want to see all our MONA pictures and videos, check out our album here.  Next stop, New Zealand!
-
-
-
-The Conjuring?
