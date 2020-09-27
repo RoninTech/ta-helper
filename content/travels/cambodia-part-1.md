@@ -1,5 +1,5 @@
 ---
-title: "Cambodia (Part 1)"
+title: "Cambodia"
 date: 2017-07-20T07:28:16-07:00
 featured_image: 'https://lh3.googleusercontent.com/pw/ACtC-3eSxmNQwhsFdayjWsjtDjCbh1hLq5SfONxzl1OhEwpo4cxFkuB1BGS6uKFAtMLNadITHyfRuqZXKHn6xbSo0mxJmdgXr94dOmh042qZgKTMx_BCkXVNymtfQLrc4UwV-JXjITf-6jl5LuVDjgeri29RAw=w1210-h908-no'
 author: "Helen"
@@ -79,11 +79,9 @@ If are you ever in Siem Reap the [Phare Circus](https://pharecircus.org/) is a m
 
 [Photo Album](https://photos.app.goo.gl/awxApQKtKVodwckW7)
 
-Admittedly not our favorite place.  We spent two nights here on the way to Chiang Mai/Hong Kong… yep, heading to Hong Kong!  More to follow on that event.  Anyhoo, bused it to Phnom Penh on the [Cambodia Post VIP passenger van](https://www.cambodiapost.post/en/) from Siem Reap (highly recommended!).  No one fell asleep on this trip.  We spent a full day at the [Killing Fields](https://goo.gl/maps/VdeE7igEXuwKvZdE8) and the [S21 torture prison](https://goo.gl/maps/tczjNu3HaDtXVkdc8).  While heartbreaking it is something that you need to do if heading to Cambodia.  Listening to the tapes from survivors, seeing photos, videos and learning about what happened was an emotional roller coaster and we both felt physically and emotionally exhausted afterwards.  We were glad to get them both done in 1 day so we could start the emotional recovery.  Over a year later the feelings all came back while we were at the war museum in Saigon.
+Admittedly not our favorite place.  We spent two nights here on the way to Chiang Mai/Hong Kong… yep, heading to Hong Kong!  More to follow on that event.  Anyhoo, bused it to Phnom Penh on the [Cambodia Post VIP passenger van](https://www.cambodiapost.post/en/) from Siem Reap (highly recommended!).  No one fell asleep on this trip.  We spent a full day at the [Killing Fields](https://goo.gl/maps/VdeE7igEXuwKvZdE8) and the [S21 torture prison](https://goo.gl/maps/tczjNu3HaDtXVkdc8).  While heartbreaking it is something that you need to do if heading to Cambodia.  Listening to the tapes from survivors, seeing photos, videos and learning about what happened was an emotional roller coaster and we both felt physically and emotionally exhausted afterwards.  We were glad to get them both done in 1 day so we could start the emotional recovery.  It’s horrific, heartbreaking and devastating learning about what happened and understanding how this still affects the Cambodian people.  You'll never look at an older Khmer person the same way again. Over a year later the feelings all came back while we were at the war museum in Saigon.
 
-The photo of the tree is where the regime smashed babies to death, the middle is the Killing Fields Monument which is filled with skulls and bones.  The last one being the S21 Monument which is surrounded by plaques showing names of those who are known to have been killed.  It’s horrific, heartbreaking and devastating learning about what happened and understanding how this still affects the Cambodian people.  You'll never look at an older Khmer person the same way again.
-
-Another aspect of Phnom Penh we didn't like was the seediness.  Cambodia feels like it is still the most wild west country of South East Asia.  This atracts an undesirable crowd who use their western money to take advantage of the under priviledged.  We saw far too many old fat Western men with teen age or barely older girls on their arms.  Soemtimes they were boys.  Basically we were glad to leave Phnom Penh and we try to avoid it when possible.
+Another aspect of Phnom Penh we didn't like was the seediness.  Cambodia feels like it is still the most wild west country of South East Asia.  This attracts an undesirable crowd who use their western money to take advantage of the under privileged.  We saw far too many old fat Western men with teen age or barely older girls on their arms.  Sometimes they were boys.  Basically we were glad to leave Phnom Penh and we try to avoid it when possible.
 
 </br>
 {{< youtube -RXqHRyrl0c >}}
