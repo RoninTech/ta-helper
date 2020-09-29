@@ -75,7 +75,7 @@ Luck changed the next day and the weather cleared.  We had booked the early shut
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipN4dPJpiavA2RzT8CLTSfqBrN9KuKhXptkfxKV91h-qaMHlWit1GEegQtefRYUoZg/photo/AF1QipMG6IiXrDv689vtWCNwI_zj1gMfandUwFxWoz-b?key=XzYxNFhOcWlUS1dna0RCUXg1UVBNeXFrYzZqM2xn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3cqT3kaqgxpCp6JE9BwZar02hEN4Bxezfvz9Kdqn2tUG1OAcg8hQCD9jruE78P_i4-6-riiNFSiW7AyK25bBlC-rWOEBJzEYWmaaUKshtepuYrhLIRmzP9a_HNsKB1XHg6UUxKb2x5ROW8K7CS1S28JUg=w1920-h486-no" width="1000" /><div>The Way Down</div></a>
 </div>
 
-We were a bit tired so the next day just went to Lake Taupo.  Again, power issue so had to switch campgrounds but luckily for us people were really great about it.  
+We were a bit tired so the next day just went to Lake Taupo. Again, power issue so had to switch campgrounds but luckily for us people were really great about it.  
 
 #### Waitomo
 
