@@ -130,7 +130,7 @@ Took the minivan through some beautiful mountain scenery to Vang Vieng. Had a gr
 
 [Photo Album](https://photos.app.goo.gl/YqMxcVv9wuqjHDT28)
 
-We only spent one night in Vientiane. Had an excellent Indian meal at [Jamil’s Pakistani Restaurant](https://goo.gl/maps/hGcz9XhPxsUEtKrw5), saw the sights, then fantastic pizza at [Tyson Kitchen](https://goo.gl/maps/aCgFJRWsVvbWzjPz9) owned by a Vancouver guy.  Saw Nok again!  Our bedbug experience at the [Vientiane Backpackers Garden Hostel](https://goo.gl/maps/87dzVpLaQRp) (total dump) had us fleeing our hostel at 10:30pm  the beautiful [Hotel Khamvongsa](https://goo.gl/maps/fnGSgjyaB292) nearby for a few bucks more.  Agoda actually refunded us the money for our room once we sent them pics of the bedbugs.  Helen noticed them as we were falling asleep and we got out without being bitten.  Many hot showers were had after.
+We only spent one night in Vientiane. Had an excellent Indian meal at [Jamil’s Pakistani Restaurant](https://goo.gl/maps/hGcz9XhPxsUEtKrw5), saw the sights, then fantastic pizza at [Tyson Kitchen](https://goo.gl/maps/aCgFJRWsVvbWzjPz9) owned by a Vancouver guy.  Saw Nok again!  Our bedbug experience at the [Vientiane Backpackers Garden Hostel](https://goo.gl/maps/87dzVpLaQRp) (total dump) had us fleeing our hostel at 10:30pm to the beautiful [Hotel Khamvongsa](https://goo.gl/maps/fnGSgjyaB292) nearby for a few bucks more.  Agoda actually refunded us the money for our room once we sent them pics of the bedbugs.  Helen noticed them as we were falling asleep and we got out without being bitten.  Many hot showers were had after.
 
 </br>
 <div style="text-align: center">
