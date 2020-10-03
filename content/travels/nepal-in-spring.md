@@ -1,7 +1,7 @@
 ---
 title: "Nepal in Spring"
 date: 2018-04-25T19:51:56-07:00
-featured_image: 'https://lh3.googleusercontent.com/pw/ACtC-3dK2OH6gVlLAmHgc_xICicDmkAOr78FhhroJyuc7xK2SNFrNUI9Nc5-KUR-XNHs1JH-05A4kIkT679LRj6Snth_s-BYwZF_tIn17do9L_4JQ78WAcvJ2IbEeKDutNHwfYOw0loie4YupYTk_yogzEQ_eQ=w1306-h979-no?authuser=0'
+featured_image: 'https://lh3.googleusercontent.com/pw/ACtC-3e6utvBsGpq_CExSE-yTqldZ4BiNyiOFQ3emt_DNkqXRt2XTmZ5O_IV6VjXtPNyZba4swS_4JVa9kVrb7BSmoR2vElcig8wRK0XmMrGPDeQ_0yelYQNHU66s-HAVExDl6Mkri09aYULU-fwFV3khBmfWA=w1920-h668-no'
 author: "Helen"
 type: "article"
 omit_header_text: true
@@ -9,18 +9,40 @@ omit_header_text: true
 
 [Photo Album](https://photos.app.goo.gl/MjqKMEC9QD6oaka72)
 
-Bangkok
-After an early morning departure from our Taipei AirBnB, we were outside waiting for the cab at 4:30 am.  We are headed to Nepal with an over night in Bangkok.  We decided to spoil ourselves and booked The Vie in Bangkok and even better, breakfast at The Vie.  We spent the afternoon in Bangkok looking for gear for Nepal and going to a movie (Black Panther, meh...).  After a nice supper at Muay Thai we headed back to pack and relax at our room.  The next morning we were up early to gorge ourselves at the breakfast buffet before heading off to the airport and the second leg of our flight to Nepal.
+#### Bangkok
+After an early morning departure from our Taipei AirBnB, we were outside waiting for the cab at 4:30 am.  We are headed to Nepal with an over night in Bangkok.  We decided to spoil ourselves and booked The Vie in Bangkok and even better, breakfast at The Vie.  We spent the afternoon in Bangkok looking for gear for Nepal and going to a movie (Black Panther, we liked it better the second time).  After a nice supper at Muay Thai we headed back to pack and relax at our room.  The next morning we were up early to gorge ourselves at the breakfast buffet before heading off to the airport and the second leg of our flight to Nepal.
 
-
+</br>
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipMmXkiyt1xhp98-qxk2eW12RSwbVzCCM_Ce9g0U?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3d715WsaGDg10DvI-RCBuNeere_dLQHBqrJBL8rUqy8ANdpAG4DIvxVETsBrNp13TbbIF8eT1ew5eNgBMwhE3vtW-My8tX564wigqIIrfglU4E3BDK01S9KE8HuLKL3DIDrACAve9V7WwqBppdKaH4kDg=w1300-h975-no" width="470" /><div>Our favorite hotel breakies!</div></a>
+</div>
 
 
 #### Kathmandu
 
-Even though our flight was on time arriving we weren't able to land and spent an hour circling about.  When we eventually did land it was a bit hectic...  Going through to immigration was partially automated and there was a person helping at the machine.  We made a mistake and didn't get the 45 day visa but the 90 so we ended up paying more.  At the counter there was a sign stating that you can pay with card but the guy kept saying "cash" and Helen kept responding with "no, card" until he finally put it through.  The lady beside us had an argument with the staff, accused them of keeping her money.  They only accept American at that counter and will refuse bills if they feel they are too old... apparently they asked for a replacement $10 bill and didn't give her back the original.  It was quite heated.  From there it was figuring out what line to go thru to get our visa stamps but the people there were friendly and called us over.  
+Even though our flight was on time arriving we weren't able to land and spent an hour circling about.  When we eventually did land it was a bit hectic...  Going through to immigration was partially automated and there was a person helping at the machine.  We made a mistake and didn't get the 45 day visa but the 90 so we ended up paying more.  At the counter there was a sign stating that you can pay with card but the guy kept saying "cash" and Helen kept responding with "no, card" until he finally put it through.  The lady beside us had an argument with the staff, accused them of keeping her money.  They only accept American at that counter and will refuse bills if they feel they are too old... apparently they asked for a replacement $10 bill and didn't give her back the original.  It was quite heated.  Then it was figuring out what line to go thru to get our visa stamps but the people there were friendly and called us over.  
 
-From there it was find a taxi, get a sim, go to the ATM, decline multiple trekking sales and eventually get in the cab.  If you book the flat fare cab, it's fine but you get the cabbie and "friend" who will try and sell you on a trek.  They all tried to talk us out of spending our time on the Annapurna circuit but we stuck to our guns.  Friends had recommended a place to stay and Hotel Yala Peak became our little oasis when we got there.  We had our first momo's and hit the shops for gear.  We ended up going to Shona's Alpine where we were helped by an English guy who has lived in Nepal for a long time (Shona's husband).  We appreciated the fact that he was pretty straight forward about the gear, what was a knock off, what was a better quality knock off and what to actually get.  We ended up buying sleeping bags, hiking poles, fleece sweaters, gloves, hats and rain jackets.  We also purchased a Steripen classic from another store to handle water purification.  These are actually the real deal in Nepal.  The good thing with them is that they don't freeze (like our Sawyer squeeze can) and only take 90s for 1L, versus at least half an hour for ClO2 drops or tablets.  Our first night we were still pretty pumped so headed to Sam's Bar for some after dinner drinks... glad we did as we met Lee from England.  He lives in the Middle East with his family but travels to Nepal on a regular basis.  We had a great evening.  
+From there it was find a taxi, get a sim, go to the ATM, decline multiple trekking sales and eventually get in the cab.  If you book the flat fare cab, it's fine but you get the cabbie and "friend" who will try and sell you on a trek.  They all tried to talk us out of spending our time on the Annapurna circuit but we stuck to our guns. Pat and Liz (we met in Myanmar) had recommended a place to stay and Hotel Yala Peak became our little oasis when we got there.  We had our first momo's and hit the shops for gear.  We ended up going to Shona's Alpine where we were helped by an English guy who has lived in Nepal for a long time (Shona's husband).  We appreciated the fact that he was pretty straight forward about the gear, what was a knock off, what was a better quality knock off and what to actually get.  We ended up buying sleeping bags, hiking poles, fleece sweaters, gloves, hats and rain jackets.  We also purchased a Steripen classic from another store to handle water purification.  These are actually the real deal in Nepal.  The good thing with them is that they don't freeze (like our Sawyer squeeze can) and only take 90s for 1L, versus at least half an hour for ClO2 drops or tablets.  Our first night we were still pretty pumped so headed to Sam's Bar for some after dinner drinks... glad we did as we met Lee from England.  He lives in the Middle East with his family but travels to Nepal on a regular basis.  We had a great evening.  
 
+
+</br>
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipNe07jLdaUeTFX2pMXRdGUjyCGZhvCQF95o8DVj?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3fUtvvMoj-fJeg8nfOCjljIivkcKfVC2EC_qOlPnLJ0puqAqZOD5_eRXN4IjuIWY6mbRW9jxunHxWqO2KDhjzwffFU0jFePzWm3HhHRjWPmnmCIZas7kcHRwiV3je4pFZAFTe0UH-jga3vqcjxA4bmvBA=w1300-h975-no" width="480" /><div>Arrived</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipPHM5KTrT4DxerSEpUKI2TF4gxEKddGT6wuNytH?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3ccStiIKTZcv2bL4c8NZw2YToMvW4Mo2uWnWCNyFSVFQZkdi1SPkKNSgSbdA8ep8ivJ7NdOBhD9F1I4Q8BYpheUmeXhBFxgmTetaFoPJ--4gHAJcxwI073tA1gQeIL8JKcbhtpfI6A90niOLCrnwgm8wA=w732-h975-no" width="278" /><div>Paul's first Momos!</div></a> 
+</div>
+</br>
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipMhfY9vibYvKcCx0v9MYIJidcM4gyAH0Gv6vyfB?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3e7yGBO9OCEnXdhdI5Biuwpm1gZ4bfe5Gik9-E30xeXdi4c8OW6eicGXI4aG9mAGVZRDPq_7hAdLzt10ZI7yfhQmoTgGZNiqqu3TMZrew2-F-ynmVLeVKucqe25m8wFhCy2pifnW-55uWJZb1NP2nT7xg=w732-h975-no" width="278" /><div>Quake repairs</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipOqrP9wQld-QdOwG1mpN9jrl6opixDp8t7GVuCG?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3eI4fNcPR_wv70jQZJ8NL0Oj6oqUFJNC1Lf7bafeWdD0GLFjQVVXJ87DlpvIrRBarFQ28G6ngHn_TB2ZzRCTiIUR-aX6h2d-qt9aWV0PCcz7A3XSjxWmqQJOcbk-vQZHprwJ0_X5wKZYoVXcdOYpFJpUw=w1300-h975-no" width="480" /><div>Walking over to get permits</div></a> 
+</div>
+
+</br>
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipMPrnLMcUFonootzSb159PoXpsw85fSuhIZGasM?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3d3aqa9xECHUJ8Bywgz_zfxJzHiYZ-Q0kTCqB17Mpqrl1dL69qkIfi7T8mooQIXx2kQGS-Y76jGqAfUO98A5G7kOPiysW2MIiJmbUGUyHgRq851CvmYIGah2a7EGMVUB2tg65C4tpRHjXYgTAtU37nl3A=w732-h975-no" width="470" /><div>Rosemary's Kitchen... delish</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipODP3Ck26qfA6EmmGb9AJvUy7MqcKXM2rqchr8g?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3dtMIYgfn_1w-VNdbCoEm73SYVsyIHIJSAdJH02QKU84cM_jwWWMAAnew6M-JaqOIALURGEAKqEHI9gtbQlvouF6E4-yafnC0aDdet_CsMBdQTPq2BrDKPKXwBB2nj3RvCVaV-0f20QsRnLoE-yes52XQ=w732-h975-no" width="470" /><div>Packed</div></a> 
+</div>
+
+ 
 The next day it was walking over to the Nepal Tourism Board to get our Annapurna pass and TIMS cards.  Between the heat, dust, cars and people, Kathmandu is crazy, I can't even begin to describe it.  After that we had a rest and lunch before heading out to finalize our gear.  We ended up eating almost every meal at Rosemarys Kitchen which was attached to our hotel.  The staff there were super nice and friendly, food was delicious and it was quiet.  
 
 The last day was rough for Paul, the dust had aggravated his sinuses and since he was just getting over his cold we decided it was best for him to stay out of the dust.  I got some last minute things while he packed.  Teamwork!  We stripped our packs down to only what we needed for the trek and left the rest in a duffel bag at the hotel for retrieval upon our return.
@@ -36,7 +58,16 @@ So we decided to take the mini bus to Besisahar which deserves it's own segment.
 
 At that point, we started 4x4'ing in an overloaded Toyota Hiace... Paul even commented that an ATV would have had trouble on the "road".  I could try to describe it, but I don't think it would do it justice.  While freaky, it was pretty amazing to watch the driver and his assistant manage creek crossings, large rocks and massive channels in the dirt roads.   There were lots of tricky bits but there were other vans and everyone worked together.  The best part was when Paul looked behind and saw full size buses following us down on this trail... CRAZY!!!  7 hours later we made it to Gateway Himalayan in Besisahar, me with a massive headache and Paul with a hunger only to be cured by momo's.  After a nice relax we did our final preparation for the start of our Annapurna trek.  We decided to hike all the way from Besisahar to the very end past Ghorepani.  It seemed that most people used jeeps and/or planes to turn a 16 day trek into a 8 to 10 day trek.  By doing the full thing we figured we would acclimatize better, altitude and fitness wise.  We continued to use the excellent free maps.me app to navigate along with a KMZ file we found on the web.  Maps.me was able to import the file and it showed us elevation profiles between points on the trek.  Excellent for planning and seeing what hellish ups and downs awaited.  Another invaluable resource was the New Annapurna Trekking Trail (NATT) guide. 
 
-
+</br>
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipPt6dkHTeKLyILI47bj7XmjPFpZclCh3-7Hy6ns?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3cONsXjCbBgxLXWgb1jQW2VmISEen0banO5V2oJNUApZjCTTg_AUGw72OhHKhAPTnfKGPdJWpABFgoCNgCRK2N_wiKAxNG16YBGM6ABad4AR80EttNW0yCJiA5u-nSMeXYLyFzpXe11KqzSKvmj0E828w=w1300-h975-no" width="470" /><div>Let's go!</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipOQWk01iOBCAZGKTr5agIaEiyBY2ccoNtMuK9Tu?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3eTQh8v_VA4h917kGrUuuuuF_yrm3eJ9NtsQBvnCuxyM9Tb9uVlHAIW3JZ7hW7rraZOIjEO5CRc85dN2LMJLjpjjxp6743TxGlXvCGvHVietac1Dh-VA1fRPzT6QGXIgIX84lDpgzrTHuqA0eVg4SpQaw=w1300-h975-no" width="470" /><div>Crazy!</div></a> 
+</div>
+ </br>
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipNqiwksFWsaO6W8CIA8GBmDmxHGkjB4SwsAeITq?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3cnG3jD7Da3e-DKTYk9tXjXmzg2WvLPqTSj-mWuet5KCliMQrmAJh8VV2db8d7stqqR_aufC4taJ9JWnybASY2ef0iic0KAcnJ6GC6HQ_re-UTokN2dGlCK8P8JPqBq2dAtX8KmlHilDdW_oMwLdO5BYA=w1300-h975-no" width="470" /><div>Mountains are back there... somewhere</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipOWtoRFH5O2wTTUVoQ_h8mAKRMFtpwH5ClnDXtw?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3e7aSyrb8zfhzqb2cPvLGZQlemaK58xy7UB6I2GFe1iESNrvNX-rzmRmpwFzIh3_wVS9L1InCT_h_Z18jSYWyCsfXHIqv1CPb0IBTtQbjLsVIq372DHFhV2RkoyfHwKywlDqVj2wsiQqH2cgf_rzUu9YA=w1300-h975-no" width="470" /><div>Mountains</div></a> 
+</div>
 
 #### The Annapurna Circuit
 
@@ -50,22 +81,56 @@ We made it to the Wanderlust Guest house in the afternoon.  The guesthouses are 
 
 At Wanderlust the owner's son was having a birthday, he just turned 1 and there was a little party.   Not surprisingly we had an early night as we were tired.  
 
+</br>
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipMHYImtthHpjcDWlkHc2SuVefu3MW0EiVwF1JJf?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3dOnLMlNIZjkwlTwyRlyH_wxR0hcd0xiG2-Q_bJfOAFKCJ9SLpQbW8U7h4m8uh2xsMTPzHwrdb6PH0SAdSHz8r1ZbigPgZEmx0CD_fent8Ouq06VRiQlmwwRDE4NZFi8EuaNh9CaizvYwxbXDNt4sc9FA=w1300-h975-no" width="470" /><div>On our way!</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipPcHSrJ5Ka598Veop-5imyevH8N-KVCpvICywsQ?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3cIb3L20GhXOudbco-45luy2FKPLnVpGYG9etXag8_JquVwcAscuygJMhW7G-4brxf4guVjABLbXc2kOF79Eoijwj1ikw80coannhDTsM1uAoFIlISW1A7QyWmylI6XsxCQVYx0Iki3hDlUfVs-ukQV3A=w732-h975-no" width="270" /><div>Suspension Bridge!</div></a> 
+</div>
 
+</br>
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipN5PtkUxwE-PMba3LXJpVfr4fM2xq2kip6nVZ-C?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3cnOP1dA_nwEEe2jMoslTcevU3jeWp2glWmWSBhRBST8mcLnLWHRyTxtk0lstqxEcD4MF7_JVmiacORhlchjn0qXyNGJtYc3l1XGwWSwxYTzN0oDikQJsY0n5UTXgjiNERX3hFA1xfx9U3FHE2uemmtpg=w1300-h975-no" width="470" /><div>Poop sculpture</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipOsX_1677fNPllV5F9X9XTcW7wN18jTgwEzRjJC?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3c0RSA-nrl-peUAC1LBPSg4puOYod5wePCvioT9JyGRmAAxvVdiOI0MGqzUUQ80kTEXX-HrY6G3Q4TKR2kqXTRvhmmkqxns_zfoyQRF0WuNbZEKW7KMJWezSlCGkVTTOoQdxozKnL0AUjrm7JCbAMpBGw=w1300-h975-no" width="470" /><div>Dal Bhat!</div></a> 
+</div>
+</br>
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipMUV-y8Uxz96AHeJ2FahKsegvSH3aaO9EIlrx-1?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3caO3yGYQCsUb310Yyx-rP4gcphgbOc9cwpoEpb5hhvMa1p3yZcny1qL0lNzcycbflPYY8LKwz_JOFg92NxcFc8egm70z-oGfx4sWxO1ez6zhjtc1E9Xw-tAAtqc_NC_f9JNxkiY_SjlMfFD10NiJ2ZpA=w1300-h975-no" width="470" /><div>Safety First</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipM4gLZGSIxa8p0vF9TNkQumwN4PTbhWUBWIq8hi?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3cUPqhzPmXHFpzlv8z80HwS4R3rHSefjwcdGek5PlJyJQDH1ysijsy01Xj7KhWzoySjzeztT2EsAgL1PxGXcdraOgSeRW3Dxg_IRCrTW1TNW3Y63MraidVOLKhj8GE2i_s_MYvuPxhVBw_F5r5fqEHBfA=w732-h975-no" width="270" /><div>Waterfall</div></a> 
+</div>
 
-
-
-
+</br>
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipNeQRRtjxzU_Djc8tmwJH8UaX1fNQ_4kSdS3s73?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3deHLaXXXgofXJgoYwqmGLv73eQfOq70caVo21-zuMZsUANmLuHEyeBu5KYkNi4VLw8oZmS65W6-hCXkTu_6feMkTGZsdfSC3b80Tlj6xC4fQu_ygdJWiLie4y8C5V6W-5ikHdJKF9hEDe-yknfMIlibA=w732-h975-no" width="270" /><div>We walked up that!</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipOiw5BSqZvfUtBb2GudrRcODjISL2VxdRP5h_iS?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3fAvn22z9a8DtJi6GwyMVDItthL3UlyxtyiyfkpXAhe1n2gAI9QIMaQJHfozvr1zqLW8SpV7G9tunFIlQtiyJu3q5x1M5JIR0yly643JYZ2E_R0QnUZ6Li8QnSm1gizTSiaAxYmosE5eyTcpakECEBXiA=w1300-h975-no" width="470" /><div>Birthday Boy</div></a> 
+</div>
 
 #### Chamje
 
 Our next day was the 18K walk to Chamje with about 700m elevation gain.  The thing about elevation is you are gaining and losing on a regular basis and the estimated amount doesn't account for it.  You are up and down valleys, crossing suspension bridges and walking along rivers being passed by herds of goats, pony trains, porter trains and other trekkers.  We were on and off the road at various times, lots of stairs and at one point we went up off the road, crossed a steep creek only to come back down to the road.  We had a nice tea and lunch with Chris from Holland, who had stayed at the same guesthouse the night before.  
 
 The ascents aren't easy for me, but I was put to shame by the elderly locals who were up and down, carrying large loads and working.  Outside of Jagat, we met a tout who was advertising for his brother's guest house.  He was a really nice guy and we had a good chat.  He gave us a card for his hotel and we kept going.  We did decide to stop at this place... it was a little spooky since we were the only guests there but it was fine and there was a hot shower.  They plied Paul with "mad" honey from the rhododendrons and the fellow kept us entertained with stories.  Supper took a long time, but was REALLY good which was surprising since the cook was 3 sheets to the wind.  We realized that when he came and sat with us again and serenaded Paul.  He asked Paul to go out with him after "your wife goes to bed" but being sensible and tired, Paul declined.  
+ 
+</br>
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipOKsqK4oCoY_Xjht7ENho2b_WwBhOPsfXEBjUrh?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3emNaOUD-F3RhCylawqAs3N3NQczrNnKPpjXsK6l5h9b-dnMI5VpgC15RJrWfutCiHsv8ST_A79Mi17TktshkhDWeLtcFfJYYa13JuAXRqhUwzLidCPEA0IknY2pXyKPtni4ZHJW6PtU6tv2u_z9-U_ig=w1300-h975-no" width="470" /><div>Mountain bus!</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipME_mS_vrIrnpQRAs0lAZUmUxrjTZqjzF0iQywA?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3ddnJHw08H5dfLFFfwzaCJM7gZxswoFuHSBY4SqYNL3NIppP9IHYc3qj-3DCt-Qm1uQcPhzK1IGongBPtdKxT10QbV4QAtyKLOR82iZQ_y9xgHOLQkCYMKDrb1oCbRwGS_3Sj01S4JYitxEHomH4AJbaQ=w1300-h975-no" width="470" /><div>Ready to move!</div></a> 
+</div>
 
-70'ish year old guy carrying crazy load
+</br>
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipN0oOu5eU71WvJEURYImwI4Zpv-VQf3ug9EHdX9?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3drE1cqCLS9Ulgl8hvaWTKdQuah_N7ousbfTl9QwOM2O4nffOHQeeC728_zhGeamI0JL9qkaSHCsVH2HDlC1Y1UkTR3FlgKLZfD4CGnyt98ZWKsGNb-5-lYaZj3PRCgDefZ_zFYUp4GwMBTWQbTVTN2AQ=w1920-h939-no" width="900" /><div>Blister stop</div></a>
+</div>
+</br>
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipN3Z8MXLR9iiIjZw6rbNZ6zFFlJoLt-8Ux27ZWk?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3f9eq2vVb0TdvGhvnMZPIqZVgVeCK8rwVSd1W2LpnNEyHkQsR0tO_sVf5HEQ501-gCrtFdEX-bJvwP63JuvlOS5OqSvjpAHhHakQRiEgtqQwJxZ0mqiVfMf94NI9_NFDKu9PdXqhdIdadxmb6IasA0uJw=w732-h975-no" width="350" /><div>Arches</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipNQd-wfJ8gRF0pA_I0s40Zg--1DiXnxc1Z88QSz?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3ddXIoA7Mois23lQ_XQ3Bp83PZp9DGDgOy_XPYUvayHL7m04JtzuCEOC-HQeuiwcZjpcffUcU2F8Vd6ah-y1_LYSss4dqZWSYt8MdtHT4K5XgKFstLlGA2QHHPGeqckUmR1QhamHngHLbzUnAw_TnjXwQ=w732-h975-no" width="350" /><div>Edges</div></a> 
+</div>
 
-Zoom in to spot the bee hives on the cliff face
-
+</br>
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipP-nO5Y4EAEuaqT-5agneYj_00QwYZ2CpT5eEmZ?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3cqcGN59zamN2JmZ2V4lYZXJOudPwpz5md_l_7c2Gkcmc-g0BcEa72y9iVyQfaxcLbxEZfBhXBBO-gLFMKYHlTQM5nwsmDFNg93oWB1o1NoGbxa63xibU6wurNqt_J-CyFTD3dZYSW34oKAlHCNTDHKBg=w732-h975-no" width="350" /><div>Waterfall!</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipN5oYYDVPfhB4pbT4bCIlPUGxRzZoZWUT9NiiRA?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3c0rkdQp3B5q1vTB-UGKhicdMEfOkQSx3y6gkLak-v4AyQOD9WOq6jMcDF7bGVhgTjR-yzEuhlKO7DExxn_TSiFmKUue3QXfXjqd2WTRQLuOr0R2zXHjzf4qymQaoGRiRGJCJCeO5pW060hGhuwa1aeeQ=w732-h975-no" width="350" /><div>More Dal Bhat</div></a> 
+</div>
 
 #### Dharapani
 
@@ -73,13 +138,28 @@ Today was a shorter 12K walk but we had a 900m gain on the way into Tal.  The wa
 
 It started raining in the afternoon so we were happy to get to the New Tibet Lhasa Guest House and sit around the fire.  
 
+</br>
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipO9c7zsJz4Q5eUY6Ycmh-RPyozgYy5pfZzPAKCc?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3eB4UZBpxgBaWrZmAuD20T3onliPrggkaE8huRDeB2NomBoaM31EkC1JfuWn-Wpf3HSBBLx3oGt63C74vfOIU1IwCEXkDBLETfXujpRBkF70hpaHS0XFWg5i0bf6YCsdWpIO3gVBz1CMNnTnPKFgsFivg=w732-h975-no" width="270" /><div>Across the Gorge</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipM9lJy8pMH76pUIp-_pSj3Jw-J7uJ3Sfzfk_5o2?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3fWn_s29SQ-jD_fcrE32Q5HEQzNKTS4Jm55uJ82xInL5-8WXGGbOQcA-pHElJx-lokq8fgaYgunWBI-ByL_LehLuDESVs3Ln6McKFm7yVRvEn0tvE2G7hKuMxIalEJOLnjO3ZCmsdYAzLmaTw3lXOgklg=w1300-h975-no" width="470" /><div>Goats!</div></a> 
+</div>
 
+</br>
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipOt-SQEtbZ-I1tNUokpkTz-1KjhzTLNT-m6Oe0I?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3dJn2URXAAnUkd2jU4DL3KbtrJkLT_Tisol5HGe_uTlTiXTm-2OSnWwyMvzeG6Ob0kQDcSbuKhQjIqkyRgaNo9EgoEO9_qh_jF4n3nKYpHGOztlmZ2_1FB8w5hk6-8UZJXFbZZnsYL2i94wBdtGOCjXGA=w1300-h975-no" width="470" /><div>Altitude Chart</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipNE2DBvkH_RJoHKlqWbB9GGUo_kZPC49s1DAafi?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3cFXQRKOvl9VQR6-RymHvGJFViqUXhVl8dlKDIG25j7vs36xeJdM9W51_dJUnjCa2RbE3dCYdughrb2wiUfrddsKIKfS5AqmEfGB_tQjMOw1veh0eVQLSA95dHsSmEG5W4mPyyA5RbTgyd-Ns-stE4T_Q=w1300-h975-no" width="470" /><div>Manang District</div></a>
+</div>
+</br>
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipNUjFPu4c2p8tQlczxDluHKiVyP65lgt1jWKYD7?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3dN18q7Ha53bb_ml-tkIuZm2aHuzI3TczNh-PpJ_cYSiQwqEkKkpHPuhQ7rjbZt6oR7VQqN9vhgJD9BkUAIYqagX_4ZOAE7ZZGkUDmFerHgx59iNoA0vFHFfaYlgR1Dx03Xueo_hXf-HkZ5PPwcMrj7Tg=w732-h975-no" width="350" /><div>Tal</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipOIWxYtPwEo6IHk5-SZ5HQgN_jlj8t5q8LlU8vM?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3d6sDh_DnDsUfKgImRrBvm9eTglUUUFldL69G_l-_6Z4Qc43qEcyD_F_xcGDbDuBL1dNBrGXvV9Pbcs6m3_fKLnRjSlXXF7PyDr-gvzO4YmYNwerM9NKXYOc_P5sdP_twZkRc9LNccS8aiH5RDYrJIDtw=w732-h975-no" width="350" /><div>Heavy Load</div></a> 
+</div>
 
-
-
-
-
-
+</br>
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipN7z3fZY0dZO1ARLXDeb1GbsRJ3jQ2zCutLJSV9?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3ePyJKQ0y8jT3MyEeUn1tPRj4VmVVSk3IpJ6Z_iOStry3kbqQ36Qo1UgtvYgFOAgUMbuTq6rStdqJ756UHbwKiAU0iTeo83z5RAT4OxXL6k21J6qu-UayL29ngIeuFfyy9AemcykwPWTAT8Mgx38-MBpw=w732-h975-no" width="350" /><div>Suspension Bridge</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipMp5Lud93LYkp9nnmIOA0ZoHrTRpDxFBQEOLtmM?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3cOoJYUU4JNUSe12RlGeNfUncjUVwt_YuKh6gV9szQWJdpYdWjugOPM8rtalGTr_EjtPQ50KfRTVleV9xvwXoM2d4XKSLhKde-qbOq1vIZcWHqO-SgOWjopperl3XyVCKhJtuJitw1kbwwR6EAadmSSYw=w732-h975-no" width="350" /><div>Guesthouse</div></a> 
+</div>
 
 
 #### Chame
