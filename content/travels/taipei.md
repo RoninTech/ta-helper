@@ -1,14 +1,14 @@
 ---
 title: "Taipei"
 date: 2018-03-21T19:51:56-07:00
+description: "Three weeks in Taipei"
 featured_image: 'https://lh3.googleusercontent.com/pw/ACtC-3cwRjAfTO90VefGC1a1vgcl5xvplW33sd5p8gkvCHJ3yIQ8F03VmjjdZTLRq7X4pzS_wCoNWVZAubdYj_M9SmxlLjGzg-7i79jJVGnzWYl0TR1bFyDs2C0kUshEFyNJWkCurWnRMV3rBduHUeZMCrwtxw=w1306-h979-no?authuser=0'
 author: "Helen"
 type: "article"
 omit_header_text: true
 ---
 
-After the Philippines, we decided to do a stop in the Taiwan.  A good friend of Helen's is from there and we know several people who really enjoyed it.   We managed to get a good flight from Cebu, to Manila to Taipei on EVA air so off we went.  We did have a little hitch thinking the flight departed Manila from the same terminal  we arrived to from Cebu.  Unfortunately not the case and after 20 minutes trying to figure it out we realized we had to head to  terminal 3.  This involved finding the inter-terminal bus, a long bus ride between terminals, with 2 stops before we were dropped at the proper area.  We also hadn't done an online check in so we went from hot bus, to line up, more line up in customs and then we were able to relax at the gate.  Note to self, no where in the departure area sells gluten free food and everywhere has a minimum use for credit or debit so you can't even get chips... unless you kept some local currency aside.  
-
+After the Philippines, we decided to do a stop in Taiwan.  A good friend of Helen's is from there and we know several people who really enjoyed it.  We managed to get a good flight from Cebu, to Manila to Taipei on EVA air using only a few thousand Aeroplan miles so off we went.  We did have a little hitch thinking the flight departed Manila from the same terminal  we arrived to from Cebu.  Unfortunately not the case and after 20 minutes trying to figure it out we realized we had to head to terminal 3.  This involved finding the inter-terminal bus, a long bus ride between terminals, with 2 stops before we were dropped at the proper area.  We also hadn't done an online check in so we went from hot bus, to line up, more line up in customs and then we were able to relax at the gate.  Note to self, no where in the departure area sells gluten free food and everywhere has a minimum use for credit or debit so you can't even get chips... unless you kept some local currency aside.  
 
 
 #### Taipei Taoyuan Airport
