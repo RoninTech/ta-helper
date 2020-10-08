@@ -3,6 +3,7 @@ title: "Taipei"
 date: 2018-03-21T19:51:56-07:00
 featured_image: 'https://lh3.googleusercontent.com/pw/ACtC-3cwRjAfTO90VefGC1a1vgcl5xvplW33sd5p8gkvCHJ3yIQ8F03VmjjdZTLRq7X4pzS_wCoNWVZAubdYj_M9SmxlLjGzg-7i79jJVGnzWYl0TR1bFyDs2C0kUshEFyNJWkCurWnRMV3rBduHUeZMCrwtxw=w1306-h979-no?authuser=0'
 author: "Helen"
+description: "3 weeks in Taipei"
 type: "article"
 omit_header_text: true
 ---
