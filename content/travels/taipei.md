@@ -16,9 +16,16 @@ After the Philippines, we decided to do a stop in Taiwan.  A good friend of Hele
 
 After a nice flight, our first with EVA air, we arrived in Taipei.  Customs was very efficient and we were soon in the arrivals area.  We were sure surprised by the quiet hush when we came through the arrival gates, not at all what we expected.   The airport was well laid out so we were able to get great Chunghwa SIM cards, do an ATM stop and get the local metro cards at the 7-11 in the basement.  While English isn't everyone's first language, we were able to do everything quite easily.  We quickly found the metro access and headed off into Taipei proper.  
 
+</br>
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipOlha608EVRP6WED6k5o7qOJLSVqMyehUxZeAMb_5UWUjzijzmj_0p68MBU-h5YEA/photo/AF1QipOU6BSyr5x6hQ21OoJ6CmOYCFJmFZLuK6JwKkkm?key=V2RhMk91d2twTlVIV3BQX282OW92UmZYYXV3dlFn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3fg5FYZEJALVZ1K0jybHP8oPC977oF2WjGQ5bESomBu4uisH7O0bQUcm5EV4PLWqa1ufILs5YsIF0w8IijBK6qHB4gc8mnAqHzyU-K8emgHPuSLwmyu3AMQGu__9iQ7_afl8eDCmMjGFSWBxyg7YoSQ6A=w465-no" width="465" /><div>Short Eva Air Flight from Manilla to Taipei</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipOlha608EVRP6WED6k5o7qOJLSVqMyehUxZeAMb_5UWUjzijzmj_0p68MBU-h5YEA/photo/AF1QipNxk5AVMUBxmSv48lqigEt-RDX59YeY67XpQ6W0?key=V2RhMk91d2twTlVIV3BQX282OW92UmZYYXV3dlFn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3cqW9F5LcH_xiVFjvvg3g_4QuVrm_hdfbZf-EkdQAbMrK8UHyZn0kn6ekajCtbPeIorp6qkSjQss3-q99t_OlnkEYUOjYkdHuNReOCDv68sfcs-Y5B_mOHfD15xOBh6iYItBRyrM9xQYzrlrzFB96_5ag=w265-no" width="265" /><div>Excellent Eva Air!</div></a>
+    </div> 
+
 #### Da'An District
 
 Hotels and hostels were very expensive, so we had found an AirBnb which seemed reasonable.  The host was very nice and gave excellent directions, so it was easy to find.  After a bag drop we decided a wander was in order so hit the streets of Taipei.  We started at a restaurant for soup.  Paul was amazing at using google translate by video to figure out what to get.  It's pretty cool to point your phone camera at a big sign in Mandarin and watch the Chinese turn into English.  Then we took a walk over to Taipei 101 to see it at night.   The traffic here is extremely organized and quiet, again not as expected.  The streets are very clean and walkable so we were able to get around easily.
+
 </br>
 <div style="text-align: center">
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipOlha608EVRP6WED6k5o7qOJLSVqMyehUxZeAMb_5UWUjzijzmj_0p68MBU-h5YEA/photo/AF1QipO41SFV_mmjHsYRDqsLpeO_ernr_GEUJejkpvPL?key=V2RhMk91d2twTlVIV3BQX282OW92UmZYYXV3dlFn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3dW_PKmILudBhvUQa4tJ0W1YOpGhihdXYVIjXMl_8r2lo5pU1PcVIKa2i1tdUgwgn_ZgJjqosI1FMQ8gNlt4trDjcxkp4Iq1NrhTLfseAvmsZh_kcq_wJ4qyFD9l1Emjb8SafkkCRynKrE6e2WBUJl-bg=w265-no" width="265" /><div>Taipei 101</div></a>
@@ -39,7 +46,7 @@ Our little apartment was okay, no cooking facilities but had a fridge, bathroom,
 We had already decided to head to Nepal next so were looking for a battery pack, Paul found a technology mall withing walking distance so we figured we would head out after lunch.  Special mention must to go the best Ramen shop that either of us had been to, G2 Ramen .  This place wasn't even two blocks from the apartment and was amazing... the green curry being my favorite.  You line up for a spot, order from a machine then go sit down.  Thankfully they had staff that helped us out with the machine.  
 </br>
 <div style="text-align: center">
-    <a style="display:inline-block;text-decoration:none;color: grey;" href="https://lh3.googleusercontent.com/pw/ACtC-3e-MUxYb1zL7SeMbe9MYU_aRQAG3cnVV2lk4rjw6XH78-aqJQq48bHfWWijbldaTYow82zhLBrWHmhqKOA1ubZ09DIx8rGFVEmH7bspFK7s_vP3qWqrdEKe6PtxoGvgcO8yQ_Bg91H8xKpsHdhZeup8GQ=w265-no" width="265" /><div>Ramen</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipOlha608EVRP6WED6k5o7qOJLSVqMyehUxZeAMb_5UWUjzijzmj_0p68MBU-h5YEA/photo/AF1QipPuecyDbDjP6qiv6NYH6h8GxDWrIUE-R0QKHkLl?key=V2RhMk91d2twTlVIV3BQX282OW92UmZYYXV3dlFn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3e-MUxYb1zL7SeMbe9MYU_aRQAG3cnVV2lk4rjw6XH78-aqJQq48bHfWWijbldaTYow82zhLBrWHmhqKOA1ubZ09DIx8rGFVEmH7bspFK7s_vP3qWqrdEKe6PtxoGvgcO8yQ_Bg91H8xKpsHdhZeup8GQ=w235-no" width="235" /><div>Yummy ramen noodles</div></a>
     </div>
 
 After lunch, we walked over to Guanghua Digital Plaza.  The streets in Taipei are easily navigated and while it seemed like a long walk, it was nice.  We took a different route back and ended up at another UniQlo... it seems to be a thing.  The food in Taipei had been amazing so far, a bit expensive, but worth it.  We couldn't get into the restaurant we had hoped for that night and ended up in a random bavarian place where the meal was meh.  
