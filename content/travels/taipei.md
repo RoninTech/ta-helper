@@ -11,16 +11,17 @@ omit_header_text: true
 
 After the Philippines, we decided to do a stop in Taiwan.  A good friend of Helen's is from there and we know several people who really enjoyed it.  We managed to get a good flight from Cebu, to Manila to Taipei on EVA air using only a few thousand Aeroplan miles so off we went.  We did have a little hitch thinking the flight departed Manila from the same terminal  we arrived to from Cebu.  Unfortunately not the case and after 20 minutes trying to figure it out we realized we had to head to terminal 3.  This involved finding the inter-terminal bus, a long bus ride between terminals, with 2 stops before we were dropped at the proper area.  We also hadn't done an online check in so we went from hot bus, to line up, more line up in customs and then we were able to relax at the gate.  Note to self, no where in the departure area sells gluten free food and everywhere has a minimum use for credit or debit so you can't even get chips... unless you kept some local currency aside.  
 
+</br>
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipOlha608EVRP6WED6k5o7qOJLSVqMyehUxZeAMb_5UWUjzijzmj_0p68MBU-h5YEA/photo/AF1QipOU6BSyr5x6hQ21OoJ6CmOYCFJmFZLuK6JwKkkm?key=V2RhMk91d2twTlVIV3BQX282OW92UmZYYXV3dlFn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3fg5FYZEJALVZ1K0jybHP8oPC977oF2WjGQ5bESomBu4uisH7O0bQUcm5EV4PLWqa1ufILs5YsIF0w8IijBK6qHB4gc8mnAqHzyU-K8emgHPuSLwmyu3AMQGu__9iQ7_afl8eDCmMjGFSWBxyg7YoSQ6A=w465-no" width="465" /><div>Short Eva Air Flight from Manilla to Taipei</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipOlha608EVRP6WED6k5o7qOJLSVqMyehUxZeAMb_5UWUjzijzmj_0p68MBU-h5YEA/photo/AF1QipNxk5AVMUBxmSv48lqigEt-RDX59YeY67XpQ6W0?key=V2RhMk91d2twTlVIV3BQX282OW92UmZYYXV3dlFn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3cqW9F5LcH_xiVFjvvg3g_4QuVrm_hdfbZf-EkdQAbMrK8UHyZn0kn6ekajCtbPeIorp6qkSjQss3-q99t_OlnkEYUOjYkdHuNReOCDv68sfcs-Y5B_mOHfD15xOBh6iYItBRyrM9xQYzrlrzFB96_5ag=w265-no" width="265" /><div>Excellent Eva Air!</div></a>
+</div> 
 
 #### Taipei Taoyuan Airport
 
 After a nice flight, our first with EVA air, we arrived in Taipei.  Customs was very efficient and we were soon in the arrivals area.  We were sure surprised by the quiet hush when we came through the arrival gates, not at all what we expected.   The airport was well laid out so we were able to get great Chunghwa SIM cards, do an ATM stop and get the local metro cards at the 7-11 in the basement.  While English isn't everyone's first language, we were able to do everything quite easily.  We quickly found the metro access and headed off into Taipei proper.  
 
-</br>
-<div style="text-align: center">
-  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipOlha608EVRP6WED6k5o7qOJLSVqMyehUxZeAMb_5UWUjzijzmj_0p68MBU-h5YEA/photo/AF1QipOU6BSyr5x6hQ21OoJ6CmOYCFJmFZLuK6JwKkkm?key=V2RhMk91d2twTlVIV3BQX282OW92UmZYYXV3dlFn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3fg5FYZEJALVZ1K0jybHP8oPC977oF2WjGQ5bESomBu4uisH7O0bQUcm5EV4PLWqa1ufILs5YsIF0w8IijBK6qHB4gc8mnAqHzyU-K8emgHPuSLwmyu3AMQGu__9iQ7_afl8eDCmMjGFSWBxyg7YoSQ6A=w465-no" width="465" /><div>Short Eva Air Flight from Manilla to Taipei</div></a>
-  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipOlha608EVRP6WED6k5o7qOJLSVqMyehUxZeAMb_5UWUjzijzmj_0p68MBU-h5YEA/photo/AF1QipNxk5AVMUBxmSv48lqigEt-RDX59YeY67XpQ6W0?key=V2RhMk91d2twTlVIV3BQX282OW92UmZYYXV3dlFn" target="_blank"><img src="https://lh3.googleusercontent.com/pw/ACtC-3cqW9F5LcH_xiVFjvvg3g_4QuVrm_hdfbZf-EkdQAbMrK8UHyZn0kn6ekajCtbPeIorp6qkSjQss3-q99t_OlnkEYUOjYkdHuNReOCDv68sfcs-Y5B_mOHfD15xOBh6iYItBRyrM9xQYzrlrzFB96_5ag=w265-no" width="265" /><div>Excellent Eva Air!</div></a>
-    </div> 
+
 
 #### Da'An District
 
