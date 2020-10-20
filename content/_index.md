@@ -58,4 +58,4 @@ We started off with grand plans of blogging all about our travels.  It wasn't lo
 &nbsp;
 ### Random selfies from our travels.
 
-{{< gslides src="https://docs.google.com/presentation/d/1FmTOQZMiXgO2nescaEg9exaQ8OKGyUYL1vmIQBgfQTk/embed?start=true&loop=false&delayms=10000" >}}
+{{< gslides src="https://docs.google.com/presentation/d/e/2PACX-1vRklIv8mBn4RNHuGg_Qrs5BhR8KdYtvtqDRI3_jl0eEyfV5TGUooiQeCxkpD-OyIVhtrtdXfLuyJD6-/embed?start=false&loop=false&delayms=10000" >}}
