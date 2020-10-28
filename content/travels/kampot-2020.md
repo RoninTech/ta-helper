@@ -8,9 +8,7 @@ type: "article"
 omit_header_text: true
 ---
 
-Jan 27 - Feb 11
-
-Well Kampot again you say… well yes, why not. There are a few places that we have been that keep us coming back and Kampot would be one of those places. Of course, being able to see our friends like Lee, Dean, Dhui and the kids, Paula and Sydney. Hang out at our favorite places like the NYNY with Tavi, Stumble Inn with Harry and Keemi, Aroma House with James or Couch Potatoes with Jem. There are constant changes but it always feels good to be back. 
+Kampot again you say… well yes, there are a few places that we have been that keep us coming back and Kampot would be one of those places. Of course, being able to see our friends like Lee, Dean, Dhui and the kids, Paula and Sydney. Hang out at our favorite places like the NYNY with Tavi, Stumble Inn with Harry and Keemi, Aroma House with James or Couch Potatoes with Jem. There are constant changes but it always feels good to be back. 
 
 Our transfer from Ha Tien to Kampot was smooth and we didn’t have any hiccups. At this point we had already started hearing about a flu that's going around in China. Apparently it was quite bad and people were starting to get concerned. For the first time entering Cambodia we had our temperatures checked and were given a piece of paper that we had to keep with us.
 
