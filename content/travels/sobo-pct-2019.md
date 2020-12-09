@@ -23,7 +23,7 @@ And here it is all laid out on the bed, just before we left.  Click to see the f
 
 </br>
 <div style="text-align: center">
-  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipPNGk2OlzQFeL65ex2X2HD68q04eTrAwGsZlHs8enrmQ5WTlkvvNupuhKRWvrNwEQ/photo/AF1QipMiojeQwvcC8rxoGDcJvVPtp_NlcDUpyQNWwX00?key=ZVVoTzRxTkFDVkNHVEJybG1YME9OMUp2N3hwclVn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3fjoSLzI-LOSlJt37382FlGfhTAcQ5Fir2YE86LMCDnQKPQpl-L2g8mhisCJL_OiEgv7svqKTVT9Ao4xlJLkxx8AfvSk_JqCkZwth9-n-f_gd2GGnBndCgNjQVOshNUtkMi1hrXqACJhCa7gQXA35-8WQ=w500-no" width="500" /><div>All our gear layed out</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipPNGk2OlzQFeL65ex2X2HD68q04eTrAwGsZlHs8enrmQ5WTlkvvNupuhKRWvrNwEQ/photo/AF1QipMiojeQwvcC8rxoGDcJvVPtp_NlcDUpyQNWwX00?key=ZVVoTzRxTkFDVkNHVEJybG1YME9OMUp2N3hwclVn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3fjoSLzI-LOSlJt37382FlGfhTAcQ5Fir2YE86LMCDnQKPQpl-L2g8mhisCJL_OiEgv7svqKTVT9Ao4xlJLkxx8AfvSk_JqCkZwth9-n-f_gd2GGnBndCgNjQVOshNUtkMi1hrXqACJhCa7gQXA35-8WQ=w500-no" width="500" /><div>All our gear laid out</div></a>
 </div>
 
 </br>

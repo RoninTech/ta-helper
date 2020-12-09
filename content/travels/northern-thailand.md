@@ -13,7 +13,7 @@ After Myanmar we spent several weeks in Northern Thailand. All the Chiang’s to
 
 [Photo Album](https://photos.app.goo.gl/qglYDEQDLrifYFH22)
 
-We decided to get organized in Chiang Mai.  Mailed some items back that we don’t use, saw Wonder Woman and did a cooking class with Pat and Liz. I’d wanted to a do a class so this was more for me then Paul.  We got to make several dishes and no injuries occured.  After wandering the night market we spent some time at the shopping malls, not either of our favorite things to do but we managed.  Had a nice evening at [Small House Kafe](https://goo.gl/maps/HG6bY4qjTYiincyu8) where some advice from Dao had us heading off to Chiang Dao instead of Pai. 
+We decided to get organized in Chiang Mai.  Mailed some items back that we don’t use, saw Wonder Woman and did a cooking class with Pat and Liz. I’d wanted to a do a class so this was more for me then Paul.  We got to make several dishes and no injuries occurred.  After wandering the night market we spent some time at the shopping malls, not either of our favorite things to do but we managed.  Had a nice evening at [Small House Kafe](https://goo.gl/maps/HG6bY4qjTYiincyu8) where some advice from Dao had us heading off to Chiang Dao instead of Pai. 
 
 </br>
 <div style="text-align: center">

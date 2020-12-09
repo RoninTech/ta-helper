@@ -19,7 +19,7 @@ After Siem Reap, we did 2 nights in Phnom Penh, then flew via BKK to Chiang Mai.
 
 #### Downtown Hong Kong
 
-If our goal was to eat our weight in dim sum, we succeeded in our 3 days there, as we ate at [Dim Dim Sum](https://goo.gl/maps/z81qqPpj9WP2) at least 5 times!  A lucky coincidence that our [Charterhouse Causeway Bay hotel](https://goo.gl/maps/YXJ6d5PcyqWfgEGA7) was less than 5 minutes from amazing dim sum.  In between eating we took ferries and buses, took the worlds [longest moving staircase](https://goo.gl/maps/t2ACG3eZbeNaoxpWA), scaled [Victoria Peak](https://goo.gl/maps/WEJSQYx57g11n1Fo8), stayed out at the bar util 5 am, saw the game, went to Kowloon and saw the light show!
+If our goal was to eat our weight in dim sum, we succeeded in our 3 days there, as we ate at [Dim Dim Sum](https://goo.gl/maps/z81qqPpj9WP2) at least 5 times!  A lucky coincidence that our [Charterhouse Causeway Bay hotel](https://goo.gl/maps/YXJ6d5PcyqWfgEGA7) was less than 5 minutes from amazing dim sum.  In between eating we took ferries and buses, took the worlds [longest moving staircase](https://goo.gl/maps/t2ACG3eZbeNaoxpWA), scaled [Victoria Peak](https://goo.gl/maps/WEJSQYx57g11n1Fo8), stayed out at the bar until 5 am, saw the game, went to Kowloon and saw the light show!
 
 </br>
 <div style="text-align: center">
@@ -37,7 +37,7 @@ If our goal was to eat our weight in dim sum, we succeeded in our 3 days there, 
 
 #### The Anfield Wrap
 
-By posting on the Anfield Wrap Facebook group we managed to get tickets to the match from someone who worked at Standard Chartered in Hong Kong.  The day before the game was the live show which was awesome.  Hung out and went clubbing util 5AM with Gareth Roberts and John Gibbons from the show.  We also met Melissa Reddy who is a Liverpool sports writer.  Turns out the organizer of the Hong Kong LFC Club, Ian, went to St. Eddy’s ([St. Edwards College, Liverpool](https://goo.gl/maps/wwkfj1Ar21fZvidL6)) just a year or two behind Paul and remembered all the same teachers.  Small world! 🙂
+By posting on the Anfield Wrap Facebook group we managed to get tickets to the match from someone who worked at Standard Chartered in Hong Kong.  The day before the game was the live show which was awesome.  Hung out and went clubbing until 5AM with Gareth Roberts and John Gibbons from the show.  We also met Melissa Reddy who is a Liverpool sports writer.  Turns out the organizer of the Hong Kong LFC Club, Ian, went to St. Eddy’s ([St. Edwards College, Liverpool](https://goo.gl/maps/wwkfj1Ar21fZvidL6)) just a year or two behind Paul and remembered all the same teachers.  Small world! 🙂
 
 </br>
 <div style="text-align: center">

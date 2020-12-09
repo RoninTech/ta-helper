@@ -10,7 +10,7 @@ omit_header_text: true
 
 So we arranged to get to Cambodia by ferry to the Vietnamese mainland through Andy at Oasis Bar. They arrange you to be met at the ferry, taken to the bar then off to the border. Mr. Chen helps you at the border and gets you in a taxi to your final destination on the Cambodian side. It was great. And everything went smoothly, no delays at either border and we were at the guesthouse by lunchtime
 
-We weren’t able to get into the NyNy with it being over the Christmas, New Years so booked at Stay in Kampot with Gilly and Noel, which was right across from Razorbacks. We had also booked a Christmas dinner of turkey/ham with all the trimmings! Lee had gone back to spend the holidays with his family but was heading back a few days before we were booked to depart. 
+We weren’t able to get into out usual NyNy Hotel with it being over the Christmas, New Years holidays so we booked at Stay Inn Kampot with Gilly and Noel, which was right across from Razorbacks. We had also booked a Christmas dinner of turkey/ham with all the trimmings! Lee had gone back to spend the holidays with his family but was heading back a few days before we were booked to depart. 
 
 Being that Razorbacks was so close, our first night was a stop in to say hello. The next day we headed out around Kampot, found a place for breakfast and wandered around to see the changes. Christmas Eve we had a late night at Stumble Inn so we were a bit slow on Christmas day! Had a really nice meeting with various people at lunch and then went out again. 
 
@@ -21,7 +21,7 @@ Being that Razorbacks was so close, our first night was a stop in to say hello. 
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipPo_ASSOxXcMk3FdrytimrRqtD-8y0t9mVsyYGWwp05KB6wzRWlaVPDJU2FToem8w/photo/AF1QipMZn5WskgWMy4ryU7JqDXAlNrvUOTZVMtYN9k2H?key=YTVWLWNoMDJING1HdHNJZGxyc0d6dlRSamFfQ1Jn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3dfv3NUdYg6rRT1EtpvV5IU33soPqG5OEQQfS_eMXfy7ktmpNruDHJ85T9vmyt4jXirQnZ2GhgIt7cQYqLHHDxkTzv0XNrUlIhEWIzSRy70VM5tOZ7N6U2ykhpUnEMIDM_VlMacRgHWPav_S7LF_N2Raw=w265-no" width="265" /><div>Trouble</div></a>
     </div>
 
-Stay In is a nice place but the location was right beside a “rooster” fighting place. We also didn’t have air con in our room and the mosquitos were hungry. Really nice room and Gilly went above and beyond, left us a little treat bag for X-mas morning and was very friendly. They even let us do laundry which is a bonus.  
+Stay In is a nice place but the location was right beside a “rooster” fighting place. We also didn’t have air con in our room and the mosquitoes were hungry. Really nice room and Gilly went above and beyond, left us a little treat bag for X-mas morning and was very friendly. They even let us do laundry which is a bonus.  
 
 We did a walk over to NyNy and were able to book for our last 8 days in the usual AC room. We went to see James at Aroma and saw Sydney, Jem and all sorts. We met a lot of LFC supporters at Couch Potatoes, Alan being the main one. Jem even opened at 3 am so we could all go watch a game. We spent a lot of time at Stumble Inn with Harry and Keemie.  
 

@@ -166,7 +166,7 @@ Songkran – A 3 day festival of water fights, being drenched and having a blast
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO2kMrzhEyZClN7z24EEh9axbu5XJXFmlFtAYVM5boKK3QlVMEeuBEBeU4ByP7Nzw/photo/AF1QipMtIjyb7mIjqGFsZ4VyKQd8U8oMDT6lQ1C7EAuy?key=ZGY5Njd4eU9xR1gxVlJxUXVQekxIWFZVT3VyQ1hn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3dVYgbshYlRcXSqalyDOBaWNz3pJenKgSQefMbYyzUCqWl67wSWPZ02XLavbo1tyjg3roMPoMHw12TJPmip1x-T5yEyROwtYeZYkzxzcWdp8tMY4fH1qsG8wgCuYOTYjdLRRWIdDm59-6FAQfBOd_WYLg=w470-no" width="470" /><div>Chris and Dao from Small House and their friend </div></a> 
 </div>
 
-Markets - We hit up [Warrorot market](https://goo.gl/maps/jy3rgYR5gFHbJvSX8), Sunday night walking market and ate Khao Soi almost every day from a stall across the street from our condo, 35b/$1… delicious.
+Markets - We hit up [Warorot market](https://goo.gl/maps/jy3rgYR5gFHbJvSX8), Sunday night walking market and ate Khao Soi almost every day from a stall across the street from our condo, 35b/$1… delicious.
 
 </br>
 <div style="text-align: center">

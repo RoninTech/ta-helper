@@ -286,7 +286,7 @@ We made it thru to Muktinath later in the afternoon.  Ram was waiting for us out
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipNUT31AbrQ3U9rMbzodiLwzvTIkfj5U59PeYoZ1?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3f57PeNUtgaSuUCsuPJbFLyIRvxQrFDdRdxCiVJlfWLSrmBqQHFBhKP3qCWdUe76Sajj2sm1Kta_4wuyXRIA07grUMSPAzxvWfAkqM2qIOCwyDrn74NYCmkT7t9k8qZZN3pEQqbkMPwp17elVAiThtIWA=w325-no" width="325" /><div>Muktinath</div></a> 
 </div>
 
-On our way out of Muktinath the next morning we popped into the famous Hindu/Bhuddist temple.  There were tons of Indian people here doing pilgrimages, begging or both.  It turns out that the majority of the road traffic on this side of the Annapurna Circuit is mostly made up of Indian people on a religious pilgrimage to Muktinath.
+On our way out of Muktinath the next morning we popped into the famous Hindu/Buddhist temple.  There were tons of Indian people here doing pilgrimages, begging or both.  It turns out that the majority of the road traffic on this side of the Annapurna Circuit is mostly made up of Indian people on a religious pilgrimage to Muktinath.
 
 </br>
 <div style="text-align: center">
@@ -408,7 +408,7 @@ Paul and I discussed what to do and decided to skip ABC for now, heading down to
 </br>
 <div style="text-align: center">
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipP_h6dIpfpk53Pi12H2wNtrIrcfhVRrBSxLKZUA?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3cYJvjilsCijK3IX_X3Hf9Y6YVJ2bj-zyMZInO5KnSzo3iu2QfNF262fap9ruOPLcEpURdfi2jVz3RrN3ii52-yqC5VCykED3zhmwwxFn4-Fc2djj-dkSd4jCwFV9HkNIl3xJTkm2FPRhCs_T65NcjVnA=w400-no" width="400" /><div>Ghorepani</div></a> 
-  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipPmDbOtbOjtigbBd9J8F2JWHTtVcAJly4BuOx3-?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3eFD4pidNztAqE2W1i0WJT-iYDI3YNXFu58qv2szfhGwVCWURvatewlipMtG1U-6Umo_7U7OJOZThEx9s4GRVHMA5BVDkb9WDO-4F2OmkiqxtRH-1Os8cfI3bbNK-vFHdUIZDLxJ575WmFzgzSBSPSzog=w250-no" width="250" /><div>Rhodadenderans</div></a> 
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipPmDbOtbOjtigbBd9J8F2JWHTtVcAJly4BuOx3-?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3eFD4pidNztAqE2W1i0WJT-iYDI3YNXFu58qv2szfhGwVCWURvatewlipMtG1U-6Umo_7U7OJOZThEx9s4GRVHMA5BVDkb9WDO-4F2OmkiqxtRH-1Os8cfI3bbNK-vFHdUIZDLxJ575WmFzgzSBSPSzog=w250-no" width="250" /><div>Rhododendrons</div></a> 
 </div>
 </br>
 <div style="text-align: center">
@@ -432,7 +432,7 @@ When we got to Ulleri, we all loaded into a jeep and headed off down the road.  
 
 When we got to Pokhara, we were dropped off at the place that Ram was hired from.  Jin wouldn't accept any money from us to pay for Ram's services so we just gave Ram a big tip as a thank you for everything he did for us.  Besides his infectious laugh, he was a really nice person and we really appreciated everything he did.  Once Jin gave his review, we headed off to find a hotel.
 
-We ended up at the Butterfly Lodge which just so happened was across from the Pokhara Rosemary Kitchen... the irony!  Unfortunately I had picked something up and wasn't able to leave the comforts of my throne... still not sure if it was giardia or a food borne issue. Paul and Jin headed out for supper and went for a drink at Phewa Lake.  
+We ended up at the Butterfly Lodge which just so happened was across from the Pokhara Rosemary Kitchen... the irony!  Unfortunately I had picked something up and wasn't able to leave the comforts of my throne... still not sure if it was Giardia or a food borne issue. Paul and Jin headed out for supper and went for a drink at Phewa Lake.  
 
 We had breakfast together the next morning, Jin had to head to Kathmandu to get back home so it was our last hurrah and we were sad to part ways.  Jin is a wonderful person and we shared many a great laugh and good conversation.   We agreed to meet again in South Korea or Canada.
 
@@ -441,12 +441,12 @@ For the past week, we had been discussing what to do next.  Our original plan ha
 </br>
 <div style="text-align: center">
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipPVxmHBJUtDOwTYnkIuXcnaVuQ2nGxCr2RvybdP?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3cqzrYu75Mzq5UNiMzQgRjAmf_cqHS3HpWEsB82etL_a1ZyCVkHS1hG06OJ68fm9QX4waZfTr8gZJhc8Gd3-jaukdwDv7Q6jwMB8YmQDzEeqqrtFLARQ0-8BQLlrBcZlF9A8hsVLhPLFILhyuj4qVUBBg=w270-no" width="270" /><div>Traffic</div></a> 
-  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipN3_BBQYMG7ITuMXIVgId6JdmZ-243NnRkXkJYS?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3dsnBh_UjCU-TE9y7cYPJfUgW0lQzWQOgztoW-y6DYbWjd2E68Vu_Fhrt3BQUCH5JfaDuznHNH4IGuaEFam_B6REnXzrUEiVMjiXt_oJHTC9Bhj5GXoicDK0FgKB8Avqu_gpPIEQOFvjSLMFSOuVD8lvA=w450-no" width="450" /><div>Flight to Kathmandhu</div></a> 
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipN3_BBQYMG7ITuMXIVgId6JdmZ-243NnRkXkJYS?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3dsnBh_UjCU-TE9y7cYPJfUgW0lQzWQOgztoW-y6DYbWjd2E68Vu_Fhrt3BQUCH5JfaDuznHNH4IGuaEFam_B6REnXzrUEiVMjiXt_oJHTC9Bhj5GXoicDK0FgKB8Avqu_gpPIEQOFvjSLMFSOuVD8lvA=w450-no" width="450" /><div>Flight to Kathmandu</div></a> 
 </div>
 </br>
 <div style="text-align: center">
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipMn-x-s8U72CRWUN2aHwjEd2gvKYk8sG8Zin8WF?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3f2nnJ1TjhdJ9RGGQHwqI05iArg1RTxIlGVroRmXSM_zd2J7G-uqZGM7gmaGdGqB9-aJYa0WxN492_z5H9zNoWgvkDSZJ2m1XIXF5CZKr4jMKHzXhGcuApu90jGY9tDCAnGhGaoX6qolBbJ8uf-rz3gZA=w350-no" width="350" /><div>Open Door Policy</div></a> 
-  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipNydlm8USQxXEVikEpAo0-NoNned0X64zMcLoMN?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3fgLwjtJ_r8ns4HZdEfSs3CYX-DNUKQ9aNWN1-QfoNcROO9B-wl6XzEoZ_cSNjwb803waNaKj4maz-sR7ZBZ-mT2uq348b3vRa4GNmctrPDJlv123kJHqQzClXX4mnUvqRCVSDJhdm0mIQc4gDF2NKwfA=w350-no" width="350" /><div>Kathmandhu</div></a> 
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipNydlm8USQxXEVikEpAo0-NoNned0X64zMcLoMN?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3fgLwjtJ_r8ns4HZdEfSs3CYX-DNUKQ9aNWN1-QfoNcROO9B-wl6XzEoZ_cSNjwb803waNaKj4maz-sR7ZBZ-mT2uq348b3vRa4GNmctrPDJlv123kJHqQzClXX4mnUvqRCVSDJhdm0mIQc4gDF2NKwfA=w350-no" width="350" /><div>Kathmandu</div></a> 
 </div>
 </br>
 <div style="text-align: center">

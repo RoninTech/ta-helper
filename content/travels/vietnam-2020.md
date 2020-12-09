@@ -59,7 +59,7 @@ The next day we said goodbye to Hanoi and headed down to Phu Quoc.
 
 #### Phu Quoc - January 22- 25
 
-We went back to Chang and Josua’s place, since it was perfect last time. My cold had gotten worse on the plane, so we really didn’t do much. We rented a scooter, went to Iris Cafe for some Creme Brulee, found a breakfast place that was closer then the Saignon Cafe. We went shopping for some basics, yogurt and fruit and laid low. We got to the beach twice, even though we were in the shade, we both ended up with a sunburn. 
+We went back to Chang and Josua’s place, since it was perfect last time. My cold had gotten worse on the plane, so we really didn’t do much. We rented a scooter, went to Iris Cafe for some Creme Broulee, found a breakfast place that was closer then the Saigon Cafe. We went shopping for some basics, yogurt and fruit and laid low. We got to the beach twice, even though we were in the shade, we both ended up with a sunburn. 
 
 Randomly, I ended up with food poisoning after eating tofu and felt even worse than I already did with my cold. We booked our ferry tickets and Chang took us to the bus stop. Despite not being well, we had a nice time at our stay. Chang left fruit and is just such a nice person. We had arranged the ferry to Ha Tien with Mr Chung, again with Oasis Bar to get to the border. Next stop Kampot. 
 

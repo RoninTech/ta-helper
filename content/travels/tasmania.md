@@ -64,7 +64,7 @@ The trail starts off in a forest and heads up to the cliffs, then goes back thro
   </div>
 
 #### Cape Hauy 
-After a night of rest, we decided to head off on the next part of our journey but first we had to hike Cape Hauy (9km return).  We were warned there were a lot of stairs but we thought we could handle it.  We did it, it hurt, but the views were totally worth it.  There were a lot of up and downs rather than just a steady uphill/downhill.  When you get to the platform at the end its a crazy vertigo inducing view, especially if you look down over the railing. There is a stone pillar called the Toem Pole that people climb and sometimes even highline back to the main area... crazy!
+After a night of rest, we decided to head off on the next part of our journey but first we had to hike Cape Hauy (9km return).  We were warned there were a lot of stairs but we thought we could handle it.  We did it, it hurt, but the views were totally worth it.  There were a lot of up and downs rather than just a steady uphill/downhill.  When you get to the platform at the end its a crazy vertigo inducing view, especially if you look down over the railing. There is a stone pillar called the Totem Pole that people climb and sometimes even highline back to the main area... crazy!
 
 </br>
 <div style="text-align: center">

@@ -42,7 +42,7 @@ Somehow, we managed to get an early start and off we went, stopping at Hotel Hil
 
 We met a trekker from Indonesia, a couple from Germany and some girls from the Netherlands who were scared of spiders.  We kept passing each other over the next several days so were able to meet up.  
 
-It was an easy decision to stop back at the same hotel in Chamje.  The older fellow was still there, but Paul’s admirer was nowhere to be seen.  The trail was much busier this time around, more jeeps and people. Side Note: on our flight to Sri Lanka, we were given slippers. Paul said "keep your slippers, Helen. They will com ein handy". My response was "what? no way" and my slippers were left. Paul was right and took advantage of wearing the slippers.  
+It was an easy decision to stop back at the same hotel in Chamje.  The older fellow was still there, but Paul’s admirer was nowhere to be seen.  The trail was much busier this time around, more jeeps and people. Side Note: on our flight to Sri Lanka, we were given slippers. Paul said "keep your slippers, Helen. They will come in handy". My response was "what? no way" and my slippers were left. Paul was right and took advantage of wearing the slippers.  
 
 </br>
 <div style="text-align: center">
@@ -115,7 +115,7 @@ We ended up having to spend a couple of nights at Throng Pedi since we both got 
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipPG8_YkNBpj8EC_hiflodjk7RRXpLICgTN0VBHJQ-gxdk_83Mqip9vGYHIezux9jA/photo/AF1QipM8JwrGEDTiTFOFOUcI4dT4ZpwfHX2qzzBfd1c9?key=amNoNU5QSmlIckU3QTVGUy1WNTBvSFlIQW93a2ZB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3dPjRCOBMCa_R0zTtBiEgCxFJprXkJwztoiM-XL9U8XWmDGFv5GzzMmpErcQ4RlaZxknTt4mnCN0EQKxVR3wQQfQPtylLxNpG_L3ZD7Zw5flszJHegu5LIUK7dE5Di5Xj9Ghr2yBarBSzYGXhU60qAUgw=w375-no"width="375" /><div>COLD</div></a> 
 </div>
 
-Next day, over Throng La Pass with no AMS and very little snow!  We were able to spend time enjoying our accomplishment, a nice change from last time. It was noticably more crowded this time. Then it was down the other side. 
+Next day, over Throng La Pass with no AMS and very little snow!  We were able to spend time enjoying our accomplishment, a nice change from last time. It was noticeably more crowded this time. Then it was down the other side. 
 
 </br>
 <div style="text-align: center">
@@ -124,7 +124,7 @@ Next day, over Throng La Pass with no AMS and very little snow!  We were able to
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipPG8_YkNBpj8EC_hiflodjk7RRXpLICgTN0VBHJQ-gxdk_83Mqip9vGYHIezux9jA/photo/AF1QipP7xSO6yYrQy1j_kFfDvLEF4Xi-Snv-axyrKrot?key=amNoNU5QSmlIckU3QTVGUy1WNTBvSFlIQW93a2ZB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3fMPPbAQlLx9Pm6hgywWW4zJ0u181cyNygqB3u3Dw-o30SRHQADXiztmEH-QyPcWVL57rGNNC6JaCO01qhh6uPOluIAlcz6yt2fio6ucfOBGBHLJD5OOHDpkNrcvfZf4gN2kqlr-Q6h8E82AhpipWHlog=w1300-h975-no"width="375" /><div>Heading Down</div></a> 
 </div>
 
-We spent some time in Muktinah with the “group” and ended up walking with Omar and Jarah to Kagbeni.  We all stayed at YacDonalds, which was where Paul and Jin had Yak Tea last time. I think we all ordered the Yak Burger for supper, it was pretty tasty! On the way to Jomsom, we ended up going down by the river too much and had to climb out over some rocks and a little sketchy bit to the road.  I ended up wiping out near the end, typical me, and lost a pole. There was a lot of apple pies eaten in Kagbeni and Marpha! We took a random trail along the way, went through a village and various tourist areas... it was a nice break from the road but we did end up getting lost so had to still do a road walk. 
+We spent some time in Muktinath with the “group” and ended up walking with Omar and Jarah to Kagbeni.  We all stayed at YacDonalds, which was where Paul and Jin had Yak Tea last time. I think we all ordered the Yak Burger for supper, it was pretty tasty! On the way to Jomsom, we ended up going down by the river too much and had to climb out over some rocks and a little sketchy bit to the road.  I ended up wiping out near the end, typical me, and lost a pole. There was a lot of apple pies eaten in Kagbeni and Marpha! We took a random trail along the way, went through a village and various tourist areas... it was a nice break from the road but we did end up getting lost so had to still do a road walk. 
 
 </br>
 <div style="text-align: center">
