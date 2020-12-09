@@ -5,7 +5,6 @@ featured_image: 'https://lh3.googleusercontent.com/pw/ACtC-3cEowWu6qdacvjUzzGAKF
 author: "Helen"
 type: "article"
 omit_header_text: true
-draft: true
 ---
 We have been hiding from the wrath of COVID in a small town which until recently had less than 5 cases… lucky us!  In October we had moved into our little apartment out in [Lister, BC](https://goo.gl/maps/WXhtKievYhPdXthN9) and expected to continue [working on the van](/van-life/). Unfortunately the universe decided to continue the spread of COVID and it was becoming even harder to get items we needed. Sure we could get a few things but it was turning into more of a struggle, delays were longer and costs increasing. The weather was also changing… which is a big factor when you don’t have an indoor area for the van.
 
