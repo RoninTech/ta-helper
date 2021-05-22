@@ -10,6 +10,8 @@ Here's a map showing all of the places we've stayed and travel hubs we've used i
 
 <iframe loading="lazy" src="https://www.google.com/maps/d/embed?mid=14UysYj3T4q0avGgS4Cc-dmVkkpi6kEFI&z=2&ll=5, 140" width="800" height="500"></iframe>
 
-Here's a link to a map of all the flights we've taken since we started our adventure on Feb. 27th, 2017.  Just click the banner below to see the map.
+Here's links to maps of all the flights we've taken since we started our adventure on Feb. 27th, 2017.  Just click the banner below to see the map.
 
 <a href='https://openflights.org/user/CarryOnRTW' target='_blank'><img src='https://openflights.org/banner/CarryOnRTW.png' width=400 height=70></a>
+
+<a href="https://my.flightradar24.com/CarryonRTW"><img src="https://banners-my.flightradar24.com/CarryonRTW.png" alt="Our Flightdiary.net profile" /></a>
