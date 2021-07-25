@@ -60,6 +60,8 @@ Once you have the slider blocks attached to the Skorvas you are ready to attach 
 
 When laying out the Luroy slats onto the Skorvas, we used 2 large 1/4" fender washer of about 1/8" thickness as spacers to the previous Luroy.  When we tried to open them up the first time, there was some binding.  I marked the ones that were binding and took a small amount (1/16th) off 6 of them on the table saw and then it all slid back and forth with no binding.  The first Luroy that we attached we used 2 equal size wooden blocks as spacers between the aluminum rail edge and the first Luroy.
 
+We ended up with 37.5" below the bed for the garage and 37" above.  Hopefully enough height for a couple of e-bikes and stored gear.
+
 ### Things that we have left to do for the bed:
 
 * Come up with a way to lock Skorvas 1 and 3 in place but still have them easily removable.
