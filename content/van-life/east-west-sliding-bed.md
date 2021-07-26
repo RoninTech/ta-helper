@@ -21,8 +21,9 @@ We don't have an extended length van so we need to maximize space usage.  We wil
 * 24 1.5" 1/4"-20 bolts and large fender washers for the wall bolts and 
 * 24 1/4"-20 pre-bulbed plusnuts
 * 13 1/4"-20 hangar bots.  Use the shortest ones you can find as it makes it easier the shorter they are sticking out of the plusnuts.
+* [JB Weld Plastic bonder](https://www.jbweld.com/product/plastic-bonder-syringe) that works for wood and plastic
 
-We also used some scrap 2x4's to create our wooden slider blocks (between the skorva ends and alumimun rail) and some thin shims to get the aluminum rails nice and tight on the top of the 3/4" walls.  I'm probably forgetting something but this the vast majority.  Total cost was right around $300 CAD.
+We also used some scrap 2x4's to create our wooden slider blocks (between the skorva ends and aluminum rail) and some thin shims to get the aluminum rails nice and tight on the top of the 3/4" walls.  I'm probably forgetting something but this the vast majority.  Total cost was right around $300 CAD.
 
 It took a few days mostly due to us currently staying in a rural community (it's a 1 hr drive each way to buy stuff) and me having just broken my ankle in 2 places.  First job was to install the plusnuts using the astro tool.  I originally installed them using a DIY approach but the ones for the bed I splurged on the tool and was very happy for it.  I over tightened one of the plusnuts on the passenger side (you can see one marked with an "X") but we had so many on that side (14) that losing one wasn't an issue.  Next we put hangar bolts into the plusnuts and carefully pressed the 3/4" baltic birch into them leaving indents showing where the bolt holes needed to be drilled.  
 
@@ -58,14 +59,21 @@ Once you have the slider blocks attached to the Skorvas you are ready to attach 
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO-0rET7XafecISfWb_1cuW2bY9RzO3vEmhvtBrr3Jx-A-tkV5uajVaanHs-YAJXg/photo/AF1QipN5NjgBNk0AXKPoUI7xxV1gUvd1v6IZIxA2jY8b?key=c2lmY3NBczBtaVBZRy1XT3FTZUNiRUpoNmJNY3R3" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AM-JKLWsXsctQ2-B5ny8NZ705rsa5ZQWGDDGFOKdGTZlQvdwGzh5z3zIuenbTLLHWCZQcMDVOtCZ9d-HqAATKNfsnC-MrsnlKY6EoN2G9G-9QwFJNJxLqHBJq8UMQg1ElnpOB4mTcy5cXVN8uknZIzzZygE2-A=w460-no" width="460" /><div>Garage view showing 4" overhanging Luroy slats at rear</div></a>
 </div>
 
-When laying out the Luroy slats onto the Skorvas, we used 2 large 1/4" fender washer of about 1/8" thickness as spacers to the previous Luroy.  When we tried to open them up the first time, there was some binding.  I marked the ones that were binding and took a small amount (1/16th) off 6 of them on the table saw and then it all slid back and forth with no binding.  The first Luroy that we attached we used 2 equal size wooden blocks as spacers between the aluminum rail edge and the first Luroy.
+The first Luroy that we attached we used 2 equal size wooden blocks as spacers between the aluminum rail edge and the first Luroy to keep everything aligned.  When laying out the rest of the Luroy slats onto the Skorvas, we used 2 large 1/4" fender washer of about 1/8" thickness as spacers to the previous Luroy.  When we tried to open them up the first time, there was some binding.  I marked the ones that were binding and took a small amount (1/16th) off 6 of them on the table saw and then it all slid back and forth with no binding.  <a name="FIXED2"></a>The wooden blocks were a bit grippy on the Aluminum slide rails so I found some old plastic trellis that felt nice and greasy like a cutting board and epoxied some pieces to the slide surfaces of the wooden blocks bolted to the ends of the Skorvas.  To epoxy plastic to wood we used JB Weld plastic bonder that works for both wood and plastic.  We scuffed up both surfaces with sandpaper before bonding.  These plastic sliders made a huge difference!
 
-We ended up with 37.5" below the bed for the garage and 37" above.  Hopefully enough height for a couple of e-bikes and stored gear.
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO-0rET7XafecISfWb_1cuW2bY9RzO3vEmhvtBrr3Jx-A-tkV5uajVaanHs-YAJXg/photo/AF1QipPrmmT3E00EzymnZzrdSPP7EDI4B1lTPlZCyJ88?key=c2lmY3NBczBtaVBZRy1XT3FTZUNiRUpoNmJNY3R3" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AM-JKLXEb1tzpbfLoqQ4JFdBGUYYubsFXCEG1JPoZHw2blY3jGCHYBlIeMb56reL6r7Eh-pEwz9YGNl3QCF9BGzCVsAIryfAJit-3T32wyn3aoqHFDmkcngDMzy1NGkKOVl_8yQXKqM3jstdRy2I4POPbgxEew=w420-no" width="420" /><div>Perfect type of plastic for tough, slippy slider surface.</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO-0rET7XafecISfWb_1cuW2bY9RzO3vEmhvtBrr3Jx-A-tkV5uajVaanHs-YAJXg/photo/AF1QipMDB_5JiLRmupM4Rp5Q-88yxnM8ZOvYL-Y3LVYg?key=c2lmY3NBczBtaVBZRy1XT3FTZUNiRUpoNmJNY3R3" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AM-JKLWJLAIQ7nFpVKiSe7m2jfjgL_EnDNSv_b3AKwXeikjqiu_anaHbHL5xmtrZ5f9SXoBHNcRDkVNgXB7h3_Jbbhc9MhtXrsbCXQPuhzOStCdSR6uYURFwbKEj0pPvSqkdbSmeo7TxVXWWSd5RzBwhQnb1-A=w420-no" width="420" /><div>Slippy plastic epoxied to the wooden blocks</div></a>
+</div>
+
+We ended up with 37.5" of space below the bed for the garage and 37" above.  Hopefully enough height for a couple of folding e-bikes and stored gear.  Here is a video showing how easy it is to slide the bed in and out with one finger.  The pieces of plastic we epoxied to the sliding surface of the wooden blocks made a huge difference in noise reduction when sliding and also drastically reduced the amount of effort needed to slide the bed in and out.
+
+{{< youtube id="AeqiicHonKo" autoplay="false" >}}
 
 ### Things that we have left to do for the bed:
 
 * Come up with a way to lock Skorvas 1 and 3 in place but still have them easily removable.
-* Locate some tough plastic to replace the wooden blocks for smoother sliding on the aluminum rails.  Maybe the plastic decking that looks like lumber?
+* [FIXED](#FIXED2): Locate some tough plastic to replace the wooden blocks for smoother sliding on the aluminum rails.  Maybe the plastic decking that looks like lumber?
 * Add a Baltic Birch face on Skorva 4 with 2 handles so we can pull it out and push it closed easily.
 * Add latches on each side of the face to lock it in the open closed positions.
 * Build boxes for the head and foot of the bed.

@@ -4,7 +4,7 @@
     &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
   </a>
   <script async src="https://cse.google.com/cse.js?cx=cc9ea23d9dcc10261"></script>
-  <div class="gcse-search"></div>
+  <div class="gcse-search" enableAutoComplete="true"></div>
     <div>{{ partial "social-follow.html" . }}</div>
   </div>
 </footer>
