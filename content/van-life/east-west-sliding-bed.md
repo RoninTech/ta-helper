@@ -77,3 +77,4 @@ We ended up with 37.5" of space below the bed for the garage and 37" above.  Hop
 * Add a Baltic Birch face on Skorva 4 with 2 handles so we can pull it out and push it closed easily.
 * Add latches on each side of the face to lock it in the open closed positions.
 * Build boxes for the head and foot of the bed.
+* Figure out what mattress will work in the 73" x 60" queen bed space and be comfy without needing to be 10" thick.
