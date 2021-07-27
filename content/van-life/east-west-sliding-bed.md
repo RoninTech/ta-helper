@@ -20,7 +20,7 @@ We don't have an extended length van so we need to maximize space usage.  We wil
 * 8 2" bolts, fender washers and nyloc nuts to connect the Skorva rails to the wooden slide blocks
 * 24 1.5" 1/4"-20 bolts and large fender washers for the wall bolts and 
 * 24 1/4"-20 pre-bulbed plusnuts
-* 13 1/4"-20 hangar bots.  Use the shortest ones you can find as it makes it easier the shorter they are sticking out of the plusnuts.
+* 13 1/4"-20 hangar bolts.  Use the shortest ones you can find as it makes it easier the shorter they are sticking out of the plusnuts.
 * [JB Weld Plastic bonder](https://www.jbweld.com/product/plastic-bonder-syringe) that works for wood and plastic
 
 We also used some scrap 2x4's to create our wooden slider blocks (between the skorva ends and aluminum rail) and some thin shims to get the aluminum rails nice and tight on the top of the 3/4" walls.  I'm probably forgetting something but this the vast majority.  Total cost was right around $300 CAD.
