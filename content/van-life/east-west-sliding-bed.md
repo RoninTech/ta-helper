@@ -70,6 +70,12 @@ We ended up with 37.5" of space below the bed for the garage and 37" above.  Hop
 
 {{< youtube id="AeqiicHonKo" autoplay="false" >}}
 
+Finally, since we are still working on the van we made it so we could lift the bed off the rails.  Weighs around 60lbs and is easy to remove with 2 people.  Neither of us want to try removing it by ourselves as it is too unwieldy and we'd probably scratch the heck out of stuff as we tried to manhandle it down.
+
+<div style="text-align: center">
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO-0rET7XafecISfWb_1cuW2bY9RzO3vEmhvtBrr3Jx-A-tkV5uajVaanHs-YAJXg/photo/AF1QipPfMya1AUiqG5xO6sKVHzFEaGwiUtE74NYOHDGd?key=c2lmY3NBczBtaVBZRy1XT3FTZUNiRUpoNmJNY3R3" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AM-JKLWph855lZ0jELRGI3L4yZt0YhkhIxDePvEIOEzBRqHjKyX7gQMFq2yJiagOoR4gWbuebJsIUIGLtuPMbCfoPpXHudE4K0uLReaF8I-UKMGd1zngPpakUeBvAoaGmfzayaAwrTuc4_-Q-YSviPBr_eLUig=w420-no" width="420" /><div>Bed is easy to take off and put back on with 2 people.</div></a>
+</div>
+
 ### Things that we have left to do for the bed:
 
 * Come up with a way to lock Skorvas 1 and 3 in place but still have them easily removable.
