@@ -12,8 +12,8 @@ We don't have an extended length van so we need to maximize space usage.  We wil
 
 ### Parts list we used:
 
-* 4 Ikea Skorva bed rails 
-* 2 sets of Ikea Luroy twin bed slats (total of 32)
+* 4 [Ikea Skorva bed rails](https://www.ikea.com/ca/en/p/skorva-center-support-beam-galvanized-90124534/) 
+* 2 sets of [Ikea Luroy twin bed slats](https://www.ikea.com/ca/en/p/luroey-slatted-bed-base-60160217/) (total of 32)
 * 1 8 x 4 sheet of 3/4" Baltic Birch plywood cut to 2 pieces of 80" x 19"
 * 2 8' pieces of aluminum u-channel 3/4" x 1" x 3/32"
 * 64 machine screws, washers and nyloc nuts to anchor the slats to the skorva rails.  (we had on hand 10-24 x 1" machine screws but you could get away with 3/4"
