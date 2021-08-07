@@ -23,7 +23,7 @@ enableRobotsTXT = true
   description = "Carry On luggage only travels and adventures around the world with Canadians Paul and Helen Rimmer"
   facebook = ""
   twitter = "https://twitter.com/CarryOnRTW"
-  instagram = ""
+  instagram = "https://www.instagram.com/carryonrtw/"
   youtube = ""
   github = ""
   gitlab = ""
@@ -92,20 +92,6 @@ enableRobotsTXT = true
     identifier = "articles"
     url = "/articles/"
     weight = 4
-
-  [[menu.main]]
-    name = "Arc'Teryx Bora 65"
-    identifier = "arcteryx-bora-65"
-    url = "/articles/arcteryx-bora-65/"
-    weight = 1
-    parent="articles"
-
-  [[menu.main]]
-    name = "Definition of Home"
-    identifier = "definition-of-home"
-    url = "/articles/definition-of-home/"
-    weight = 3
-    parent="articles"
 
   [[menu.main]]
     name = "About Us"
