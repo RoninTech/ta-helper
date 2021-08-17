@@ -2,6 +2,8 @@
 title: "East West Queen Size Sliding Bed"
 date: 2021-07-25T15:58:46-05:00
 featured_image: 'https://lh3.googleusercontent.com/pw/AM-JKLU4gtymYtIZ6GcqqKZdW4_spKEnBCZeYNXkq8koqJsNoe6Y6hxzBqIRl599-HudzV1QXkZDqJqVr669lCLylYPL5TTwjqvEpTVvz3BpjFF2qM2GLxcVuPDx6VmiFQtXijctvZKi-fg0Jf3_FqGK8eH59A=w1224-h918-no?'
+images:
+  - 'https://lh3.googleusercontent.com/pw/AM-JKLU4gtymYtIZ6GcqqKZdW4_spKEnBCZeYNXkq8koqJsNoe6Y6hxzBqIRl599-HudzV1QXkZDqJqVr669lCLylYPL5TTwjqvEpTVvz3BpjFF2qM2GLxcVuPDx6VmiFQtXijctvZKi-fg0Jf3_FqGK8eH59A=w1224-h918-no?'
 author: "Paul"
 type: "article"
 omit_header_text: true
@@ -87,6 +89,8 @@ Finally, since we are still working on the van we made it so we could lift the b
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO-0rET7XafecISfWb_1cuW2bY9RzO3vEmhvtBrr3Jx-A-tkV5uajVaanHs-YAJXg/photo/AF1QipPby9hGaKqG5jD20b-JQrCzvNrX_fxepFuB3UaY?key=c2lmY3NBczBtaVBZRy1XT3FTZUNiRUpoNmJNY3R3" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AM-JKLXuTQQxFcJqKjcb9coIkDOcLUNeIym15uHnw6pDqGMUS_RUrAF___lNzBgyprWoOh0nigZeEWbssKQxa-eu0Uc2lmuAfHPOkKUwbu9khl6rH-UIJEhq5hCqisejf_Qu_mpfyS8MCP1M8KP-rO3Z68Tdfg=w460-no" width="460" /><div>Bed closed, latches locked</div></a>
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO-0rET7XafecISfWb_1cuW2bY9RzO3vEmhvtBrr3Jx-A-tkV5uajVaanHs-YAJXg/photo/AF1QipOH2U76bGhzWAL2_Uuks27ANKX2m5ew4cejSMSP?key=c2lmY3NBczBtaVBZRy1XT3FTZUNiRUpoNmJNY3R3" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AM-JKLUTQDeSJJjNLSaGHifZ510b2YhxGSalkBwltxxgl5Hq8nN930lvSiaRStG1YRvMenawd0ui8c9n_BeJB4zKC9_55KFMF2SosmFTKMCaDPWdvFgh5dG43ovpxyJaHqWlJOoVsf-uSPMKZoHpHnk1VDfMdA=w460-no" width="460" /><div>Bed open, latches locked</div></a>
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO-0rET7XafecISfWb_1cuW2bY9RzO3vEmhvtBrr3Jx-A-tkV5uajVaanHs-YAJXg/photo/AF1QipP6xlSfkT0UZZEhAeNO7XDF73njsu9P2ZpLrbPY?key=c2lmY3NBczBtaVBZRy1XT3FTZUNiRUpoNmJNY3R3" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AM-JKLU0DlyDlsrXhq04qEp_2jajov0Av0FR2WQmmlJvsef9ZipW8yiKrRpGF-LCJbxOCqF0mdc1_BSZbH3n2uT_scHBLTLPzTCCZaTa4A2SrQqOCK-Bt6Z6BURSUbnxgGO25qXjYFhUTCQdWfzsuoqZ34wgZQ=w460-no" width="460" /><div>All latches working</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO-0rET7XafecISfWb_1cuW2bY9RzO3vEmhvtBrr3Jx-A-tkV5uajVaanHs-YAJXg/photo/AF1QipMrALzMYUQku4V-Q53bD35AKYGuhKm9YFD-sfX8?key=c2lmY3NBczBtaVBZRy1XT3FTZUNiRUpoNmJNY3R3" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AM-JKLWoJZ1AVykeVQuGShG3WC5uIqbAIv8RgPPxn14CuIH83W_7K8SDUOjP1seP3uscbe7i1TWkNBVPgLDgSvm0PRIYIriz9SwEFZ9Dmm8j952250yEZas7Gz_JAPSC_e3XLWk71DfMb_SXm9QFSC2AI3_k9Q=w460-no" width="460" /><div>Painted trim pieces, front</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO-0rET7XafecISfWb_1cuW2bY9RzO3vEmhvtBrr3Jx-A-tkV5uajVaanHs-YAJXg/photo/AF1QipMxwLq95DP2xJgKa0SflwT58aOsmuy9qzIaV3X3?key=c2lmY3NBczBtaVBZRy1XT3FTZUNiRUpoNmJNY3R3" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AM-JKLU0weOGLDGEqZ2R5Epfp9E0UuMdalFePSRBJsO1f6mca6npm_HZFp6oTTi3j1rIoSxK_AWLjdYBkMhdpgftRAp49PE5CiWDHQzNR7vJC6NwIxEMlL19CPSfVamY6Yb0Lh8Hb_T7269UsqxfALkZutaNcg=w460-no" width="460" /><div>Painted trim pieces, rear</div></a>
 </div>
 
 Once the boxes are built for the head and foot of the bed, we will have to remove the 2 profile pieces with 4 nyloc bolts on each in order to remove the bed. 
@@ -98,4 +102,4 @@ Once the boxes are built for the head and foot of the bed, we will have to remov
 * [FIXED](#FIXED3): Add a Baltic Birch face on Skorva 4 with 2 handles so we can pull it out and push it closed easily.
 * [FIXED](#FIXED3): Add latches on each side of the face to lock it in the open closed positions.
 * Build boxes for the head and foot of the bed.
-* Figure out what mattress will work in the 73" x 60" queen bed space and be comfy without needing to be 10" thick.
+* Find a 3"-4" mattress that will work in the 73" x 60" queen bed space and be comfy and foldable.
