@@ -1,0 +1,45 @@
+---
+title: "Travel During Covid"
+date: 2020-12-13T16:37:33-07:00
+featured_image: 'https://lh3.googleusercontent.com/pw/AM-JKLWgXfTL-YYlXN5sQt0gxCxmsL8Ql12smKzIjliizFiHCHBTS6jeAvl-am7F3a-dlydkmBdDorFcHp_hLjqPnm-3330vQjJq6NTXoQFNy6oDz65adexsiSC4fRUpIGtWLjV4QMWiBqDF6l1LlPjreKM95w=w850-h637-no?authuser=0'
+author: "Helen"
+type: "article"
+omit_header_text: true
+--- 
+
+December 13, 2020 and we are off on our next adventure… hopefully! We packed up the apartment, Paul’s parents took us to the Cranbrook airport, we masked up and headed to the Marriott Vancouver where other then the covid tests, the plan was to hideout until Wednesday at midnight. If everything goes to plan, we will then be on our way to Thailand.  
+
+Cranbrook Airport was actually busy, people were still travelling domestically but everyone was masked up. The flight was quick and we landed with no issues, went to the Subway in the airport for take out and called for the bus to the hotel. There was one other person on the bus and we all kept our distance. The room at the Marriott was great. We had gotten an upgrade to a larger room which was a bonus as we had decided to stay in the hotel as much as possible to avoid exposure to covid. 
+
+The next day was a walk over to a small breakfast restaurant where we had a really nice cooked breakfast, then back to the hotel to wait until the covid test. We used Uber to get there and the driver was very good, she also stayed masked up and asked us to use sanitizer. CVM Medical was a small office over by the airport. They were very efficient at taking all our info and confirming what we needed etc. I was really nervous so Paul went first, he came out and while his eyes were watering he said it wasn’t so bad. I let the nurse know I was nervous, we had a good laugh about my little head where she assured me it was a child’s size swab. Test done and back to the hotel. 
+
+We had found a donair place that delivered so ordered some dinner from there and settled in to wait for our results. Less than 24 hours later, we both came back as negative! Which was a big relief. We had to head out to the local drug store for some masks, the KN95’s I had gotten were too big for my face, so we got me a kids size mask with filters instead. Then back to the hotel to avoid any unnecessary exposure. We ended up ordering from the donair place again as it was so good. 
+
+Our next step was to get a completed “fit to fly” certificate. To do this we contacted a place in Bangkok, Dr. Donna, who was highly recommended by many people in the Farang FB Group. They charged $20 and did a 5 minute video call instead of having to pay $150 and go in person. We had the certificates before the appointment but did do a video call with Dr Donna, who was great. Paperwork in hand, we headed to the airport! We gave ourselves extra time as we had heard, again from the Farang FB Group, that it was best to go early. 
+
+A little note on the Farang FB group: was a group of expats helping each other and providing info on getting to Thailand. It was an extremely helpful group and we were lucky enough to get a lot of information we needed from the group. Typical internet trolls exist in the group but the majority of people were great. We even made plans to connect with some folks later on. 
+
+</br>
+<div style="text-align: center">
+<a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipPosp_MsC7TlJIqVz39umu2iIa4ogoEaxVuanB2By1SE0drFG9C9G1hWPHS0DKXjA/photo/AF1QipM8Qw8z23LwNc8lb-BXqURHaKTSJTe3rrWsajaH?key=eklqUWw1NDZtRkVHUVdTeTZCcFZMektmSHdrUTR3" target="_blank"><img src="https://lh3.googleusercontent.com/pw/AM-JKLUPesHN6Qg5oD4Qdlf4XvEPt4uXIjNxK0iekYeYcV_2GYfbTjItRbugKN1M1IQonSUO2uObdt-2veXrT7zBNvqUZAIl6wDTQxmkvRSX4hm5phvQtsNO1ZR0SsazglCh_c3zbf-b8_ludVLDF-DSOMVcFA=w478-h637-no?authuser=0" width="195" /><div>Pre flight bevvie</div></a> 
+</div>
+
+Eva Air checked all our documents, twice, had a supervisor review them as well, then had us complete 3 more forms for Taipei and we were checked in. Eva Air gave us gift vouchers as the lounge was closed. We used them to buy subs, since we didn’t know what was open and then went through to the “travel side”. Turns out the domestic lounge was open, so we headed there to hang out for a few hours before heading to the gate. Another quick voucher useage at the convenience store and off to the gate. We did have our passports, tickets, etc reviewed by the border guard who asked why we were travelling and where we were going. I said Thailand to visit family and friends, then friends who are like family… he just nodded and smiled. It was almost 1AM and my brain wasn't fully functioning. Flight called and onto the plane!  
+
+</br>
+<div style="text-align: center">
+<a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipPosp_MsC7TlJIqVz39umu2iIa4ogoEaxVuanB2By1SE0drFG9C9G1hWPHS0DKXjA/photo/AF1QipOlREkETiKiiLHCkP18Xz-VaDuiliqUdWsLZrlq?key=eklqUWw1NDZtRkVHUVdTeTZCcFZMektmSHdrUTR3" target="_blank"><img src="https://lh3.googleusercontent.com/pw/AM-JKLWQnarXC1UpG580_2dlvNhUvXz_hwhiuRcdJz66tuTGtHtQkhW_3Q_q3xyHKpKUzroFFTHDPZVksWR018eqvptPtqxjP_qpupbnZMyFQsMGdd1JDI3C1au2okVZfWAbwaH20D5eFkIQM6E1xI7Wsnj7fQ=w850-h637-no?authuser=0" width="350" /><div>Our EVA Air Plane</div></a> 
+<a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipPosp_MsC7TlJIqVz39umu2iIa4ogoEaxVuanB2By1SE0drFG9C9G1hWPHS0DKXjA/photo/AF1QipPdxGnF1Z2i5TKPQqL7bZOxAJyI20pUWLsTbeut?key=eklqUWw1NDZtRkVHUVdTeTZCcFZMektmSHdrUTR3" target="_blank"><img src="https://lh3.googleusercontent.com/pw/AM-JKLXg85cvv38LbvSFD6WpLOP8hsiMbNKHJD1PF5zXnqUpS2XYWnmAinY0NEghs2XRDCEG0Xg8OYmdmaGZUaofYTyezL8j-NNcNxcg3YekeEijR7vZFGyCC1maU6ozzeYHfMBrgNR1VlB1EnLLphWXoP27JQ=w478-h637-no?authuser=0" width="195" /><div>Business Class is Awesome!</div></a> 
+</div>
+
+There were about 3 or 4 people in total in business class, including us, they were on one side of the plane, we were on the other. We got our jammies, some bevvies and settled in for the flight. Eva was great, we had little packs of hand sanitizer and masks along with the amenities kit. The staff wore PPE and were very careful in interacting with us. Flight was smooth and it was very exciting to be on our way. 
+
+When we landed, we were advised to let people who were staying in Taiwan disembark while we waited on the plane. When transiting passengers were allowed to disembark, we were met at the gate. Our guide did temperature checks, checked out names then walked us through the security checks to the lounge where we were told to wait. Our temperatures were taken at various spots along the way.  The lounge quickly filled up with other passengers heading to BKK from various US locations. Some people at this point made us nervous, taking off masks to talk, using a bandana instead of a mask, all that sort of stuff. One individual talked non-stop and loudly about how great Trump was randomly interspersed with comments about her most recent horoscope reading… she annoyed the majority of people waiting. When our connection was ready, we were escorted as a group to the gate. 
+
+</br>
+<div style="text-align: center">
+<a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipPosp_MsC7TlJIqVz39umu2iIa4ogoEaxVuanB2By1SE0drFG9C9G1hWPHS0DKXjA/photo/AF1QipM9yPDRiU1kQikq5npgbxWN2sZETW-xeoPY0Xss?key=eklqUWw1NDZtRkVHUVdTeTZCcFZMektmSHdrUTR3" target="_blank"><img src="https://lh3.googleusercontent.com/pw/AM-JKLW6HnuesDLrJ4CGv0DiVpVFZay8GIyxKjPaz1_0JMG_OQy4fqfVwYLm_4l8dYTJVsxDguzAPsN--s3NcyNAX1yG6LzlXz6EJ8N2B-7oh_xVprpmxeNmh6VeC4eNIAYz4FlNZ89agEA6cU0THepNebPVyA=w850-h637-no?authuser=0" width="350" /><div>Taipei Lounge</div></a> 
+<a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipPosp_MsC7TlJIqVz39umu2iIa4ogoEaxVuanB2By1SE0drFG9C9G1hWPHS0DKXjA/photo/AF1QipMhEgHPX_ynZ3ggb0fZicJovbroZVFLONRrM77s?key=eklqUWw1NDZtRkVHUVdTeTZCcFZMektmSHdrUTR3" target="_blank"><img src="https://lh3.googleusercontent.com/pw/AM-JKLXy3EYIkCAfnjl41UdtnYknPYjEKzV_SF-itUmzVi-CCrQkyV_Bi0SG2PO7EPGT2LEBtES6sfHOKxMB54x5AssCd7RIWXcmUZKTdzuTNyxYUuUiVuMtKK2fNel8Vt3Q7HtuNUP_B8KRjLNs0NHuq9u_gQ=w850-h637-no?authuser=0" width="350" /><div>Still awesome!</div></a> 
+</div>
+
+Our final flight was actually very busy, the plane was mostly full, which was surprising. Again, EVA Air was excellent, providing “covid” packages and being careful with everyone. It was very impressive. Next stop, Bangkok! 
