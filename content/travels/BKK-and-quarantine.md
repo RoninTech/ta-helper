@@ -2,6 +2,8 @@
 title: "BKK and Quarantine"
 date: 2020-12-18T16:37:33-07:00
 featured_image: 'https://lh3.googleusercontent.com/pw/AM-JKLXK91LYIadzqMeOsmYfyGkL-qjzjtUGZnLiYbvRRredrwyd1FbzikgzshWLMzw-mD8Dk85MVYZLuU7u__ajhg78_xQjgKX7nsV1_quq1PuMM5AIenuk4IyY5aGgOJAcOUZ1jsX0vuNaqmLC7OI3qjfubw=w850-h637-no?authuser=0'
+images:
+  - 'https://lh3.googleusercontent.com/pw/AM-JKLXK91LYIadzqMeOsmYfyGkL-qjzjtUGZnLiYbvRRredrwyd1FbzikgzshWLMzw-mD8Dk85MVYZLuU7u__ajhg78_xQjgKX7nsV1_quq1PuMM5AIenuk4IyY5aGgOJAcOUZ1jsX0vuNaqmLC7OI3qjfubw=w850-h637-no?authuser=0'
 author: "Helen"
 type: "article"
 omit_header_text: true

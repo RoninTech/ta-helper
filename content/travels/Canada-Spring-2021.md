@@ -2,6 +2,8 @@
 title: "Canada Spring 2021"
 date: 2021-05-09T16:37:33-07:00
 featured_image: 'https://lh3.googleusercontent.com/pw/AM-JKLVs6L5Y8Hj-jIuIjV_Wmnn-h9cBlFXx5EhHMp1A3uInkPxPYZOXuxDIlcKKO926P_cSMEMPl-KGkBYnDVpYoF9higd6n0ZDuQ4-rNLWRzkywKYeNuntUcKWKUyyVGt0kk8UA-B6qbW5b_QLhFviz10dXQ=w850-h637-no?authuser=0'
+images:
+  - 'https://lh3.googleusercontent.com/pw/AM-JKLVs6L5Y8Hj-jIuIjV_Wmnn-h9cBlFXx5EhHMp1A3uInkPxPYZOXuxDIlcKKO926P_cSMEMPl-KGkBYnDVpYoF9higd6n0ZDuQ4-rNLWRzkywKYeNuntUcKWKUyyVGt0kk8UA-B6qbW5b_QLhFviz10dXQ=w850-h637-no?authuser=0'
 author: "Helen"
 type: "article"
 omit_header_text: true

@@ -2,6 +2,8 @@
 title: "Chiang Mai January-February 2021"
 date: 2021-01-02T16:37:33-07:00
 featured_image: 'https://lh3.googleusercontent.com/pw/AM-JKLUsl4WvF-LIq1k0B9rPlV38AqHsE-whkpdOG1rxCwLvz7YG6dTZTFI_NvM2_pvawFBFwn_bXgNm4eeIcsMU1KtcJyd1bG3AVla0IUrMtYtpJ75mfIUERlALV3qIWy2_3uMwuYPrL0SYnBM0YWHfoNr9Dw=w850-h637-no?authuser=0'
+images:
+  - 'https://lh3.googleusercontent.com/pw/AM-JKLUsl4WvF-LIq1k0B9rPlV38AqHsE-whkpdOG1rxCwLvz7YG6dTZTFI_NvM2_pvawFBFwn_bXgNm4eeIcsMU1KtcJyd1bG3AVla0IUrMtYtpJ75mfIUERlALV3qIWy2_3uMwuYPrL0SYnBM0YWHfoNr9Dw=w850-h637-no?authuser=0'
 author: "Helen"
 type: "article"
 omit_header_text: true
