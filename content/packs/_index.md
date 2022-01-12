@@ -38,3 +38,7 @@ Fast forward to September 2019 and we had just finished a [1400km Pacific Crest 
 </div>
 
 After travelling with the NUL Sundown packs for 6 months (PCT + SEA) we are now firm believers in light weight packs.  Everything is easier with a lighter pack.  And with modern fabrics, light packs are no longer disposable packs.  We do sometimes miss the clamshell opening of our Gregory packs but we would never trade our new ultralight packs for a heavier one with clam shell.  Packing cubes make accessing stuff in our NUL Sundowns through the top opening pretty straight forward.
+
+Here are some older pack related articles that we wrote before we started our big adventure in 2017:
+
+[The gear conundrum](/articles/the-gear-conundrum), [Choosing a pack](/articles/choosing-a-pack), [Carry on only](/articles/carry-on-only)

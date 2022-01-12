@@ -20,4 +20,4 @@ Ideally, we’d like to follow summer around the world.  Avoiding monsoon and cy
 
 Russia kind of skews the map as its so big and currently we only intend to visit Moscow and St. Petersburg.  For the ‘stans, there’s only one right now: Kyrgyzstan.  It looks beautiful and people say good things about it so it made the list.  Since its our only ‘Stan choice, it’s a bit of an island in the region (up from India).  As we go we should be able to figure out a way there as we get more info from other travelers.
 
-So our chosen technique appears to be keep calm and carry on round the world just going with the flow.  In summary, **our plan is: "there is no plan"**.  Stay tuned to see how that turns out. 🙂
+So our chosen technique appears to be keep calm and carry on round the world just going with the flow.  In summary, **our plan is: "there is no plan"**.  Stay tuned to see how that turns out. :grinning:
