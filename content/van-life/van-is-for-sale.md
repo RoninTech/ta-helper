@@ -7,7 +7,7 @@ images:
 author: "Paul"
 type: "article"
 omit_header_text: true
-draft: true
+draft: false
 ---
 ## 2020 Ford Transit 350 AWD Ecoboost High Roof 148" Cargo, 7000 KM
 
