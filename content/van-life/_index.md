@@ -3,6 +3,8 @@ title: "Van Life"
 date: 2020-09-09T20:35:00-07:00
 draft: false
 featured_image: 'https://lh3.googleusercontent.com/pw/ACtC-3cJSxonyTmC65j3pL_eatOCylb8hDs8eO-xYOu2Wk6OKGJAgpsq8v3bbuEbdECkQ5kTNJcxBT3KFz_0Y9pICwUPiinObhhm7uMp4JsM4-WsDLmMCdsvwsxiDby-62rkAxtQn0AkLeMgB-4qCVBuceAoPg=w1210-h908-no'
+images:
+  - 'https://lh3.googleusercontent.com/pw/ACtC-3cJSxonyTmC65j3pL_eatOCylb8hDs8eO-xYOu2Wk6OKGJAgpsq8v3bbuEbdECkQ5kTNJcxBT3KFz_0Y9pICwUPiinObhhm7uMp4JsM4-WsDLmMCdsvwsxiDby-62rkAxtQn0AkLeMgB-4qCVBuceAoPg=w1210-h908-no'
 show_reading_time: true
 ---
 From September 2017 to January 2018 we lived in a van for just over 4 months when we traveled around the East and South East coast of Australia, Tasmania and New Zealand (North island, South island).  We had 3 vans and all of them were Toyota HiAce's.  It was an absolute blast!  We used [Lets Go Motorhomes](https://www.letsgomotorhomes.com.au/vehicles/campervans/hi-top-caravan) in Australia, [Tassie Motor Shacks](https://www.tassiemotorshacks.com.au/campervans/2-berth-hitop/) in Tasmania and [Campa South](https://www.campasouth.com/vehicle/standard-campervan-2/) in New Zealand.  There's something very cool about having a self-contained home that can take you wherever you want to go.  After finishing those 4 months we decided that someday we would build a van and drive it around Canada , the US and into Mexico and points south.  Fast forward to early 2020 when we were travelling around South East Asia and realized we had to cut our trip short by 2 months and go back to Canada due to Covid-19 (on March 10th).  We figured that we'd have a lot of time on our hands and we had no idea when we'd be able to travel by air again so maybe now would be a good time to do the van build.
