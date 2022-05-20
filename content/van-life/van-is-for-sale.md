@@ -54,7 +54,7 @@ Here is a list of all of the items that have been installed so far and how much 
 
 <iframe width=1000 and height=500 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vROUwgLD9M6rItGVVl79fNYhUxwUkUyYnTiaf-giGuXUml0Tm5IGzQi1HZdsf96HqJNBPsQe0AQexNC/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
-Here is a list of all of the parts waiting to be used on the van.  Ideally we would like to sell everything together but we would also be open to selling items individually:
+Here is a list of all of the parts waiting to be used on the van.  Items wil be sold individually or can be added to van purchase if buyer requests:
 
 <iframe width=1000 and height=500 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSW9tvHHkRmRuaptpPDkAwvb3bXHNZcQfpeiV37aRiofiFt9x29ywmsmYiFxm8gVtDT1l5wnS5lnGs2/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
