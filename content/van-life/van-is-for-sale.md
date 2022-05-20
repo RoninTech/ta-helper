@@ -11,8 +11,6 @@ draft: false
 ---
 ## 2020 Ford Transit 350 AWD Ecoboost High Roof 148" Cargo, 7000 KM
 
-## $XX,XXX
-
 Here is the window sticker for the van that we purchased new off the lot in 2020, showing all of the options:
 
 <div style="text-align: center">
@@ -48,13 +46,13 @@ Last item to be installed was a [removable East West sliding bed](http://carryon
 
 ## Tons of info and pictures are available in the articles we wrote for van work.  See the bottom of [this page](https://carryonrtw.com/van-life/) for all the links.
 
-## [Contact us here](https://carryonrtw.com/contact/) with any questions or interest.
+## [Contact us here](https://carryonrtw.com/contact/) for pricing or with any questions or interest.  Serious inquiries only please.
 
 Here is a list of all of the items that have been installed so far and how much they cost:
 
 <iframe width=1000 and height=500 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vROUwgLD9M6rItGVVl79fNYhUxwUkUyYnTiaf-giGuXUml0Tm5IGzQi1HZdsf96HqJNBPsQe0AQexNC/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
-Here is a list of all of the parts waiting to be used on the van.  Items wil be sold individually or can be added to van purchase if buyer requests:
+Here is a list of all of the parts waiting to be used on the van.  These items wil be sold individually or can be added to van purchase if buyer requests:
 
 <iframe width=1000 and height=500 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSW9tvHHkRmRuaptpPDkAwvb3bXHNZcQfpeiV37aRiofiFt9x29ywmsmYiFxm8gVtDT1l5wnS5lnGs2/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
