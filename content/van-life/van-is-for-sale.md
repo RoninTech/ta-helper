@@ -19,6 +19,8 @@ draft: false
 [Loads of Pictures Here](https://photos.app.goo.gl/tMnMC9bKGSC87WpZ8)
 ## 2020 Ford Transit 350 AWD Ecoboost High Roof 148" Cargo, 7000 KM/4350 miles
 
+Van is located in Calgary, Alberta.
+
 - Oxford White exterior
 - Dark Palazzo Gray cloth interior
 - 3.5L Ecoboost V6
