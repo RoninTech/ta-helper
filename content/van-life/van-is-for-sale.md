@@ -85,7 +85,6 @@ Last item to be installed was a removable East West sliding bed to maximize inte
 - [Diesel Heater](https://carryonrtw.com/van-life/chinese-diesel-heater/)
 - [Roof Rails](https://carryonrtw.com/van-life/roof-rails/)
 - [Removeable East West Queen Sliding Bed](https://carryonrtw.com/van-life/east-west-sliding-bed/)
-## Tons of info and pictures are available in the articles we wrote for van work.  See the bottom of [this page](https://carryonrtw.com/van-life/) for all the links.
 
 ## [Contact us here](https://carryonrtw.com/contact/) for pricing or with any questions or interest.  Serious inquiries only please.
 
