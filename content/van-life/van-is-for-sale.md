@@ -17,20 +17,24 @@ draft: false
 </div>
 
 [Loads of Pictures Here](https://photos.app.goo.gl/tMnMC9bKGSC87WpZ8)
-## 2020 Ford Transit 350 AWD Ecoboost High Roof 148" Cargo, 7000 KM/4350 miles
+## 2020 Ford Transit 350 AWD Ecoboost High Roof 148" Cargo 9500 KM/5903 miles
 
-Van is located in Calgary, Alberta.
+Van is located in Calgary, Alberta.  Currently has 8100km with the following equipment:
 
 - Oxford White exterior
 - Dark Palazzo Gray cloth interior
 - 3.5L Ecoboost V6
 - 3.73 Limited Slip Axle
-- 9500 GVWR Package
-- Selectshift 10 speed Auto Transmission
-- AdvanceTrac with Roll Stability Control
-- Securilock Anti-Theft system
-- Tire Pressure Monitor System
-- Power 4 Wheel Disc ABS
+- GVWR: 9500 lbs (350 Package)
+- 10-Spd Automatic w/OD & SelectShift
+- AdvanceTrac with Roll Stability Control (RSC)
+- Side Wind Stabilization Electronic Stability Control (ESC)
+- Lane-Keeping Assist Lane Departure Warning
+- Pre-Collision Assist with Automatic Emergency Braking (AEB)
+- Dual Stage Driver And Passenger Seat-Mounted Side Airbags
+- Securilock Anti-Theft Ignition (pats) Engine Immobilizer
+- Tire Pressure Monitor System (TPMS)
+- Power 4 Wheel Disc ABS and Driveline Traction Control
 - Engine Block Heater
 - Extended Range Fuel Tank 31 GAL/117L
 - Air Conditioning
@@ -41,7 +45,7 @@ Van is located in Calgary, Alberta.
 - Trailer Brake Controller
 - Long Arm PWR heat Mirrors
 - Front Fog Lamps
-- Radio HD Sync3 8" Screen
+- Radio HD Sync3 8" Screen AM/FM/Sirius/Bluetooth/USB/Android Auto/Apple CarPlay
 - Adaptive cruise control
 - Vehicle Maintenance Monitor
 - BLIS With Cross-Traffic Alert
@@ -50,6 +54,7 @@ Van is located in Calgary, Alberta.
   - Dual Batteries (70 Amp-Hr)
   - Large Center Console
   - Auxillary Fuse Panel
+- 250 Amp Alternator
 - Remote Start (Fobs and App)
 - Extended Length Running Boards
 - Heavy Duty Scuff Plate Kit
@@ -59,8 +64,12 @@ Van is located in Calgary, Alberta.
 - Variable Interval Wipers
 - 4 Way Palazzo Cloth Swivel Seats
 - HD Tray Style Floor Mats
-- Carpetted Front FLoor
+- Carpetted Front Floor
 - Illuminated Sun Visors
+- Tilt/Telescoping Steering Column
+- Power 1st Row Windows w/Driver 1-Touch Down
+- Power Door Locks w/Autolock Feature
+- 2 12V DC Power Outlets, 2 USB Outlets
 
 When we first found the van we were very excited as it was well kitted out for a camper van build based on our 4 months of van life living.  Things like:
 - Extended fuel tank means 31 gallons/117L to go further before re-fueling.  6 gallons/27L over standard.
@@ -69,7 +78,7 @@ When we first found the van we were very excited as it was well kitted out for a
 - Adaptive cruise is great for long drives.  We'll never own a vehicle without this again.
 - Big 8" Sync 3 Display makes navigating and reversing easier.
 
-The van has been completely insulated for sound and temperature using Noico sound deadening mat and 60 sqft of 3M SM600L Thinsulate.  All door panels and headliners were removed for full coverage.  Insulated flooring has also been installed with 1" XPS foam, 1/2" baltic birch plywood and vinyl flooring.  A final touch on the flooring as the installation of the Ford HD scuff plate kit for side and rear doors.
+The van has been completely insulated for sound and temperature using Noico sound deadening mat and 60 sqft of 3M SM600L Thinsulate.  All door panels and headliners were removed for full coverage.  Insulated flooring has also been installed with 1" XPS foam, 1/2" baltic birch plywood and vinyl flooring.  A final touch on the flooring was the installation of the Ford HD scuff plate kit for side and rear doors.
 
 The roof is setup for 400W of solar panels with 80/20 roof rails installed into the factory attachment points.  Solar panels and mounting pieces are available and ready to be installed for purchaser at costs detailed below.
 
