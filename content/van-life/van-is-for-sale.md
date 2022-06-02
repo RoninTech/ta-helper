@@ -15,7 +15,14 @@ draft: false
 <div style="text-align: center;vertical-align: top;display: inline-block;">
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO6Q6EGXeIuTl9ltinSk2WPFAlsM3THBkzQwb3wtMe0Nz3maVyAUzS70qNQbFJENA/photo/AF1QipP-i1-WI5MoFrw_xcpg-9tOA_Qcs37d6FH7C7Bm?key=UkdyTGNLOFBsOWl1OUtkUDBib3h3ZHJzTHBubnpR" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AM-JKLWdELF3-8PiycFTK1Der11conyMnGzxmvUEfprB_fo3bOiXCJOwzKswLwiHYxsfR1zUL4rxh1sgLQhjAEzBUNJgEi3ikJ79ssUVQavOCWv5c0n3dqfeKHb0g3S61tVkrfJuHAqElDfW48NnvZcj6NoXSg=w420-no" width="420" /><span style="display: block">From the back</span></a> 
 </div>
+&nbsp;
+&nbsp;
 
+***
+# !! **Van Is Sold** !!  - Went Quick, Still have van parts below
+***
+&nbsp;
+&nbsp;
 [Loads of Pictures Here](https://photos.app.goo.gl/tMnMC9bKGSC87WpZ8)
 ## 2020 Ford Transit 350 AWD Ecoboost High Roof 148" Cargo 9500 KM/5903 miles
 
