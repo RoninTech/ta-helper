@@ -26,6 +26,8 @@ draft: false
 [Loads of Pictures Here](https://photos.app.goo.gl/tMnMC9bKGSC87WpZ8)
 ## 2020 Ford Transit 350 AWD Ecoboost High Roof 148" Cargo 9500 KM/5903 miles
 
+Things have changed and we have decided to sell the van.  Now that travel is back on the menu we didn't like the thought of leaving the van sitting for extended periods.  That combined with being able to sell it for more than what we paid for it 2 years ago make it a no brainer.
+
 Van is located in Calgary, Alberta.  Currently has 8100km with the following equipment:
 
 - Oxford White exterior
