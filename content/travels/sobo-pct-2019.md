@@ -1,25 +1,27 @@
 ---
 title: "SOBO PCT Hike 2019"
 date: 2019-09-15T17:43:24-07:00
-featured_image: 'https://lh3.googleusercontent.com/pw/ACtC-3dxTlSXxz3Ut_rJahQrb3LiXHEDAe0V-0_kcMqy_UrGrqlfE7yHJ600s8Xuj4po7oMmwHBcrOJfVIJTwEgBEY4ksJKApEq9rO37IBguHCMiEKdY52wPKcpd3nacPUDXbRza_tbgMfsJQ12j8n4ebtmWVA=w1210-h908-no'
+featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3dxTlSXxz3Ut_rJahQrb3LiXHEDAe0V-0_kcMqy_UrGrqlfE7yHJ600s8Xuj4po7oMmwHBcrOJfVIJTwEgBEY4ksJKApEq9rO37IBguHCMiEKdY52wPKcpd3nacPUDXbRza_tbgMfsJQ12j8n4ebtmWVA=w1210-h908-no"
+images:
+  - "https://lh3.googleusercontent.com/pw/ACtC-3dxTlSXxz3Ut_rJahQrb3LiXHEDAe0V-0_kcMqy_UrGrqlfE7yHJ600s8Xuj4po7oMmwHBcrOJfVIJTwEgBEY4ksJKApEq9rO37IBguHCMiEKdY52wPKcpd3nacPUDXbRza_tbgMfsJQ12j8n4ebtmWVA=w1210-h908-no"
 author: "Paul"
-type: "article"
 omit_header_text: true
 ---
 
-In January of 2019, while we were chilling in Kampot, Cambodia, we were trying to figure out what we would for the summer of 2019.  Eventually we decided that we wanted to hike the Pacific Crest Trail (PCT) from the Canadian border in Washington to the Mexican border near San Diego.  So using our phones at 3AM in Cambodia we jumped online for the second permit lottery and got 2 permits for northbound PCT hikes.  Unfortunately we couldn't get 2 on the same day so we had to switch them out for southbound (SOBO) permits which didn't require specific dates for heading in that direction.
+In January of 2019, while we were chilling in Kampot, Cambodia, we were trying to figure out what we would for the summer of 2019. Eventually we decided that we wanted to hike the Pacific Crest Trail (PCT) from the Canadian border in Washington to the Mexican border near San Diego. So using our phones at 3AM in Cambodia we jumped online for the second permit lottery and got 2 permits for northbound PCT hikes. Unfortunately we couldn't get 2 on the same day so we had to switch them out for southbound (SOBO) permits which didn't require specific dates for heading in that direction.
 
-We got back to Canada on March 17th and started organizing our gear and training our bodies.  3 months later we got Paul's mum and Dad to give us a ride to Hart's Pass in Washington state, the jumping off point for SOBO PCT hikers.
+We got back to Canada on March 17th and started organizing our gear and training our bodies. 3 months later we got Paul's mum and Dad to give us a ride to Hart's Pass in Washington state, the jumping off point for SOBO PCT hikers.
 
 </br>
 
 #### Our Gear
+
 Here's what we had in our packs not including food and water:
 
-* [Paul's PCT pack and contents](/packs/pauls-pct-pack/)
-* [Helen's PCT pack and contents](/packs/helens-pct-pack/)
+- [Paul's PCT pack and contents](/packs/pauls-pct-pack/)
+- [Helen's PCT pack and contents](/packs/helens-pct-pack/)
 
-And here it is all laid out on the bed, just before we left.  Click to see the full size zoomable version.
+And here it is all laid out on the bed, just before we left. Click to see the full size zoomable version.
 
 </br>
 <div style="text-align: center">
@@ -29,7 +31,8 @@ And here it is all laid out on the bed, just before we left.  Click to see the f
 </br>
 
 #### The Big 3: Tent, Sleep System and Backpacks
-Since we were hiking as a couple we were able to split the weight of our [3FUL Lanshan 2 tent](https://photos.app.goo.gl/Pdqj4G2SRYgBHrfh6).  It breaks down into an inner and a fly along with a DIY polycro groundsheet and the pegs.  We specifically chose a 2 wall tent for this reason.  We purchased this tent of Aliexpress for $115 CAD and had no problem with billing or shipping.  That's a fraction of the price of most popular brand name tents.  Needless to say the tent performed flawlessly in the 63 nights we slept in it and we would use it again on any other overnight or longer hikes.
+
+Since we were hiking as a couple we were able to split the weight of our [3FUL Lanshan 2 tent](https://photos.app.goo.gl/Pdqj4G2SRYgBHrfh6). It breaks down into an inner and a fly along with a DIY polycro groundsheet and the pegs. We specifically chose a 2 wall tent for this reason. We purchased this tent of Aliexpress for $115 CAD and had no problem with billing or shipping. That's a fraction of the price of most popular brand name tents. Needless to say the tent performed flawlessly in the 63 nights we slept in it and we would use it again on any other overnight or longer hikes.
 
 </br>
 <div style="text-align: center">
@@ -37,7 +40,7 @@ Since we were hiking as a couple we were able to split the weight of our [3FUL L
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipPqK-E4WpfVSpIg85nKcEbbEEw0xI0Bb6cnZP2J20BzAEWhtHA6b08SjN2vlkyjPA/photo/AF1QipM_PWV6_WRu4G7_vrpmoz4iNe2j4PdBqoyidSY2?key=cUhUU0VMQklKZVpPcVprSzBSU185RTVWRjFDNGtB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3ca3HXK9DI7qgoU9sQ7cs69gs6AKytZo1uKUohc2vO5tTMaRotrw4k9KQHJvogWqotn_9AXhG6xQVsofznpcW7d81npsr9hBe-C_uybDIN0vzsFCm9GZmjUU_9lSQFOcyvSRRFkSGPnHNMkyCJcQVQuug=w470-no" width="470" /><div>First night south of Cascade Locks, Oregon, mile 531.3</div></a>
 </div>
 
-For sleeping we splurged on a couple of amazing [Nunatak Arc UL quilts](https://nunatakusa.com/down-quilts/197-arc-ul-four-season.html).  A 10 degree F for Helen and a 20 degree F for Paul who sleeps warmer.  We absolutely loved these things!  They are lighter than sleeping bags as they do not have a back and they allow for easier movement if you toss and turn at night.  We both went with 54" wide, 40" footbox, [Edge Tension Control (ETC) system](https://nunatakusa.com/Nunatak%20News/27_.html) and 7D weatherproof footbox fabric.  Mine is 70" long while Helen's is 66" long.  Nunatak was a great help with us choosing the various options.  We both were very cosy under these no matter what the temperature was.  The more water resistant footbox and neck material was great on the damp nights and the ETC kept it snug on cold nights.
+For sleeping we splurged on a couple of amazing [Nunatak Arc UL quilts](https://nunatakusa.com/down-quilts/197-arc-ul-four-season.html). A 10 degree F for Helen and a 20 degree F for Paul who sleeps warmer. We absolutely loved these things! They are lighter than sleeping bags as they do not have a back and they allow for easier movement if you toss and turn at night. We both went with 54" wide, 40" footbox, [Edge Tension Control (ETC) system](https://nunatakusa.com/Nunatak%20News/27_.html) and 7D weatherproof footbox fabric. Mine is 70" long while Helen's is 66" long. Nunatak was a great help with us choosing the various options. We both were very cosy under these no matter what the temperature was. The more water resistant footbox and neck material was great on the damp nights and the ETC kept it snug on cold nights.
 
 </br>
 <div style="text-align: center">
@@ -45,7 +48,7 @@ For sleeping we splurged on a couple of amazing [Nunatak Arc UL quilts](https://
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipPNGk2OlzQFeL65ex2X2HD68q04eTrAwGsZlHs8enrmQ5WTlkvvNupuhKRWvrNwEQ/photo/AF1QipMKAA868rmcTwtzJ8f5soBbPoeueYrisngviutx?key=ZVVoTzRxTkFDVkNHVEJybG1YME9OMUp2N3hwclVn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3dUh5PUgWpsLtS6ewZ3dKvesl8wm6jG09tISnZv_YWsy31c3DAAhEFgChoQo6xDlrB6S_0Smp5lg8KbkuoFRgkWdqfmYERo6AJ6kJI9Ii-9H2mnf8PDffGfkXaxTJcEzX8Djxvk4shwNoYooKd_ohCysA=w470-no" width="470" /><div>So comfy and warm but light</div></a>
 </div>
 
-Most ultralight sleeping mats are 21" wide or narrower.  We found that we slept much better on our 23" Klymit Static V2 pads but they weren't insulated enough for the Rockies.  So we picked up a couple of 23" wide, 72" long [Klymit Insulated Static V Lite pads](https://drop.com/buy/klymit-insulated-static-v-lite) for $55 each on the old Massdrop.  They are a bit heavier than the narrower pads but we really enjoyed the extra comfort and had no issues at all.  Our [MEC deluxe pillows](https://www.mec.ca/en/product/5046-842/Deluxe-Pillow) also helped a lot in this department.  Finally we both carried [Gossamer Gear Thinlight pads](https://www.gossamergear.com/products/thinlight-foam-pad) to go under our inflatable pads at night to protect the inflatable mattresses and to use as sit pads during the day.
+Most ultralight sleeping mats are 21" wide or narrower. We found that we slept much better on our 23" Klymit Static V2 pads but they weren't insulated enough for the Rockies. So we picked up a couple of 23" wide, 72" long [Klymit Insulated Static V Lite pads](https://drop.com/buy/klymit-insulated-static-v-lite) for $55 each on the old Massdrop. They are a bit heavier than the narrower pads but we really enjoyed the extra comfort and had no issues at all. Our [MEC deluxe pillows](https://www.mec.ca/en/product/5046-842/Deluxe-Pillow) also helped a lot in this department. Finally we both carried [Gossamer Gear Thinlight pads](https://www.gossamergear.com/products/thinlight-foam-pad) to go under our inflatable pads at night to protect the inflatable mattresses and to use as sit pads during the day.
 
 </br>
 <div style="text-align: center">
@@ -54,9 +57,10 @@ Most ultralight sleeping mats are 21" wide or narrower.  We found that we slept 
 </div>
 
 #### Backpacks
-We purchased new packs for this adventure: [Northern Ultralight Sundowns](https://www.northernultralight.com/shop/sundown). They are made in Nelson, BC which is just a 2 hour drive from where we live.  These packs weigh half of our old [Gregory packs](/articles/choosing-a-pack/) and are even more comfortable. The only downside is their price at $360 CAD each.  We liked them so much that they are now our full time packs for everything: travel and hiking. They only weigh about 690g and have detachable hip belts and removable aluminum stays and can cinch down to comfy day packs. For travel we remove the aluminum stays in case we need to stuff them in somewhere tight like overhead bins on planes. We now have no problem meeting the magical 7kg carry on weight limit that many low cost carriers have and our backs sure appreciate it. 
 
-To keep our stuff dry inside the packs we used a couple of [Nylofume pack liners](https://www.litesmith.com/nylofume-pack-liner-bags/).  Everything we want to keep dry goes inside these.  They are like durable, lightweight garbage bags.  At first we didn't have our inflatable pads inside them bags but after a couple of wet Washington days we started putting those inside as well.  They are surprisingly strong and durable and protect much better than pack covers that only cover a portion of the outside of packs.  We've been using the same 2 bags for the Washington and Oregon sections of the PCT as well as 3 months travel in South East Asia, before the Corona-virus forced our early return to Canada.
+We purchased new packs for this adventure: [Northern Ultralight Sundowns](https://www.northernultralight.com/shop/sundown). They are made in Nelson, BC which is just a 2 hour drive from where we live. These packs weigh half of our old [Gregory packs](/articles/choosing-a-pack/) and are even more comfortable. The only downside is their price at $360 CAD each. We liked them so much that they are now our full time packs for everything: travel and hiking. They only weigh about 690g and have detachable hip belts and removable aluminum stays and can cinch down to comfy day packs. For travel we remove the aluminum stays in case we need to stuff them in somewhere tight like overhead bins on planes. We now have no problem meeting the magical 7kg carry on weight limit that many low cost carriers have and our backs sure appreciate it.
+
+To keep our stuff dry inside the packs we used a couple of [Nylofume pack liners](https://www.litesmith.com/nylofume-pack-liner-bags/). Everything we want to keep dry goes inside these. They are like durable, lightweight garbage bags. At first we didn't have our inflatable pads inside them bags but after a couple of wet Washington days we started putting those inside as well. They are surprisingly strong and durable and protect much better than pack covers that only cover a portion of the outside of packs. We've been using the same 2 bags for the Washington and Oregon sections of the PCT as well as 3 months travel in South East Asia, before the Corona-virus forced our early return to Canada.
 
 </br>
 <div style="text-align: center">
@@ -71,7 +75,8 @@ To keep our stuff dry inside the packs we used a couple of [Nylofume pack liners
 </div>
 
 #### Cooking
-This was another area that we were able to share our stuff and reduce weight.  We shared a stove and fuel and each had our own container to eat out of.  For breakfast and dinner we would boil water for oatmeal/coffee in the morning and a dehydrated meal after setting up camp for the evening.  For our stove we went with a [Soto Amicus](https://sotooutdoors.com/product/amicus-with-stealth-igniter/) that we found on sale on Massdrop.  It has its own piezo lighter that worked with one or two clicks.  We also carried a couple of mini Bic lighters for backup.  Since all we had to do was boil water for 2 people we went with a single 1350ml pot and boiled both servings of water at the same time.  The pot was a [Toaks 1350ml with attached handle](https://www.toaksoutdoor.com/products/pot-1350).  For "cooking" we had 2 [Ziploc Twist ’n Loc Containers](https://ziploc.com/en/Products/Containers/Round/Containers-Twist-Loc-Medium) that we would pour in the ingredients, add boiling water then seal the lid and let sit until cooked.  A couple of [Toaks titanium long handled spoons with polished bowls](https://www.toaksoutdoor.com/products/slv-11) let us get right to the bottom of the containers.  These worked great along with the reflectix coozies we made to insulate the containers to help in cooking and preventing us from getting burned while holding them.
+
+This was another area that we were able to share our stuff and reduce weight. We shared a stove and fuel and each had our own container to eat out of. For breakfast and dinner we would boil water for oatmeal/coffee in the morning and a dehydrated meal after setting up camp for the evening. For our stove we went with a [Soto Amicus](https://sotooutdoors.com/product/amicus-with-stealth-igniter/) that we found on sale on Massdrop. It has its own piezo lighter that worked with one or two clicks. We also carried a couple of mini Bic lighters for backup. Since all we had to do was boil water for 2 people we went with a single 1350ml pot and boiled both servings of water at the same time. The pot was a [Toaks 1350ml with attached handle](https://www.toaksoutdoor.com/products/pot-1350). For "cooking" we had 2 [Ziploc Twist ’n Loc Containers](https://ziploc.com/en/Products/Containers/Round/Containers-Twist-Loc-Medium) that we would pour in the ingredients, add boiling water then seal the lid and let sit until cooked. A couple of [Toaks titanium long handled spoons with polished bowls](https://www.toaksoutdoor.com/products/slv-11) let us get right to the bottom of the containers. These worked great along with the reflectix coozies we made to insulate the containers to help in cooking and preventing us from getting burned while holding them.
 
 </br>
 <div style="text-align: center">
@@ -81,7 +86,7 @@ This was another area that we were able to share our stuff and reduce weight.  W
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://ziploc.com/en/Products/Containers/Round/Containers-Twist-Loc-Medium" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3fLFu_hKjicmWe7vb4Ic4YGc2P7fBhFQmWkl1oTtA_ICO-rVLxjoYhc_VdJfl_w3Kl-1955GK87wBcSmxRob29TMl218Re-CCPcUCDmk3yyqGlGSmjURTwex2KsjoIcQpByxmyMgB5681xlduiUomn8Cw=s800-no" width="235" /><div>Ziploc Twist'n Loc containers</div></a>
 </div>
 
-For food storage we had a couple of [Basecamp odor barrier bags](https://www.amazon.ca/Basecamp-F232335-BaseCamp-Odor-Barrier-Assorted/dp/B00GHH5GK4).  These worked very well and held up perfectly despite lots of abuse.  We heard mixed reviews about the durability of Opsak's so went with these lighter bags.  We slept with our food in the tent behind our heads and had no issues.  Keep in mind this was for Washington and Oregon.  For the Sierras we had bear vaults but got off the trail just before we used them.
+For food storage we had a couple of [Basecamp odor barrier bags](https://www.amazon.ca/Basecamp-F232335-BaseCamp-Odor-Barrier-Assorted/dp/B00GHH5GK4). These worked very well and held up perfectly despite lots of abuse. We heard mixed reviews about the durability of Opsak's so went with these lighter bags. We slept with our food in the tent behind our heads and had no issues. Keep in mind this was for Washington and Oregon. For the Sierras we had bear vaults but got off the trail just before we used them.
 
 </br>
 <div style="text-align: center">
@@ -95,13 +100,9 @@ For food storage we had a couple of [Basecamp odor barrier bags](https://www.ama
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipPSAt6NhcimmQr4Cymljtjvm2DmHlR1iSG06MJGCZWNs-8u8h3nGV1ZsJr4mVkWCw/photo/AF1QipNARGewkUKNRt6LHI_JMO4aTup2nuKO0Y4NgFZ8?key=WmxXX3lOVjlveERZVHl0dl9peXVkd2tYazF6SHN3" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3c3LJJwBI_w0jeawDj4SD2Er_gvUkIsbFI9Re5ldOCjW0cBMMDidqUBI4xF06JzoEBSj6VvF4CEIFNILf6MwvC3_EdOdKqo6Gaw8sJtReLzDstD3oEncGEMvB2AABDZdbStoieULhjk-xSAcG8kA8PBeQ=w470-no" width="470" /><div>Basecamp odour proof bags lasted the whole 65 days</div></a>
 </div>
 
-
 #### Hitchhiking and Trail Angels
 
-
 [Here's an album](https://photos.app.goo.gl/yVvUSWojrsFdS5Nr6) of all the people that gave us rides or helped us out on the PCT.
-
-
 
 <Add more details>
 
@@ -127,10 +128,9 @@ Ashland To Carson Pass
 
 #### Map and Journal
 
-Below is a map showing all of the places we camped as we hiked from Harts Pass to the Canadian Border and then headed South to Crater Lake in Southern Oregon.  It also shows how we took a break in Ashland and then skipped down to South Lake Tahoe from where we had hoped to head into the Sierras.  We've also attached Helen's journal that she worked on pretty much every night after hiking.
+Below is a map showing all of the places we camped as we hiked from Harts Pass to the Canadian Border and then headed South to Crater Lake in Southern Oregon. It also shows how we took a break in Ashland and then skipped down to South Lake Tahoe from where we had hoped to head into the Sierras. We've also attached Helen's journal that she worked on pretty much every night after hiking.
 
 <iframe src="https://www.google.com/maps/d/embed?mid=14bzReuaeCGBOHsofaIeH7hkuwlxiLDjz&z=6&ll=44, -122" width="500" height="800"></iframe>
-
 
 </br>
 <iframe width=100% height="800px" src="https://docs.google.com/document/d/e/2PACX-1vRxb2WmuqUUBLiAL4AEw_7QbJvSf2yLkG2fU-vtnVn-O6fEjOxip6qVOZSHpkZe42C8kyFRx2F9YyJj/pub?embedded=true"></iframe>

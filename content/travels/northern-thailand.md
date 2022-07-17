@@ -1,19 +1,20 @@
 ---
 title: "Northern Thailand"
 date: 2017-06-29T20:27:10-07:00
-featured_image: 'https://lh3.googleusercontent.com/pw/ACtC-3eHKvcdCgtWIkcqJiIteQEHQClCvrWkCoIV0yPNQkcHWvCImLp-yW0GduVwyISLyIn0ySfFYUNMlimdccOH6sgWK9ZdssCKTDckRk_GauVkZMA4FPjdfOrAVrsFXlWWwHQHttfgYPN12a8_hHCld4Wyfg=w1210-h908-no'
+featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3eHKvcdCgtWIkcqJiIteQEHQClCvrWkCoIV0yPNQkcHWvCImLp-yW0GduVwyISLyIn0ySfFYUNMlimdccOH6sgWK9ZdssCKTDckRk_GauVkZMA4FPjdfOrAVrsFXlWWwHQHttfgYPN12a8_hHCld4Wyfg=w1210-h908-no"
+images:
+  - "https://lh3.googleusercontent.com/pw/ACtC-3eHKvcdCgtWIkcqJiIteQEHQClCvrWkCoIV0yPNQkcHWvCImLp-yW0GduVwyISLyIn0ySfFYUNMlimdccOH6sgWK9ZdssCKTDckRk_GauVkZMA4FPjdfOrAVrsFXlWWwHQHttfgYPN12a8_hHCld4Wyfg=w1210-h908-no"
 author: "Helen"
-type: "article"
 omit_header_text: true
 ---
 
-After Myanmar we spent several weeks in Northern Thailand. All the Chiang’s together: Chiang Mai, Chiang Dao, Chiang Rai and Chiang Khong! 
+After Myanmar we spent several weeks in Northern Thailand. All the Chiang’s together: Chiang Mai, Chiang Dao, Chiang Rai and Chiang Khong!
 
 #### Chiang Mai
 
 [Photo Album](https://photos.app.goo.gl/qglYDEQDLrifYFH22)
 
-We decided to get organized in Chiang Mai.  Mailed some items back that we don’t use, saw Wonder Woman and did a cooking class with Pat and Liz. I’d wanted to a do a class so this was more for me then Paul.  We got to make several dishes and no injuries occurred.  After wandering the night market we spent some time at the shopping malls, not either of our favorite things to do but we managed.  Had a nice evening at [Small House Kafe](https://goo.gl/maps/HG6bY4qjTYiincyu8) where some advice from Dao had us heading off to Chiang Dao instead of Pai. 
+We decided to get organized in Chiang Mai. Mailed some items back that we don’t use, saw Wonder Woman and did a cooking class with Pat and Liz. I’d wanted to a do a class so this was more for me then Paul. We got to make several dishes and no injuries occurred. After wandering the night market we spent some time at the shopping malls, not either of our favorite things to do but we managed. Had a nice evening at [Small House Kafe](https://goo.gl/maps/HG6bY4qjTYiincyu8) where some advice from Dao had us heading off to Chiang Dao instead of Pai.
 
 </br>
 <div style="text-align: center">
@@ -31,7 +32,7 @@ We decided to get organized in Chiang Mai.  Mailed some items back that we don�
 
 [Photo Album](https://photos.app.goo.gl/qglYDEQDLrifYFH22)
 
- Awesome place!  Our friend from Small House Kafe, Dao, recommended it to us.  We spent a few nights there, ate some amazing food, had a great time with Buppa (and her homemade spiced whiskey) at [The Cave Bar](https://g.page/cavewomanthecavebar?share), walked around and went on an awesome scooter ride in the national park through the clouds. 
+Awesome place! Our friend from Small House Kafe, Dao, recommended it to us. We spent a few nights there, ate some amazing food, had a great time with Buppa (and her homemade spiced whiskey) at [The Cave Bar](https://g.page/cavewomanthecavebar?share), walked around and went on an awesome scooter ride in the national park through the clouds.
 
 </br>
 {{< youtube 6O15jvfc6fA >}}
@@ -65,7 +66,7 @@ We decided to get organized in Chiang Mai.  Mailed some items back that we don�
 
 [Photo Album](https://photos.app.goo.gl/3rbPrXwsLLRY9n5V6)
 
-Took a bus from Chiang Dao to [Tha Ton](https://goo.gl/maps/jkwD2LbXtGXQxFiV8), then a cool [longtail boat ride](https://goo.gl/maps/nJuV8jYczL72) to Change Rai. We saw some elephants being bathed in the river. There was a stop where you can get a photo with a snake but we choose not to.  Spent the next morning at the White Temple, Black House and Blue Temple before heading to see our friends God and Yves at their hostel in Chiang Khong on the Laos border. 
+Took a bus from Chiang Dao to [Tha Ton](https://goo.gl/maps/jkwD2LbXtGXQxFiV8), then a cool [longtail boat ride](https://goo.gl/maps/nJuV8jYczL72) to Change Rai. We saw some elephants being bathed in the river. There was a stop where you can get a photo with a snake but we choose not to. Spent the next morning at the White Temple, Black House and Blue Temple before heading to see our friends God and Yves at their hostel in Chiang Khong on the Laos border.
 
 </br>
 {{< youtube xxSY_cyndPw >}}
@@ -101,7 +102,7 @@ Took a bus from Chiang Dao to [Tha Ton](https://goo.gl/maps/jkwD2LbXtGXQxFiV8), 
 
 [Photo Album](https://photos.app.goo.gl/MiNuevFXuwjGYPYD2)
 
-Finally made it to see God and Yves at their most excellent Hub Pub and Funky Box hostel where we had a fantastic week.  We went on a jungle hike to a beautiful waterfall, were shown the area and taken to some viewpoints, spent several days being lazy, went fishing, had some cooking lessons, ate great food and had an awesome time visiting and being spoiled rotten.   Make sure to go for a coffee at [The View Coffee](https://goo.gl/maps/8JekXbuzKuY3P5vn8) and checkout the views of the Mekong and Laos!
+Finally made it to see God and Yves at their most excellent Hub Pub and Funky Box hostel where we had a fantastic week. We went on a jungle hike to a beautiful waterfall, were shown the area and taken to some viewpoints, spent several days being lazy, went fishing, had some cooking lessons, ate great food and had an awesome time visiting and being spoiled rotten. Make sure to go for a coffee at [The View Coffee](https://goo.gl/maps/8JekXbuzKuY3P5vn8) and checkout the views of the Mekong and Laos!
 
 </br>
 <div style="text-align: center">

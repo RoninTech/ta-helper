@@ -1,20 +1,21 @@
 ---
 title: "Headliner and Thinsulate"
 date: 2020-08-23T09:14:24-07:00
-featured_image: 'https://lh3.googleusercontent.com/pw/ACtC-3fI4MRuyAxYZYless63dfoR8_gynlkmuGgIDtr9CGTU4d30_JKEgopBOOEIkZm-bEYgWcLqeOVwKApbTlo3UcWx5ChoX_ikjONw_LkK_NYVElZA5dtWnga8zlDgMOerkHSxmvvF8qGpVdpvx-V6hbgtVg=w1210-h908-no'
+featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3fI4MRuyAxYZYless63dfoR8_gynlkmuGgIDtr9CGTU4d30_JKEgopBOOEIkZm-bEYgWcLqeOVwKApbTlo3UcWx5ChoX_ikjONw_LkK_NYVElZA5dtWnga8zlDgMOerkHSxmvvF8qGpVdpvx-V6hbgtVg=w1210-h908-no"
+images:
+  - "https://lh3.googleusercontent.com/pw/ACtC-3fI4MRuyAxYZYless63dfoR8_gynlkmuGgIDtr9CGTU4d30_JKEgopBOOEIkZm-bEYgWcLqeOVwKApbTlo3UcWx5ChoX_ikjONw_LkK_NYVElZA5dtWnga8zlDgMOerkHSxmvvF8qGpVdpvx-V6hbgtVg=w1210-h908-no"
 author: "Paul"
-type: "article"
 omit_header_text: true
 draft: false
 ---
 
-Removing the headliner makes insulating above a breeze.  All you need for tools are an 7mm socket and a set of trim removal tools like this.   With the following steps it only took about 10 minutes to remove and same to re-install.
+Removing the headliner makes insulating above a breeze. All you need for tools are an 7mm socket and a set of trim removal tools like this. With the following steps it only took about 10 minutes to remove and same to re-install.
 
 1. Pop out the 3 orange clips holding up the rear center of the headliner.
 
 2. Pry out and put aside 2 plastic trays in center of headliner.
 
-3. Pry down overhead console.  You can see rear clips once you have the 2 plastic trays out.
+3. Pry down overhead console. You can see rear clips once you have the 2 plastic trays out.
 
 4. Take a photo of the wiring in the overhead console in case you get stuck putting it back together.
 
@@ -28,7 +29,7 @@ Removing the headliner makes insulating above a breeze.  All you need for tools 
 
 9. Remove the 7mm bolts holding the sun visors up and twist out the sun visors making sure to disconnect the vanity mirror light wires if you have them.
 
-10. Using a long flat screwdriver, pop out the 4 circular plastic covers hiding the front headliner bolts by pressing on the side of their clips.  Remember where each cover came from as they aren't all the same.
+10. Using a long flat screwdriver, pop out the 4 circular plastic covers hiding the front headliner bolts by pressing on the side of their clips. Remember where each cover came from as they aren't all the same.
 
 11. Remove the 4 7mm bolts exposed by removing the 4 circular plastic covers.
 
@@ -68,7 +69,7 @@ There's a decent video on this [here](https://www.youtube.com/watch?v=BaaAn7kT_r
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO-0rET7XafecISfWb_1cuW2bY9RzO3vEmhvtBrr3Jx-A-tkV5uajVaanHs-YAJXg/photo/AF1QipO8xd18uBwiVWCn35471jcjnOjLGvgULvjmnIzo?key=c2lmY3NBczBtaVBZRy1XT3FTZUNiRUpoNmJNY3R3" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3dPome_LDn_G6EqGtA3WG9Iu2Skq7FAJg1jlXoE1ZruEKwBTiSsysPL5wsmEhAaLgFAj82B0ShD9ljbY-JhUQj3xJnZxz8GXJ6X8MTxbSbO0X0aSYXnmVKzTzjyhXFoEFuoCpr2uKJfibn6AcrXFGeISg=w460-no" width="460" /><div>Pull 5" wide Thinsulate strips through the roof beams</div></a>
 </div>
 
-After we re-installed the headliner we were ready to insulate the rest of the van using Thinsulate and 3M90 spray adhesive.  With 3M90 you apply to the Thinsulate and the surface it is attaching to.  This goes quite fast with a decent pair of scissors until you get to all of the weird nooks and crannies.  We used a piece of wire and some string to pull 60" Thinsulate strips of various widths through the roof rails and various other cavities in the van.  Make sure to get everywhere.  2 30' rolls of SM600L was the perfect amount for our high roof, long (148") van.
+After we re-installed the headliner we were ready to insulate the rest of the van using Thinsulate and 3M90 spray adhesive. With 3M90 you apply to the Thinsulate and the surface it is attaching to. This goes quite fast with a decent pair of scissors until you get to all of the weird nooks and crannies. We used a piece of wire and some string to pull 60" Thinsulate strips of various widths through the roof rails and various other cavities in the van. Make sure to get everywhere. 2 30' rolls of SM600L was the perfect amount for our high roof, long (148") van.
 
 <br/>
 <div style="text-align: center">

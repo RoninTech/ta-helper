@@ -1,23 +1,24 @@
 ---
 title: "Nepal in Fall"
 date: 2018-11-05T17:36:59-07:00
-featured_image: 'https://lh3.googleusercontent.com/pw/ACtC-3cnCxG3GaU4YlY_sbNnQCnlsdiqdea_VXALVoIGRzUG4RHyoIJ5aVouFP7tPhQ5tdiGoK9O6hkeCzClfdYp-u2jH7WMx3PNfFQsNiuogRGVpH1ODPXzXeptlxgcv6E3f2jpYoDKzJ_LEL_ZOKxUqMNzcg=w1470-h390-no'
+featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3cnCxG3GaU4YlY_sbNnQCnlsdiqdea_VXALVoIGRzUG4RHyoIJ5aVouFP7tPhQ5tdiGoK9O6hkeCzClfdYp-u2jH7WMx3PNfFQsNiuogRGVpH1ODPXzXeptlxgcv6E3f2jpYoDKzJ_LEL_ZOKxUqMNzcg=w1470-h390-no"
+images:
+  - "https://lh3.googleusercontent.com/pw/ACtC-3cnCxG3GaU4YlY_sbNnQCnlsdiqdea_VXALVoIGRzUG4RHyoIJ5aVouFP7tPhQ5tdiGoK9O6hkeCzClfdYp-u2jH7WMx3PNfFQsNiuogRGVpH1ODPXzXeptlxgcv6E3f2jpYoDKzJ_LEL_ZOKxUqMNzcg=w1470-h390-no"
 author: "Helen"
 description: "Nepal Annapurna October"
-type: "article"
 omit_header_text: true
 ---
 
 [Photo Album](https://photos.app.goo.gl/qQ4RWf1UakGEMoY59)
 
-On our way to Nepal, yes we are going back to hike the Annapurna Circuit again, we decided to take a couple of days and spoil ourselves in Bangkok.  We stayed at our favorite hotel, the Vie, pigged out on breakfast buffets, sushi and curries, did some shopping and slept.  
+On our way to Nepal, yes we are going back to hike the Annapurna Circuit again, we decided to take a couple of days and spoil ourselves in Bangkok. We stayed at our favorite hotel, the Vie, pigged out on breakfast buffets, sushi and curries, did some shopping and slept.
 
 </br>
 <div style="text-align: center">
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipPG8_YkNBpj8EC_hiflodjk7RRXpLICgTN0VBHJQ-gxdk_83Mqip9vGYHIezux9jA/photo/AF1QipPm4TEkSdjiYrrirWLd22Mtj8_sI20Ytkkl14Cv?key=amNoNU5QSmlIckU3QTVGUy1WNTBvSFlIQW93a2ZB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3cCyOqRemZhaWZI_C__FJ_zen01WmJzToFwI_DCqkbE7WOEtpLBxvRR3lj-PdcB_w_oxH9WiLFI8Soj50RCiJx-eCI6e7kaiASs5N7LNqRw4Q7w6ofCHOhE8vT4r9AphEFQ14tF2iepfiRMkfo_gq3NIg=w400-no" width="400" /><div>Breakfast at The Vie</div></a> 
 </div>
 
-We arrived in Kathmandu and headed back to [Hotel Yala Peak](https://goo.gl/maps/Sstjb7m7PVdU3EUK8) for two nights.  We went and got our permits and got organized.  We rented bags this time, it worked out much cheaper and we didn’t want to deal with hauling around a lot of gear.  We went to Sam’s Bar for a few bevvies before hitting the sack since we had an early morning start.  Then it was the bus to Besisahar and one night at the [Gateway Himalaya Resort](https://goo.gl/maps/qKyZQqGrEXM5TicUA).  
+We arrived in Kathmandu and headed back to [Hotel Yala Peak](https://goo.gl/maps/Sstjb7m7PVdU3EUK8) for two nights. We went and got our permits and got organized. We rented bags this time, it worked out much cheaper and we didn’t want to deal with hauling around a lot of gear. We went to Sam’s Bar for a few bevvies before hitting the sack since we had an early morning start. Then it was the bus to Besisahar and one night at the [Gateway Himalaya Resort](https://goo.gl/maps/qKyZQqGrEXM5TicUA).
 
 </br>
 <div style="text-align: center">
@@ -25,7 +26,7 @@ We arrived in Kathmandu and headed back to [Hotel Yala Peak](https://goo.gl/maps
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipPG8_YkNBpj8EC_hiflodjk7RRXpLICgTN0VBHJQ-gxdk_83Mqip9vGYHIezux9jA/photo/AF1QipM-JC1_aJwvZReTNP1AZte6BTfPsoa6JaQTmgKq?key=amNoNU5QSmlIckU3QTVGUy1WNTBvSFlIQW93a2ZB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3ej090TLjIvGSjN_EQjoVO7GqqNnAHgo3HPOBCWCULy-j4As4dgQg2LdlUaMXuyCfocIitiy1IrgGxvYfBST-i7BgPI11s6ZVBYsxv8TCvhQ84noU3ndrX5S29gJO1Wdw4u03Nf989kvP5UxmJLTiNjZA=w400-no" width="400" /><div>Gateway Himalaya</div></a> 
 </div>
  
-Somehow, we managed to get an early start and off we went, stopping at Hotel Hilton Garden where we had lunch on the last trip.  The family remembered us and we had some tea before heading off up the mountain.  We stopped in and said hello at Wanderlust where we stayed previously.  It was too early to stop for the night so we headed up to Bahundanda proper.  
+Somehow, we managed to get an early start and off we went, stopping at Hotel Hilton Garden where we had lunch on the last trip.  The family remembered us and we had some tea before heading off up the mountain.  We stopped in and said hello at Wanderlust where we stayed previously.  It was too early to stop for the night so we headed up to Bahundanda proper.
 
 </br>
 <div style="text-align: center">
@@ -40,9 +41,9 @@ Somehow, we managed to get an early start and off we went, stopping at Hotel Hil
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipPG8_YkNBpj8EC_hiflodjk7RRXpLICgTN0VBHJQ-gxdk_83Mqip9vGYHIezux9jA/photo/AF1QipMmzurumF-q9Fv_PrOPUeC88_EmLBZLMKAYVq0o?key=amNoNU5QSmlIckU3QTVGUy1WNTBvSFlIQW93a2ZB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3cmz0epVK54BMrxbyASKcnaBggtEHiyPASzLfVN4oDVd0s2Jqd-VsRqYdaI1FUAEkjH93yeozWC04slJrwdHzKH6y5U_XW2DZ6tYWMixsYJeSgBOe9OOBLCiabOGxzvPDqXF-u9LIJRt7Ef-TfLnojUHw=w275-no"width="275" /><div>Spider</div></a> 
 </div>
 
-We met a trekker from Indonesia, a couple from Germany and some girls from the Netherlands who were scared of spiders.  We kept passing each other over the next several days so were able to meet up.  
+We met a trekker from Indonesia, a couple from Germany and some girls from the Netherlands who were scared of spiders. We kept passing each other over the next several days so were able to meet up.
 
-It was an easy decision to stop back at the same hotel in Chamje.  The older fellow was still there, but Paul’s admirer was nowhere to be seen.  The trail was much busier this time around, more jeeps and people. Side Note: on our flight to Sri Lanka, we were given slippers. Paul said "keep your slippers, Helen. They will come in handy". My response was "what? no way" and my slippers were left. Paul was right and took advantage of wearing the slippers.  
+It was an easy decision to stop back at the same hotel in Chamje. The older fellow was still there, but Paul’s admirer was nowhere to be seen. The trail was much busier this time around, more jeeps and people. Side Note: on our flight to Sri Lanka, we were given slippers. Paul said "keep your slippers, Helen. They will come in handy". My response was "what? no way" and my slippers were left. Paul was right and took advantage of wearing the slippers.
 
 </br>
 <div style="text-align: center">
@@ -56,17 +57,16 @@ It was an easy decision to stop back at the same hotel in Chamje.  The older fel
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipPG8_YkNBpj8EC_hiflodjk7RRXpLICgTN0VBHJQ-gxdk_83Mqip9vGYHIezux9jA/photo/AF1QipPPssRnB9TObX_y-RKJtnwX3qFhwr9uwon-NtNn?key=amNoNU5QSmlIckU3QTVGUy1WNTBvSFlIQW93a2ZB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3fE9py2FI-LzVyZPNdwLg5ipNH7J1utHnxPQHKQ4vQmq-_JCHpNOANC0uC9V0TMVZ1i596IAe8T1cAxRHmoX74LlwlVIB_QsnTe0VBwso8zt5kMKbelir23EL2ubK17yPrjZkFL7ljrG3v744EG6gR5fA=w275-no"width="275" /><div>More Views</div></a>  
 </div>
 
-We made it to Tal in 3 days, enjoying the hike and acclimatizing to the heights.  When we were leaving Tal everything went a bit sideways… well I went sideways.  We were crossing a waterfall when I put a foot on a wobbly rock and went down.  Just so happened that there was rock perfectly placed for me to smack my head on. Paul got me up and out of the water, seated on a stair on the other side of the waterfall.  At this point,I’d say I was in a bit of shock… he managed to get our first aid kit out and started figuring out how badly damaged I was.  At this point the fellow we had met from Indonesia came around the corner.  He spoke to Paul and went to flag a jeep.  The major positive here was I managed to fall close to a bridge so we could easily get across to the road for help.  When he left the German couple arrived which was perfect timing.  He took my pack so Paul was able to help me, Lara went behind to help keep me stable.  
+We made it to Tal in 3 days, enjoying the hike and acclimatizing to the heights. When we were leaving Tal everything went a bit sideways… well I went sideways. We were crossing a waterfall when I put a foot on a wobbly rock and went down. Just so happened that there was rock perfectly placed for me to smack my head on. Paul got me up and out of the water, seated on a stair on the other side of the waterfall. At this point,I’d say I was in a bit of shock… he managed to get our first aid kit out and started figuring out how badly damaged I was. At this point the fellow we had met from Indonesia came around the corner. He spoke to Paul and went to flag a jeep. The major positive here was I managed to fall close to a bridge so we could easily get across to the road for help. When he left the German couple arrived which was perfect timing. He took my pack so Paul was able to help me, Lara went behind to help keep me stable.
 
 </br>
 <div style="text-align: center">
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipPG8_YkNBpj8EC_hiflodjk7RRXpLICgTN0VBHJQ-gxdk_83Mqip9vGYHIezux9jA/photo/AF1QipPOGVwkSZ4yTv7zP2zZsvI2SUfUV4UNSIxZpJIm?key=amNoNU5QSmlIckU3QTVGUy1WNTBvSFlIQW93a2ZB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3cTM_EOlqYLj-ERNIAP-RPvfWV0x3mNb0u8YnNJ2Ojr5B5VwOB7PY0-XdtHOO5bXq2_53RixIwj37MkeYzeri73sCWQhVW0sAIcnyV8R22ULzAihfxPBB_pPELNnGWoX-hxaIrzZmqYCsui0ullMf9W7w=w732-h975-no" width="275" /><div>Resting</div></a> 
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipPG8_YkNBpj8EC_hiflodjk7RRXpLICgTN0VBHJQ-gxdk_83Mqip9vGYHIezux9jA/photo/AF1QipPlZAPYS_UN1pRBDQSYsv7OWuTGz8IQqatYXTME?key=amNoNU5QSmlIckU3QTVGUy1WNTBvSFlIQW93a2ZB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3d32cMS9csgaVA7uaeMo8z8wVbCoERGw0_KcKk0A9-uKuYzLymx5Y6Sf9Ty0jkkWRn11HMU3DxAedI4GKp-bpZsSUOKF5eOU-VeTkewfnUfduOiYrSHKl__-lXi2IDOxqxlM7RUVMKLB5Loc0xFnXXo2g=w275-no"width="275" /><div>Ouch</div></a> 
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipPG8_YkNBpj8EC_hiflodjk7RRXpLICgTN0VBHJQ-gxdk_83Mqip9vGYHIezux9jA/photo/AF1QipNt72w82gY-bO1IGLatu77Fnstt0jR8Q-daglO5?key=amNoNU5QSmlIckU3QTVGUy1WNTBvSFlIQW93a2ZB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3c5M3EPWki7P31ywKK4B5LURVaDYzsaGvdWFYqdwWV4TYo4_ijBYrJ4DapIdSvDCvTuH2a379OsbxQRobL8U91WQKSrG51r7VrBsJGs9BdCQE-fXnbnYas2g_4H1CH2VEa0gDOxnRVywoF-OWBJ6-rQ5A=w275-no"width="275" /><div>Much Better</div></a> 
-</div> 
+</div>
 
-
-We made it down to the jeep road and into a fully loaded jeep.  Paul ended up in the back and one of the guys got out so I could ride inside.  It took 4 hours and was a harrowing ride, luckily I don’t recall a lot.  Some of the video Paul took on the way was scary, I was glad we made it back!  We got to the hospital, saw a doctor and $10 later I had an xray, nothing broken, some painkillers and confirmation that if I had no concussion symptoms, I’d be good to go. Two more night and a wedding at the Gateway Himalaya and we were back to normal… except I had a shiner!  People kept giving Paul dirty looks and asking me about it, a great conversation starter!  Based on all this, I can only assume I have a really hard head but I don’t plan on testing that theory any time soon!
+We made it down to the jeep road and into a fully loaded jeep. Paul ended up in the back and one of the guys got out so I could ride inside. It took 4 hours and was a harrowing ride, luckily I don’t recall a lot. Some of the video Paul took on the way was scary, I was glad we made it back! We got to the hospital, saw a doctor and $10 later I had an xray, nothing broken, some painkillers and confirmation that if I had no concussion symptoms, I’d be good to go. Two more night and a wedding at the Gateway Himalaya and we were back to normal… except I had a shiner! People kept giving Paul dirty looks and asking me about it, a great conversation starter! Based on all this, I can only assume I have a really hard head but I don’t plan on testing that theory any time soon!
 
 </br>
 <div style="text-align: center">
@@ -74,7 +74,7 @@ We made it down to the jeep road and into a fully loaded jeep.  Paul ended up in
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipPG8_YkNBpj8EC_hiflodjk7RRXpLICgTN0VBHJQ-gxdk_83Mqip9vGYHIezux9jA/photo/AF1QipN0ZVY392dR0EdZppa9vh7-XJ_3CNIfaA6CWXa5?key=amNoNU5QSmlIckU3QTVGUy1WNTBvSFlIQW93a2ZB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3fmK4CNLiVF9PlbaIBn4XUGsO0zHg_w2YqJShffTW1wSc5QXdumUG4T5ZxZ2lR4bfSQM1-nQJeAFjwQHyAX-zFoyL9UbpI7RiXTwDen1yKCp8KA4TS042VKiDFxdhTdbsuhZUWb3dv9_qzcg7nqKLa5Jg=w275-no" width="275" /><div>Back on Trail</div></a> 
 </div>
  
-We decided to take a jeep up to Chame.  Our friend Scott, from last year, recommended we stay at Eagle Eye with his friend Tek.  While there we met a really nice group of people… Marlow, Jake, Jarah, Flo, Omar who had all met and were trekking together.  Marlow and Jake are Canadian, Jarah is from Australia, Omar is Israeli and Flo is German.  We also met Pim and Chamina, form the Netherlands, who were mountain biking the trail.  At this point Paul thought he lost one of his legs so we went shopping and got him another pair of pants… we did manage to find it later that evening so we left the pants with Tek.  Tek came and rubbed some oil on my bruise, said it would help break it up.  We met his wife and son the next morning, said our goodbyes and headed out.  
+We decided to take a jeep up to Chame.  Our friend Scott, from last year, recommended we stay at Eagle Eye with his friend Tek.  While there we met a really nice group of people… Marlow, Jake, Jarah, Flo, Omar who had all met and were trekking together.  Marlow and Jake are Canadian, Jarah is from Australia, Omar is Israeli and Flo is German.  We also met Pim and Chamina, form the Netherlands, who were mountain biking the trail.  At this point Paul thought he lost one of his legs so we went shopping and got him another pair of pants… we did manage to find it later that evening so we left the pants with Tek.  Tek came and rubbed some oil on my bruise, said it would help break it up.  We met his wife and son the next morning, said our goodbyes and headed out.
 
 </br>
 <div style="text-align: center">
@@ -83,7 +83,7 @@ We decided to take a jeep up to Chame.  Our friend Scott, from last year, recomm
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipPG8_YkNBpj8EC_hiflodjk7RRXpLICgTN0VBHJQ-gxdk_83Mqip9vGYHIezux9jA/photo/AF1QipPcRF9Zftk1u4BEnAp31zJw8emd6bCVQmrKHG-N?key=amNoNU5QSmlIckU3QTVGUy1WNTBvSFlIQW93a2ZB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3dVCbgCneVTvGZpWFJ0E6sb5sIAmU0n93TZyehouIS8nt-GkS2Hzpa7egnKACK6BvzwYOmxA8XdKw01WopHPYXoKFnKd7Tk8bHX7z1JWSjM0aqfeuc-OuO7W6ufo2WYMamacFJMyJADR0Pj0yIaHGiUgA=w732-h975-no" width="185" /><div>Relaxing</div></a> 
 </div>
 
-This time we headed to Upper Pisang, it was a very different experience. Once we got checked in to our guesthouse we had lunch and went for a walk. Not like we hadn't walked enough already! There was a temple to check out and a monastery. 
+This time we headed to Upper Pisang, it was a very different experience. Once we got checked in to our guesthouse we had lunch and went for a walk. Not like we hadn't walked enough already! There was a temple to check out and a monastery.
 
 </br>
 <div style="text-align: center">
@@ -92,7 +92,7 @@ This time we headed to Upper Pisang, it was a very different experience. Once we
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipPG8_YkNBpj8EC_hiflodjk7RRXpLICgTN0VBHJQ-gxdk_83Mqip9vGYHIezux9jA/photo/AF1QipNE8cf1tuWw8jbC8InQeAXyfuvI0WnqNqBJf8Tx?key=amNoNU5QSmlIckU3QTVGUy1WNTBvSFlIQW93a2ZB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3dYFU-2K5IxsnSDAN8KZf9ZCqMxV8NALqdlXZnbF5PUb7hOqCcEnQEfvm1LY0aVkIyKKDghwQTwhrMnJOxAbNURrDJx__P5UEBkb53sPSJRjYP2NW6sbw76pfh3uumyEG7B3z6XJgIZ1TbmrW2FRsqi_w=w315-no" width="315" /><div>Detail and Color</div></a> 
 </div>
 
-We did something different this year, and stopped for a night in Bhakra before heading to Manang. We were quite happy that we did as we saw the German couple that had helped us get to the jeep. WE had a really nice visit with them and were able to get them some apple pie as a thank you. In Manang Paul decided that this year he would take the preventative dose to avoid AMS, so we started that.  We met an interesting American lady, she was a bit of a walking disaster but had some interesting conversations.  We spent time getting to know Marlow, Jake, Flo, Jarah and Omar. We did the HAS seminar again, we had some concerns about the bruising on my eye and weren't sure if it would be an issue. Apparently, I became known as the black eye lady. It did almost feel like a different trip since we stopped in different towns and guesthouses along the way. 
+We did something different this year, and stopped for a night in Bhakra before heading to Manang. We were quite happy that we did as we saw the German couple that had helped us get to the jeep. WE had a really nice visit with them and were able to get them some apple pie as a thank you. In Manang Paul decided that this year he would take the preventative dose to avoid AMS, so we started that. We met an interesting American lady, she was a bit of a walking disaster but had some interesting conversations. We spent time getting to know Marlow, Jake, Flo, Jarah and Omar. We did the HAS seminar again, we had some concerns about the bruising on my eye and weren't sure if it would be an issue. Apparently, I became known as the black eye lady. It did almost feel like a different trip since we stopped in different towns and guesthouses along the way.
 
 </br>
 <div style="text-align: center">
@@ -106,7 +106,7 @@ We did something different this year, and stopped for a night in Bhakra before h
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipPG8_YkNBpj8EC_hiflodjk7RRXpLICgTN0VBHJQ-gxdk_83Mqip9vGYHIezux9jA/photo/AF1QipPqWOawwunMbZSAzpBxVTHLCQoVtUaHrE7_iF27?key=amNoNU5QSmlIckU3QTVGUy1WNTBvSFlIQW93a2ZB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3dO8Dy-XRWtrTm0B-NJybKyuuA1qbimusWFUHaBordJIFzBzcZlgc8jbTzUMOP-dG3oJB0oVZKONwJbmEWu3jSMwJ1PO9qOELZ_FrH8QEAXM_maxLIteN2hDFGAFtHMaiAh92yBJCYRulBWqG47XDncRA=w275-no"width="230" /><div>Beautiful</div></a> 
 </div>
 
-We ended up having to spend a couple of nights at Throng Pedi since we both got food poisoning… I think Annapurna was letting us know that we had worn out our welcome! After two days of rest, we headed up to High Camp where we met up with Chamina and Pim, which was nice. I made it up the little hill this time and we watched Pim and his guide ride their bikes down, braver then us! 
+We ended up having to spend a couple of nights at Throng Pedi since we both got food poisoning… I think Annapurna was letting us know that we had worn out our welcome! After two days of rest, we headed up to High Camp where we met up with Chamina and Pim, which was nice. I made it up the little hill this time and we watched Pim and his guide ride their bikes down, braver then us!
 
 </br>
 <div style="text-align: center">
@@ -115,7 +115,7 @@ We ended up having to spend a couple of nights at Throng Pedi since we both got 
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipPG8_YkNBpj8EC_hiflodjk7RRXpLICgTN0VBHJQ-gxdk_83Mqip9vGYHIezux9jA/photo/AF1QipM8JwrGEDTiTFOFOUcI4dT4ZpwfHX2qzzBfd1c9?key=amNoNU5QSmlIckU3QTVGUy1WNTBvSFlIQW93a2ZB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3dPjRCOBMCa_R0zTtBiEgCxFJprXkJwztoiM-XL9U8XWmDGFv5GzzMmpErcQ4RlaZxknTt4mnCN0EQKxVR3wQQfQPtylLxNpG_L3ZD7Zw5flszJHegu5LIUK7dE5Di5Xj9Ghr2yBarBSzYGXhU60qAUgw=w375-no"width="375" /><div>COLD</div></a> 
 </div>
 
-Next day, over Throng La Pass with no AMS and very little snow!  We were able to spend time enjoying our accomplishment, a nice change from last time. It was noticeably more crowded this time. Then it was down the other side. 
+Next day, over Throng La Pass with no AMS and very little snow! We were able to spend time enjoying our accomplishment, a nice change from last time. It was noticeably more crowded this time. Then it was down the other side.
 
 </br>
 <div style="text-align: center">
@@ -124,7 +124,7 @@ Next day, over Throng La Pass with no AMS and very little snow!  We were able to
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipPG8_YkNBpj8EC_hiflodjk7RRXpLICgTN0VBHJQ-gxdk_83Mqip9vGYHIezux9jA/photo/AF1QipP7xSO6yYrQy1j_kFfDvLEF4Xi-Snv-axyrKrot?key=amNoNU5QSmlIckU3QTVGUy1WNTBvSFlIQW93a2ZB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3fMPPbAQlLx9Pm6hgywWW4zJ0u181cyNygqB3u3Dw-o30SRHQADXiztmEH-QyPcWVL57rGNNC6JaCO01qhh6uPOluIAlcz6yt2fio6ucfOBGBHLJD5OOHDpkNrcvfZf4gN2kqlr-Q6h8E82AhpipWHlog=w1300-h975-no"width="375" /><div>Heading Down</div></a> 
 </div>
 
-We spent some time in Muktinath with the “group” and ended up walking with Omar and Jarah to Kagbeni.  We all stayed at YacDonalds, which was where Paul and Jin had Yak Tea last time. I think we all ordered the Yak Burger for supper, it was pretty tasty! On the way to Jomsom, we ended up going down by the river too much and had to climb out over some rocks and a little sketchy bit to the road.  I ended up wiping out near the end, typical me, and lost a pole. There was a lot of apple pies eaten in Kagbeni and Marpha! We took a random trail along the way, went through a village and various tourist areas... it was a nice break from the road but we did end up getting lost so had to still do a road walk. 
+We spent some time in Muktinath with the “group” and ended up walking with Omar and Jarah to Kagbeni. We all stayed at YacDonalds, which was where Paul and Jin had Yak Tea last time. I think we all ordered the Yak Burger for supper, it was pretty tasty! On the way to Jomsom, we ended up going down by the river too much and had to climb out over some rocks and a little sketchy bit to the road. I ended up wiping out near the end, typical me, and lost a pole. There was a lot of apple pies eaten in Kagbeni and Marpha! We took a random trail along the way, went through a village and various tourist areas... it was a nice break from the road but we did end up getting lost so had to still do a road walk.
 
 </br>
 <div style="text-align: center">
@@ -133,8 +133,7 @@ We spent some time in Muktinath with the “group” and ended up walking with O
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipPG8_YkNBpj8EC_hiflodjk7RRXpLICgTN0VBHJQ-gxdk_83Mqip9vGYHIezux9jA/photo/AF1QipO-jHBpOhYBvVF_X2aQiwzPzOUFAK2GHjV-RvgS?key=amNoNU5QSmlIckU3QTVGUy1WNTBvSFlIQW93a2ZB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3dJ4Q_a4wIy1J3Eu8lZlfSAYfVWFUsNuzaW68q7i6b0LxW7L3x3VwV2UnW-DTI919LfD3tLXuBBIArIjRt9xWxxou5B9Q4R-aOIuQgiAJfV5rCvT5CZZtBj08X5MOvkngjnl1k3-mxhC9-hEfUHKcaTsA=w315-no"width="315" /><div>Dhumba Lake</div></a> 
 </div>
 
-
-We left Marpha with Omar and Jarah, everyone else decided to bus it out. We made it to Tatopani and the four of us ended up sharing a room with 3 beds, everywhere was booked!  It was so crowded this season.  Based on that, we decided to bus it out the next day with Jarah.  We figured Ghorephani would be worse.  The bus to Pokhara was definitely an experience, the 3 of us were in the back of the bus and the driver wasn’t hesitant to hit the bumps… but we made it.  
+We left Marpha with Omar and Jarah, everyone else decided to bus it out. We made it to Tatopani and the four of us ended up sharing a room with 3 beds, everywhere was booked! It was so crowded this season. Based on that, we decided to bus it out the next day with Jarah. We figured Ghorephani would be worse. The bus to Pokhara was definitely an experience, the 3 of us were in the back of the bus and the driver wasn’t hesitant to hit the bumps… but we made it.
 
 </br>
 <div style="text-align: center">
@@ -149,7 +148,7 @@ We left Marpha with Omar and Jarah, everyone else decided to bus it out. We made
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipPG8_YkNBpj8EC_hiflodjk7RRXpLICgTN0VBHJQ-gxdk_83Mqip9vGYHIezux9jA/photo/AF1QipNzaSanHv6IeJTMCe3m9c7PJHMIqpvi2RIaFXpL?key=amNoNU5QSmlIckU3QTVGUy1WNTBvSFlIQW93a2ZB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3etPzsgdoX_p_ZRdfY7RwewnW-kNOmAQ33IsHlKSjrCLHyOHBIkIBwGHPeP6UAY8wwb1m_LU4jIF0OPVcPGAfUvgn1Z7YPBwAKIs8huCntMCuboP5b6sgNf1z7p81iV0QB9fdjQSfRiDVxOYoPjdGajkg=w230-no"width="230" /><div>Quick Repair</div></a> 
 </div>
 
-We checked into the [Butterfly Lodge](https://goo.gl/maps/NRW1n8eeC4mEX35Z9) and spent a couple of days relaxing.  Jarah, Marlow, Jake and Flo were also in town so we met for supper.  Omar had kept trekking and showed up the next day so we spent some time together.  We got to spend the afternoon with Tek, his other brother and family.  They picked us up, brought us to their place for lunch and we were able to spend time with the kids.  It was nice.  Tek wanted us to stay over, but we weren’t able to as we had other plans.  We went for dinner with everyone that we had been trekking with everyone but Omar was leaving the next day.  We had one more day so Paul and Omar went paragliding, which was really cool. I was sensible and watched from the roof of the hotel!
+We checked into the [Butterfly Lodge](https://goo.gl/maps/NRW1n8eeC4mEX35Z9) and spent a couple of days relaxing. Jarah, Marlow, Jake and Flo were also in town so we met for supper. Omar had kept trekking and showed up the next day so we spent some time together. We got to spend the afternoon with Tek, his other brother and family. They picked us up, brought us to their place for lunch and we were able to spend time with the kids. It was nice. Tek wanted us to stay over, but we weren’t able to as we had other plans. We went for dinner with everyone that we had been trekking with everyone but Omar was leaving the next day. We had one more day so Paul and Omar went paragliding, which was really cool. I was sensible and watched from the roof of the hotel!
 
 </br>
 <div style="text-align: center">

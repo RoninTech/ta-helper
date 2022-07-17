@@ -1,13 +1,14 @@
 ---
 title: "Cambodia"
 date: 2017-07-20T07:28:16-07:00
-featured_image: 'https://lh3.googleusercontent.com/pw/ACtC-3eSxmNQwhsFdayjWsjtDjCbh1hLq5SfONxzl1OhEwpo4cxFkuB1BGS6uKFAtMLNadITHyfRuqZXKHn6xbSo0mxJmdgXr94dOmh042qZgKTMx_BCkXVNymtfQLrc4UwV-JXjITf-6jl5LuVDjgeri29RAw=w1210-h908-no'
+featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3eSxmNQwhsFdayjWsjtDjCbh1hLq5SfONxzl1OhEwpo4cxFkuB1BGS6uKFAtMLNadITHyfRuqZXKHn6xbSo0mxJmdgXr94dOmh042qZgKTMx_BCkXVNymtfQLrc4UwV-JXjITf-6jl5LuVDjgeri29RAw=w1210-h908-no"
+images:
+  - "https://lh3.googleusercontent.com/pw/ACtC-3eSxmNQwhsFdayjWsjtDjCbh1hLq5SfONxzl1OhEwpo4cxFkuB1BGS6uKFAtMLNadITHyfRuqZXKHn6xbSo0mxJmdgXr94dOmh042qZgKTMx_BCkXVNymtfQLrc4UwV-JXjITf-6jl5LuVDjgeri29RAw=w1210-h908-no"
 author: "Helen"
-type: "article"
 omit_header_text: true
 ---
 
-Cambodia (Part 1)? What? Why, you ask?  Even if you didn’t, I’m pretending you did so I can tell you all about it!  After a great time on the 4000 islands in Laos our next stop was Cambodia.  We were very excited for a couple of reasons the main one being an opportunity to see our old friend Lee.  We hadn’t seen him in years… basically since he moved there from Calgary, Canada.  The other reason was that we heard it was amazing.  So we took off from the 4000 islands on a boat, then a bus to the infamous border crossing, renowned for its corruption.  We were super lucky in that our Thai friend Nok had also decided to leave at the same time so we all traveled together. 
+Cambodia (Part 1)? What? Why, you ask? Even if you didn’t, I’m pretending you did so I can tell you all about it! After a great time on the 4000 islands in Laos our next stop was Cambodia. We were very excited for a couple of reasons the main one being an opportunity to see our old friend Lee. We hadn’t seen him in years… basically since he moved there from Calgary, Canada. The other reason was that we heard it was amazing. So we took off from the 4000 islands on a boat, then a bus to the infamous border crossing, renowned for its corruption. We were super lucky in that our Thai friend Nok had also decided to leave at the same time so we all traveled together.
 
 </br>
 <div style="text-align: center">
@@ -19,9 +20,9 @@ Cambodia (Part 1)? What? Why, you ask?  Even if you didn’t, I’m pretending y
 
 [Photo Album](https://photos.app.goo.gl/IrhmfIOGEZrs7Lxz1)
 
-So really, you go here to get to Angkor Wat.  We arrived after a fun, yet harrowing bus ride… the driver fell asleep and had drifted into the oncoming traffic lane.  Thankfully he was woken up before any harm was done, but everyone was wide awake after that!  After checking into the Schein Guest House we arranged to go see Angkor Wat.  We booked a tour with tuk tuk driver [Tino](https://www.facebook.com/tinothai), who our friends Pat and Liz had recommended and setup a 4am departure for a sunrise start.  Early the next morning we got to the ticket office, waited in line, got our tickets and headed over.
+So really, you go here to get to Angkor Wat. We arrived after a fun, yet harrowing bus ride… the driver fell asleep and had drifted into the oncoming traffic lane. Thankfully he was woken up before any harm was done, but everyone was wide awake after that! After checking into the Schein Guest House we arranged to go see Angkor Wat. We booked a tour with tuk tuk driver [Tino](https://www.facebook.com/tinothai), who our friends Pat and Liz had recommended and setup a 4am departure for a sunrise start. Early the next morning we got to the ticket office, waited in line, got our tickets and headed over.
 
-While beautiful, it was crazy crowded with people. Tour buses, hundreds of tuk tuks, bikes and cars.  There were kids running around selling trinkets, women harassing you to buy a scarf or t-shirt and the inevitable painters… yeah, not what we expected.  Our tuk tuk driver/guide, [Tino](https://www.facebook.com/tinothai), was awesome, he took us on a different route after sunrise to escape the crowds and we had several temples where it was just us.  Overall, it was incredible to see and we were glad that we went.
+While beautiful, it was crazy crowded with people. Tour buses, hundreds of tuk tuks, bikes and cars. There were kids running around selling trinkets, women harassing you to buy a scarf or t-shirt and the inevitable painters… yeah, not what we expected. Our tuk tuk driver/guide, [Tino](https://www.facebook.com/tinothai), was awesome, he took us on a different route after sunrise to escape the crowds and we had several temples where it was just us. Overall, it was incredible to see and we were glad that we went.
 
 </br>
 <div style="text-align: center">
@@ -50,7 +51,7 @@ While beautiful, it was crazy crowded with people. Tour buses, hundreds of tuk t
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO1kp4khayMoI1-b69c3tBE-JNsrwY5GkMfxGJirR8CkiLn3YgzvMPYtz-AiYAeIA/photo/AF1QipOfU47uNHeA1Sd3ICAHYv__5tmOgHi8CXEgGKj8?key=Mk9uTDYxT3pha3dwVFh5QUtpc3UySUZrV3NISFdn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3cR-HshJE5S4RupuOWG0Jh1f-_Rszn4b18wDqcSyvMplZexClbr6XURGCJAuesfiXtR6Dn4j6Kp-t-Q9aOGhogOlq19lqNHSIHWwWXsr-XzWp6zZJLo_LXG97ec0vvsjGOQyt_ooLr3SSSG9rOi13QMAw=w235-no" width="235" /><div>No secret basement tunnels</div></a> 
 </div>
 
-Paul took a turn at driving… thankfully Tino stepped in before any harm was done!  
+Paul took a turn at driving… thankfully Tino stepped in before any harm was done!
 
 </br>
 <div style="text-align: center">
@@ -58,7 +59,7 @@ Paul took a turn at driving… thankfully Tino stepped in before any harm was do
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO1kp4khayMoI1-b69c3tBE-JNsrwY5GkMfxGJirR8CkiLn3YgzvMPYtz-AiYAeIA/photo/AF1QipMPBnWrzOHyfVlioEDHbYVHW5zShTg-FwBSR0_j?key=Mk9uTDYxT3pha3dwVFh5QUtpc3UySUZrV3NISFdn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3dGF4gAPjwUmcD7sT04nV3Ztegv8KWADByrhe5x_imM5Ptgbys3c_ygVG_y2mNnOPLMYUSTOYH8auEoFPkgj4HdU79IEaxcMMfh7ZKJ8XTj79jM792R6peHS7galaUyPS7-YCgFF9qT29zNb6lJZ7NH1A=w470-no" width="470" /><div>Highly recommend Tino as a driver/guide for Ankor Wat!</div></a> 
 </div>
 
-If are you ever in Siem Reap the [Phare Circus](https://pharecircus.org/) is a must do event.  We were lucky to get tickets and had a lovely time.  The show was amazing and the skill of the performers was crazy.  It was an unexpected highlight of our Cambodia travels.  The one performer painted while acrobats tumbled all around him, the average painting taking only 5 minutes!! 
+If are you ever in Siem Reap the [Phare Circus](https://pharecircus.org/) is a must do event. We were lucky to get tickets and had a lovely time. The show was amazing and the skill of the performers was crazy. It was an unexpected highlight of our Cambodia travels. The one performer painted while acrobats tumbled all around him, the average painting taking only 5 minutes!!
 
 </br>
 {{< youtube a-cXRfAkEpg >}}
@@ -75,13 +76,13 @@ If are you ever in Siem Reap the [Phare Circus](https://pharecircus.org/) is a m
 {{< youtube XuWLDv1POTU >}}
 </br>
 
-#### Phnom Penh 
+#### Phnom Penh
 
 [Photo Album](https://photos.app.goo.gl/awxApQKtKVodwckW7)
 
-Admittedly not our favorite place.  We spent two nights here on the way to Chiang Mai/Hong Kong… yep, heading to Hong Kong!  More to follow on that event.  Anyhoo, bused it to Phnom Penh on the [Cambodia Post VIP passenger van](https://www.cambodiapost.post/en/) from Siem Reap (highly recommended!).  No one fell asleep on this trip.  We spent a full day at the [Killing Fields](https://goo.gl/maps/VdeE7igEXuwKvZdE8) and the [S21 torture prison](https://goo.gl/maps/tczjNu3HaDtXVkdc8).  While heartbreaking it is something that you need to do if heading to Cambodia.  Listening to the tapes from survivors, seeing photos, videos and learning about what happened was an emotional roller coaster and we both felt physically and emotionally exhausted afterwards.  We were glad to get them both done in 1 day so we could start the emotional recovery.  It’s horrific, heartbreaking and devastating learning about what happened and understanding how this still affects the Cambodian people.  You'll never look at an older Khmer person the same way again. Over a year later the feelings all came back while we were at the war museum in Saigon.
+Admittedly not our favorite place. We spent two nights here on the way to Chiang Mai/Hong Kong… yep, heading to Hong Kong! More to follow on that event. Anyhoo, bused it to Phnom Penh on the [Cambodia Post VIP passenger van](https://www.cambodiapost.post/en/) from Siem Reap (highly recommended!). No one fell asleep on this trip. We spent a full day at the [Killing Fields](https://goo.gl/maps/VdeE7igEXuwKvZdE8) and the [S21 torture prison](https://goo.gl/maps/tczjNu3HaDtXVkdc8). While heartbreaking it is something that you need to do if heading to Cambodia. Listening to the tapes from survivors, seeing photos, videos and learning about what happened was an emotional roller coaster and we both felt physically and emotionally exhausted afterwards. We were glad to get them both done in 1 day so we could start the emotional recovery. It’s horrific, heartbreaking and devastating learning about what happened and understanding how this still affects the Cambodian people. You'll never look at an older Khmer person the same way again. Over a year later the feelings all came back while we were at the war museum in Saigon.
 
-Another aspect of Phnom Penh we didn't like was the seediness.  Cambodia feels like it is still the most wild west country of South East Asia.  This attracts an undesirable crowd who use their western money to take advantage of the under privileged.  We saw far too many old fat Western men with teen age or barely older girls on their arms.  Sometimes they were boys.  Basically we were glad to leave Phnom Penh and we try to avoid it when possible.
+Another aspect of Phnom Penh we didn't like was the seediness. Cambodia feels like it is still the most wild west country of South East Asia. This attracts an undesirable crowd who use their western money to take advantage of the under privileged. We saw far too many old fat Western men with teen age or barely older girls on their arms. Sometimes they were boys. Basically we were glad to leave Phnom Penh and we try to avoid it when possible.
 
 </br>
 {{< youtube -RXqHRyrl0c >}}

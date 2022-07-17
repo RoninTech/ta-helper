@@ -1,14 +1,15 @@
 ---
 title: "Parking Pad"
 date: 2020-06-15T10:22:15-07:00
-featured_image: 'https://lh3.googleusercontent.com/pw/ACtC-3cxlTG5_FptmkEdNU2ojKB3aDsVHsqNQGX8rF3pU1OjaR4QVDVXcXL11maBt8wks2985GUJPWDHjZ8Y2LYvYFBOc1Y1EVToNQ1W0DevqGyN61gQNd5yfHfgzTh2GXBrQqhUcwiUFWFAv3zlAwUQ7wXRFg=w1296-h972-no'
+featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3cxlTG5_FptmkEdNU2ojKB3aDsVHsqNQGX8rF3pU1OjaR4QVDVXcXL11maBt8wks2985GUJPWDHjZ8Y2LYvYFBOc1Y1EVToNQ1W0DevqGyN61gQNd5yfHfgzTh2GXBrQqhUcwiUFWFAv3zlAwUQ7wXRFg=w1296-h972-no"
+images:
+  - "https://lh3.googleusercontent.com/pw/ACtC-3cxlTG5_FptmkEdNU2ojKB3aDsVHsqNQGX8rF3pU1OjaR4QVDVXcXL11maBt8wks2985GUJPWDHjZ8Y2LYvYFBOc1Y1EVToNQ1W0DevqGyN61gQNd5yfHfgzTh2GXBrQqhUcwiUFWFAv3zlAwUQ7wXRFg=w1296-h972-no"
 author: "Paul"
-type: "article"
 omit_header_text: true
 draft: false
 ---
 
-Paul's parents have graciously offered to let us park the van at the side of their house when its not in use as we are off travelling.  There was tons of room for the van and it is nicely sheltered between 2 houses.  The first time we parked it there it spun out a lot as the pebbles are quite large and round making them like ball bearings.  Rather than digging holes with spinning wheels and having to fill them in every time we come and go we decided to make a better parking pad.  Paul's Mum came across some [plastic driveway panels](https://www.amazon.ca/CORE-Gravel-Stabilizer-Geo-Textile-Eco-Friendly/dp/B084RHQ1LQ) that solved this problem perfectly.  We dug out the old bigger pebbles from where we wanted to park,  leveled the surface,  laid the panels in and filled them with 1/2" gravel.  No more sinking and tire spinning!
+Paul's parents have graciously offered to let us park the van at the side of their house when its not in use as we are off travelling. There was tons of room for the van and it is nicely sheltered between 2 houses. The first time we parked it there it spun out a lot as the pebbles are quite large and round making them like ball bearings. Rather than digging holes with spinning wheels and having to fill them in every time we come and go we decided to make a better parking pad. Paul's Mum came across some [plastic driveway panels](https://www.amazon.ca/CORE-Gravel-Stabilizer-Geo-Textile-Eco-Friendly/dp/B084RHQ1LQ) that solved this problem perfectly. We dug out the old bigger pebbles from where we wanted to park, leveled the surface, laid the panels in and filled them with 1/2" gravel. No more sinking and tire spinning!
 
 </br>
 <div style="text-align: center">

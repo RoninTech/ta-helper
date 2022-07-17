@@ -1,13 +1,14 @@
 ---
 title: "Tasmania"
 date: 2017-12-20T12:48:33-07:00
-featured_image: 'https://lh3.googleusercontent.com/pw/ACtC-3cOPzkyS1wTxXIeTAyOIm6M0iUrtGoOngFnz5vbFptLdtxfHdZF__VLHeGb-OOvi1WIDDVRL182ExO6EtXfe44MjTN_aeCmAppKjQDXukTQEq6szB_EpIYXZ74NWjsSbX27YUas9xOaypR5ZklXY9SL6g=w1920-h571-no?authuser=0'
+featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3cOPzkyS1wTxXIeTAyOIm6M0iUrtGoOngFnz5vbFptLdtxfHdZF__VLHeGb-OOvi1WIDDVRL182ExO6EtXfe44MjTN_aeCmAppKjQDXukTQEq6szB_EpIYXZ74NWjsSbX27YUas9xOaypR5ZklXY9SL6g=w1920-h571-no?authuser=0"
+images:
+  - "https://lh3.googleusercontent.com/pw/ACtC-3cOPzkyS1wTxXIeTAyOIm6M0iUrtGoOngFnz5vbFptLdtxfHdZF__VLHeGb-OOvi1WIDDVRL182ExO6EtXfe44MjTN_aeCmAppKjQDXukTQEq6szB_EpIYXZ74NWjsSbX27YUas9xOaypR5ZklXY9SL6g=w1920-h571-no?authuser=0"
 author: "Helen"
-type: "article"
 omit_header_text: true
 ---
 
-10 days in Tasmania wasn’t enough.  We could of easily spent at least a couple more weeks to explore this lovely island but we only had a short time left on our Ozzy visas.  It remains one of our favorite places… even though we landed during a massive rain storm and spent the day hunkered in the van.  🙂
+10 days in Tasmania wasn’t enough. We could of easily spent at least a couple more weeks to explore this lovely island but we only had a short time left on our Ozzy visas. It remains one of our favorite places… even though we landed during a massive rain storm and spent the day hunkered in the van. 🙂
 
 </br>
 <div style="text-align: center">
@@ -15,10 +16,11 @@ omit_header_text: true
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipN6mEVFRqf2Qfa3POcIYEd__PFDa7crJ2jZMkXk?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3dhHUW2YCbMjaTQyqoHeVf3mMc2mRZCA-zH67DGIfMo8QZfTiSsoVzBTxa_NXlCRrXNIpHIDQ7FL6J79QdWe48Qy2jM2EJvnU_Ypqetp7dVeC2Hhev9mTWZ1TGjZFHoDcaLVBr6KQHummuddvynfA3Yjw=w310-no" width="310" /><div>Blustery</div></a>
   </div>
 
-#### Hobart Area 
-We arrived here quite early and went to get our next van from Tassie Motor Shacks.  It was on the weekend but the owner was nice enough to pick us up from the airport in the pouring rain.  This older van we called Tassie because it was tough like a Tasmanian devil and got us through some sketchy roads… thanks to Google and it’s preference to take us on undeveloped roads.  We spent a cold, wet night in the camp kitchen at the 7 Mile Beach campground before heading off to Port Arthur.  Luckily the van had power and a space heater, and the owner had given us extra blankets and towels, so we were nice and cozy. 
+#### Hobart Area
 
-A special mention should go to Paul for trying to start a fire with extremely wet wood for the kitchen. An honorable mention should go to Helen for not causing an international incident when someone used her knife without asking. Short story is I had washed some dishes and piled them up on our bag to go back to the van before finishing the rest, when getting ready to head back to the van my knife wasn't there. There were some other people in the kitchen and I noticed the one girl was using my knife. I asked her if she had gotten that knife from the pile of clean dishes that obviously belonged to someone and not to the kitchen... thankfully she must of seen the look on my face and was quick to wash it and return it with an apology. A note about kitchens - they usually have shared dishes and such, but most people have bring their own from the vans. Luckily this was pretty much our one and only camp kitchen incident. 
+We arrived here quite early and went to get our next van from Tassie Motor Shacks. It was on the weekend but the owner was nice enough to pick us up from the airport in the pouring rain. This older van we called Tassie because it was tough like a Tasmanian devil and got us through some sketchy roads… thanks to Google and it’s preference to take us on undeveloped roads. We spent a cold, wet night in the camp kitchen at the 7 Mile Beach campground before heading off to Port Arthur. Luckily the van had power and a space heater, and the owner had given us extra blankets and towels, so we were nice and cozy.
+
+A special mention should go to Paul for trying to start a fire with extremely wet wood for the kitchen. An honorable mention should go to Helen for not causing an international incident when someone used her knife without asking. Short story is I had washed some dishes and piled them up on our bag to go back to the van before finishing the rest, when getting ready to head back to the van my knife wasn't there. There were some other people in the kitchen and I noticed the one girl was using my knife. I asked her if she had gotten that knife from the pile of clean dishes that obviously belonged to someone and not to the kitchen... thankfully she must of seen the look on my face and was quick to wash it and return it with an apology. A note about kitchens - they usually have shared dishes and such, but most people have bring their own from the vans. Luckily this was pretty much our one and only camp kitchen incident.
 
 </br>
 <div style="text-align: center">
@@ -27,10 +29,11 @@ A special mention should go to Paul for trying to start a fire with extremely we
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipOCJKk9pllM3YsHhideqcX5kGPW2RNM5l2Spbsq?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3cXljH8EhLZujE5HxHyzbhBkq6mTqY7QNpbJywB5YkNGZO4LgYRVZyxUwPSTz1ijRRR7Slp5vsmzu8QmGuHpkFVvPX1JG9M2y87M-O-HMVpPNQLzwU_5yx1Xreq5xsFYBB92ONsJYgEjpAVnDFvqIbrtA=w310-no" width="310" /><div>Paul practicing driving with eyes closed</div></a>
 </div>
 
-#### Port Arthur 
-This is an area that is totally worth exploring.  On the way there you see Pirates Bay Beach, the Devil’s Kitchen, the Remarkable Caves and a hike to the Maignon Blowhole. Someone may of climbed over the fence and explored the Remarkable caves…  If you guessed that was Paul, you are correct. The funniest bit was when he was climbing back up, he was rushing because some people were coming and he didn't want to get caught. He ended up wiping out coming over the railing so everyone noticed!
+#### Port Arthur
 
-After exploring all day we checked in at NRMA Port Arthur Holiday Park.  We had a great night sitting around a campfire and having a few bevvies with a Tasmanian couple we met.  They had just harvested a ton of broad beans from their yard and gave us a big bag of them,  They were awesome!  The next day we headed off to do some hiking.  The area here is lovely but the roads are somewhat lacking to get to the Capes.  Still totally worth a little effort to get there. 
+This is an area that is totally worth exploring. On the way there you see Pirates Bay Beach, the Devil’s Kitchen, the Remarkable Caves and a hike to the Maignon Blowhole. Someone may of climbed over the fence and explored the Remarkable caves… If you guessed that was Paul, you are correct. The funniest bit was when he was climbing back up, he was rushing because some people were coming and he didn't want to get caught. He ended up wiping out coming over the railing so everyone noticed!
+
+After exploring all day we checked in at NRMA Port Arthur Holiday Park. We had a great night sitting around a campfire and having a few bevvies with a Tasmanian couple we met. They had just harvested a ton of broad beans from their yard and gave us a big bag of them, They were awesome! The next day we headed off to do some hiking. The area here is lovely but the roads are somewhat lacking to get to the Capes. Still totally worth a little effort to get there.
 
 </br>
 <div style="text-align: center">
@@ -46,7 +49,8 @@ After exploring all day we checked in at NRMA Port Arthur Holiday Park.  We had 
   </div>
 
 #### Cape Raoul
-This is an awesome hike, a bit of a slog at 14km there and back, but so worth it.  The weather was perfect for hiking as it wasn't too hot and we were lucky enough to see humpback whales from the top of the cliffs.  We had gotten to the tip of the cape when we heard a voice.  There was a lady up there having lunch and once we recovered from our fright we had a lovely visit for over an hour sharing stories of travels.
+
+This is an awesome hike, a bit of a slog at 14km there and back, but so worth it. The weather was perfect for hiking as it wasn't too hot and we were lucky enough to see humpback whales from the top of the cliffs. We had gotten to the tip of the cape when we heard a voice. There was a lady up there having lunch and once we recovered from our fright we had a lovely visit for over an hour sharing stories of travels.
 
 The trail starts off in a forest and heads up to the cliffs, then goes back through a forest, flat lands and cliffs. It was a great hike and we were very happy we took the time to complete it. There were many view points along the way to keep you moving.
 
@@ -63,8 +67,9 @@ The trail starts off in a forest and heads up to the cliffs, then goes back thro
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipNRSn3o_XteipHtnYH14XDbyB4UiMGvMgO3ZUya?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3eYMkaCvl2XHTO9YQbol0v2f_b8RXHRVhOI_BnfvpUj9GJfRQLqhm_sgYki3zaWPQR_NPcrU7HHlOKBCzcfQ-PXJL_1BsU4V0PiJz2_XmdvrZVb8lnGFora6H9KMHN0VI0ubwaTMCt7d5lg_DWXPPdxOw=w240-no" width="240" /><div>Made it!</div></a>
   </div>
 
-#### Cape Hauy 
-After a night of rest, we decided to head off on the next part of our journey but first we had to hike Cape Hauy (9km return).  We were warned there were a lot of stairs but we thought we could handle it.  We did it, it hurt, but the views were totally worth it.  There were a lot of up and downs rather than just a steady uphill/downhill.  When you get to the platform at the end its a crazy vertigo inducing view, especially if you look down over the railing. There is a stone pillar called the Totem Pole that people climb and sometimes even highline back to the main area... crazy!
+#### Cape Hauy
+
+After a night of rest, we decided to head off on the next part of our journey but first we had to hike Cape Hauy (9km return). We were warned there were a lot of stairs but we thought we could handle it. We did it, it hurt, but the views were totally worth it. There were a lot of up and downs rather than just a steady uphill/downhill. When you get to the platform at the end its a crazy vertigo inducing view, especially if you look down over the railing. There is a stone pillar called the Totem Pole that people climb and sometimes even highline back to the main area... crazy!
 
 </br>
 <div style="text-align: center">
@@ -79,7 +84,7 @@ After a night of rest, we decided to head off on the next part of our journey bu
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipNj9UweYK7avnypjkQvWy7apDCV2RsN7dENJAgL?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3ciuEPziPE0jPIbf_9QN8I_2Xwl_nYgiA24BhyyVGinrNK7JrF2MUwHgVl6LchJnYs3AE7DJ1RYT20X2iAeUpvwe7zBrMUx1MnPpPL7cldnMCjOpZmNAjUOlt2AwfC3DQ-QTPgXYKUbEpGmwnFJL7fA_w=w310-no" width="310" /><div>Totem Pole</div></a>
   </div>
 
-From here we headed to the north part of the island.  We decided not to go to Cradle Mountain in the North of Tasmania due to the crappy weather.  There was still quite a bit of snow in the area and so we headed to Freycinet National Park and Wine Glass Bay instead.  We had a nice day, did the hike and headed back down to Orford after a lunch of fresh scallops and mussels.
+From here we headed to the north part of the island. We decided not to go to Cradle Mountain in the North of Tasmania due to the crappy weather. There was still quite a bit of snow in the area and so we headed to Freycinet National Park and Wine Glass Bay instead. We had a nice day, did the hike and headed back down to Orford after a lunch of fresh scallops and mussels.
 
 </br>
 <div style="text-align: center">
@@ -88,9 +93,9 @@ From here we headed to the north part of the island.  We decided not to go to Cr
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipNu0u4L-9SOWl-UjQVBbNbtGsov34GBkjT7eJ4c?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3d17GLY9ccO4pr4T6NZtDz1kNEOWIMrOtnohnW5XrO9vGNAAMU9gUekmUtF-nJ1_w9DHbN5vYN20aU2dhp_kDGyeTqBdTuApmFKguuNnpp8BQNBYQQVqKE8chsacBBFMsFZiNabwoGL16mmyf8gjjxpEQ=w310-no" width="310" /><div>NomNom delish!</div></a>
   </div>
 
-
 #### Maria Island
-We hesitated about doing our day trip to Maria Island as it was very expensive ($50 per person with Encounter Maria Island) but in the end we are so glad we went.  It was a great day and we really enjoyed wandering around the island and seeing the sights and the animals.  The painted cliffs are amazing, the photos don’t do them justice,  The island is covered in ruins and has quite the history.  It was originally settled by Aborigines, then the British, convicts, whalers and sealers.  Now it’s a national park inhabited by wombats (we weren't allowed to take one home) and roos.
+
+We hesitated about doing our day trip to Maria Island as it was very expensive ($50 per person with Encounter Maria Island) but in the end we are so glad we went. It was a great day and we really enjoyed wandering around the island and seeing the sights and the animals. The painted cliffs are amazing, the photos don’t do them justice, The island is covered in ruins and has quite the history. It was originally settled by Aborigines, then the British, convicts, whalers and sealers. Now it’s a national park inhabited by wombats (we weren't allowed to take one home) and roos.
 
 </br>
 <div style="text-align: center">
@@ -105,8 +110,7 @@ We hesitated about doing our day trip to Maria Island as it was very expensive (
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipPEtRWh6I7gVS1dA9o4szM7GVuz5NaHv7AT72nw?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3fDVdOAQp_bWTOqTsNjFN6ABeuhHNM4AXjDCKsIHVhIuu4LXaZRBddKEHk_VmJX54QuCbFGCXUMus673H1rlTwdu2eARyu8oYRcRECQiuqeZdGY735lfPN3imyUHPDEYRnUa3BEwcN5f82zLLdpNi6MNA=w310-no" width="310" /><div>Old Equipment</div></a>
   </div>
 
-
-The next day, the weather wasn’t co-operating where we so we headed back down south to Mt Field National Park.  We did a nice hike on the Russell Falls/Horseshoe Falls/Lady Barron Falls/Tall Trees circuit and saw lots of ducks. They even had it set up that you could see if you could figure out the height of the "tall tree". Paul got it, no problem. After that we headed to Mt. Wellington just outside Hobart, braving the twisty road and the crowds.
+The next day, the weather wasn’t co-operating where we so we headed back down south to Mt Field National Park. We did a nice hike on the Russell Falls/Horseshoe Falls/Lady Barron Falls/Tall Trees circuit and saw lots of ducks. They even had it set up that you could see if you could figure out the height of the "tall tree". Paul got it, no problem. After that we headed to Mt. Wellington just outside Hobart, braving the twisty road and the crowds.
 
 <div style="text-align: center">
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipMZ9t5GSjmFd0cNbT68-3C_wpStUf3bko_M0C9v?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3eHpk3C0TzGkkmQrk-mA3U3cE17QghjEtgWcOdGfdMsG6C4aPs4DfAH8q3f2fzTCm7to4elIepF8EboHvRYYxRtzA2WFOuSBJrhWJwqyXDssUMEMaOpy2zdFwwmgeSwvj5whnMso9wtApFhfWTfFxO16A=w177-no" width="177" /><div>Waterfalls</div></a>
@@ -114,12 +118,11 @@ The next day, the weather wasn’t co-operating where we so we headed back down 
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipMxN7qJ5TTzLQY_tSJyhhb22fobeXEIitwiynNN?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3coK_hRhAW85uiaKYJBsdoo4RVB-bcibhVqh-VUIY_Uz3tq_6upNU2HtsX2wxZzCQoLbae5NbRjtpfwoqD36DcLuzQVR5Jgy4BGqLKwyp9Q57s5hb81JypbDa1l1qBtItBwSh0jQCkUrA5whOsShsiBPw=w310-no" width="310" /><div>Mt. Wellington</div></a>
   </div>
 
+#### Huonville & Area
 
-#### Huonville & Area 
+We decided to spend our last days in Tasmania in this area. The place we stayed, Huon Valley Caravan Park, was a small working farm and Tasmanian Devil rescue. They had some of the remaining breeding devils on the island. Few, if any, live in the wild. There were ducks galore, calves, cows, chicks, and a platypus stop on the river. We never saw the platypus but Paul was itching for his fly fishing gear when we were down by the creek.
 
-We decided to spend our last days in Tasmania in this area.  The place we stayed, Huon Valley Caravan Park, was a small working farm and Tasmanian Devil rescue.  They had some of the remaining breeding devils on the island.  Few, if any, live in the wild.  There were ducks galore, calves, cows, chicks, and a platypus stop on the river.  We never saw the platypus but Paul was itching for his fly fishing gear when we were down by the creek.
-
-We spent the day exploring the area and the next day headed up to Mt Hartz National Park for a hike.  Unfortunately it rained.  Not even rained, poured would be a better  description and we got soaked through.  Paul was soaked from the waist down and Helen was wet through all over as we discovered her rain jacket (from Decathalon in Chiang Mai) wasn't waterproof.  It was weird because Paul has the same jacket in the men's version and water beaded right off it.  It also made us think about getting rain kilts for future hikes. (which we now have: 3FUL rain skirts).  We didn’t get to do the longer hike to Hartz Pass that we wanted to but did make it to Lake Osborne.  After changing into some warm dry clothes when we got back, we grabbed a couple of cup-a-soups from the van and brewed up some warm drinks in the shelter.
+We spent the day exploring the area and the next day headed up to Mt Hartz National Park for a hike. Unfortunately it rained. Not even rained, poured would be a better description and we got soaked through. Paul was soaked from the waist down and Helen was wet through all over as we discovered her rain jacket (from Decathalon in Chiang Mai) wasn't waterproof. It was weird because Paul has the same jacket in the men's version and water beaded right off it. It also made us think about getting rain kilts for future hikes. (which we now have: 3FUL rain skirts). We didn’t get to do the longer hike to Hartz Pass that we wanted to but did make it to Lake Osborne. After changing into some warm dry clothes when we got back, we grabbed a couple of cup-a-soups from the van and brewed up some warm drinks in the shelter.
 
 <div style="text-align: center">
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipMHPjxtrZbwghLFKPWaP7dbxLaWT_kRxlBQR-sa?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3cut8dLfMGo53Gr8GLGemFa4biWomHWXP1LB09JYCLr8ea9r6SWNOk4s8pJ4b9SmhDCBehAB9DO8lQDc3jVynulZGvkGU-J_Lqmu4dujpzdsPkma7yPyZFii-tHnAwviUjOMEHEPdnlvraiXsqHY6BFdw=w310-no" width="310" /><div>Tasmanian Devil</div></a>
@@ -127,6 +130,6 @@ We spent the day exploring the area and the next day headed up to Mt Hartz Natio
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipMzE2mVRxeCLoU6Tbf6veY-xPPOmPbSpnx5jY47?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3e6CRui7x4q2IxuI_-fW1wBTP8VXtxTDEH0wQDP6KIi_eGoKyhfQW2Iyu5Cy70OT436Pq2Q80tAA_bRM3SUxpJW7N9ihXNxg_1wZxDCH5LL1jn0-5RJZU6zmGttxKYKT8Qk-NOY1nAwcl1i0JR8QkhpLg=w310-no" width="310" /><div>Lake Osborne</div></a>
   </div>
 
-#### MONA 
+#### MONA
 
-We had sometime before heading to the land of hobbits, so decided to go see the recommended Museum of Old and New Art, MONA.  People we met kept telling us “it’s spectacular”.  They weren’t wrong, they just didn’t specify it’s spectacularly weird.  I know art is subjective but… we were done before we were halfway through. A guy sitting showing a tattoo on his back, a room of ceramic vagina casts and a poop machine?  I can see tattoo’d backs on any beach, the vagina room well… use your imagination… and who isn’t a poop machine, really?  If you want to see all our MONA pictures and videos, check out our album here.  Next stop, New Zealand!
+We had sometime before heading to the land of hobbits, so decided to go see the recommended Museum of Old and New Art, MONA. People we met kept telling us “it’s spectacular”. They weren’t wrong, they just didn’t specify it’s spectacularly weird. I know art is subjective but… we were done before we were halfway through. A guy sitting showing a tattoo on his back, a room of ceramic vagina casts and a poop machine? I can see tattoo’d backs on any beach, the vagina room well… use your imagination… and who isn’t a poop machine, really? If you want to see all our MONA pictures and videos, check out our album here. Next stop, New Zealand!

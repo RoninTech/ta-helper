@@ -1,19 +1,20 @@
 ---
 title: "The Land of Laos"
 date: 2017-07-15T17:27:38-07:00
-featured_image: 'https://lh3.googleusercontent.com/pw/ACtC-3cJn7skmeroSoqeTMXxs-dbTmMx6EV6pIxgnyxU69V4-h-sQJfejVfmKxUVVer888IW1ii_E6H_o6BA_8n7Qbdzeuvf_aGhlEX4SRDNN1dtPK1BnJ75bnIHexqrszjg1jQH3ehwaSs74vu8wgBIkJMhnw=w1210-h908-no'
+featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3cJn7skmeroSoqeTMXxs-dbTmMx6EV6pIxgnyxU69V4-h-sQJfejVfmKxUVVer888IW1ii_E6H_o6BA_8n7Qbdzeuvf_aGhlEX4SRDNN1dtPK1BnJ75bnIHexqrszjg1jQH3ehwaSs74vu8wgBIkJMhnw=w1210-h908-no"
+images:
+  - "https://lh3.googleusercontent.com/pw/ACtC-3cJn7skmeroSoqeTMXxs-dbTmMx6EV6pIxgnyxU69V4-h-sQJfejVfmKxUVVer888IW1ii_E6H_o6BA_8n7Qbdzeuvf_aGhlEX4SRDNN1dtPK1BnJ75bnIHexqrszjg1jQH3ehwaSs74vu8wgBIkJMhnw=w1210-h908-no"
 author: "Helen"
-type: "article"
 omit_header_text: true
 ---
 
-The Land of Laos was next on our list. We met wonderful people, saw some beautiful sites and had a blast.  We spent the most time in Luang Prebang, Vang Vieng and the 4000 Islands.
+The Land of Laos was next on our list. We met wonderful people, saw some beautiful sites and had a blast. We spent the most time in Luang Prebang, Vang Vieng and the 4000 Islands.
 
 #### Slow Boat on the Mekong to Luang Prabang
 
 [Photo Album](https://photos.app.goo.gl/Fknra4iZJxKgBoJV6)
 
-This is a two day journey with an overnight in Pak Beng where we stayed at the [Monsavanh Guesthouse](https://goo.gl/maps/SM8ZzGJj3SJ2).  We crossed over the Mekong on the [Friendship bridge](https://goo.gl/maps/Vbenx51ahV3DynQM9) which is the border at Chiang Khong into Laos and then took a minibus to the slow boats.  The seats were basically car seats dropped into a boat.  We stayed away from the back of the boat to avoid the engine noise and enjoyed the sites along the Mekong.  These boats are big and can easily hold 50 people.  We had a great Indian meal and our first beer Laos at the [Hasan restaurant](https://goo.gl/maps/7hEr7vSyyhvekZE29) in Pak Beng.  Every once in a while you would see a boat heading upstream.  These were usually very and small and scary fast.
+This is a two day journey with an overnight in Pak Beng where we stayed at the [Monsavanh Guesthouse](https://goo.gl/maps/SM8ZzGJj3SJ2). We crossed over the Mekong on the [Friendship bridge](https://goo.gl/maps/Vbenx51ahV3DynQM9) which is the border at Chiang Khong into Laos and then took a minibus to the slow boats. The seats were basically car seats dropped into a boat. We stayed away from the back of the boat to avoid the engine noise and enjoyed the sites along the Mekong. These boats are big and can easily hold 50 people. We had a great Indian meal and our first beer Laos at the [Hasan restaurant](https://goo.gl/maps/7hEr7vSyyhvekZE29) in Pak Beng. Every once in a while you would see a boat heading upstream. These were usually very and small and scary fast.
 
 </br>
 <div style="text-align: center">
@@ -21,7 +22,6 @@ This is a two day journey with an overnight in Pak Beng where we stayed at the [
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipPaMwZWDkypds-G4hIUAsWYL9VALZhcOvDP4bh3pkK5a-MUZjJZCLkjrAHSeAiA5Q/photo/AF1QipOw3kjPLU2Itf5W38oJsl9SAqnQpuUiAbCEGKQI?key=d2lmQk85a0FTa09TY3h6bHZSbTVLekkyUE1McXJB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3eVZhWts83cVYRSZMXgHMUuYy6iuy9WvoFbSQds10komSP68rlnv-wTou6_Z7AVA2rGgg50Z9bAe544dPyLSp0DpZ_CbVRJqfFT3ypWv6uLCz7TyYVnNJ1B4Ui50UObxVgjeP1MCP8NSk83nTmEScbCKw=w470-no" width="470" /><div>Friendship Bridge between Thailand and Laos</div></a>
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipPaMwZWDkypds-G4hIUAsWYL9VALZhcOvDP4bh3pkK5a-MUZjJZCLkjrAHSeAiA5Q/photo/AF1QipMm7d6hQccEXiEkhZV-Evrz616AvIgg5Mt4wKGr?key=d2lmQk85a0FTa09TY3h6bHZSbTVLekkyUE1McXJB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3c0kte45KmR2ItREhSXMjWKdnkiR2HU72qWFuEPs_Ung8U4QNHVAk9IZJFXrcS0zgb9On05sfgGL53hiZkfpl_42z9uFtFo_RsaPlKQVhqnrdapHyWUNqSuRZKlIKE0Y7_YivnG_X8xK1yOhX_1ZCAGZw=w235-no" width="235" /><div>Bus across the bridge</div></a> 
 </div>
-
 
 </br>
 <div style="text-align: center">
@@ -60,7 +60,7 @@ This is a two day journey with an overnight in Pak Beng where we stayed at the [
 
 [Photo Album](https://photos.app.goo.gl/pdTjrwVcfOPX86mi1)
 
-As a UNESCO site, development has been very closely controlled in the Old Town. Stayed at the [Singharat Place Hotel](https://goo.gl/maps/E4z9RAqV9kaF4wuq7) which was perfect for a few days.  We had a great time walking around, climbed Mt. Phousay, enjoyed some wonderful sunsets and great meals at a small restaurant (Bounchareune Riverside) on the shore of the mighty Mekong.  We also went to the [UXO Visitors Centre](https://www.uxolao.org/) which is an eye opener on what happened here during the American War. Also visited the [Traditional Arts and Ethnology Centre](https://g.page/TAEC_Museum?share), visited several temples and rode around on pedal bikes. We rented a scooter for a couple of days and went to [Kuang Si waterfall](https://goo.gl/maps/XwfcXEAiKzc28Xou8) where we hiked up top and Paul enjoyed the [secret pool](https://www.nomadicmatt.com/travel-blogs/kuang-si-waterfalls-laos/).
+As a UNESCO site, development has been very closely controlled in the Old Town. Stayed at the [Singharat Place Hotel](https://goo.gl/maps/E4z9RAqV9kaF4wuq7) which was perfect for a few days. We had a great time walking around, climbed Mt. Phousay, enjoyed some wonderful sunsets and great meals at a small restaurant (Bounchareune Riverside) on the shore of the mighty Mekong. We also went to the [UXO Visitors Centre](https://www.uxolao.org/) which is an eye opener on what happened here during the American War. Also visited the [Traditional Arts and Ethnology Centre](https://g.page/TAEC_Museum?share), visited several temples and rode around on pedal bikes. We rented a scooter for a couple of days and went to [Kuang Si waterfall](https://goo.gl/maps/XwfcXEAiKzc28Xou8) where we hiked up top and Paul enjoyed the [secret pool](https://www.nomadicmatt.com/travel-blogs/kuang-si-waterfalls-laos/).
 
 </br>
 <div style="text-align: center">
@@ -98,7 +98,7 @@ As a UNESCO site, development has been very closely controlled in the Old Town. 
 
 [Photo Album]()
 
-Took the minivan through some beautiful mountain scenery to Vang Vieng. Had a great first night with an English couple who’d been traveling for months. They are at the end of the trip and after living and working in the middle east heading back to England. Had a great surprise meeting with Nok from Koh Lipe.  Decided to go tubing… had a blast with tubing buddies Ronnie and Sarah from Switzerland.  I got second in a water balloon tossing contest and Paul and Ronnie won some beer pong games. The next day we rented a scooter and headed into the countryside where the scenery was beautiful.  Ate a lot of good food at the [Green Restaurant](https://goo.gl/maps/THP9kTKB7qJ2) and stayed at the [Vang Vieng Boutique hotel](https://goo.gl/maps/7sNWs27N3K92).
+Took the minivan through some beautiful mountain scenery to Vang Vieng. Had a great first night with an English couple who’d been traveling for months. They are at the end of the trip and after living and working in the middle east heading back to England. Had a great surprise meeting with Nok from Koh Lipe. Decided to go tubing… had a blast with tubing buddies Ronnie and Sarah from Switzerland. I got second in a water balloon tossing contest and Paul and Ronnie won some beer pong games. The next day we rented a scooter and headed into the countryside where the scenery was beautiful. Ate a lot of good food at the [Green Restaurant](https://goo.gl/maps/THP9kTKB7qJ2) and stayed at the [Vang Vieng Boutique hotel](https://goo.gl/maps/7sNWs27N3K92).
 
 </br>
 <div style="text-align: center">
@@ -130,7 +130,7 @@ Took the minivan through some beautiful mountain scenery to Vang Vieng. Had a gr
 
 [Photo Album](https://photos.app.goo.gl/YqMxcVv9wuqjHDT28)
 
-We only spent one night in Vientiane. Had an excellent Indian meal at [Jamil’s Pakistani Restaurant](https://goo.gl/maps/hGcz9XhPxsUEtKrw5), saw the sights, then fantastic pizza at [Tyson Kitchen](https://goo.gl/maps/aCgFJRWsVvbWzjPz9) owned by a Vancouver guy.  Saw Nok again!  Our bedbug experience at the [Vientiane Backpackers Garden Hostel](https://goo.gl/maps/87dzVpLaQRp) (total dump) had us fleeing our hostel at 10:30pm to the beautiful [Hotel Khamvongsa](https://goo.gl/maps/fnGSgjyaB292) nearby for a few bucks more.  Agoda actually refunded us the money for our room once we sent them pics of the bedbugs.  Helen noticed them as we were falling asleep and we got out without being bitten.  Many hot showers were had after.
+We only spent one night in Vientiane. Had an excellent Indian meal at [Jamil’s Pakistani Restaurant](https://goo.gl/maps/hGcz9XhPxsUEtKrw5), saw the sights, then fantastic pizza at [Tyson Kitchen](https://goo.gl/maps/aCgFJRWsVvbWzjPz9) owned by a Vancouver guy. Saw Nok again! Our bedbug experience at the [Vientiane Backpackers Garden Hostel](https://goo.gl/maps/87dzVpLaQRp) (total dump) had us fleeing our hostel at 10:30pm to the beautiful [Hotel Khamvongsa](https://goo.gl/maps/fnGSgjyaB292) nearby for a few bucks more. Agoda actually refunded us the money for our room once we sent them pics of the bedbugs. Helen noticed them as we were falling asleep and we got out without being bitten. Many hot showers were had after.
 
 </br>
 <div style="text-align: center">
@@ -148,7 +148,7 @@ We only spent one night in Vientiane. Had an excellent Indian meal at [Jamil’s
 
 #### Thakhek
 
-We were all ready to do the famous motorcycle loop here but weren’t able to as Paul got a bad sinus infection so we spent a week at the very nice [Le Bouton dOr Boutique Hotel](https://goo.gl/maps/rxbWzjkfZdcm4zoE6).  We were able to spend more time with Nok.  Had some nice food and went on a random somewhat questionable walk (that was me and I got lost in the country).  Headed off on the local bus to [Pakse](https://goo.gl/maps/TB9rrqqAkXkgadir6) on which we were pretty sure we were offered BBQ'd rat (country not city!) to eat. We had a great meal at a local restaurant, then the next day another bus ride plus boat to the [4000 Islands](https://www.google.com/maps/search/4000+Islands/@14.0988048,105.730105,11z/data=!3m1!4b1). 
+We were all ready to do the famous motorcycle loop here but weren’t able to as Paul got a bad sinus infection so we spent a week at the very nice [Le Bouton dOr Boutique Hotel](https://goo.gl/maps/rxbWzjkfZdcm4zoE6). We were able to spend more time with Nok. Had some nice food and went on a random somewhat questionable walk (that was me and I got lost in the country). Headed off on the local bus to [Pakse](https://goo.gl/maps/TB9rrqqAkXkgadir6) on which we were pretty sure we were offered BBQ'd rat (country not city!) to eat. We had a great meal at a local restaurant, then the next day another bus ride plus boat to the [4000 Islands](https://www.google.com/maps/search/4000+Islands/@14.0988048,105.730105,11z/data=!3m1!4b1).
 
 </br>
 <div style="text-align: center">
@@ -170,7 +170,7 @@ We were all ready to do the famous motorcycle loop here but weren’t able to as
 
 [Photo Album](https://photos.app.goo.gl/jJkpFFnPxuFUC3jB3)
 
-Went to [Don Khon](https://goo.gl/maps/XpgWRZ8KK2DJCHck9) to start staying at the [Dokchampa Guesthouse](https://goo.gl/maps/3Rr3jW694Eax2GYk7). Amazing food at [The Garden](https://goo.gl/maps/VkJchw3KF6n1cyN69) and [Chez Fred and Lea](https://goo.gl/maps/u9i8g6Lpxz5Nym7y8). Did two bicycle rides: on the first day flat tire and rain storm, second day a wipe out into a rice field and huge waterfall. Guess who was involved in the flat tire and wipe out?  We rode over to [Don Det](https://goo.gl/maps/kSYw1i5A3bDgNaRR8) where we re-connected with Nok, Ronnie and Sarah and met Rhys from Oz.  Moved over to Don Det and the [Little Eden Hotel](https://goo.gl/maps/qeBbAAwa9f9Secz2A) the next day and had a great night playing some drinking games and having fun.  We spent two more nights then over to Cambodia and Siem Reap.  While staying at Little Eden Hotel, we planned a trip to Hong Kong to watch Liverpool play a pre-season game for Paul's birthday. 😃
+Went to [Don Khon](https://goo.gl/maps/XpgWRZ8KK2DJCHck9) to start staying at the [Dokchampa Guesthouse](https://goo.gl/maps/3Rr3jW694Eax2GYk7). Amazing food at [The Garden](https://goo.gl/maps/VkJchw3KF6n1cyN69) and [Chez Fred and Lea](https://goo.gl/maps/u9i8g6Lpxz5Nym7y8). Did two bicycle rides: on the first day flat tire and rain storm, second day a wipe out into a rice field and huge waterfall. Guess who was involved in the flat tire and wipe out? We rode over to [Don Det](https://goo.gl/maps/kSYw1i5A3bDgNaRR8) where we re-connected with Nok, Ronnie and Sarah and met Rhys from Oz. Moved over to Don Det and the [Little Eden Hotel](https://goo.gl/maps/qeBbAAwa9f9Secz2A) the next day and had a great night playing some drinking games and having fun. We spent two more nights then over to Cambodia and Siem Reap. While staying at Little Eden Hotel, we planned a trip to Hong Kong to watch Liverpool play a pre-season game for Paul's birthday. 😃
 
 </br>
 <div style="text-align: center">
