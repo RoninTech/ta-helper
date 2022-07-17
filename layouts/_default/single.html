@@ -64,6 +64,20 @@
     <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "serif"}} f5 nested-links {{ $.Param "text_color" | default "mid-gray" }} {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl4-l" "pr4-l" }}">
       {{- .Content -}}
       {{- partial "tags.html" . -}}
+      <table style="width:100%">
+        <tr>
+          <td style="text-align:left">
+            {{ with .PrevInSection }}
+              <a href="{{ .RelPermalink }}">Previous {{ .Section }}: {{ .Title }}</a>
+            {{ end }}
+          </td>
+          <td style="text-align:right">
+            {{ with .NextInSection }}
+              <a href="{{ .RelPermalink }}">Next {{ .Section }}: {{ .Title }}</a>
+            {{ end }}
+          </td>
+        </tr>
+      </table>      
       <div class="mt6 instapaper_ignoref">
       {{ if .Site.DisqusShortname }}
         {{ template "_internal/disqus.html" . }}
@@ -71,22 +85,22 @@
       {{ if .Site.Params.commentoEnable }}
         {{- partial "commento.html" . -}}
       {{ end }}
+      <section>
+        <div style="border-top: 6px solid #333333"></div>
+        <div id="comments">
+          <script src="https://utteranc.es/client.js"
+            repo="RoninTech/CarryOnRoundTheWorld"
+            issue-term="pathname"
+            label="comment"
+            theme="github-light"
+            crossorigin="anonymous"
+            async>
+          </script>
+        </div>
+      </section>
       </div>
     </div>
-    <table style="width:100%">
-      <tr>
-        <td style="text-align:left">
-          {{ with .PrevInSection }}
-            <a href="{{ .RelPermalink }}">Previous {{ .Section }}: {{ .Title }}</a>
-          {{ end }}
-        </td>
-        <td style="text-align:right">
-          {{ with .NextInSection }}
-            <a href="{{ .RelPermalink }}">Next {{ .Section }}: {{ .Title }}</a>
-          {{ end }}
-        </td>
-      </tr>
-    </table>
+
     <aside class="w-30-l mt6-l">
       {{- partial "menu-contextual.html" . -}}
     </aside>
