@@ -47,6 +47,20 @@
         <span class="f6 mv4 dib tracked"> - {{ i18n "wordCount" .WordCount }} </span>
       {{ end }}
     </header>
+    <table style="width:100%">
+      <tr>
+        <td style="text-align:left">
+          {{ with .PrevInSection }}
+            <a href="{{ .RelPermalink }}">Previous {{ .Section }}: {{ .Title }}</a>
+          {{ end }}
+        </td>
+        <td style="text-align:right">
+          {{ with .NextInSection }}
+            <a href="{{ .RelPermalink }}">Next {{ .Section }}: {{ .Title }}</a>
+          {{ end }}
+        </td>
+      </tr>
+    </table>
     <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "serif"}} f5 nested-links {{ $.Param "text_color" | default "mid-gray" }} {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl4-l" "pr4-l" }}">
       {{- .Content -}}
       {{- partial "tags.html" . -}}
@@ -59,16 +73,22 @@
       {{ end }}
       </div>
     </div>
-
+    <table style="width:100%">
+      <tr>
+        <td style="text-align:left">
+          {{ with .PrevInSection }}
+            <a href="{{ .RelPermalink }}">Previous {{ .Section }}: {{ .Title }}</a>
+          {{ end }}
+        </td>
+        <td style="text-align:right">
+          {{ with .NextInSection }}
+            <a href="{{ .RelPermalink }}">Next {{ .Section }}: {{ .Title }}</a>
+          {{ end }}
+        </td>
+      </tr>
+    </table>
     <aside class="w-30-l mt6-l">
       {{- partial "menu-contextual.html" . -}}
     </aside>
-    {{ with .PrevInSection }}
-      <a href="{{ .RelPermalink }}">Previous {{ .Section }}: {{ .Title }}</a>
-    {{ end }}
-    
-    {{ with .NextInSection }}
-      <a href="{{ .RelPermalink }}">Next {{ .Section }}: {{ .Title }}</a>
-    {{ end }}  
   </article>
 {{ end }}
