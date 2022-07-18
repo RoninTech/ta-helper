@@ -6,7 +6,7 @@ featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3d5NQnGfiQxhcctc6a0ia
 description: "Round the world travels with carry on luggage"
 ---
 
-Here's a map showing all of the places we've stayed and travel hubs we've used in our adventures so far. They start in Calgary (1) and continue to wherever we are now. If you click on the icon for a location it shows when we arrived there and a link to the relevant photo album. Click the [ ] in the upper right of the map to go full screen.
+Here's a map showing all of the places we've stayed and travel hubs we've used in our adventures so far. They start in Calgary (1) on February 28th, 2017, and continue to wherever we are now. If you click on the icon for a location it shows when we arrived there and a link to the relevant photo album. Click the [ ] in the upper right of the map to go full screen.
 
 <iframe loading="lazy" src="https://www.google.com/maps/d/embed?mid=14UysYj3T4q0avGgS4Cc-dmVkkpi6kEFI&z=2&ll=5, 140" width="800" height="500"></iframe>
 
