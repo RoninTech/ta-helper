@@ -51,12 +51,12 @@
       <tr>
         <td style="text-align:left">
           {{ with .PrevInSection }}
-            <a href="{{ .RelPermalink }}">Previous {{ .Section }}: {{ .Title }}</a>
+            <a href="{{ .RelPermalink }}">← Previous {{ .Section }}: {{ .Title }}</a>
           {{ end }}
         </td>
         <td style="text-align:right">
           {{ with .NextInSection }}
-            <a href="{{ .RelPermalink }}">Next {{ .Section }}: {{ .Title }}</a>
+            <a href="{{ .RelPermalink }}">Next {{ .Section }}: {{ .Title }} →</a>
           {{ end }}
         </td>
       </tr>
@@ -68,12 +68,12 @@
         <tr>
           <td style="text-align:left">
             {{ with .PrevInSection }}
-              <a href="{{ .RelPermalink }}">Previous {{ .Section }}: {{ .Title }}</a>
+              <a href="{{ .RelPermalink }}">← Previous {{ .Section }}: {{ .Title }}</a>
             {{ end }}
           </td>
           <td style="text-align:right">
             {{ with .NextInSection }}
-              <a href="{{ .RelPermalink }}">Next {{ .Section }}: {{ .Title }}</a>
+              <a href="{{ .RelPermalink }}">Next {{ .Section }}: {{ .Title }} →</a>
             {{ end }}
           </td>
         </tr>
