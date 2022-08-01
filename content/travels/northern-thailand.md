@@ -66,7 +66,7 @@ Awesome place! Our friend from Small House Kafe, Dao, recommended it to us. We s
 
 [Photo Album](https://photos.app.goo.gl/3rbPrXwsLLRY9n5V6)
 
-Took a bus from Chiang Dao to [Tha Ton](https://goo.gl/maps/jkwD2LbXtGXQxFiV8), then a cool [longtail boat ride](https://goo.gl/maps/nJuV8jYczL72) to Change Rai. We saw some elephants being bathed in the river. There was a stop where you can get a photo with a snake but we choose not to. Spent the next morning at the White Temple, Black House and Blue Temple before heading to see our friends God and Yves at their hostel in Chiang Khong on the Laos border.
+Took a bus from Chiang Dao to [Tha Ton](https://goo.gl/maps/jkwD2LbXtGXQxFiV8), then a cool [longtail boat ride](https://goo.gl/maps/nJuV8jYczL72) to Chiang Rai. We saw some elephants being bathed in the river. There was a stop where you can get a photo with a snake but we choose not to. Spent the next morning at the White Temple, Black House and Blue Temple before heading to see our friends God and Yves at their hostel in Chiang Khong on the Laos border.
 
 </br>
 {{< youtube xxSY_cyndPw >}}
