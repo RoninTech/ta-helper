@@ -6,7 +6,7 @@ images:
   - "https://lh3.googleusercontent.com/pw/AL9nZEW3ia-KEvZcPEl7nGBYJUOoVnXEd0QIBqqWgsvMPe_joy-ttz8pEblob6gl0J7WZcBdYm5IQL9LYDlcupzcQ3B4ZMPTpgNDnQxBrvz4s_duA4D7mCpkKg1xo2Lk8j9fe9nAyukrHo3vpzzLljQAHgKY6g=w1224-h918-no"
 author: "Paul"
 omit_header_text: true
-draft: true
+draft: false
 ---
 
 My first travel tech was a pen flashlight and a Walkman. That allowed me to read the massive copy of Let's Go Europe in the hostel dorms without bothering anyone too much and listen to one of the mix tapes that I had with me. This was way back in 1987 on my first real adventure between high school and university. A 6 month backpacking trip in 1987 around Europe and Morocco.
