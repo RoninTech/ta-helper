@@ -9,7 +9,7 @@ omit_header_text: true
 draft: false
 ---
 
-My first travel tech was a pen flashlight and a Walkman. That allowed me to read the massive copy of Let's Go Europe in the hostel dorms without bothering anyone too much and listen to one of the mix tapes that I had with me. This was way back in 1987 on my first real adventure between high school and university. A 6 month backpacking trip in 1987 around Europe and Morocco.
+My first travel tech was a pen flashlight and a Walkman. That allowed me to read the massive copy of Let's Go Europe in the hostel dorms without bothering anyone too much while listening to one of the mix tapes that I had with me. This was way back in 1987 on my first real adventure between high school and university. A 6 month backpacking trip in 1987 around Europe and Morocco.
 
 ## PDAs
 
@@ -19,7 +19,7 @@ Fast forward a few years to our honeymoon trip to Thailand in Y2K and my first "
 
 <a href="https://en.wikipedia.org/wiki/Sony_CLI%C3%89_NX_Series"><img src="https://m.media-amazon.com/images/I/51TK2A0XW1L._AC_SY355_.jpg" height="150" alt="Sony Clie NX70V" title="Sony Clie NX70V"> <img src="http://www.palminfocenter.com/images/ind_img_ti.jpg" height="150" alt="Sony Clie NX70V" title="Sony Clie NX70V"></a>
 
-The next travel tech change for us was when Sony Clie's came out. They could do everything the Palm Pilot could do but they also could play music and they had a colour display! So books, games and music and we could dump the Diskman and CD's and replace them with some Sony memory sticks. We both had one which removed any issues with sharing. :smile: The Clie's did have a camera but they were much inferior to our Canon point and shoot.
+The next travel tech change for us was when Sony Clie's came out. They could do everything the Palm Pilot could do but they also could play music and they had a colour display! So books, games, music and we could dump the Diskman and CD's, replacing them with some Sony memory sticks. We both had one which removed any issues with sharing. :smile: The Clie's did have a camera but they were much inferior to our Canon point and shoot.
 
 ## Smartphones
 
@@ -29,70 +29,76 @@ The advent of smartphones brought us our next travel tech change and it was a hu
 
 <a href="https://en.wikipedia.org/wiki/Google_Pixel#Pixel_&_Pixel_XL"><img src="https://www.notebookcheck.net/uploads/tx_nbc2/GooglePixel__1_.JPG"  height="150" alt="Google Pixel" title="Google Pixel"></a>
 
-It wasn't until we purchased our Google Pixel 1 phones in October 2016 that Smartphone cameras became good enough to the point we could leave our point and shoot camera at home. At that time we had a nice little Sony RX100III which took great photos, but maybe not great enough to justify the extra weight. :smile: I have to give credit where credit is due for our Pixels. They have been running strong for almost 6 years now requiring only 2 battery swaps. It seems that the batteries last for about 3 years before they need changing. We had it done both times at a local [uBreakiFix in Calgary](https://g.page/ubreakifix-lincoln-park?share). No issues either time. Other than the battery, the phones are still awesome and so a $90CAD battery replacement was way better than buying new, thousand dollar phones. These Smartphones are probably our most flexible and most valuable pieces of kit when we travel. Unfortunately they don't support voice over LTE (VoLTE). So we will be forced to replace them when networks require VoLTE. Then again, if data works fine we can use VOIP apps to talk to people.
+It wasn't until we purchased our Google Pixel 1 phones in October 2016 that Smartphone cameras became good enough to the point we could leave our camera at home. At that time we had a nice little Sony RX100III which took great photos, but maybe not great enough to justify the extra weight. :smile: I have to give credit where credit is due for our Pixels. They have been running strong for almost 6 years now requiring only 2 battery swaps. It seems that the batteries last for about 3 years before they need changing. We had it done both times at a local [uBreakiFix in Calgary](https://g.page/ubreakifix-lincoln-park?share). No issues either time. Other than the battery, the phones are still awesome so a $90CAD battery replacement was way better than buying new, thousand dollar phones. These Smartphones are probably our most flexible and most valuable pieces of kit when we travel. Unfortunately they don't support voice over LTE (VoLTE). So we will be forced to replace them when networks require VoLTE. Then again, if data works fine we can use VOIP apps to talk to people.
 
 ### Android Smartphone Apps We Use When Traveling
 
-### Valence
+#### Valence
 
 <a href="https://cafbit.com/post/introducing_valence/"><img src="https://cafbit.com/valence/icon.png" width="64" height="64" alt="Valence Input Only VNC Client" title="Valence Input Only VNC Client"></a>  
 Valence is an old app that allows you to use your Android Smartphone as a combination mouse/keyboard to any device that can run a VNC server. We run the Real VNC server on the Raspberry Pi. So when using the Pi I can use Valence on my phone as an input only VNC client to move the mouse and to type. I wouldn't want to write a novel with my phone keyboard, but it's an excellent alternative to carrying a mouse and keyboard.
 
-### Xe
+#### Xe
 
 <a href="https://www.xe.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Xe_Logo.png" width="64" height="64" alt="Xe Currency Conversion" title="Xe Currency Conversion"></a>  
 We use this to do currency conversions at the most up to date exchange rates. We don't actually use Xe to transfer money, we use Wise for that. This app is just a quick way to check what we are paying for something in Canadian dollars when using a foreign currency.
 
-### Wise
+#### Wise
 
 <a href="https://www.wise.com/"><img src="https://wise.com/static/images/fb-og-logo-flag.png" width="64" height="64" alt="Wise Cheaper, Faster Money Transfers" title="Wise Cheaper, Faster Money Transfers"></a>  
 We use Wise to transfer money between foreign currencies, typically Canadian to something else. The transfer fees are usually better than any other method and quite fast. Liked them so much we even signed up for a Wise Prepaid Multi-Currency VISA card.
 
-### Google Translate
+#### Google Translate
 
 <a href="https://translate.google.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Google_Translate_logo.svg/240px-Google_Translate_logo.svg.png" width="64" height="64" alt="Google Translate" title="Google Translate"></a>  
-This app has been so useful over the years. There's also a great browser extension that lets you translate whole websites or just snippets of text as you browse. I'll never forget using it in Taiwan to translate a menu on the wall from Taiwanese to English using the camera in real time. You just hold it up and the text changes to english like magic.
+This app has been so useful over the years. There's also a great browser extension that lets you translate whole websites or just snippets of text as you browse. I'll never forget using it in Taiwan to translate a menu on the wall from Taiwanese to English using the camera in real time. You just hold it up and the text changes to English like magic.
 
-### Grab
+#### Grab
 
 <a href="https://www.grab.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Grab_Logo.svg/320px-Grab_Logo.svg.png" height="64" alt="Grab Rides and Food Deliveries" title="Grab Rides and Food Deliveries"></a>  
 This app is addictive to use when in one of the countries where it is active. That includes Singapore, Malaysia, Cambodia, Indonesia, Myanmar, the Philippines, Thailand and Vietnam. First of all we never use taxis anymore except if they are Grab taxis. By using the Grab app, you know exactly what you are going to pay which makes it much more difficult to be scammed. Also, many restaurants in SE Asia will deliver food to your location using the app. Highly recommended!
 
-### Google Maps
+#### Google Maps
 
 <a href="https://maps.google.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Google_Maps_Logo_2020.svg" width="64" height="64" alt="Google Maps" title="Google Maps"></a>  
 This is another Google app that gets a lot of use. We have 2 main uses: reviews and directions/location. Over the years we have reviewed LOTS of places. The images that I have uploaded for reviews have had 8.1 million views as of August, 2022 and we are both Level 8 Google reviewers for whatever that is worth. :smile:
 
-### Maps.Me
+#### Maps.Me
 
 <a href="https://maps.me/"><img src="https://maps.me/img/logo.png" width="64" height="64" alt="Maps.Me" title="Maps.Me"></a>  
-When we don't have a reliable data connection to use Google Maps, we use Maps.Me. You need to download the maps before you arrive in an area, but once you have them the app just uses the GPS and doesn't need a data connection. We used it to great effect on the Annapurna Circuit were there is basically no reception in the Nepalese Himalayas. You can import KML/KMZ files to be shown on your map. For instance I found a map that showed all of the Tea Houses and villages on the Annapurna Circuit. It also does a great job of showing you the elevation profile between 2 places. Excellent to know what kind of a hiking day you have ahead of you. :smile:
+When we don't have a reliable data connection to use Google Maps, we use Maps.Me. You need to download the maps before you arrive in an area, but once you have them the app just uses the GPS and doesn't need a data connection. We used it to great effect on the Annapurna Circuit where there is basically no reception in the Nepalese Himalayas. You can import KML/KMZ files to be shown on your map. For instance I found a map that showed all of the Tea Houses and villages on the Annapurna Circuit. It also does a great job of showing you the elevation profile between 2 places. Excellent to know what kind of a hiking day you have ahead of you. :smile:
 **UPDATE:** During covid, Maps.Me was bought out and is no longer recommended. [Organic Maps](https://organicmaps.app/) is the open source replacement app.
 
-### Musicolet
+#### Musicolet
 
 <a href="https://krosbits.in/musicolet/"><img src="https://krosbits.in/musicolet/icons/android-icon-144x144.png" width="64" height="64" alt="Musicolet Offline Music Player" title="Musicolet Offline Music Player"></a>  
 We both still have quite a bit of music stored locally on our phones. We used to use Google Music to play it but Google got rid of that app. After doing some research we found Musicolet which is free and does everything we need for music playing.
 
-### Smart Audiobook Player
+#### Smart Audiobook Player
 
 <a href="https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer"><img src="https://play-lh.googleusercontent.com/0j6Dlctczo1tX7dQSYFBFfSHQAf_NI8SjQdU92NVz6b_wvZDEuoHTNRofOtAGijb890=w240-h480-rw" width="64" height="64" alt="Smart Audiobook Player for Offline Audiobooks" title="Musicolet Offline Music Player"></a>  
 We also keep a few Audiobooks on our phones and this software makes for a great, free player.
 
-### Fongo
+#### Fongo
 
 <a href="https://www.fongo.com/services/fongo-mobile/"><img src="https://play-lh.googleusercontent.com/BieYsASQgTTizhZW0utxWHspEGe5-9v6d7YHrRkX_YpKJo4yJj9f5nApvjDw3s472w=w240-h480-rw" width="64" height="64" alt="Fongo Canada VOIP App" title="Fongo Canada VOIP App"></a>  
 Just before we left Canada in 2017 we ported our Canadian cell phone numbers from Koodo to Fongo. The Fongo App allows us to make or take calls to/from Canada from anywhere in the world as long as we have data (WiFi or cellular). Drops calls quite a bit. Their text messages don't support short codes so can't be used for 2FA.
 
-### Wireguard
+#### Wireguard
 
 <a href="https://www.fongo.com/services/fongo-mobile/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Logo_of_WireGuard.png/320px-Logo_of_WireGuard.png" alt="Wireguard VPN App" title="Wireguard VPN App"></a>  
 We kept a server running in Canada in my parent's basement. It ran a VPN server, initially we used OpenVPN, so we could access banking from anywhere in the world as though we were in Canada. Unfortunately the Overhead of OpenVPN meant that the speeds weren't that great. Eventually Wireguard was released which is a much leaner VPN implementation and the speeds improved quite a bit. This Wireguard client for Android allowed us to access Canadian websites and other services as though we were still in Canada. For example we couldn't download our Canadian Covid shot certificates from the Alberta Health website if we were not in Canada.
 
-### Mullvad VPN
+#### Mullvad VPN
 
 <a href="https://mullvad.net/en/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Mullvad_logo.svg" height="64" alt="Mullvad VPN App" title="Mullvad VPN App"></a>  
 After we lost our Linux server that was running in my parents basement, we still needed a VPN solution. After doing some research I chose Mullvad. It has servers around the world, including Canada, so we can use them to access our Canadian stuff from anywhere.
+
+## 8BitDo Zero2 Bluetooth Joysticks
+
+<a href="https://www.8bitdo.com/zero2/"><img src="https://www.8bitdo.com/images/products/zero2.gif" height="150" alt="8BitDo Zero2 Bluetooth Joystick" title="8BitDo Zero2 Bluetooth Joystick"></a>
+
+Another luxury item we take is a couple of 8BitDo Zero2 BlueTooth Joysticks to use with the RetroPie MAME Emulator on the Raspberry Pi. This lets us play tons of old school arcade games. Each joystick is only 21g in weight and has an internal battery that allows for hours of play. Charging is done via a micro USB port.
 
 ## Bluetooth Mouse
 
@@ -185,6 +191,11 @@ This manages all the movies and TV shows that we watch and can play pretty much 
 <a href="https://www.videolan.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/VLC_Icon.svg/212px-VLC_Icon.svg.png"  width="64" height="64" alt="VLC Media Player" title="VLC Media Player"></a>  
 If we just want to watch something quickly then this is what we use. No fuss or muss and can also play anything. Open source.
 
+#### RetroPie
+
+<a href="https://retropie.org.uk/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/RetroPie-Icon.svg/111px-RetroPie-Icon.svg.png" height="64" alt="RetroPie Retro Gaming" title="RetroPie Retro Gaming"></a>  
+We keep a micro SD card loaded into the micro SD card slot of our Raspberry Pi. It contains a [RetroPie image](https://retropie.org.uk/download/) along with a bunch of old arcade games. If we unplug the SSD drive connector then the Pi will now boot the RetroPie image and we can play games. Plug the SSD drive back in and the Pi boots normally again. [Bubble Bobble](https://en.wikipedia.org/wiki/Bubble_Bobble) is by far our favourite 2 player game.
+
 #### Calibre
 
 <a href="https://calibre-ebook.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Calibre_logo.png" width="64" alt="Calibre Ebook Library Manager" title="Calibre Ebook Library Manager"></a>  
@@ -221,10 +232,15 @@ A super flexible programming language I use for scripting and various geekery. O
 <a href="https://www.docker.com/"><img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="64" height="64" alt="Docker " title="Docker "></a>  
 Docker allows you to use preconfigured application images (dockers) for [various tasks](https://hub.docker.com/search?q=). Open source.
 
-#### Portainer
+##### Portainer Docker
 
 <a href="https://www.portainer.io/"><img src="https://avatars.githubusercontent.com/u/22225832?s=200&v=4" width="64" height="64" alt="Portainer Container Manager" title="Portainer Container Manager"></a>  
-Portainer is web based software that allows for the installation and management of dockers. Open source.
+Portainer is web based software that allows for the installation and management of dockers. Runs in a docker itself. Open source.
+
+##### Pi Hole Docker
+
+<a href="https://pi-hole.net/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Pi-hole_Logo.png" width="64" height="64" alt="Pi Hole Network Ad Blocker" title="Pi Hole Network Ad Blocker"></a>  
+This docker gives us the full Pi Hole ad blocker running on our Local Area Network (LAN).
 
 ##### InfluxDB Docker
 
