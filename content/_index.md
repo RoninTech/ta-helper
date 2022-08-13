@@ -58,31 +58,58 @@ Some stats during this time:<br />
 }
 </style>
 <script src="http://github.hubspot.com/odometer/odometer.js"></script>
-<div id="odometerCountries" class="odometer">0</div>
-<script>
-    setTimeout(function(){
-        odometerCountries.innerHTML = 19;
-    }, 1000);
-</script>Countries
-<div id="odometerFlights" class="odometer">0</div>
-<script>
-    setTimeout(function(){
-        odometerFlights.innerHTML = 80;
-    }, 1000);
-</script>Flights<br />
 
-<div id="odometerBeds" class="odometer">0</div>
-<script>
-    setTimeout(function(){
-        odometerBeds.innerHTML = 256;
-    }, 1000);
-</script>Beds
-<div id="odometerAirports" class="odometer">0</div>
-<script>
-    setTimeout(function(){
-        odometerAirports.innerHTML = 38;
-    }, 1000);
-</script>Airports<br />
+<table class="center">
+<tr>
+    <td>
+        <div id="odometerCountries" class="odometer">0</div>
+        <script>
+            setTimeout(function(){
+            odometerCountries.innerHTML = 19;
+            }, 1000);
+        </script>
+    </td>
+    <td>
+        Countries
+    </td>
+    <td>
+        <div id="odometerFlights" class="odometer">0</div>
+        <script>
+            setTimeout(function(){
+            odometerFlights.innerHTML = 80;
+            }, 1000);
+        </script>
+    </td>
+    <td>
+        Flights
+    <td>
+</tr>
+<tr>
+    <td>
+        <div id="odometerBeds" class="odometer">0</div>
+        <script>
+            setTimeout(function(){
+            odometerBeds.innerHTML = 256;
+            }, 1000);
+        </script>
+    </td>
+    <td>
+        Beds
+    </td>
+    <td>
+        <div id="odometerAirports" class="odometer">0</div>
+        <script>
+            setTimeout(function(){
+            odometerAirports.innerHTML = 38;
+            }, 1000);
+        </script>
+    </td>
+    <td>
+        Airports
+    </td>
+</tr>
+</table>
+
 <br />
 Here's a map showing all of the places we've stayed and travel hubs we've used in our adventures so far. They start in Calgary (1) on February 28th, 2017, and continue to wherever we are now. If you click on the icon for a location it shows when we arrived there and a link to the relevant photo album. Click the [ ] in the upper right of the map to go full screen.
 
