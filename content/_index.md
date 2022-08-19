@@ -89,7 +89,7 @@ Some stats during this time:<br />
         <div id="odometerBeds" class="odometer">0</div>
         <script>
             setTimeout(function(){
-            odometerBeds.innerHTML = 256;
+            odometerBeds.innerHTML = 257;
             }, 1000);
         </script>
     </td>
@@ -106,6 +106,30 @@ Some stats during this time:<br />
     </td>
     <td>
         Airports
+    </td>
+</tr>
+<tr>
+    <td>
+        <div id="odometerBuses" class="odometer">0</div>
+        <script>
+            setTimeout(function(){
+            odometerBuses.innerHTML = 43;
+            }, 1000);
+        </script>
+    </td>
+    <td>
+        Buses
+    </td>
+    <td>
+        <div id="odometerMotos" class="odometer">0</div>
+        <script>
+            setTimeout(function(){
+            odometerMotos.innerHTML = 20;
+            }, 1000);
+        </script>
+    </td>
+    <td>
+        Motorbikes
     </td>
 </tr>
 </table>
