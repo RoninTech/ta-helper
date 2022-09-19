@@ -174,7 +174,7 @@ We both use Keepass password managers to encrypt and store all of our passwords.
 #### QBittorrent
 
 <a href="https://www.qbittorrent.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/New_qBittorrent_Logo.svg/240px-New_qBittorrent_Logo.svg.png" width="64" height="64" alt="QBittorrent Torrent Client" title="QBittorrent Torrent Client"></a>  
-Used for downloading all sorts of media. Can be configured to only work when the Wireguard VPN is active. Open source.
+Used for downloading all sorts of media. Can be [configured to only work when the Wireguard VPN is active](https://www.reddit.com/r/VPNTorrents/comments/ssy8vv/guide_bind_vpn_network_interface_to_torrent/). Open source.
 
 #### HexChat
 
@@ -241,6 +241,11 @@ Portainer is web based software that allows for the installation and management 
 
 <a href="https://pi-hole.net/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Pi-hole_Logo.png" width="64" height="64" alt="Pi Hole Network Ad Blocker" title="Pi Hole Network Ad Blocker"></a>  
 This docker gives us the full Pi Hole ad blocker running on our Local Area Network (LAN).
+
+##### Unbound Docker
+
+<a href="https://www.nlnetlabs.nl/projects/unbound/about/"><img src="/images/unbound.svg" width="64" height="64" alt="Recursive DNS server" title="Recursive DNS server"></a>  
+This docker works in tandem with PiHole to provide an ad-blocking recursive DNS server. Rather than PiHole querying one of the standard DNS servers out there like quad9, cloudflare or openDNS, it can talk to the local unbound docker which will find the authoritative DNS server for the domain being queried and keep your internet travels out of the hands of the big organizations providing the other servers. These other servers go down from time to time so this also avoids that. Good writeup on this topic [here](https://docs.pi-hole.net/guides/dns/unbound/https://docs.pi-hole.net/guides/dns/unbound/).
 
 ##### InfluxDB Docker
 
