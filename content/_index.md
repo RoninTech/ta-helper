@@ -76,7 +76,7 @@ Some stats during this time:<br />
         <div id="odometerFlights" class="odometer">0</div>
         <script>
             setTimeout(function(){
-            odometerFlights.innerHTML = 80;
+            odometerFlights.innerHTML = 84;
             }, 1000);
         </script>
     </td>
@@ -89,7 +89,7 @@ Some stats during this time:<br />
         <div id="odometerBeds" class="odometer">0</div>
         <script>
             setTimeout(function(){
-            odometerBeds.innerHTML = 257;
+            odometerBeds.innerHTML = 258;
             }, 1000);
         </script>
     </td>
