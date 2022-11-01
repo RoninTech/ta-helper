@@ -106,6 +106,14 @@ Another luxury item we take is a couple of 8BitDo Zero2 BlueTooth Joysticks to u
 
 One "luxury" tech item we've been taking lately is an old Dell bluetooth travel mouse that runs of 2 x AA batteries. We use it with the Raspberry Pi. It is pretty lightweight at only 56g (without batteries). We also have the Valence app on our phones that we can use as a mouse/keyboard for long sessions on the Pi the mouse is much better.
 
+## Bluetooth Keyboard
+
+<a href="https://www.amazon.com/dp/B00X5P8BJO"><img src="/images/GOOJODOQ-BT-Backlit-keyboard.webp" height="150" alt="Backlit Bluetooth Keyboard" title="Backlit Bluetooth Keyboard"></a>
+
+Since we have decided to hunker down in Chiang Mai for an extended period, I decided to buy a cheap BT keyboard.  When we stay places for a while I usually get back into programming and using the Valence keyboard for that gets old fast.  After scouring the internet I finally found a great solution.  It is a 170g BT 3 keyboard with a built in 400 mAh battery that lasts weeks and is rechargeable via USB.  You can use the keyboard while it is being charged so no down time.  The keyboard is rigid enough to use sitting in my lap.  It also has 7 backlight colours or you can disable the backlight.  I've been using it for a few months now and haven't had any issues with dropped keystrokes.  Very happy with this and it only cost 283THB ($10CAD) shipped from China to Thailand in a week.  I've provided the link to a re-branded version of the keyboard on Amazon for more detail.  I have the generic unbranded one but there are many out there that are identical except for another re-selling companies logo.
+
+NOTE: When I first purchased the keyboard I had issues with range.  I had to be within a couple of metres of my Raspberry Pi.  After a lot of googling and experimentation I found that my USB3 to SATA adapter that I use to attach my Pi's SSD drive is very noisy and interfered with the keyboard.  Now a few washed tuna cans sit on top of the adapter and I can use the keyboard from the couch.  This would have affected any BT keyboard.
+
 ## Extension Cord with USB Power
 
 <a href="https://www.amazon.com/Portable-Charger-Universal-Charging-100v-240v/dp/B00VWUMLVI"><img src="https://i.imgur.com/oguWBCol.jpg" height="150" alt="AGPTek Power Strip" title="AGPtek Power Strip"></a> <a href="https://www.anker.com/products/a9122"><img src="https://cdn.shopify.com/s/files/1/0493/9834/9974/products/A9122123.jpg?v=1634114095_3840x" height="150" alt="Anker PowerPort Strip PD 2 mini" title="Anker PowerPort Strip PD 2 mini"></a>
@@ -245,7 +253,7 @@ This docker gives us the full Pi Hole ad blocker running on our Local Area Netwo
 ##### Unbound Docker
 
 <a href="https://www.nlnetlabs.nl/projects/unbound/about/"><img src="/images/unbound.svg" width="64" height="64" alt="Recursive DNS server" title="Recursive DNS server"></a>  
-This docker works in tandem with PiHole to provide an ad-blocking recursive DNS server. Rather than PiHole querying one of the standard DNS servers out there like quad9, cloudflare or openDNS, it can talk to the local unbound docker which will find the authoritative DNS server for the domain being queried and keep your internet travels out of the hands of the big organizations providing the other servers. These other servers go down from time to time so this also avoids that. Good writeup on this topic [here](https://docs.pi-hole.net/guides/dns/unbound/https://docs.pi-hole.net/guides/dns/unbound/).
+This docker works in tandem with PiHole to provide an ad-blocking recursive DNS server. Rather than PiHole querying one of the standard DNS servers out there like quad9, cloudflare or openDNS, it can talk to the local unbound docker which will find the authoritative DNS server for the domain being queried and keep your internet travels out of the hands of the big organizations providing the other servers. These other servers go down from time to time so this also avoids that. Good writeup on this topic [here](https://docs.pi-hole.net/guides/dns/unbound/https://docs.pi-hole.net/guides/dns/unbound/).  Open source.dd
 
 ##### InfluxDB Docker
 
