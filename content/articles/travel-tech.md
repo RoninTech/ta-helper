@@ -187,7 +187,7 @@ Used for downloading all sorts of media. Can be [configured to only work when th
 #### HexChat
 
 <a href="https://hexchat.github.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hexchat_Logo.svg/120px-Hexchat_Logo.svg.png" width="64" height="64" alt="HexChat IRC Client" title="HexChat IRC Client"></a>  
-An IRC client used for accessing media and various niche online IRC chat rooms.
+An IRC client used for accessing media and various niche online IRC chat rooms.  Open source.
 
 #### Kodi
 
@@ -248,12 +248,12 @@ Portainer is web based software that allows for the installation and management 
 ##### Pi Hole Docker
 
 <a href="https://pi-hole.net/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Pi-hole_Logo.png" width="64" height="64" alt="Pi Hole Network Ad Blocker" title="Pi Hole Network Ad Blocker"></a>  
-This docker gives us the full Pi Hole ad blocker running on our Local Area Network (LAN).
+This docker gives us the full Pi Hole ad blocker running on our Local Area Network (LAN).  Open source.
 
 ##### Unbound Docker
 
 <a href="https://www.nlnetlabs.nl/projects/unbound/about/"><img src="/images/unbound.svg" width="64" height="64" alt="Recursive DNS server" title="Recursive DNS server"></a>  
-This docker works in tandem with PiHole to provide an ad-blocking recursive DNS server. Rather than PiHole querying one of the standard DNS servers out there like quad9, cloudflare or openDNS, it can talk to the local unbound docker which will find the authoritative DNS server for the domain being queried and keep your internet travels out of the hands of the big organizations providing the other servers. These other servers go down from time to time so this also avoids that. Good writeup on this topic [here](https://docs.pi-hole.net/guides/dns/unbound/https://docs.pi-hole.net/guides/dns/unbound/).  Open source.dd
+This docker works in tandem with PiHole to provide an ad-blocking recursive DNS server. Rather than PiHole querying one of the standard DNS servers out there like quad9, cloudflare or openDNS, it can talk to the local unbound docker which will find the authoritative DNS server for the domain being queried and keep your internet travels out of the hands of the big organizations providing the other servers. These other servers go down from time to time so this also avoids that. Good writeup on this topic [here](https://docs.pi-hole.net/guides/dns/unbound/https://docs.pi-hole.net/guides/dns/unbound/).  Open source.
 
 ##### InfluxDB Docker
 
@@ -268,4 +268,4 @@ Lets you visualize various data sources such as Influx databases via graphs, cha
 ##### COPS Docker
 
 <a href="https://github.com/seblucas/cops"><img src="https://qnapclub.eu/storage/qpkg_artifacts/CalibreOPDS73_1.1.3.0_arm_64/qpkg_icon_80.gif" width="64" height="64" alt="COPS Calibre OPDS Server" title="COPS Calibre OPDS Server"></a>  
-The Calibre e-book library management tool mentioned above is a bit of a resource hog to leave running all the time on the Pi. COPS (Calibre OPDS Server) allows us to serve our e-book library from the Pi without the performance hit of Calibre server.
+The Calibre e-book library management tool mentioned above is a bit of a resource hog to leave running all the time on the Pi. COPS (Calibre OPDS Server) allows us to serve our e-book library from the Pi without the performance hit of Calibre server.  Open source.
