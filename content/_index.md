@@ -82,7 +82,7 @@ Some stats during this time:<br />
     </td>
     <td>
         Flights
-    <td>
+    </td>
 </tr>
 <tr>
     <td>
