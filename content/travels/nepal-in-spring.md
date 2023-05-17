@@ -52,7 +52,7 @@ The last day was rough for Paul, the dust had aggravated his sinuses and since h
 
 So we decided to take the mini bus to [Besisahar](https://goo.gl/maps/Xza1ijTCDjJK4JBV6) which deserves it's own segment. Paul got us to the right place and we managed to get our tickets with the help of a local fellow who was also heading in the same direction. The mini bus was, like every other one we've taken, built to hold 12 but at one point had 16 people plus luggage. I consider this a win since we saw goats on top of one. The drive out of Kathmandu was long and dusty, we stopped a lot to pick up people... finally getting on the highway was a relief. Until we got to a huge line of traffic. One thing about Nepal, there are accidents everywhere. Our driver maneuvered us to close to the front where he stopped and everyone got out. We waited there for a bit while our driver figured out options. He loaded us all back in and took off back the way we came and turned onto some random dirt road.
 
-At that point, we started 4x4'ing in an overloaded Toyota Hiace... Paul even commented that an ATV would have had trouble on the "road". I could try to describe it, but I don't think it would do it justice. While freaky, it was pretty amazing to watch the driver and his assistant manage creek crossings, large rocks and massive channels in the dirt roads. There were lots of tricky bits but there were other vans and everyone worked together. The best part was when Paul looked behind and saw full size buses following us down on this trail... CRAZY!!! 7 hours later we made it to Gateway Himalaya Hotel in Besisahar, me with a massive headache and Paul with a hunger only to be cured by momo's. After a nice relax we did our final preparation for the start of our Annapurna trek. We decided to hike all the way from Besisahar to the very end past Ghorepani. It seemed that most people used jeeps and/or planes to turn a 16 day trek into a 8 to 10 day trek. By doing the full thing we figured we would acclimatize better, altitude and fitness wise. We continued to use the excellent free maps.me app to navigate along with a KMZ file we found on the web. Maps.me was able to import the file and it showed us elevation profiles between points on the trek. Excellent for planning and seeing what hellish ups and downs awaited. Another invaluable resource was the [New Annapurna Trekking Trail (NATT) guide](http://www.nepal-dia.de/Trekking_the_Annapurna_Circuit_with_the_new_NATT_trails_111017.pdf).
+At that point, we started 4x4'ing in an overloaded Toyota Hiace... Paul even commented that an ATV would have had trouble on the "road". I could try to describe it, but I don't think it would do it justice. While freaky, it was pretty amazing to watch the driver and his assistant manage creek crossings, large rocks and massive channels in the dirt roads. There were lots of tricky bits but there were other vans and everyone worked together. The best part was when Paul looked behind and saw full size buses following us down on this trail... CRAZY!!! 7 hours later we made it to Gateway Himalaya Hotel in Besisahar, me with a massive headache and Paul with a hunger only to be cured by momo's. After a nice relax we did our final preparation for the start of our Annapurna trek. We decided to hike all the way from Besisahar to the very end past Ghorepani. It seemed that most people used jeeps and/or planes to turn a 16 day trek into a 8 to 10 day trek. By doing the full thing we figured we would acclimatize better, altitude and fitness wise. We continued to use the excellent free maps.me app (NOTE: maps.me was sold and now contains ads and trackers.  It is now recommended to use the forked [Organic Maps app](https://organicmaps.app/)) to navigate along with a KMZ file we found on the web. Maps.me was able to import the file and it showed us elevation profiles between points on the trek. Excellent for planning and seeing what hellish ups and downs awaited. Another invaluable resource was the [New Annapurna Trekking Trail (NATT) guide](http://www.nepal-dia.de/Trekking_the_Annapurna_Circuit_with_the_new_NATT_trails_111017.pdf).
 
 </br>
 <div style="text-align: center">
@@ -66,6 +66,29 @@ At that point, we started 4x4'ing in an overloaded Toyota Hiace... Paul even com
 </div>
 
 #### The Annapurna Circuit
+
+These are the places we stayed during our 16 days on the Annapurna Circuit.  Keep in mind that the altitudes are "net".  So if you hiked 2000m uphill then 1000m downhill, Altitude would list 1000m and you would have no idea there is a 2000m climb in that section.
+
+
+| Day  | Place        | Teahouse                     | Altitude | Distance |
+| :--: | :----------- | :--------------------------- | -------: | -------: |
+| 0    | Besisahar    | Gateway Himalaya Hotel       | 820m     | 0km      |
+| 1    | Bahundanda   | Mountain View Hotel          | 1310m    | 17km     |
+| 2    | Chamche      | Hotel Chamche                | 1385m    | 29km     |
+| 3    | Djarapani    | New Tibet Lhasa guesthouse   | 1900m    | 40km     |
+| 4    | Chame        | Potala Guesthous             | 2710m    | 56km     |
+| 5    | Lower Pisang | Mona Lisa Hotel              | 3250m    | 75km     |
+| 6,7  | Manang       | Tilicho Hotel                | 3540m    | 90km     |
+| 8    | Letdar       | Snowland Hotel               | 4200m    | 100km    |
+| 9    | Thorong      | Thorong High Camp            | 4850m    | 107km    |
+| 10   | Muktinath    | Shree Muktinath Hotel        | 3800m    | 121km    |
+| 11   | Kagbeni      | Shangri-La Hotel             | 2800m    | 131km    |
+| 12   | Marpha       | Hotel Old Snow Leopard       | 2670m    | 146km    |
+| 13   | Ghasa        | Eagle Nest Guest House       | 2010m    | 170km    |
+| 14   | Tatopani     | Hotel Himalaya               | 1200m    | 183km    |
+| 15   | Ghorapani    | Poon Hill Guest House        | 2870m    | 200km    |
+| 16   | Ulleri       | Jeep/Taxi to Pokhara         | 2010m    | 208km    |
+
 
 #### Bahundanda
 
@@ -337,7 +360,7 @@ After the treatment, the toe was feeling good so we decided to try and catch up 
 
 The next day was the longest yet, 26k with a lot of elevation changes. Jin needed to make up time so was going all the way to Ghasa, we said we'd do a game time decision in Kalopani and see if we would go on or not. In the end we stayed together. We ended up stopping for tea in a small village, we were the only non locals. There was a rain storm when we were leaving so Ram said we should stay for lunch and wait it out. The ladies there were really nice, gave us a little brazier to sit around. They were looking after a little girl who was trouble, but really cute. She kept watching us the whole time. We had a nice break while it was raining then headed off.
 
-This was another of my favorite days, even though it was very, very long. The scenery was beautiful. We were by the river, up and down valleys and walking though forest or meadows. We even passed a Nepalese Military training compound. We did have to walk on the road a bit and there was a lot of construction going on along with traffic. It made for a long day. At one point we had to cross a suspension bridge that had been partially covered by a rock slide. Ram went first and made us go one at a time to make sure it was safe. I am not a fan of suspension bridges, I always think they will collapse and I dislike they way the bounce. I loved this one, the rocks kept it stable... they probably also severally damaged it but it was solid.
+This was another of my favorite days, even though it was very, very long. The scenery was beautiful. We were by the river, up and down valleys and walking though forest or meadows. We even passed a Nepalese Military training compound. We did have to walk on the road a bit and there was a lot of construction going on along with traffic. It made for a long day. At one point we had to cross a suspension bridge that had been partially covered by a rock slide. Ram went first and made us go one at a time to make sure it was safe. I am not a fan of suspension bridges, I always think they will collapse and I dislike they way the bounce. I loved this one, the rocks kept it stable... they probably also severely damaged it but it was solid.
 
 We all yelled out John Denver's Country Roads at one point to keep ourselves going. Ram just shook his head. When we eventually got to the Eagle Nest Guest House in Ghasa, we had gone about 28K. The guesthouse was great through, comfy beds, hot water showers and amazing food.
 
@@ -363,7 +386,7 @@ Our next day was a more reasonable 21K. The area was beautiful and we had very l
 
 Tatopani is famous for it's hot springs so once we made it and got settled, Paul and Jin headed down for a soak. With my toenail still just hanging on, I decided to stay put and checked out the patio in our guest house instead. They had a beer and popcorn special which I took advantage of. Paul and Jin joined me after they got back, telling me stories of the springs. While there we met a couple from the US, Julie and Caffrey, they had sold everything and started travelling in October 2017. Caffrey is originally from South Korea so he and Jin had a nice visit.
 
-We had an amazing meal or Mali Kofta and biriyani. At this point Ram and Jin sat us down to discuss our next steps, they had some concerns. We had decided to head to ABC after Ghorepani while Jin had to head back. They went over some routes with us and suggested alternate options. Ram was very concerned as it was very busy on ABC, it's a shorter trek with more large groups. Since we didn't have a guide he didn't think we would get accommodation. We decided we would do a game time decision and headed to bed.
+We had an amazing meal of Mali Kofta and biriyani. At this point Ram and Jin sat us down to discuss our next steps, they had some concerns. We had decided to head to ABC after Ghorepani while Jin had to head back. They went over some routes with us and suggested alternate options. Ram was very concerned as it was very busy on ABC, it's a shorter trek with more large groups. Since we didn't have a guide he didn't think we would get accommodation. We decided we would do a game time decision and headed to bed.
 
 </br>
 <div style="text-align: center">
@@ -383,7 +406,7 @@ We had an amazing meal or Mali Kofta and biriyani. At this point Ram and Jin sat
 
 #### Ghorepani
 
-This was a day of stairs and rain. Ghorepani was 23K with a huge elevation gain of 1600m in total. When we started off it was a beautiful day. We stopped for a random tea and walked through lots of lovely villages. There were countless stairs and it was pretty continuous gains. We kept being passed by groups of young men. Jin told us there was a sports day going on... to me it was already a sport just getting there. We had a nice lunch in a small town where the games where and continued on.
+This was a day of stairs and rain. Ghorepani was 23K with a huge elevation gain of 1600m in total. When we started off it was a beautiful day. We stopped for a random tea and walked through lots of lovely villages. There were countless stairs and it was pretty continuous gains. We kept being passed by groups of young men. Jin told us there was a sports day going on... to me it was already a sport just getting there. We had a nice lunch in a small town where the games were and continued on.
 
 Our luck changed as we headed higher and the weather turned. We ended up having to stop for a while at a small shelter while it rained and hailed. We were all bundled up in our warm clothes while we waited. When it eased off we decided to keep going, only to get stuck in the rain again. At this point Ram decided we needed to wait it out. We ended up meeting Julie and Caffrey again, so all had tea together while we waited. The rain eased off a bit but didn't totally stop. Ram felt we needed to continue so we started off again.
 
@@ -428,7 +451,7 @@ We ended up at the Butterfly Lodge which just so happened was across from the Po
 
 We had breakfast together the next morning, Jin had to head to Kathmandu to get back home so it was our last hurrah and we were sad to part ways. Jin is a wonderful person and we shared many a great laugh and good conversation. We agreed to meet again in South Korea or Canada.
 
-For the past week, we had been discussing what to do next. Our original plan had been ABC and possibly the Three Passes Trek if the weather was good. That switched to skipping the ABC and possibly hitting a beach instead for a rest. That changed to what would we do with all the gear... it was pretty much up in the air. With the "toe" issue we decided additional trekking probably wasn't the best idea and looked at other options. It was our first night in Pokhara when Paul had the thought about heading back to Canada for the summer. We debated mailing the gear back and heading to a beach or taking it back ourselves. When we looked at flights, it made the decision for us... we got a really good business class flight back using Aeroplan air miles for less then it would of cost to ship back the gear. Within 24 hours we were on a flight on Buddha Air to Kathmandu then heading back through China, Taiwan and Vancouver to Creston.
+For the past week, we had been discussing what to do next. Our original plan had been ABC and possibly the Three Passes Trek if the weather was good. That switched to skipping the ABC and possibly hitting a beach instead for a rest. That changed to what would we do with all the gear... it was pretty much up in the air. With the "toe" issue we decided additional trekking probably wasn't the best idea and looked at other options. It was our first night in Pokhara when Paul had the thought about heading back to Canada for the summer. We debated mailing the gear back and heading to a beach or taking it back ourselves. When we looked at flights, it made the decision for us... we got a really good business class flight back using Aeroplan air miles for less then it would of cost to ship back the gear. Within 24 hours we were on a flight on Buddha Air to Kathmandu then heading back through Chengdu (China), Taipei (Taiwan) and Vancouver to Creston.
 
 </br>
 <div style="text-align: center">

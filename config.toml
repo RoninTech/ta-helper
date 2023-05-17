@@ -41,6 +41,7 @@ enableEmoji = true
   show_reading_time = true
   commentoEnable = false
   mainSections = ["travels", "van-life", "articles", "packs"]
+  custom_css = ["tables.css"]
 
 [menu]
   [[menu.main]]
