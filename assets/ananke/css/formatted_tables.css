@@ -1,0 +1,50 @@
+.bordered {
+  border-collapse: collapse;
+  border: 1px solid #333;
+  padding: 0 .2em;
+}
+
+.table-hover tbody tr:hover td {
+    background: aqua;
+}
+
+.table_stripes tbody tr:nth-child(even) td, .table_stripes tbody tr.even td {
+    background:#e5ecf9;
+}
+
+.zebra-stripe tbody tr:nth-child(even) td, .zebra-stripe tbody tr.even td {background:#e5ecf9;}
+
+.day {
+  border-collapse: collapse;
+  text-align:center;
+  border: 1px solid #333;
+  padding: 0 .2em;
+}
+
+.place {
+  border-collapse: collapse;
+  text-align:left;
+  border: 1px solid #333;
+  padding: 0 .2em;
+}
+
+.teahouse {
+  border-collapse: collapse;
+  text-align:left;
+  border: 1px solid #333;
+  padding: 0 .2em;
+}
+
+.altitude {
+  border-collapse: collapse;
+  text-align:right;
+  border: 1px solid #333;
+  padding: 0 .2em;
+}
+
+.distance {
+  border-collapse: collapse;
+  text-align:right;
+  border: 1px solid #333;
+  padding: 0 .2em;
+}

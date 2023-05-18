@@ -52,7 +52,11 @@ The last day was rough for Paul, the dust had aggravated his sinuses and since h
 
 So we decided to take the mini bus to [Besisahar](https://goo.gl/maps/Xza1ijTCDjJK4JBV6) which deserves it's own segment. Paul got us to the right place and we managed to get our tickets with the help of a local fellow who was also heading in the same direction. The mini bus was, like every other one we've taken, built to hold 12 but at one point had 16 people plus luggage. I consider this a win since we saw goats on top of one. The drive out of Kathmandu was long and dusty, we stopped a lot to pick up people... finally getting on the highway was a relief. Until we got to a huge line of traffic. One thing about Nepal, there are accidents everywhere. Our driver maneuvered us to close to the front where he stopped and everyone got out. We waited there for a bit while our driver figured out options. He loaded us all back in and took off back the way we came and turned onto some random dirt road.
 
-At that point, we started 4x4'ing in an overloaded Toyota Hiace... Paul even commented that an ATV would have had trouble on the "road". I could try to describe it, but I don't think it would do it justice. While freaky, it was pretty amazing to watch the driver and his assistant manage creek crossings, large rocks and massive channels in the dirt roads. There were lots of tricky bits but there were other vans and everyone worked together. The best part was when Paul looked behind and saw full size buses following us down on this trail... CRAZY!!! 7 hours later we made it to Gateway Himalaya Hotel in Besisahar, me with a massive headache and Paul with a hunger only to be cured by momo's. After a nice relax we did our final preparation for the start of our Annapurna trek. We decided to hike all the way from Besisahar to the very end past Ghorepani. It seemed that most people used jeeps and/or planes to turn a 16 day trek into a 8 to 10 day trek. By doing the full thing we figured we would acclimatize better, altitude and fitness wise. We continued to use the excellent free maps.me app (NOTE: maps.me was sold and now contains ads and trackers.  It is now recommended to use the forked [Organic Maps app](https://organicmaps.app/)) to navigate along with a KMZ file we found on the web. Maps.me was able to import the file and it showed us elevation profiles between points on the trek. Excellent for planning and seeing what hellish ups and downs awaited. Another invaluable resource was the [New Annapurna Trekking Trail (NATT) guide](http://www.nepal-dia.de/Trekking_the_Annapurna_Circuit_with_the_new_NATT_trails_111017.pdf).
+At that point, we started 4x4'ing in an overloaded Toyota Hiace... Paul even commented that an ATV would have had trouble on the "road". I could try to describe it, but I don't think it would do it justice. While freaky, it was pretty amazing to watch the driver and his assistant manage creek crossings, large rocks and massive channels in the dirt roads. There were lots of tricky bits but there were other vans and everyone worked together. The best part was when Paul looked behind and saw full size buses following us down on this trail... CRAZY!!! 7 hours later we made it to Gateway Himalaya Hotel in Besisahar, me with a massive headache and Paul with a hunger only to be cured by momo's. After a nice relax we did our final preparation for the start of our Annapurna trek. We decided to hike all the way from Besisahar to the very end past Ghorepani. It seemed that most people used jeeps and/or planes to turn a 16 day trek into a 8 to 10 day trek. By doing the full thing we figured we would acclimatize better, altitude and fitness wise.
+
+We continued to use the excellent free maps.me app to navigate along with a KMZ file we found on the web.  Use the [contact link](/contact/) above to request the Annapurna Circuit KMZ file and we will send it to you.  Maps.me was able to import the file and it showed us elevation profiles between points on the trek. Excellent for planning and seeing what hellish ups and downs awaited. Another invaluable resource was the [New Annapurna Trekking Trail (NATT) guide](http://www.nepal-dia.de/Trekking_the_Annapurna_Circuit_with_the_new_NATT_trails_111017.pdf).
+
+**NOTE:** maps.me was sold and now contains ads and trackers.  It is now recommended to use the forked [Organic Maps app](https://organicmaps.app/)
 
 </br>
 <div style="text-align: center">
@@ -69,26 +73,131 @@ At that point, we started 4x4'ing in an overloaded Toyota Hiace... Paul even com
 
 These are the places we stayed during our 16 days on the Annapurna Circuit.  Keep in mind that the altitudes are "net".  So if you hiked 2000m uphill then 1000m downhill, Altitude would list 1000m and you would have no idea there is a 2000m climb in that section.
 
-
-| Day  | Place        | Teahouse                     | Altitude | Distance |
-| :--: | :----------- | :--------------------------- | -------: | -------: |
-| 0    | Besisahar    | Gateway Himalaya Hotel       | 820m     | 0km      |
-| 1    | Bahundanda   | Mountain View Hotel          | 1310m    | 17km     |
-| 2    | Chamche      | Hotel Chamche                | 1385m    | 29km     |
-| 3    | Djarapani    | New Tibet Lhasa guesthouse   | 1900m    | 40km     |
-| 4    | Chame        | Potala Guesthous             | 2710m    | 56km     |
-| 5    | Lower Pisang | Mona Lisa Hotel              | 3250m    | 75km     |
-| 6,7  | Manang       | Tilicho Hotel                | 3540m    | 90km     |
-| 8    | Letdar       | Snowland Hotel               | 4200m    | 100km    |
-| 9    | Thorong      | Thorong High Camp            | 4850m    | 107km    |
-| 10   | Muktinath    | Shree Muktinath Hotel        | 3800m    | 121km    |
-| 11   | Kagbeni      | Shangri-La Hotel             | 2800m    | 131km    |
-| 12   | Marpha       | Hotel Old Snow Leopard       | 2670m    | 146km    |
-| 13   | Ghasa        | Eagle Nest Guest House       | 2010m    | 170km    |
-| 14   | Tatopani     | Hotel Himalaya               | 1200m    | 183km    |
-| 15   | Ghorapani    | Poon Hill Guest House        | 2870m    | 200km    |
-| 16   | Ulleri       | Jeep/Taxi to Pokhara         | 2010m    | 208km    |
-
+<table class="center bordered table-hover zebra-stripe">
+<thead>
+<tr>
+<th class="day">Day</th>
+<th class="place">Place</th>
+<th class="teahouse">Teahouse</th>
+<th class="altitude">Altitude</th>
+<th class="distance">Distance</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="day">0</td>
+<td class="place">Besisahar</td>
+<td class="teahouse">Gateway Himalaya Hotel</td>
+<td class="altitude">820m</td>
+<td class="distance">0km</td>
+</tr>
+<tr>
+<td class="day">1</td>
+<td class="place">Bahundanda</td>
+<td class="teahouse">Mountain View Hotel</td>
+<td class="altitude">1310m</td>
+<td class="distance">17km</td>
+</tr>
+<tr>
+<td class="day">2</td>
+<td class="place">Chamche</td>
+<td class="teahouse">Hotel Chamche</td>
+<td class="altitude">1385m</td>
+<td class="distance">29km</td>
+</tr>
+<tr>
+<td class="day">3</td>
+<td class="place">Djarapani</td>
+<td class="teahouse">New Tibet Lhasa guesthouse</td>
+<td class="altitude">1900m</td>
+<td class="distance">40km</td>
+</tr>
+<tr>
+<td class="day">4</td>
+<td class="place">Chame</td>
+<td class="teahouse">Potala Guesthous</td>
+<td class="altitude">2710m</td>
+<td class="distance">56km</td>
+</tr>
+<tr>
+<td class="day">5</td>
+<td class="place">Lower Pisang</td>
+<td class="teahouse">Mona Lisa Hotel</td>
+<td class="altitude">3250m</td>
+<td class="distance">75km</td>
+</tr>
+<tr>
+<td class="day">6,7</td>
+<td class="place">Manang</td>
+<td class="teahouse">Tilicho Hotel</td>
+<td class="altitude">3540m</td>
+<td class="distance">90km</td>
+</tr>
+<tr>
+<td class="day">8</td>
+<td class="place">Letdar</td>
+<td class="teahouse">Snowland Hotel</td>
+<td class="altitude">4200m</td>
+<td class="distance">100km</td>
+</tr>
+<tr>
+<td class="day">9</td>
+<td class="place">Thorong</td>
+<td class="teahouse">Thorong High Camp</td>
+<td class="altitude">4850m</td>
+<td class="distance">107km</td>
+</tr>
+<tr>
+<td class="day">10</td>
+<td class="place">Muktinath</td>
+<td class="teahouse">Shree Muktinath Hotel</td>
+<td class="altitude">3800m</td>
+<td class="distance">121km</td>
+</tr>
+<tr>
+<td class="day">11</td>
+<td class="place">Kagbeni</td>
+<td class="teahouse">Shangri-La Hotel</td>
+<td class="altitude">2800m</td>
+<td class="distance">131km</td>
+</tr>
+<tr>
+<td class="day">12</td>
+<td class="place">Marpha</td>
+<td class="teahouse">Hotel Old Snow Leopard</td>
+<td class="altitude">2670m</td>
+<td class="distance">146km</td>
+</tr>
+<tr>
+<td class="day">13</td>
+<td class="place">Ghasa</td>
+<td class="teahouse">Eagle Nest Guest House</td>
+<td class="altitude">2010m</td>
+<td class="distance">170km</td>
+</tr>
+<tr>
+<td class="day">14</td>
+<td class="place">Tatopani</td>
+<td class="teahouse">Hotel Himalaya</td>
+<td class="altitude">1200m</td>
+<td class="distance">183km</td>
+</tr>
+<tr>
+<td class="day">15</td>
+<td class="place">Ghorapani</td>
+<td class="teahouse">Poon Hill Guest House</td>
+<td class="altitude">2870m</td>
+<td class="distance">200km</td>
+</tr>
+<tr>
+<td class="day">16</td>
+<td class="place">Ulleri</td>
+<td class="teahouse">Jeep/Taxi to Pokhara</td>
+<td class="altitude">2010m</td>
+<td class="distance">208km</td>
+</tr>
+</tbody>
+</table>
 
 #### Bahundanda
 
