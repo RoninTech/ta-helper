@@ -8,11 +8,7 @@
     background: aqua;
 }
 
-.table_stripes tbody tr:nth-child(even) td, .table_stripes tbody tr.even td {
-    background:#e5ecf9;
-}
-
-.zebra-stripe tbody tr:nth-child(even) td, .zebra-stripe tbody tr.even td {background:#e5ecf9;}
+.table-stripes tbody tr:nth-child(even) td, .table-stripes tbody tr.even td {background:#e5ecf9;}
 
 .day {
   border-collapse: collapse;
