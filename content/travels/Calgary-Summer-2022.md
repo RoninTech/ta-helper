@@ -1,5 +1,5 @@
 ---
-title: "Calgary-Summer-2022"
+title: "Calgary Summer 2022"
 date: 2022-08-17T16:37:33-07:00
 featured_image: "https://lh3.googleusercontent.com/pw/AL9nZEXCR_osB4Wt2LgUi96oqKMq275Yx7bIB5_2q5EaCMopLwzTP57L_DNohpKBHorbqt-tdjGERoTdaZapXXw_di1rAXZYszBwvZ2RaOFhOL55AODVn_7tOZZsxIYwjE7nC9fe3Dz22SXvbutj6vAI21f3CA=w1122-h631-no?authuser=0"
 images:

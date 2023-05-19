@@ -1,5 +1,5 @@
 ---
-title: "Australia Daintree to Melbourne"
+title: "Australia: Daintree to Melbourne"
 date: 2017-12-15T17:32:16-07:00
 draft: false
 featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3dSxuOs_SxgSvtYdAZQBsUkCxTTIv-Q4eOH_M9iEyKqMGh3Id_-DtvFajLS3lMosVlSTmL9EMls44acWC1VVHO16FidgbkphHwxsYDAU60tkVwlT4p1Ibw1PyXMc8NrwyCnj8o2_hMPmvd2sYxG6f9weQ=w1210-h908-no?authuser=0"
