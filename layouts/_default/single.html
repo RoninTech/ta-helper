@@ -51,12 +51,12 @@
       <tr>
         <td style="text-align:left">
           {{ with .PrevInSection }}
-            <a href="{{ .RelPermalink }}">← Previous {{ .Section }}: {{ .Title }}</a>
+            <a style="text-decoration: none" href="{{ .RelPermalink }}"><img class="default" src="/images/line-angle-left-icon.svg" height="84"><img class="hover" src="{{ .Params.featured_image }}" height="84" alt="{{ .Params.thumbnail_image_alt }}"> {{ .Title }}</a>
           {{ end }}
         </td>
         <td style="text-align:right">
           {{ with .NextInSection }}
-            <a href="{{ .RelPermalink }}">Next {{ .Section }}: {{ .Title }} →</a>
+            <a style="text-decoration: none" href="{{ .RelPermalink }}">{{ .Title }} <img class="default" src="/images/line-angle-right-icon.svg" height="84"><img class="hover" src="{{ .Params.featured_image }}" height="84" alt="{{ .Params.thumbnail_image_alt }}"></a>
           {{ end }}
         </td>
       </tr>
@@ -68,13 +68,13 @@
         <tr>
           <td style="text-align:left">
             {{ with .PrevInSection }}
-              <a href="{{ .RelPermalink }}">← Previous {{ .Section }}: {{ .Title }}</a>
-            {{ end }}
-          </td>
-          <td style="text-align:right">
-            {{ with .NextInSection }}
-              <a href="{{ .RelPermalink }}">Next {{ .Section }}: {{ .Title }} →</a>
-            {{ end }}
+            <a style="text-decoration: none" href="{{ .RelPermalink }}"><img class="default" src="/images/line-angle-left-icon.svg" height="84"><img class="hover" src="{{ .Params.featured_image }}" height="84" alt="{{ .Params.thumbnail_image_alt }}"> {{ .Title }}</a>
+          {{ end }}
+        </td>
+        <td style="text-align:right">
+          {{ with .NextInSection }}
+            <a style="text-decoration: none" href="{{ .RelPermalink }}">{{ .Title }} <img class="default" src="/images/line-angle-right-icon.svg" height="84"><img class="hover" src="{{ .Params.featured_image }}" height="84" alt="{{ .Params.thumbnail_image_alt }}"></a>
+          {{ end }}
           </td>
         </tr>
       </table>      
