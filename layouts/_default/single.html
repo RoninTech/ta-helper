@@ -88,7 +88,7 @@
           {{ else }}
             {{ $lastInSection := index (last 1 .CurrentSection.Pages.ByPublishDate) 0 }}
             <a style="text-decoration: none" href="{{ $lastInSection.RelPermalink }}">
-            <img class="default" src="/images/line-angle-left-icon.svg" height="84">
+            <img class="default" src="/images/double-arrow-left-icon.svg" height="84">
             <img class="hover" src="{{ $lastInSection.Params.featured_image }}" height="84" alt="{{ $lastInSection.Params.thumbnail_image_alt }}"> {{ $lastInSection.Title }}</a>
           {{ end }}
         </td>
@@ -100,7 +100,7 @@
           {{ else }}
             {{ $firstInSection := index (first 1 .CurrentSection.Pages.ByPublishDate) 0 }}
             <a style="text-decoration: none" href="{{ $firstInSection.RelPermalink }}">{{ $firstInSection.Title }} 
-            <img class="default" src="/images/line-angle-right-icon.svg" height="84">
+            <img class="default" src="/images/double-arrow-right-icon.svg" height="84">
             <img class="hover" src="{{ $firstInSection.Params.featured_image }}" height="84" alt="{{ $firstInSection.Params.thumbnail_image_alt }}"></a>
           {{ end }}
           </td>
