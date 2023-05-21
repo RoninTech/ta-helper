@@ -1,7 +1,7 @@
 baseURL = "https://carryonrtw.com"
 languageCode = "en-us"
 title = "Carry On Round The World"
-theme = "ananke"
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
@@ -100,4 +100,8 @@ enableEmoji = true
     identifier = "about"
     url = "/about/"
     weight = 6
-    
+
+[module]
+[[module.imports]]
+    path = 'github.com/theNewDynamic/gohugo-theme-ananke'
+    disable = false
