@@ -267,5 +267,5 @@ Lets you visualize various data sources such as Influx databases via graphs, cha
 
 ##### COPS Docker
 
-<a href="https://github.com/seblucas/cops"><img src="https://qnapclub.eu/storage/qpkg_artifacts/CalibreOPDS73_1.1.3.0_arm_64/qpkg_icon_80.gif" width="64" height="64" alt="COPS Calibre OPDS Server" title="COPS Calibre OPDS Server"></a>  
+<a href="https://github.com/seblucas/cops"><img src="/images/qpkg_icon_80.gif" width="64" height="64" alt="COPS Calibre OPDS Server" title="COPS Calibre OPDS Server"></a>  
 The Calibre e-book library management tool mentioned above is a bit of a resource hog to leave running all the time on the Pi. COPS (Calibre OPDS Server) allows us to serve our e-book library from the Pi without the performance hit of Calibre server.  Open source.
