@@ -10,6 +10,19 @@ googleAnalytics = "G-QT3G9GJDXC"
 enableRobotsTXT = true
 enableEmoji = true
 
+#[[params.ananke_socials]]
+#name = "twitter"
+#url = "https://twitter.com/CarryOnRTW"
+#[[params.ananke_socials]]
+#name = "facebook"
+#url = "https://facebook.com/CarryOnRTW"
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/RoninTech"
+#[[params.ananke_socials]]
+#name = "linkedin"
+#url = "https://www.linkedin.com/in/paul-rimmer-a46a461/"
+
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
@@ -22,17 +35,6 @@ enableEmoji = true
   favicon = "/images/favicons.png"
   site_logo = "/images/cropped-rtw_icon-150x150.png"
   description = "Carry On luggage only travels and adventures around the world with Canadians Paul and Helen Rimmer"
-  facebook = ""
-  twitter = "https://twitter.com/CarryOnRTW"
-  instagram = "https://www.instagram.com/carryonrtw/"
-  youtube = ""
-  github = "https://github.com/RoninTech"
-  gitlab = ""
-  linkedin = ""
-  mastodon = ""
-  slack = ""
-  stackoverflow = ""
-  rss = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-dark-gray"
   post_content_classes = "arial"
@@ -41,7 +43,7 @@ enableEmoji = true
   show_reading_time = true
   commentoEnable = false
   mainSections = ["travels", "van-life", "articles", "packs"]
-  custom_css = ["formatted_tables.css", "next_prev_links.css"]
+  custom_css = ["formatted_tables.css", "next_prev_links.css", "site_search.css"]
 
 [menu]
   [[menu.main]]
@@ -63,31 +65,10 @@ enableEmoji = true
     weight = 3
 
   [[menu.main]]
-    name = "Parking Pad"
-    identifier = "parking-pad"
-    parent = "van-life"
-    url = "/van-life/parking-pad/"
-    weight = 1
-
-  [[menu.main]]
     name = "Packs"
     identifier = "packs"
     url = "/packs/"
     weight = 5
-  
-  [[menu.main]]
-    name = "Paul's Pack"
-    identifier = "paulspack"
-    url = "/packs/paulspack/"
-    parent = "packs"
-    weight = 1
-
-  [[menu.main]]
-    name = "Helen's Pack"
-    identifier = "helenspack"      
-    url = "/packs/helenspack/"
-    parent = "packs"
-    weight = 2
 
   [[menu.main]]
     name = "Articles"
