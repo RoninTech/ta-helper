@@ -182,7 +182,7 @@ We both use Keepass password managers to encrypt and store all of our passwords.
 #### QBittorrent
 
 <a href="https://www.qbittorrent.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/New_qBittorrent_Logo.svg/240px-New_qBittorrent_Logo.svg.png" width="64" height="64" alt="QBittorrent Torrent Client" title="QBittorrent Torrent Client"></a>  
-Used for downloading all sorts of media. Can be [configured to only work when the Wireguard VPN is active](https://www.reddit.com/r/VPNTorrents/comments/ssy8vv/guide_bind_vpn_network_interface_to_torrent/). Open source.
+Used for downloading all sorts of media. Can be [configured to only work when the Wireguard VPN is active](https://www.reddit.com/r/VPNTorrents/comments/ssy8vv/guide_bind_vpn_network_interface_to_torrent/). Includes an excellent search engine to find what you are looking for.  Open source.
 
 #### HexChat
 
@@ -192,7 +192,7 @@ An IRC client used for accessing media and various niche online IRC chat rooms. 
 #### Kodi
 
 <a href="https://kodi.tv/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png" width="100" height="100" alt="Kodi Media Centre" title="Kodi Media Centre"></a>  
-This manages all the movies and TV shows that we watch and can play pretty much anything with full video hardware acceleration including highly compressed x265 media. It can download subtitles and has tons of add-ons for all sorts of functionality. Open source.
+This manages all the movies and TV shows that we watch and can play pretty much anything with full 4K video hardware acceleration including highly compressed x265 media. It can download subtitles and has tons of add-ons for all sorts of functionality. Open source.
 
 #### VLC
 
@@ -208,6 +208,11 @@ We keep a micro SD card loaded into the micro SD card slot of our Raspberry Pi. 
 
 <a href="https://calibre-ebook.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Calibre_logo.png" width="64" alt="Calibre Ebook Library Manager" title="Calibre Ebook Library Manager"></a>  
 E-Book library management tool. This software manages all of our e-books. Once books are added to the Calibre library we can access them over the network through the COPS server running in a docker (see below). This allows us to load books from the Pi onto our Kobo E-readers or phones. Open source.
+
+#### Cozy
+
+<a href="https://github.com/geigi/cozy"><img src="/images/com.github.geigi.cozy.svg" width="64" alt="Cozy Audiobook Player for Linux" title="Cozy Audiobook Player for Linux"></a>  
+Cozy is a modern audiobook player for Linux. It is part of the [Gnome circle project](https://circle.gnome.org/). You point it to the folder containing your audiobook collection and it imports them for playing.  It supports DRM free mp3, m4a + m4b (aac, ALAC, …), flac, ogg, opus and wav files.  Open source.
 
 #### Hugo
 
