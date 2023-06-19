@@ -10,3 +10,12 @@ a:hover img.hover {
 a:hover img.default {
     display: none;
 }
+
+/* general column width: for left & right columns */
+.nav-table td {
+    width: 50%;
+}  
+/* icon column */
+.nav-table td:nth-child(2) {
+    width: 50px; /* should be the width of the icon */
+}
