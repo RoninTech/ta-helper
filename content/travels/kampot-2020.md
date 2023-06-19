@@ -7,6 +7,7 @@ images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3fq45_8oVElCc6TRppFn6GeIiE11eydZFgmFFFnvBbvt6ceRfGK22CsvOBFXEdkIPOQlAaBeD3KIC_P0dXaG00t2L_BNgoPppEi35zADP5odyNBg_tRfgnDaER_BJmI7c9TDARWly50TYAmEIjTPYm90Q=w1300-h975-no"
 author: "Helen"
 omit_header_text: true
+album: "https://photos.app.goo.gl/jyUT87WdaqXRWr9C7"
 ---
 
 Kampot again you say… well yes, there are a few places that we have been that keep us coming back and Kampot would be one of those places. Of course, being able to see our friends like Lee, Dean, Dhieu and the kids, Paula and Sydney. Hang out at our favorite places like the NYNY with Tavi, Stumble Inn with Harry and Keemi, Aroma House with James or Couch Potatoes with Jem. There are constant changes but it always feels good to be back.

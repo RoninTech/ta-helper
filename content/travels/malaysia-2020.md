@@ -7,6 +7,7 @@ images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3dnsnXtsWVWIkzXyHCcPesgXfcUlt_tOYJYkuCHH_fpajMe8OpxjZ1Z22nDcq-WrbnHxoPyEsbkocV13_N2V6-7_28U9JLRXf_55TAG_bCsu5PFqNQqYyKiLXQYGQrXm9Jd5-7-I5YTDSqWiEfeM6w8sA=w1300-h975-no"
 author: "Helen"
 omit_header_text: true
+album: "https://photos.app.goo.gl/UwnBHcenCx3DmUSTA"
 ---
 
 This was a very short visit… less then a week in all. We decided we needed to see the dentist for a cleaning, it had been a year! That and we liked the food and comforts of Kuala Lumpur. There was a lot more caution around travel at this point, people were wearing masks and using sanitizer. We had tried to get some masks but they were sold out everywhere.

@@ -6,6 +6,7 @@ images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3fv6DfscghSFiWYfvk_YtpjxL3tehVg0Ny0Dgt9whYHLDdkvfSgX-6430Ot9t-w2sRWnyuc73H_jhR_IC4EkYI8vuB_OcngfLc92bwGqVl50hpiuziXpPdXE8N03PPpo4Be3h06kNF9rl_gU1rtWJLWNg=w1210-h908-no"
 author: "Helen"
 omit_header_text: true
+album: "https://photos.app.goo.gl/VFJfvjBkZCMfAZ1f9"
 ---
 
 We had decided to head to Malaysia next, giving ourselves about a month before heading to Lipe. We went from Phnom Penh to Kuala Lumpur on Air Asia, it was a short flight. The airport in KL is massive but modern and we moved through everything quickly. We got sims and a Grab Taxi to downtown KL.

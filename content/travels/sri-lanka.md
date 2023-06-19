@@ -7,6 +7,7 @@ images:
 author: "Helen"
 description: "Sri Lanka September"
 omit_header_text: true
+album: "https://photos.app.goo.gl/ra4QR62xMNmhBLdTA"
 ---
 
 Sri Lanka! It wasn't originally on our radar but our friends, Judy and Carl, had raved about their experience there so we thought hmmm... why not? Plus the photos they had sent made it look really good and they were able to give us some great ideas on places to go... so why not?

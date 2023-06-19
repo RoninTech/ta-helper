@@ -6,6 +6,7 @@ images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3fRToNpPJjgXyIHsMn--cpnGpqjJdsWnE1uF917SHF8XLQGiSe2Qgn76-e8zFSkiGqme-gfhiV_jjoGN6wRwCC2N9zWKW9GVpQ_ld53yk5L66D6FkrZyQkohSq5QXR0kR03mL24tACH_fmLL1PQtxHdAA=w1920-h900-no?authuser=0"
 author: "Helen"
 omit_header_text: true
+album: "https://photos.app.goo.gl/msBcYkRlsULBLFcg2"
 ---
 
 When we were in Australia, hiding from the rain for a couple of days in Alva Beach, we organized Tasmania and determined our next stop should be New Zealand. We organized flights with Jet Star and rented an older camper van from CampaSouth. We were able to fly from Hobart to Christchurch, with a short stopover in Melbourne. We had some issues in Melbourne, going from the domestic terminal to international isn't a long walk but was very challenging. We had to do a desk check since they wanted proof on onward travel, luckily we had that. Then the luggage system was down so we were told to leave our bags in piles, Jet Star is 7kgs of luggage so we checked our bags. Getting through security was a gong show and we literally had to run to our gate as our flight was boarding.

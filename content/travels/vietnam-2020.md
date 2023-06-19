@@ -7,6 +7,7 @@ images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3d307ei-jc26JLYDGqf-lpCdpMYv003_wQDn2NrcQU9vRF5VK-YW9O9HtSQitJeiAQedzUmUzxbj8c7AQzTX5UX30DfUE834r8XDr_x5heTWKFNCc-JVNYmjYw1W76yOVHUOf1ckJclb8UHvgRh8P0DvA=w1300-h975-no"
 author: "Helen"
 omit_header_text: true
+album: "https://photos.app.goo.gl/v8PhAtrHrPrLRY6y7"
 ---
 
 #### Hanoi January 11 - 22

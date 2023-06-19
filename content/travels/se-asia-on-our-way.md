@@ -7,8 +7,8 @@ images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3cYLV6Azf2S-ap46uPGBOsD1GXvpkc5A2vHmcYHNhNamIxn12970wc0RLfZzzH-4mMeEBbtm-KEDFWDIa9KvKpR70Fg7aLx7eIk1YubXcxt69wwLJ2HUeJ7yu5ybuYU0-RUkZis4wyBjBokbFeQliFAoA=w1216-h912-no"
 author: "Helen"
 omit_header_text: true
+album: "https://photos.app.goo.gl/n5KbwbgViUbBaDxn1"
 ---
-
 After some very crazy, hectic, emotional weeks we are on our way. We left on the first leg of our adventure on February 28, 2017! Before I get into too much, we need to send a big thank you to Paul’s Mom and Dad. We wouldn’t have made it through the last weekend without their help. Between letting us store things, taking care of our mail and our car [(VW TDI to be returned)](https://en.wikipedia.org/wiki/Volkswagen_emissions_scandal), helping us pack up and clean the apartment and taking us to the airport… well needless to say we got it all done and I was even able to spend several hours with my Mom the day before we left with no stress. Ok, this is me so there was some stress but it was under control. 😏
 
 We had our [Phil’s Diner breakies](https://www.google.com/maps/place/Phil's+on+11th/@51.0306433,-114.0866417,13z/data=!4m5!3m4!1s0x0:0xbae08a7bf6717cea!8m2!3d51.0431006!4d-114.0908825?shorturl=1). Our first breakfast after we arrived in Calgary in 1993 was at Phil’s so we decided our last should be as well. We went to the [Pig and Duke](https://goo.gl/maps/mCLJATgiD9d6BFRL6) the night before we left to celebrate being done and Paul’s Dads birthday.

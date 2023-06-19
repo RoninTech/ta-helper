@@ -6,6 +6,7 @@ images:
   - "https://lh3.googleusercontent.com/pw/AM-JKLXK91LYIadzqMeOsmYfyGkL-qjzjtUGZnLiYbvRRredrwyd1FbzikgzshWLMzw-mD8Dk85MVYZLuU7u__ajhg78_xQjgKX7nsV1_quq1PuMM5AIenuk4IyY5aGgOJAcOUZ1jsX0vuNaqmLC7OI3qjfubw=w850-h637-no?authuser=0"
 author: "Helen"
 omit_header_text: true
+album: "https://photos.app.goo.gl/KWytzSQSsgFQZgdbA"
 ---
 
 After an uneventful flight from Taipei, we landed on time in BKK. When we disembarked, there were staff in full PPE giving directions where to go, probably a staff member every 10 feet or so. It was fairly easy to follow since everything was roped off and we could only go one way. We were in the first group to disembark so we were lucky to be in the front of the pack. We had to stop at the document check where we had temperature checks, were assigned numbers and handed over our paperwork for review. Once staff confirmed we had everything, we moved on to the health check area. We had a temperature check, had our test results and fit to fly reviewed, then answered questions. After that we were escorted to immigration where we had our Certificate of Entry reviewed, confirmed our arrival flight before going through to be officially stamped in. It was a very smooth process.

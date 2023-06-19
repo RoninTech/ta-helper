@@ -6,9 +6,8 @@ images:
   - "https://lh3.googleusercontent.com/pw/AM-JKLVQxRecWHIzWykOL7nScg3mn6BLKiI-yNoFKWGhv1GoZXlLdOuZBpWexsSWHL9jojU3ZHxCqwgJGHj_X0fMKrmIjM72pHYP6LHcazFg_84hHjxafQ-FZe5yM_us2gs_04Z8DxE6-YZBUKRTH8X2nSrSKg=w1300-h975-no?authuser=0"
 author: "Helen"
 omit_header_text: true
+album: "https://photos.app.goo.gl/hBEvA5h1kg45tebMA"
 ---
-
-[Lipe 2022 Album](https://photos.app.goo.gl/hBEvA5h1kg45tebMA)
 
  Well, here we go again… same, same but different! Several friends had gotten in touch and were all planning on heading to Lipe for February and March. We hadn’t seen Bram, Alyssa, Rob, Laura or Pascal for some time so we were excited to see everyone. We got in touch with Mikkel and Nok to arrange our stay at The Reef… after last year we had to get the balcony room again!
 

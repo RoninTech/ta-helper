@@ -6,13 +6,12 @@ images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3cJn7skmeroSoqeTMXxs-dbTmMx6EV6pIxgnyxU69V4-h-sQJfejVfmKxUVVer888IW1ii_E6H_o6BA_8n7Qbdzeuvf_aGhlEX4SRDNN1dtPK1BnJ75bnIHexqrszjg1jQH3ehwaSs74vu8wgBIkJMhnw=w1210-h908-no"
 author: "Helen"
 omit_header_text: true
+album: "https://photos.app.goo.gl/Fknra4iZJxKgBoJV6"
 ---
 
 The Land of Laos was next on our list. We met wonderful people, saw some beautiful sites and had a blast. We spent the most time in Luang Prebang, Vang Vieng and the 4000 Islands.
 
 #### Slow Boat on the Mekong to Luang Prabang
-
-[Photo Album](https://photos.app.goo.gl/Fknra4iZJxKgBoJV6)
 
 This is a two day journey with an overnight in Pak Beng where we stayed at the [Monsavanh Guesthouse](https://goo.gl/maps/SM8ZzGJj3SJ2). We crossed over the Mekong on the [Friendship bridge](https://goo.gl/maps/Vbenx51ahV3DynQM9) which is the border at Chiang Khong into Laos and then took a minibus to the slow boats. The seats were basically car seats dropped into a boat. We stayed away from the back of the boat to avoid the engine noise and enjoyed the sites along the Mekong. These boats are big and can easily hold 50 people. We had a great Indian meal and our first beer Laos at the [Hasan restaurant](https://goo.gl/maps/7hEr7vSyyhvekZE29) in Pak Beng. Every once in a while you would see a boat heading upstream. These were usually very and small and scary fast.
 

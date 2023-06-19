@@ -6,6 +6,7 @@ images:
   - "https://lh3.googleusercontent.com/pw/AM-JKLUrD0F6yKgqmvRf1lwMjhB66iqBrxmv8ixX5YFCu6XtQ_atsgyvnx9a11Uqtx3spt3gDNMtUHBTWsItJ5oqFnsv9kHskd0Qi9beAnuyQehj2QVDFxvM3HRQsRe61VxUyL3MdjGvi6NGfsTA9znKjV4JwA=w1300-h975-no?authuser=0"
 author: "Helen"
 omit_header_text: true
+album: "https://photos.app.goo.gl/m5VxQVRPnLMnVwmp9"
 ---
 
 What? Wait Manitoba? Yep, you bet and what a wonderful time it has been. We spent the month of May in Creston getting vaccinated, helping Paul’s Dad with building a deck, seeing our friends Pati and John and trying to get organized for the continued [van build](/van-life/). We had a quick trip to Calgary to see my Mom. She ended up spending a night in hospital with her heart so we went to make sure she was okay. Our family situation was handled as much as possible and we needed to locate a place to live and work on the van.  

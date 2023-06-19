@@ -7,14 +7,12 @@ images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3d6cMHax2ivu98BtvuUO0ETlh7RH9NsvnMUribTAlBiNWVWg831qsIfmU2DyH3SGfXN5Ggqmd9-5wh4Lhqn51o8VXLKTd_6n5q0wM3QiSobi7ELNvO2Pts1q3s8od9LoKEPIQcJ4xRXJrriBRLCnIgsCg=w1210-h908-no"
 author: "Helen"
 omit_header_text: true
+album: "https://photos.app.goo.gl/esSFk43cjfq5oeUm7"
 ---
 
 On Facebook, you may have been exposed to our constant updates and many temple and/or Pagoda photos. For those not on Facebook or who have blocked us after being fed up with the aforementioned pagodas… here is the Cole’s notes version of our first couple of months:
 
 #### Koh Lipe – March 2017
-
-[Photo Album](https://photos.app.goo.gl/esSFk43cjfq5oeUm7)
-
 This time we stayed at [The Reef](https://goo.gl/maps/Rt72kc2nSC2DiwSk8) instead of our usual Andaman Resort, which was taken over by new owners. We really enjoyed our accommodation and met some great people. We highly recommend The Reef, the staff was super nice, beds comfortable and breakfast was good. The orange tabby cat that I spent a lot of time with has no bearing on my opinion.
 
 </br>

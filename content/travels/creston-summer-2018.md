@@ -7,6 +7,7 @@ images:
 author: "Paul"
 description: "Creston Summer"
 omit_header_text: true
+album: "https://photos.app.goo.gl/3AtX6G3HCqi5FqmB8"
 ---
 
 There was a delay in getting our flight out of Kathmandu, which isn't unusual apparently, but about an hour later, we were able to board the Air China flight to Chengdu. There were only 3 people in the business class area so we had room to spread out. We still think the co-pilot was also handling service but could be wrong. The flight was smooth and we landed in China! We had to get on a bus and were driven to the terminal, we were only transit passengers so expected to just go to the next gate. Unfortunately that didn't happen, we ended up having to get stamped to enter China! The guard was very confused and kept asking us how long we were staying, we kept saying 2 hours and catching our next flight. Finally another guard stepped in, his English was a little better and we were able to sort things out. We were stamped in and entered China!

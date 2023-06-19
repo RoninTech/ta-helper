@@ -49,30 +49,29 @@
     </header>
     <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "serif"}} f5 nested-links {{ $.Param "text_color" | default "mid-gray" }} {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl4-l" "pr4-l" }}">
       <hr>  
-      <table style="width:100%">
+      <table style="width:100%;">
         <tr>
           <td style="text-align:left"><b>Previous</b></td>
+          {{ if .Params.album }}
+          <td rowspan="2" style="text-align:left"><a href="{{ .Params.album }}" target=”_blank”><img src="/images/image-gallery.png" title="{{ .Params.title }} Photo Album" alt="{{ .Params.title }} Photo Album" height="50"></a></td>
+          {{ end }}
           <td style="text-align:right"><b>Next</b></td>
         </tr>
         <tr>
           <td style="text-align:left">
             {{ with .PrevInSection }}
-              <a style="text-decoration: none" href="{{ .RelPermalink }}">
-              <img class="hover" src="{{ .Params.featured_image }}" height="84" alt="{{ .Params.thumbnail_image_alt }}"> {{ .Title }}</a>
+              <a style="text-decoration: none" href="{{ .RelPermalink }}">{{ .Title }}</a>
             {{ else }}
               {{ $lastInSection := index (last 1 .CurrentSection.Pages.ByPublishDate) 0 }}
-              <a style="text-decoration: none" href="{{ $lastInSection.RelPermalink }}">
-              <img class="hover" src="{{ $lastInSection.Params.featured_image }}" height="84" alt="{{ $lastInSection.Params.thumbnail_image_alt }}"> {{ $lastInSection.Title }}</a>
+              <a style="text-decoration: none" href="{{ $lastInSection.RelPermalink }}">{{ $lastInSection.Title }}</a>
             {{ end }}
           </td>
           <td style="text-align:right">
             {{ with .NextInSection }}
-              <a style="text-decoration: none" href="{{ .RelPermalink }}">{{ .Title }} 
-              <img class="hover" src="{{ .Params.featured_image }}" height="84" alt="{{ .Params.thumbnail_image_alt }}"></a>
+              <a style="text-decoration: none" href="{{ .RelPermalink }}">{{ .Title }}</a>
             {{ else }}
               {{ $firstInSection := index (first 1 .CurrentSection.Pages.ByPublishDate) 0 }}
-              <a style="text-decoration: none" href="{{ $firstInSection.RelPermalink }}">{{ $firstInSection.Title }} 
-              <img class="hover" src="{{ $firstInSection.Params.featured_image }}" height="84" alt="{{ $firstInSection.Params.thumbnail_image_alt }}"></a>
+              <a style="text-decoration: none" href="{{ $firstInSection.RelPermalink }}">{{ $firstInSection.Title }}</a>
             {{ end }}
           </td>
         </tr>
@@ -84,27 +83,26 @@
       <table style="width:100%">
         <tr>
           <td style="text-align:left"><b>Previous</b></td>
+          {{ if .Params.album }}
+          <td rowspan="2" style="text-align:left"><a href="{{ .Params.album }}" target=”_blank”><img src="/images/image-gallery.png" title="{{ .Params.title }} Photo Album" alt="{{ .Params.title }} Photo Album" height="50"></a></td>
+          {{ end }}
           <td style="text-align:right"><b>Next</b></td>
         </tr>
         <tr>
           <td style="text-align:left">
             {{ with .PrevInSection }}
-              <a style="text-decoration: none" href="{{ .RelPermalink }}">
-              <img class="hover" src="{{ .Params.featured_image }}" height="84" alt="{{ .Params.thumbnail_image_alt }}"> {{ .Title }}</a>
+              <a style="text-decoration: none" href="{{ .RelPermalink }}">{{ .Title }}</a>
             {{ else }}
               {{ $lastInSection := index (last 1 .CurrentSection.Pages.ByPublishDate) 0 }}
-              <a style="text-decoration: none" href="{{ $lastInSection.RelPermalink }}">
-              <img class="hover" src="{{ $lastInSection.Params.featured_image }}" height="84" alt="{{ $lastInSection.Params.thumbnail_image_alt }}"> {{ $lastInSection.Title }}</a>
+              <a style="text-decoration: none" href="{{ $lastInSection.RelPermalink }}">{{ $lastInSection.Title }}</a>
             {{ end }}
           </td>
           <td style="text-align:right">
             {{ with .NextInSection }}
-              <a style="text-decoration: none" href="{{ .RelPermalink }}">{{ .Title }} 
-              <img class="hover" src="{{ .Params.featured_image }}" height="84" alt="{{ .Params.thumbnail_image_alt }}"></a>
+              <a style="text-decoration: none" href="{{ .RelPermalink }}">{{ .Title }}</a>
             {{ else }}
               {{ $firstInSection := index (first 1 .CurrentSection.Pages.ByPublishDate) 0 }}
-              <a style="text-decoration: none" href="{{ $firstInSection.RelPermalink }}">{{ $firstInSection.Title }} 
-              <img class="hover" src="{{ $firstInSection.Params.featured_image }}" height="84" alt="{{ $firstInSection.Params.thumbnail_image_alt }}"></a>
+              <a style="text-decoration: none" href="{{ $firstInSection.RelPermalink }}">{{ $firstInSection.Title }}</a>
             {{ end }}
           </td>
         </tr>

@@ -7,9 +7,8 @@ images:
 author: "Helen"
 description: "Nepal Annapurna October"
 omit_header_text: true
+album: "https://photos.app.goo.gl/qQ4RWf1UakGEMoY59"
 ---
-
-[Photo Album](https://photos.app.goo.gl/qQ4RWf1UakGEMoY59)
 
 On our way to Nepal, yes we are going back to hike the Annapurna Circuit again, we decided to take a couple of days and spoil ourselves in Bangkok. We stayed at our favorite hotel, the Vie, pigged out on breakfast buffets, sushi and curries, did some shopping and slept.
 

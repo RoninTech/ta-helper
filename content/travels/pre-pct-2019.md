@@ -4,8 +4,8 @@ date: 2019-07-01T07:18:08-07:00
 featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3dGAvB3sFcqhoVDRvQUOb6ulzsYYwYBmWWG22NKmEYnIgit3wZ7NYRJZZp9exztS9wi5vI1PhS5erkdyQPLaUHwiANdb2tzJcBm0yoRlOhbc1wfSBs3WoZWbXVFGvQ0Jf_m7CfyfkyEqaCLJd5qzUrAGg=w1300-h975-no"
 author: "Helen"
 description: "Pacific Crest Trail Prep"
-#type: "travels"
 omit_header_text: true
+album: "https://photos.app.goo.gl/WeEzbPyMq9dWHqAR9"
 ---
 
 We flew back to Canada to get organized to hit the PCT. John and Rita were kind enough to let us stay with them in Creston while we got ready. When we applied for permits we were not able to get the same dates. There was a 2 weeks difference in our start dates and the work around for that is not deemed legal by the PCTA, if stopped you can get in trouble. In the end it was a non issue since we changed our permits to head Southbound on the PCT as we weren't even close to being ready to head off on our original dates. SOBO permits aren't in demand, something about it being harder to go straight into the mountains instead of building up to it. We were easily able to get a date for both of us and planned to hit the trail June 26. It worked out as since we could give ourselves time to train and get our gear organized for our start date.

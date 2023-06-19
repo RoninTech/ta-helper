@@ -6,6 +6,7 @@ images:
   - "https://lh3.googleusercontent.com/pw/AM-JKLUsl4WvF-LIq1k0B9rPlV38AqHsE-whkpdOG1rxCwLvz7YG6dTZTFI_NvM2_pvawFBFwn_bXgNm4eeIcsMU1KtcJyd1bG3AVla0IUrMtYtpJ75mfIUERlALV3qIWy2_3uMwuYPrL0SYnBM0YWHfoNr9Dw=w315-no?authuser=0"
 author: "Helen"
 omit_header_text: true
+album: "https://photos.app.goo.gl/LbwvYzDjGv8FGwU78"
 ---
 
 Our flight from BKK was mostly empty with maybe 25 people on board the Thai Airways Boeing 777, including crew. We were advised that masks must be worn for the 45 minute journey, and that no food or beverage would be served. It wasn’t a problem for us as we had a large breakfast before we left the hotel. The take off was pretty epic. You could really feel the difference in acceleration due to the very light load. No idea why they needed a 777 to fly 25 people for 45 minutes but it was nice.
@@ -38,6 +39,8 @@ During this time, there was another mini lockdown as the cases were increasing. 
 
 Eventually things settled down and we were able to go see Dao at Small House. There was still a curfew for bars, so we went together to an after hours place… it was fun to have time with Dao away from the bar. We got to see many of the same people we had met last year, met some new ones and had some great times. After one night, we ended up at some bar up by God’s place that had a big LFC sign. We had lots of food and beer with God and Ness, Ian was smart and had headed home! We got to spend an afternoon out at Huay Tueng Thao Lake, including a trip to see the large straw figurines. Then a walk through of the large veggie market by the American Embassy which was awesome. The fruit and veggies were fresh and crazy cheap.
 
+[Chiang Mai Veggie Market Photo Album](https://photos.app.goo.gl/Vdhyaovsq3YjvrQC9)
+
 </br>
 <div style="text-align: center">
 <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMx8hcY9exbT6gLHhJhRc0zMBBPOwlVlkunbSWTHpNicGxIgUeC7saX0K-OVwpEZQ/photo/AF1QipMXMeBHTVfc9X4AE-f-A75qghnX_RpGN7T_uX32?key=RDg0cWh2blNCUThrLWMwLTU5UlJCN2k3TUZvMW93" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AM-JKLXB09bLYogAR1s3kKir-zKQhySNqIOtlaVMBRyr5WcsV6DRd2TrWKJ4w9S_GS6W8HfBdLx2bWc3_9GeBmUkXg3mn5Ejek5hQSy1iv9cD5Dn7c4DzYGO0hOSVFOg_edWG-a_AtIbscxtfaRaNjumkBpreg=w315-no?authuser=0" width="315" /><div>Dao!</div></a>
@@ -46,6 +49,8 @@ Eventually things settled down and we were able to go see Dao at Small House. Th
 </div>
 
 Unfortunately, God’s Mom was really sick and ended up in hospital. We went to visit her but she was already in a coma so we weren’t able to speak to her. We were able to offer support to God and his sisters. She went downhill quickly and passed away within a couple of days. Ness and Ian included us in the sending of flowers and we attended the ceremony for her funeral. This was a 3 day service with the local monks coming to chant, tables and shelter set up for food and drinks with the local ladies cooking, friends and family gathered to remember her. While it was a very sad occasion, you could tell she was very well liked and people enjoyed being together to remember her. We were honored to be included. The final day, God and his nephew became monks for the day to perform the service at the crematorium. We went out with Ness and Ian, spent the day then went to the cremation.
+
+[God's Mum's Funeral Photo Album](https://photos.app.goo.gl/WsZpoisRMcfsS8oXA)
 
 Afterwards, Ness, Paul and I headed off to SriLanna National Park. There was a dam built with house rafts we could spend the night at. God, his sister Klangjai, her son and his friend came out later on. It was a nice experience. We brought beer and ice, ate a lot and hung out on the house raft. Klangjai tried to show me how to make flowers out of the the pandam leaf, but I wasn't very good. The next day we headed back into Chiang Mai with a stop at the Legendary Sausage vendor. Paul and I ate all of ours before we got home. We also stopped close to God’s village at a really cool farm and coffee shop.
 

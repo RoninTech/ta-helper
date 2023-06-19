@@ -6,6 +6,7 @@ images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3d2HhQQrKUzFP5jATb0uJX6deRXXtNJ_FetfdPra4kJ5g3BexRjwIuYO54LTmIB4tkCwnk8rlPTlgO05sorPMW8T6iXDpMLG5lrkce7pV_3zwM18tpefsZwV1C9Scxb30X3MfHfvhDqdnmGTSQJtGXF5A=w1210-h908-no"
 author: "Helen"
 omit_header_text: true
+album: "https://photos.app.goo.gl/D4zoZ1qY922xgdYx6"
 ---
 
 The land of OZ, the land of OZ! Okay, the land of Australia but still awesome! While spending 2 months in Kampot we were lucky enough to borrow a computer to figure out what to do next. The original plan was Vietnam, but the weather there wasn’t co-operating. So how about a complete change of scenery and we look into renting a camper van and travel Eastern Australia! Flights, check, Phnom Penh to Brisbane. Australian visas, check. Camper van rentals, checked, checked again… once more and then boom… pulled the trigger. Look out Australia, the Rimmer’s are coming… for 3 months!!! 😀

@@ -7,6 +7,7 @@ images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3eWP8zoXbgGZRtwHaF9ce8OKb3aQy-xudUHHSTB8gM__qTXLHq-k7iwXiGuprYFQ2sI_2rBDirxqrkKrTVJwZqid9YaKpykd5iHBqALnGjdaayIstHb_lNkOHlLICdXcDArkUzxAuxfj9unizBJj_S_Sg=w1300-h975-no"
 author: "Helen"
 omit_header_text: true
+album: "https://photos.app.goo.gl/61V9JRqU9hrkdUPX6"
 ---
 
 So we arranged to get to Cambodia by ferry to the Vietnamese mainland through Andy at Oasis Bar. They arrange you to be met at the ferry, taken to the bar then off to the border. Mr. Chen helps you at the border and gets you in a taxi to your final destination on the Cambodian side. It was great. And everything went smoothly, no delays at either border and we were at the guesthouse by lunchtime

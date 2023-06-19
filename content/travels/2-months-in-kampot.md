@@ -6,10 +6,8 @@ images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3erqBPCKnnW9EmoiPZEwuOoBT6HXk8ifaSnvry412i8jTy97dUTqCVyqqiqBrXSMeVvB4IK1SMkB0q5ICeHkckjTwYFKtQlFoGRV_1ZM3VDRPQR80MSc-eQvKEfJ9HM1uv3a-6Okp0VSUizkxibzcEaQQ=w1210-h908-no"
 author: "Helen"
 omit_header_text: true
+album: "https://photos.app.goo.gl/XYdstRF9jAoq1yVk1"
 ---
-
-[Photo Album](https://photos.app.goo.gl/XYdstRF9jAoq1yVk1)
-
 After a whirlwind trip to Hong Kong, we headed back to Cambodia for further adventures. We had an overnight in Phnom Penh before heading south to Kampot to visit our old friend Lee. We ended up staying there for 2 months… yep, 2 months in Kampot.
 
 #### Bokor

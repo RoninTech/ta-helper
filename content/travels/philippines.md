@@ -6,11 +6,9 @@ images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3dK2OH6gVlLAmHgc_xICicDmkAOr78FhhroJyuc7xK2SNFrNUI9Nc5-KUR-XNHs1JH-05A4kIkT679LRj6Snth_s-BYwZF_tIn17do9L_4JQ78WAcvJ2IbEeKDutNHwfYOw0loie4YupYTk_yogzEQ_eQ=w1306-h979-no?authuser=0"
 author: "Helen"
 omit_header_text: true
+album: "https://photos.app.goo.gl/LljpPFA1IxR63Ghz2"
 ---
-
 #### Cebu
-
-[Photo Album](https://photos.app.goo.gl/LljpPFA1IxR63Ghz2)
 
 We decided after all our driving around in Oz and NZ, that we needed some beach time. We'd heard so many awesome things and seen great photos so decided the Philippines was the next stop and used some of our precious mileage points to fly business class to Manilla from Auckland, with a stop in Singapore. After some research, we didn't even leave the airport in Manilla as it is supposedly a sketchy shithole, and just headed over to get a flight to Cebu. We were lucky that our flight was in the same terminal so we didn't have to deal with buses or traffic. We did have to deal with the check in process which was very unorganized and somewhat hectic but we made it. The A/C was out in the area that we were in so that was awesome... said no one ever.
 

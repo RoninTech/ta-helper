@@ -6,8 +6,8 @@ images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3e3NDTKDvVwnsrVmNXmhwTXNdZQMz9w3As5aAsIZgsipidav0L0bN7l2QA6l27Kd4i6_p8OEZjgAMP-NQHALI5xMSsbcaA91GIFBfsicdp3JTl4jmwo4Y81556WWPHs4A1M8qITMK6C4c_xivBxICH_Nw=w1920-h979-no?authuser=0"
 author: "Helen"
 omit_header_text: true
+album: "https://photos.app.goo.gl/Rh6hiPjjERqqkZij2"
 ---
-
 ### The Ferry
 
 We had booked in advance to get the ferry so with tickets in hand we headed over at the recommended time, strangely we were some of the first people there. I needed coffee but Paul didn't want one so I ran into a little trouble when I went to order. I only brought my credit card and needed to have a minimum purchase to use it at the coffee place. I didn't want to walk all the back to the van for cash, so bought two coffee's and a cookie. Paul had the cookie but still refused the coffee... I spent the rest of the day being hyper.

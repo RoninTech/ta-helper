@@ -6,13 +6,12 @@ images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3eYV32kPXhKtRxZHhq7FlWJVZ5e0ZrYyE70yFPJQczkExoyzRfHqRAGaLLeQ-mJjuQmiz6d0xm1niJ2kCpikvD5t_B1P_jCACiLWnZnH-dHSyXGTS6MPjNd1RMLqVKmx3L3mwdvKnh-H33FHpb4JSnwPw=w1210-h908-no"
 author: "Helen"
 omit_header_text: true
+album: "https://photos.app.goo.gl/CTDXziBoTvyggg4TA"
 ---
 
 After 60+ days in Thailand we headed to Myanmar for a new adventure. We woke up early and headed to the green bus depot to take us to Mae Sot on the border. We stayed one night at a nice little place called [Phanu Guesthouse](https://goo.gl/maps/6wM5shGNkJM2).
 
 #### Hpa-An
-
-[Hpa-An Photo Album](https://photos.app.goo.gl/CTDXziBoTvyggg4TA)
 
 First stop Myawaddy, right across the border from Mae Sot. We were helped by “Mike” and were soon sharing a taxi with Karen, nurse from USA who was volunteering in Thailand at the Burmese border during her retirement. Apparently lots of Burmese cross here to use the hospital at Mae Sot. After a harrowing drive through the countryside (1 dead body from moped accident) we arrived in Hpa-An and checked into the [Galaxy Motel](https://goo.gl/maps/tgZDZGHcfHz2nuTd7) with it's amazing rooftop views.
 

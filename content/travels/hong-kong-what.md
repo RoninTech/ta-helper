@@ -6,6 +6,7 @@ images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3eHEBLdrejGbJTUdkxuFbtbv3FATPbC5UlUpEwYHsIs92I51l_ut4Gy6a9Ck4KvNEGSVWb8ygZMYTJHU6cruROvYjJzOO8hnN-bOqKBMDP9vnqQlLDYIGEi7wPSBItdAfUcVSbkbrxgXpUBNZdeKPlaVw=w1210-h908-no"
 author: "Helen"
 omit_header_text: true
+album: "https://photos.app.goo.gl/iQFygAB8yR1kqFyH6"
 ---
 
 Hong Kong? What!?! That was unplanned… well yes, but everything has pretty much been unplanned! Let’s make a long story short… in May we looked into getting tickets to the Liverpool FC preseason game in July at Hong Kong Stadium. They sold out in less than 24 hrs… too bad, moved on. While in [Don Det, Laos](/travels/the-land-of-laos/), we discovered that one of Paul’s favorite Liverpool podcasts, [The Anfield Wrap](https://www.theanfieldwrap.com/), was going to do a live show at the Hong Kong game. So, hmmm, maybe we should look into it further especially since it was going to be someone’s birthday month. Within 3 hours we had tickets lined up for both the game and Anfield Wrap Podcast show, hotel and [flights booked](http://www.gcmap.com/mapui?P=PNH-BKK-CNX-HKG-CNX-BKK-PNH). So “Hong Kong? What!?!” became “Hong Kong? You Bet!”.

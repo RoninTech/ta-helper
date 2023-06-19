@@ -6,6 +6,7 @@ images:
   - " https://lh3.googleusercontent.com/pw/AM-JKLUE82FajhvtKiK10C3-ml5es-vZA6egq7vzssXe8JCfZn3aSpJwADo77IdogyEcqvSY4XZe_uReDxmjsI0yZtvxhl0qbkhhwWTHZwDI7EnxsVL1-FuN8NrVQPbsSdk8ZnRrhWndrf2pNVzOZzGLPhUCxg=w315-no?authuser=0"
 author: "Helen"
 omit_header_text: true
+album: "https://photos.app.goo.gl/s7QDc9dn6NA4rDqs6"
 ---
 
  Winter is Coming… Again! Well, it is getting near the end of summer in Canada which means winter is coming! Seems to happen every year. The US border showed no signs of opening up so we decided it was time to head elsewhere. Bill and Tracy had been kind enough to let us spend the summer with them, but it was time to give them back their home. Naturally, our thoughts turned to Thailand and Chiang Mai… which has really become our home away from home. 

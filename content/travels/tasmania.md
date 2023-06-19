@@ -6,6 +6,7 @@ images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3cOPzkyS1wTxXIeTAyOIm6M0iUrtGoOngFnz5vbFptLdtxfHdZF__VLHeGb-OOvi1WIDDVRL182ExO6EtXfe44MjTN_aeCmAppKjQDXukTQEq6szB_EpIYXZ74NWjsSbX27YUas9xOaypR5ZklXY9SL6g=w1920-h571-no?authuser=0"
 author: "Helen"
 omit_header_text: true
+album: "https://photos.app.goo.gl/auCJzPB9De44zf6d8"
 ---
 
 10 days in Tasmania wasn’t enough. We could of easily spent at least a couple more weeks to explore this lovely island but we only had a short time left on our Ozzy visas. It remains one of our favorite places… even though we landed during a massive rain storm and spent the day hunkered in the van. 🙂

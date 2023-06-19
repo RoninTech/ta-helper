@@ -1,13 +1,13 @@
 ---
-title: "Chiang Mai October 2021"
+title: "Chiang Mai Fall 2021"
 date: 2021-10-13T16:37:33-07:00
 featured_image: "https://lh3.googleusercontent.com/pw/AM-JKLXrt6C7MqLjGYDf4Jz5kypSYwriVqrIMsfv2fzcIybxCJE-iJniYExTwwEsxoq1gpU9Ll0E90aR9uhiLys9xA2Vsj4Vq07Y8HpQJ5obF2yps25xCuZp-SRBQujgdQXPlZrAwF0W8PThe1JwBEdfmq-NMQ=w1734-h975-no?authuser=0"
 images:
   - "https://lh3.googleusercontent.com/pw/AM-JKLXrt6C7MqLjGYDf4Jz5kypSYwriVqrIMsfv2fzcIybxCJE-iJniYExTwwEsxoq1gpU9Ll0E90aR9uhiLys9xA2Vsj4Vq07Y8HpQJ5obF2yps25xCuZp-SRBQujgdQXPlZrAwF0W8PThe1JwBEdfmq-NMQ=w1734-h975-no?authuser=0"
 author: "Helen"
 omit_header_text: true
+album: "https://photos.app.goo.gl/YuGhqrX8inHT6qY79"
 ---
-[Chiang Mai October 2021 Album](https://photos.app.goo.gl/YuGhqrX8inHT6qY79)
 
 To get from BKK-CNX we had booked a flight with Thai Vietjet as the time and cost made it the best option. When we purchased the tickets, our credit card was charged twice. We made several attempts online to get it solved but nothing seemed to work. Luckily, when we checked into our flight they were able to give us an email address and we eventually got it sorted. Funnily, we had paid a little extra to book our seats so we weren’t at the very back of the flight… imagine our surprise when we boarded the plane only to find we were in the very last row. Apparently planes were switched and we paid for the privilege of being at the very back by the bathroom. Thankfully it is a very short flight. :fearful:
 

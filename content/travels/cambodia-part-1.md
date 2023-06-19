@@ -6,6 +6,7 @@ images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3eSxmNQwhsFdayjWsjtDjCbh1hLq5SfONxzl1OhEwpo4cxFkuB1BGS6uKFAtMLNadITHyfRuqZXKHn6xbSo0mxJmdgXr94dOmh042qZgKTMx_BCkXVNymtfQLrc4UwV-JXjITf-6jl5LuVDjgeri29RAw=w1210-h908-no"
 author: "Helen"
 omit_header_text: true
+album: "https://photos.app.goo.gl/IrhmfIOGEZrs7Lxz1"
 ---
 
 Cambodia (Part 1)? What? Why, you ask? Even if you didn’t, I’m pretending you did so I can tell you all about it! After a great time on the 4000 islands in Laos our next stop was Cambodia. We were very excited for a couple of reasons the main one being an opportunity to see our old friend Lee. We hadn’t seen him in years… basically since he moved there from Calgary, Canada. The other reason was that we heard it was amazing. So we took off from the 4000 islands on a boat, then a bus to the infamous border crossing, renowned for its corruption. We were super lucky in that our Thai friend Nok had also decided to leave at the same time so we all traveled together.
@@ -17,8 +18,6 @@ Cambodia (Part 1)? What? Why, you ask? Even if you didn’t, I’m pretending yo
 </div>
 
 #### Siem Reap
-
-[Photo Album](https://photos.app.goo.gl/IrhmfIOGEZrs7Lxz1)
 
 So really, you go here to get to Angkor Wat. We arrived after a fun, yet harrowing bus ride… the driver fell asleep and had drifted into the oncoming traffic lane. Thankfully he was woken up before any harm was done, but everyone was wide awake after that! After checking into the Schein Guest House we arranged to go see Angkor Wat. We booked a tour with tuk tuk driver [Tino](https://www.facebook.com/tinothai), who our friends Pat and Liz had recommended and setup a 4am departure for a sunrise start. Early the next morning we got to the ticket office, waited in line, got our tickets and headed over.
 

@@ -7,8 +7,8 @@ images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3fQXTYZk2T_iVcTTvnaOCrAEkelYTkq7CN0GqW0LHViEKA81UTcCNtls8nmzI1cuSgT7l3bZbfIZtgUTIweeFg011EIoIk1wa3DbHRpHhDrlby7B8Hq9D-_3M-ywLKo6h_SXQ7nOC259QA9uvBCrMOmIQ=w1300-h975-no"
 author: "Helen"
 omit_header_text: true
+album: "https://photos.app.goo.gl/WC9zkF8mjnNPtBJd8"
 ---
-
 John and Rita dropped us off at Cranbrook airport on December 12. It was a nice morning but there had been some snow. We'd left early so we could take our time on the drive and went for coffee together before leaving. Our flight this time was [Cranbrook-Vancouver-Tokyo-Bangkok](http://www.gcmap.com/mapui?P=YXC-YVR-HND-BKK). I had arranged to meet my sister Jayne at the airport. We were supposed to have 2 hours in Vancouver but it was pouring when we arrived and took over 30 minutes to get a gate and get off the plane. We did get to spend a quick half hour with Jayne before we headed through customs.
 
 </br>

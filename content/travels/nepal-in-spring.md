@@ -7,9 +7,8 @@ images:
 author: "Helen"
 description: "Annapurna Circuit without a guide or porter and Pokhara"
 omit_header_text: true
+album: "https://photos.app.goo.gl/MjqKMEC9QD6oaka72"
 ---
-
-[Photo Album](https://photos.app.goo.gl/MjqKMEC9QD6oaka72)
 
 #### Bangkok
 
