@@ -48,66 +48,10 @@
       {{ end }}
     </header>
     <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "serif"}} f5 nested-links {{ $.Param "text_color" | default "mid-gray" }} {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl4-l" "pr4-l" }}">
-      <hr>  
-      <table style="width:100%">
-        <tr>
-          <td style="text-align:left"><b>Previous</b></td>
-          {{ if .Params.album }}
-          <td rowspan="2" style="text-align:left"><a href="{{ .Params.album }}" target=”_blank”><img src="/images/image-gallery.png" title="{{ .Params.title }} Photo Album" alt="{{ .Params.title }} Photo Album" height="50"></a></td>
-          {{ end }}
-          <td style="text-align:right"><b>Next</b></td>
-        </tr>
-        <tr>
-          <td style="text-align:left">
-            {{ with .PrevInSection }}
-              <a style="text-decoration: none" href="{{ .RelPermalink }}">{{ .Title }}</a>
-            {{ else }}
-              {{ $lastInSection := index (last 1 .CurrentSection.Pages.ByPublishDate) 0 }}
-              <a style="text-decoration: none" href="{{ $lastInSection.RelPermalink }}">{{ $lastInSection.Title }}</a>
-            {{ end }}
-          </td>
-          <td style="text-align:right">
-            {{ with .NextInSection }}
-              <a style="text-decoration: none" href="{{ .RelPermalink }}">{{ .Title }}</a>
-            {{ else }}
-              {{ $firstInSection := index (first 1 .CurrentSection.Pages.ByPublishDate) 0 }}
-              <a style="text-decoration: none" href="{{ $firstInSection.RelPermalink }}">{{ $firstInSection.Title }}</a>
-            {{ end }}
-          </td>
-        </tr>
-      </table>      
-      <hr>      
+      {{ partial "next-gallery-prev-navbar.html" . }}      
       {{- .Content -}}
       {{- partial "tags.html" . -}}
-      <hr>
-      <table style="width:100%">
-        <tr>
-          <td style="text-align:left"><b>Previous</b></td>
-          {{ if .Params.album }}
-          <td rowspan="2" style="text-align:left"><a href="{{ .Params.album }}" target=”_blank”><img src="/images/image-gallery.png" title="{{ .Params.title }} Photo Album" alt="{{ .Params.title }} Photo Album" height="50"></a></td>
-          {{ end }}
-          <td style="text-align:right"><b>Next</b></td>
-        </tr>
-        <tr>
-          <td style="text-align:left">
-            {{ with .PrevInSection }}
-              <a style="text-decoration: none" href="{{ .RelPermalink }}">{{ .Title }}</a>
-            {{ else }}
-              {{ $lastInSection := index (last 1 .CurrentSection.Pages.ByPublishDate) 0 }}
-              <a style="text-decoration: none" href="{{ $lastInSection.RelPermalink }}">{{ $lastInSection.Title }}</a>
-            {{ end }}
-          </td>
-          <td style="text-align:right">
-            {{ with .NextInSection }}
-              <a style="text-decoration: none" href="{{ .RelPermalink }}">{{ .Title }}</a>
-            {{ else }}
-              {{ $firstInSection := index (first 1 .CurrentSection.Pages.ByPublishDate) 0 }}
-              <a style="text-decoration: none" href="{{ $firstInSection.RelPermalink }}">{{ $firstInSection.Title }}</a>
-            {{ end }}
-          </td>
-        </tr>
-      </table>
-      <hr>
+      {{ partial "next-gallery-prev-navbar.html" . }}  
       <div class="mt6 instapaper_ignoref">
       {{ if .Site.DisqusShortname }}
         {{ template "_internal/disqus.html" . }}
