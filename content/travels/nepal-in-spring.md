@@ -62,7 +62,7 @@ At that point, we started 4x4'ing in an overloaded Toyota Hiace... Paul even com
 
 #### The Annapurna Circuit
 
-These are the places we stayed during our 16 days on the Annapurna Circuit. We continued to use the excellent free maps.me app to navigate along with a KMZ file we found on the web that showed all the places to stop on the circuit.  Use the [contact link](/contact/) above to request the Annapurna Circuit KMZ file and we will send it to you.  Maps.me was able to import the file and it showed us elevation profiles between points on the trek. Excellent for planning and seeing what hellish ups and/or downs awaited. Another invaluable resource was the [New Annapurna Trekking Trail (NATT) guide](http://www.nepal-dia.de/Trekking_the_Annapurna_Circuit_with_the_new_NATT_trails_111017.pdf).
+These are the places we stayed during our 16 days on the Annapurna Circuit. We continued to use the excellent free maps.me app to navigate along with a KMZ file we found on the web that showed all the places to stop on the circuit.  ~~Use the [contact link](/contact/) above to request the Annapurna Circuit KMZ file and we will send it to you~~.  Never mind, [Here it is](/downloads/Annapurna%20Circuit.kmz).  Maps.me was able to import the file and it showed us elevation profiles between points on the trek. Excellent for planning and seeing what hellish ups and/or downs awaited. Another invaluable resource was the [New Annapurna Trekking Trail (NATT) guide](http://www.nepal-dia.de/Trekking_the_Annapurna_Circuit_with_the_new_NATT_trails_111017.pdf).
 
 **NOTE:** maps.me was sold and now contains ads and trackers.  It is now recommended to use the forked [Organic Maps app](https://organicmaps.app/).
 
