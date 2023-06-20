@@ -79,6 +79,8 @@ We met Chip, his wife and daughter. Chip invited us to watch sunset at his place
 
 #### Satun to Bangkok, March 31 – April 4, 2017
 
+<a href="https://photos.app.goo.gl/Sb4oWDaQHzZu8Khx9" target=”_blank”><img src="/images/image-gallery.png" title="Satun Photo Album" alt="Satun Photo Album" height="50"></a>
+
 Our friend Pn (Nut) invited us to come and spend some time at her home on the mainland. She picked us up from the ferry, iced coffee in hand and brought us to a beautiful beach area to relax and visit. Turns out our timing coincided with a family ceremony to honour her great, great grandfather. Many of her Aunts and Uncles were in town so we were invited to attend the festivities. It started with a massive family BBQ and everyone had a duty. I helped with the skewers and Paul tried to BBQ, We were quickly given guest status. I also received a first hand lesson on making Som Tam (papaya salad)… no more needs to be said on that. The meal was great and we were spoiled rotten.
 
 </br>
