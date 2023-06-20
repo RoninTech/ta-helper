@@ -19,3 +19,8 @@ a:hover img.default {
 .nav-table td:nth-child(2) {
     width: 50px; /* should be the width of the icon */
 }
+
+.nav-table img {
+    max-width: none;
+  }
+  
