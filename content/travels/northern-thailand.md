@@ -29,7 +29,7 @@ We decided to get organized in Chiang Mai. Mailed some items back that we don’
 
 #### Chiang Dao
 
-[Photo Album](https://photos.app.goo.gl/qglYDEQDLrifYFH22)
+<a href="https://photos.app.goo.gl/qglYDEQDLrifYFH22" target=”_blank”><img src="/images/image-gallery.png" title="Chiang Dao Photo Album" alt="Chiang Dao Photo Album" height="50"></a>
 
 Awesome place! Our friend from Small House Kafe, Dao, recommended it to us. We spent a few nights there, ate some amazing food, had a great time with Buppa (and her homemade spiced whiskey) at [The Cave Bar](https://g.page/cavewomanthecavebar?share), walked around and went on an awesome scooter ride in the national park through the clouds.
 
@@ -63,7 +63,7 @@ Awesome place! Our friend from Small House Kafe, Dao, recommended it to us. We s
 
 #### Chiang Rai
 
-[Photo Album](https://photos.app.goo.gl/3rbPrXwsLLRY9n5V6)
+<a href="https://photos.app.goo.gl/3rbPrXwsLLRY9n5V6" target=”_blank”><img src="/images/image-gallery.png" title="Chiang Rai Photo Album" alt="Chiang Rai Photo Album" height="50"></a>
 
 Took a bus from Chiang Dao to [Tha Ton](https://goo.gl/maps/jkwD2LbXtGXQxFiV8), then a cool [longtail boat ride](https://goo.gl/maps/nJuV8jYczL72) to Chiang Rai. We saw some elephants being bathed in the river. There was a stop where you can get a photo with a snake but we choose not to. Spent the next morning at the White Temple, Black House and Blue Temple before heading to see our friends God and Yves at their hostel in Chiang Khong on the Laos border.
 
@@ -99,7 +99,7 @@ Took a bus from Chiang Dao to [Tha Ton](https://goo.gl/maps/jkwD2LbXtGXQxFiV8), 
 
 #### Chiang Khong
 
-[Photo Album](https://photos.app.goo.gl/MiNuevFXuwjGYPYD2)
+<a href="https://photos.app.goo.gl/MiNuevFXuwjGYPYD2" target=”_blank”><img src="/images/image-gallery.png" title="Chiang Khong Photo Album" alt="Chiang Khong Photo Album" height="50"></a>
 
 Finally made it to see God and Yves at their most excellent Hub Pub and Funky Box hostel where we had a fantastic week. We went on a jungle hike to a beautiful waterfall, were shown the area and taken to some viewpoints, spent several days being lazy, went fishing, had some cooking lessons, ate great food and had an awesome time visiting and being spoiled rotten. Make sure to go for a coffee at [The View Coffee](https://goo.gl/maps/8JekXbuzKuY3P5vn8) and checkout the views of the Mekong and Laos!
 

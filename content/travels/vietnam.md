@@ -34,7 +34,7 @@ We spent a couple of days enjoying walking the area of Old Town, drinking coffee
 
 #### Cat Ba Island
 
-[Photo Album](https://photos.app.goo.gl/Ui6tGDv8f7SqaK1m7)
+<a href="https://photos.app.goo.gl/Ui6tGDv8f7SqaK1m7" target=”_blank”><img src="/images/image-gallery.png" title="Cat Ba Island Photo Album" alt="Cat Ba Island Photo Album" height="50"></a>
 
 We booked a trip to Cat BA Island, leaving the following day. A small bus picked us up, then took us to where we transferred to a larger bus. The trip was a few hours and we stopped at one of the huge highway stations for a rest break. When we got to Hai Phong we had to transfer to a ferry, it was a little chaotic but we made it to Cat Ba. Where we got on another bus and headed to the accommodation. We stayed at Le Pont Hotel where we had a great room for $9, including breakfast. Arranged a day trip to the Lan Ha Bay area with Cat Ba Green Trail Travel. They picked us the next morning, then we headed to the boat. Our guide, Tahn, was awesome. He joked around, kept everything and everyone organized along with providing some great history of the area. Part of our trip was a kayaking tour through one area, which in my usual style I handled like a champ. Really, I didn’t, Paul even said I would try the patience of Jesus to which I responded that maybe he had never kayaked either! It ended up being really fun and we headed back to the boat for lunch. It was a huge seafood spread and was delish!
 
@@ -58,9 +58,9 @@ We found a good restaurant that night, had a nice chat with the owner who had be
 
 #### Ha Giang Loop
 
-[Photo Album](https://photos.app.goo.gl/LQG6J6B8jre5U6xQA)
+<a href="https://photos.app.goo.gl/LQG6J6B8jre5U6xQA" target=”_blank”><img src="/images/image-gallery.png" title="Ha Giang Loop Photo Album" alt="Ha Giang Loop Photo Album" height="50"></a>
 
-We spent a week in Hanoi, finding more excellent food and coffee while planning a trip to Northern Vietnam. We couldn’t decide if we wanted to go on a trek in Sapa or the Ha Giang Loop. We had a rough start when the bus that was supposed to get us to Ha Giang ended up breaking down so never came to get us. Lily Travel, who we booked with, arranged a separate pick up and got us on to another bus. It was a local sleeper but we had good seats and it was comfortable. We arrived in Ha Giang and arranged our rental at QT Motorbike and Tours . We left early the next morning and immediately got stuck in traffic… the amount of trucks, scooters, large cars and transport trucks here was almost unbelievable. We had an amazing 3 days out on the scooter! The scenery went from fog enshrouded mountains to sunlight valleys, villages and towns back to farms. There were some incredible stops… we crossed the border into China, went to some monuments, did some off-roading because the map took us the wrong way and eventually made it back. A lot more that happened over these few days including a festival at the school, a minor accident, being lent a hair dryer to dry off because it had rained so much, loads of food but those are other stories. It was a highlight of our time in Vietnam.
+We spent a week in Hanoi, finding more excellent food and coffee while planning a trip to Northern Vietnam. We couldn’t decide if we wanted to go on a trek in Sapa or the Ha Giang Loop. We had a rough start when the bus that was supposed to get us to Ha Giang ended up breaking down so never came to get us. Lily Travel, who we booked with, arranged a separate pick up and got us on to another bus. It was a local sleeper but we had good seats and it was comfortable. We arrived in Ha Giang and arranged our rental at QT Motorbike and Tours . We left early the next morning and immediately got stuck in traffic… the amount of trucks, scooters, large cars and transport trucks here was almost unbelievable. We had an amazing 3 days out on the scooter! The scenery went from fog enshrouded mountains to sunlight valleys, villages and towns back to farms. There were some incredible stops… we crossed the border into China, went to some monuments, did some off-roading because the map took us the wrong way and eventually made it back. A lot more that happened over these few days including a festival at the school, a minor accident (that could easily have been serious), being lent a hair dryer to dry off because it had rained so much, loads of food but those are other stories. It was a highlight of our time in Vietnam.
 
 </br>
 <div style="text-align: center">
@@ -80,7 +80,7 @@ These few photos don't do this justice, so check out the album. We headed back t
 
 #### Phong Nha
 
-[Photo Album](https://photos.app.goo.gl/qQsXgYbTazXgG3XQ7)
+<a href="https://photos.app.goo.gl/qQsXgYbTazXgG3XQ7" target=”_blank”><img src="/images/image-gallery.png" title="Phong Nha Photo Album" alt="Phong Nha Photo Album" height="50"></a>
 
 Our next adventure was a caving trip to Hang En, the 3rd largest cave in the world. We took an overnight train and car to Phong Nha. The town itself was nice, lots of good food and nice places to stay. Our trip to the cave was a day of trekking, crossing rivers and lunch stop in a small village, where I promptly wiped out and had a muddy arse for the rest of the day. Then to the cave, where had to raft over to where all the tents were set up. We had a great supper and then slept in the cave. The next morning after a great breakfast, we headed on the tour through the cave before hiking out. The hike out was intense… up hill through the jungle, leeches, heat and everything in between. When we got to the top, they made everyone strip down before we could get on the bus to do a leech check. I had a massive one on my leg and Paul had one on his foot, and all the guides were laughing and pointing, surprised we didn’t freak out. It was a great experience and another highlight... Vietnam has been amazing so far!
 </br>
@@ -101,7 +101,7 @@ The next day we rented a scooter and heading into the mountains, we did have an 
 
 #### Hue and Hoi An
 
-[Photo Album](https://photos.app.goo.gl/LtQRL7hRQqAL6T1g9)
+<a href="https://photos.app.goo.gl/LtQRL7hRQqAL6T1g9" target=”_blank”><img src="/images/image-gallery.png" title="Hue and Hoi An Photo Album" alt="Hue and Hoi An Photo Album" height="50"></a>
 
 We decided to spend a few days in Hue, getting some history. It was also the best place to get a scooter to go over the Hai Van Pass. We decided to spoil ourselves so stayed at Beaulieu Boutique Hotel. It was central, close to the Imperial Palace, food and where we were getting the bike from. We decided to walk to the palace, which may of been a mistake since it was incredibly hot so we were exhausted when we got there! We had a great experience at a Hanh Restaurant where we sampled some local dishes. Then off to Hai Van Pass.
 
@@ -111,9 +111,9 @@ We decided to spend a few days in Hue, getting some history. It was also the bes
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMqOG3tFh_Usm-gDDcpCLYh_VWl4rTC0mJGnE0l4M4imhi40H7VbDpe6pC8LB9VlQ/photo/AF1QipOysUVieCoI3TnCG3PpsjfnZoqlMmeqCUIJqQYa?key=UFlyUTNZOHgtZHFNVlJ2cG4wRlJYbUZNVzdCaXdR" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3fys97gPufqBWDGZ6rAgEUOJrrxD0IMPOdokuPLVU092q7WKXgQbLv-ksivmXPps87fptFr5GcF9GyJocA80g1s0YnjwmQVraYwNfVju0EcoAwRIfh9baNvEsR_PKdxEJoFB95JxAOYvfcLRyaOVzqBGg=w210-no" width="210" /><div>Hanh Restaurant</div></a>
   </div>
 
-[Hai Van Pass Photo Album](https://photos.app.goo.gl/VnL3dmZyj8iJ5bw56)  
+<a href="https://photos.app.goo.gl/VnL3dmZyj8iJ5bw56" target=”_blank”><img src="/images/image-gallery.png" title="Hai Van Pass Photo Album" alt="Hai Van Pass Photo Album" height="50"></a> [Hai Van Pass Photo Album](https://photos.app.goo.gl/VnL3dmZyj8iJ5bw56)  
   
-[Hoi An Photo Album](https://photos.app.goo.gl/9wnPiee94uH18VPM7)
+<a href="https://photos.app.goo.gl/9wnPiee94uH18VPM7" target=”_blank”><img src="/images/image-gallery.png" title="Hoi An Photo Album" alt="Hoi An Photo Album" height="50"></a> [Hoi An Photo Album](https://photos.app.goo.gl/9wnPiee94uH18VPM7)
 
 We got our scooter and headed off to Hoi An over Hai Van Pass. The weather was nice when we started but by the time we got to the pass it was raining and cloudy. The drive was okay, but the pass itself was crowded with tourist buses and large groups. We took a few photos and headed off. We had to drive through Da Nang, over the Dragon Bridge… Paul handled everything like he’d been driving scooters for years. It was raining at this point which added extra difficulty but we made it to Hoi An. We only had a few days here before flying out to Dalat. Wasn’t a huge fan of Hoi An, it was okay but rained most of the time and other than shopping and wandering the old quarter there wasn’t much to do. We rode bikes, which is always a bad idea for me. Not sure how many times I almost crashed. We met a really great couple at Halo Homestay, Laura and Jim from Nova Scotia. We spent a couple of nights hanging out with them before everyone headed out.
 </br>
@@ -126,7 +126,7 @@ We got our scooter and headed off to Hoi An over Hai Van Pass. The weather was n
 
 #### Dalat
 
-[Photo Album](https://photos.app.goo.gl/kJDHeSV24K38h74r5)
+<a href="https://photos.app.goo.gl/kJDHeSV24K38h74r5" target=”_blank”><img src="/images/image-gallery.png" title="Dalat Photo Album" alt="Dalat Photo Album" height="50"></a>
 
 We had to get back to Da Nang to get a flight but it was raining so much lots of the streets were flooded. Luckily our place arranged a SUV taxi for us, so we were able to make it through. At one point the driver stopped and was really concerned about going through a huge puddle. We made and got to Dalat… which was awesome! We did have a bad taxi experience where the driver tried to rip us off, but our guest house rescued us. WE stayed at the family run Hotel Lalani which was central to everything. We walked over to the night market had rice pizzas, bbq yams, chestnuts, soups all sitting at little random tables set up along the street. We found another great coffee shop, we tried several, even going on a coffee tour.
 
@@ -140,7 +140,7 @@ One night we were invited into a local shop to watch Vietnam play in the footie 
 
 #### HCMC
 
-[Photo Album](https://photos.app.goo.gl/2L9Xa2bXQwvk1PGq7)
+<a href="https://photos.app.goo.gl/2L9Xa2bXQwvk1PGq7" target=”_blank”><img src="/images/image-gallery.png" title="HCMC Photo Album" alt="HCMC Photo Album" height="50"></a>
 
 We had met an English couple when we flew into Dalat, and were on the same plane with them to HCMC. We had stayed in an airbnb that was horrible. I was ready to walk away but the location was perfect. We went to the War Museum, some breweries and saw the roof of the American embassy where people were rescued from. We went out with John and Liz, the English couple who are both actors in the London Theatre scene. Vietnam was in the soccer final so we were out on the streets with thousands of others. It was pretty incredible. Streets were closed off, scooters were 20 across with everyone waving flags, blowing horns and vuvuzelas and any other noise maker. We went down to the beer area and had a few beers which was crazy. The next day we all flew to Phu Quoc.
 
@@ -152,7 +152,7 @@ We had met an English couple when we flew into Dalat, and were on the same plane
 
 #### Phu Quoc
 
-[Photo Album](https://photos.app.goo.gl/pLPY8obLzd7Ecvrs9)
+<a href="https://photos.app.goo.gl/pLPY8obLzd7Ecvrs9" target=”_blank”><img src="/images/image-gallery.png" title="Phu Quoc Photo Album" alt="Phu Quoc Photo Album" height="50"></a>
 
 We had a nice Airbnb here, was a bit off the beaten track so you needed a scooter to get around. We went to beach and hung out for most of our days. We did drive up to the other end of the island where we had to buy lunch to get access to the fancy beach, it was on a private resort. It worked out because they let us spend the afternoon. We ended up having to get a tire repair done, had a flat but everyone was very helpful.
 

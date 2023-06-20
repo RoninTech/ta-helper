@@ -57,7 +57,7 @@ This is a two day journey with an overnight in Pak Beng where we stayed at the [
 
 #### Luang Prabang
 
-[Photo Album](https://photos.app.goo.gl/pdTjrwVcfOPX86mi1)
+<a href="https://photos.app.goo.gl/pdTjrwVcfOPX86mi1" target=”_blank”><img src="/images/image-gallery.png" title="Luang Prabang Photo Album" alt="Luang Prabang Photo Album" height="50"></a>
 
 As a UNESCO site, development has been very closely controlled in the Old Town. Stayed at the [Singharat Place Hotel](https://goo.gl/maps/E4z9RAqV9kaF4wuq7) which was perfect for a few days. We had a great time walking around, climbed Mt. Phousay, enjoyed some wonderful sunsets and great meals at a small restaurant (Bounchareune Riverside) on the shore of the mighty Mekong. We also went to the [UXO Visitors Centre](https://www.uxolao.org/) which is an eye opener on what happened here during the American War. Also visited the [Traditional Arts and Ethnology Centre](https://g.page/TAEC_Museum?share), visited several temples and rode around on pedal bikes. We rented a scooter for a couple of days and went to [Kuang Si waterfall](https://goo.gl/maps/XwfcXEAiKzc28Xou8) where we hiked up top and Paul enjoyed the [secret pool](https://www.nomadicmatt.com/travel-blogs/kuang-si-waterfalls-laos/).
 
@@ -95,7 +95,7 @@ As a UNESCO site, development has been very closely controlled in the Old Town. 
 
 #### Vang Vieng
 
-[Photo Album]()
+<a href="https://photos.app.goo.gl/MYrGsVvhnCcp7r2W2" target=”_blank”><img src="/images/image-gallery.png" title="Vang Vieng Photo Album" alt="Vang Vieng Photo Album" height="50"></a>
 
 Took the minivan through some beautiful mountain scenery to Vang Vieng. Had a great first night with an English couple who’d been traveling for months. They are at the end of the trip and after living and working in the middle east heading back to England. Had a great surprise meeting with Nok from Koh Lipe. Decided to go tubing… had a blast with tubing buddies Ronnie and Sarah from Switzerland. I got second in a water balloon tossing contest and Paul and Ronnie won some beer pong games. The next day we rented a scooter and headed into the countryside where the scenery was beautiful. Ate a lot of good food at the [Green Restaurant](https://goo.gl/maps/THP9kTKB7qJ2) and stayed at the [Vang Vieng Boutique hotel](https://goo.gl/maps/7sNWs27N3K92).
 
@@ -127,7 +127,7 @@ Took the minivan through some beautiful mountain scenery to Vang Vieng. Had a gr
 
 #### Vientiane
 
-[Photo Album](https://photos.app.goo.gl/YqMxcVv9wuqjHDT28)
+<a href="https://photos.app.goo.gl/YqMxcVv9wuqjHDT28" target=”_blank”><img src="/images/image-gallery.png" title="Vientiane Photo Album" alt="Vientiane Photo Album" height="50"></a>
 
 We only spent one night in Vientiane. Had an excellent Indian meal at [Jamil’s Pakistani Restaurant](https://goo.gl/maps/hGcz9XhPxsUEtKrw5), saw the sights, then fantastic pizza at [Tyson Kitchen](https://goo.gl/maps/aCgFJRWsVvbWzjPz9) owned by a Vancouver guy. Saw Nok again! Our bedbug experience at the [Vientiane Backpackers Garden Hostel](https://goo.gl/maps/87dzVpLaQRp) (total dump) had us fleeing our hostel at 10:30pm to the beautiful [Hotel Khamvongsa](https://goo.gl/maps/fnGSgjyaB292) nearby for a few bucks more. Agoda actually refunded us the money for our room once we sent them pics of the bedbugs. Helen noticed them as we were falling asleep and we got out without being bitten. Many hot showers were had after.
 
@@ -167,7 +167,7 @@ We were all ready to do the famous motorcycle loop here but weren’t able to as
 
 #### 4000 Islands
 
-[Photo Album](https://photos.app.goo.gl/jJkpFFnPxuFUC3jB3)
+<a href="https://photos.app.goo.gl/jJkpFFnPxuFUC3jB3" target=”_blank”><img src="/images/image-gallery.png" title="4000 Islands Photo Album" alt="4000 Islands Photo Album" height="50"></a>
 
 Went to [Don Khon](https://goo.gl/maps/XpgWRZ8KK2DJCHck9) to start staying at the [Dokchampa Guesthouse](https://goo.gl/maps/3Rr3jW694Eax2GYk7). Amazing food at [The Garden](https://goo.gl/maps/VkJchw3KF6n1cyN69) and [Chez Fred and Lea](https://goo.gl/maps/u9i8g6Lpxz5Nym7y8). Did two bicycle rides: on the first day flat tire and rain storm, second day a wipe out into a rice field and huge waterfall. Guess who was involved in the flat tire and wipe out? We rode over to [Don Det](https://goo.gl/maps/kSYw1i5A3bDgNaRR8) where we re-connected with Nok, Ronnie and Sarah and met Rhys from Oz. Moved over to Don Det and the [Little Eden Hotel](https://goo.gl/maps/qeBbAAwa9f9Secz2A) the next day and had a great night playing some drinking games and having fun. We spent two more nights then over to Cambodia and Siem Reap. While staying at Little Eden Hotel, we planned a trip to Hong Kong to watch Liverpool play a pre-season game for Paul's birthday. 😃
 

@@ -103,29 +103,29 @@ For food storage we had a couple of [Basecamp odor barrier bags](https://www.ama
 
 #### Hitchhiking and Trail Angels
 
-[Here's an album](https://photos.app.goo.gl/yVvUSWojrsFdS5Nr6) of all the people that gave us rides or helped us out on the PCT.
+<a href="https://photos.app.goo.gl/yVvUSWojrsFdS5Nr6" target=”_blank”><img src="/images/image-gallery.png" title="PCT Trail Angels Photo Album" alt="PCT Trail Angels Photo Album" height="50"></a> [Here's an album](https://photos.app.goo.gl/yVvUSWojrsFdS5Nr6) of all the people that gave us rides or helped us out on the PCT.
 
 <Add more details>
 
 #### Photo Albums
 
-[Harts Pass to border to Rainy Pass](https://photos.app.goo.gl/kDzn1mFpAYbWFJSm9)
+<a href="https://photos.app.goo.gl/kDzn1mFpAYbWFJSm9" target=”_blank”><img src="/images/image-gallery.png" title="Harts Pass to border to Rainy Pass Photo Album" alt="Harts Pass to border to Rainy Pass Photo Album" height="50"></a> [Harts Pass to border to Rainy Pass](https://photos.app.goo.gl/kDzn1mFpAYbWFJSm9)
 
-[Rainy Pass to Stevens Pass](https://photos.app.goo.gl/yAH31zLwhwfCffgTA)
+<a href="https://photos.app.goo.gl/yAH31zLwhwfCffgTA" target=”_blank”><img src="/images/image-gallery.png" title="Rainy Pass to Stevens Pass Photo Album" alt="Rainy Pass to Stevens Pass Photo Album" height="50"></a> [Rainy Pass to Stevens Pass](https://photos.app.goo.gl/yAH31zLwhwfCffgTA)
 
-[Stevens Pass to Snoqualmie Pass](https://photos.app.goo.gl/nyMtsNYkkLutUTQCA)
+<a href="https://photos.app.goo.gl/nyMtsNYkkLutUTQCA" target=”_blank”><img src="/images/image-gallery.png" title="Stevens Pass to Snoqualmie Pass Photo Album" alt="Stevens Pass to Snoqualmie Pass Photo Album" height="50"></a> [Stevens Pass to Snoqualmie Pass](https://photos.app.goo.gl/nyMtsNYkkLutUTQCA)
 
-[Snoqualmie to White Pass](https://photos.app.goo.gl/u9ay1pJLYv9vmNGw9)
+<a href="https://photos.app.goo.gl/u9ay1pJLYv9vmNGw9" target=”_blank”><img src="/images/image-gallery.png" title="Snoqualmie to White Pass Photo Album" alt="Snoqualmie to White Pass Photo Album" height="50"></a> [Snoqualmie to White Pass](https://photos.app.goo.gl/u9ay1pJLYv9vmNGw9)
 
-[White Pass to Trout Lake](https://photos.app.goo.gl/zCkfGBbvRvkCPtFK7)
+<a href="https://photos.app.goo.gl/zCkfGBbvRvkCPtFK7" target=”_blank”><img src="/images/image-gallery.png" title="Snoqualmie to White Pass Photo Album" alt="Snoqualmie to White Pass Photo Album" height="50"></a> [White Pass to Trout Lake](https://photos.app.goo.gl/zCkfGBbvRvkCPtFK7)
 
-[Trout Lake to Cascade Locks](https://photos.app.goo.gl/5UQJ23jzkVHBtYwQ6)
+<a href="https://photos.app.goo.gl/5UQJ23jzkVHBtYwQ6" target=”_blank”><img src="/images/image-gallery.png" title="Trout Lake to Cascade Locks Photo Album" alt="Trout Lake to Cascade Locks Photo Album" height="50"></a> [Trout Lake to Cascade Locks](https://photos.app.goo.gl/5UQJ23jzkVHBtYwQ6)
 
-[Cascade Locks to Bend](https://photos.app.goo.gl/pdXPo2tEWLSU5z1MA)
+<a href="https://photos.app.goo.gl/pdXPo2tEWLSU5z1MA" target=”_blank”><img src="/images/image-gallery.png" title="Cascade Locks to Bend Photo Album" alt="Cascade Locks to Bend Photo Album" height="50"></a> [Cascade Locks to Bend](https://photos.app.goo.gl/pdXPo2tEWLSU5z1MA)
 
-[Bend to Ashland](https://photos.app.goo.gl/AGHCEEceGxnhWjsy8)
+<a href="https://photos.app.goo.gl/AGHCEEceGxnhWjsy8" target=”_blank”><img src="/images/image-gallery.png" title="Bend to Ashland Photo Album" alt="Bend to Ashland Photo Album" height="50"></a> [Bend to Ashland](https://photos.app.goo.gl/AGHCEEceGxnhWjsy8)
 
-Ashland To Carson Pass
+<a href="https://photos.app.goo.gl/jT4cXG7gZ6pYUAAF6" target=”_blank”><img src="/images/image-gallery.png" title="Ashland To Carson Pass Photo Album" alt="Ashland To Carson Pass Photo Album" height="50"></a> [Ashland To Carson Pass To Creston](https://photos.app.goo.gl/jT4cXG7gZ6pYUAAF6)
 
 #### Map and Journal
 

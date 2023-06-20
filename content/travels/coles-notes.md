@@ -148,7 +148,7 @@ This was quick. We were lucky to meet up with God and Yves who were heading for 
 
 #### Chiang Mai, April 8 – May 8, 2017
 
-[Photo Album](https://photos.app.goo.gl/AE13PLKfrEQmYEAt6)
+<a href="https://photos.app.goo.gl/AE13PLKfrEQmYEAt6" target=”_blank”><img src="/images/image-gallery.png" title="Chiang Mai, April 8 – May 8, 2017 Photo Album" alt="Chiang Mai, April 8 – May 8, 2017 Photo Album" height="50"></a>
 
 We rented an Airbnb place for a month ([Prompt Condo](https://goo.gl/maps/9HMFzrWNmJDC5Qnu7), near Maya Mall) which was okay. Decent place, good pool and easy to get places. The highlights:
 

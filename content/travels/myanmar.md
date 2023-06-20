@@ -101,7 +101,7 @@ Spent the next day wandering the area with Karen and Verena having a relaxing ti
 
 #### Yangon
 
-[Yangon Photo Album](https://photos.app.goo.gl/Nw2m7stPlpZrpMYE2)
+<a href="https://photos.app.goo.gl/Nw2m7stPlpZrpMYE2" target=”_blank”><img src="/images/image-gallery.png" title="Yangon Photo Album" alt="Yangon Photo Album" height="50"></a>
 
 The bus station was utter chaos yet functioned. Took a long cab ride to our [Shwe Yo Vintage Hostel](https://goo.gl/maps/nUjPNyk5svq). Went and checked out the Canadian embassy… they weren’t going to let us up but Paul said “it’s okay we’re Canadian” and flashed his passport. It didn’t change the fact that it was closed but we got to see it from outside. We wandered around and both got pooped on. At breakfast we were talking to a couple.. after a couple of questions discovered they were also Canadians… then more questions and we are all Calgarians. Awesome coincidence! Enter Liz and Pat. We spoke to a fellow from the French/German border who’d been travelling for 4 years all over in a massive camper truck and had amazing experiences. Enter Yann.
 
@@ -139,7 +139,7 @@ We took the [circular train](https://en.wikipedia.org/wiki/Yangon_Circular_Railw
 
 #### Bagan
 
-[Bagan Photo Album](https://photos.app.goo.gl/2NxutKykB4TYJUBb8)
+<a href="https://photos.app.goo.gl/2NxutKykB4TYJUBb8" target=”_blank”><img src="/images/image-gallery.png" title="Bagan Photo Album" alt="Bagan Photo Album" height="50"></a>
 
 We were dropped off at 4AM with a bunch of taxi drivers all colluding on high prices for dozy customers. Around the corner from where the bus drops people off there is a sign showing "Old Bagan: 8000K, New Bagan: 7000K and Nyaung U: 5000K". Much cheaper than what the taxi drivers were quoting. We walked away, heading off in the direction of our hotel and then one of them sheepishly dropped his price to what we knew to be the correct amount. Since we were awake we decided on a 5am sunrise temple view before going to our hotel. After that we checked into the Oasis Hotel and had a nap. Later we rented an e-bike and we were off to see more temples. Yann arrived a day later so we arranged to tour the next day. We randomly met up with Pat and Liz at the white temple. Spent the rest of the day touring together along with Jen from Hong Kong. Had more tomato and tea leaf salads and Myanmar beer, mostly at the great [Weather Spoon's Restaurant and Bar](https://goo.gl/maps/bFwHi81KhkAyTP8x8). Arranged to spend the next day travelling around and had a great time exploring the temples and spending time together.
 
@@ -183,7 +183,7 @@ For our last day the 5 of us took a van to [Mount Popa](https://goo.gl/maps/5Qw8
 
 #### Inle Lake
 
-[Inle Lake Photo Album](https://photos.app.goo.gl/RnvnHEx2w7Dcncaz8)
+<a href="https://photos.app.goo.gl/RnvnHEx2w7Dcncaz8" target=”_blank”><img src="/images/image-gallery.png" title="Inle Lake Photo Album" alt="Inle Lake Photo Album" height="50"></a>
 
 Headed off to Inle Lake with Yann on the day bus. The bus rides in Myanmar are definitely something else… but good overall. Liz and Pat arrived the next day and we all went for a bike ride around the lake which included a toe injury, stop at a winery and some racing. Met Karen at the [Inlay Hut Indian Food House (313)](https://goo.gl/maps/NHha5fPYW9etxriA9) for dinner, owned by the Myanmar version of Eminem. Did the boat tour of the lake the next day. Temples, silk workshop, tobacco factory and valet parking. After that we ate so much dim sum at the [Live Dim Sum House](https://goo.gl/maps/LKsHytVx9qwpBk828) it was almost embarrassing. We ordered one of everything on the 2 page menu but a serving for 5… then we ordered more. All in preparation for our 3 day trek from Kalaw back to Inle Lake. Needless to say the food and company was amazing.
 
@@ -218,7 +218,7 @@ Headed off to Inle Lake with Yann on the day bus. The bus rides in Myanmar are d
 
 #### 3 Day Trek: Kalaw to Inle Lake
 
-[Kalaw to Inle Lake Photo Album](https://photos.app.goo.gl/RnvnHEx2w7Dcncaz8)
+<a href="https://photos.app.goo.gl/RnvnHEx2w7Dcncaz8" target=”_blank”><img src="/images/image-gallery.png" title="Kalaw to Inle Lake Photo Album" alt="Kalaw to Inle Lake Photo Album" height="50"></a>
 
 Next day, started the trek from Kalaw to Inle. Turns out one of the other people joining up also stayed at the same hotel in Yangon. Connie and Mara. Trek = amazing! [Taser(face)](https://en.wikipedia.org/wiki/Taserface) our guide was awesome. Had two homestays, great meals and an awesome time. The scenery was incredible. Also attended a pre-wedding ceremony and tried on some local headgear, had fun with kids and the older people. Pat and Liz headed off right away, the rest of us spent two nights relaxing in Inle Lake at the wonderful [Motel Album](https://goo.gl/maps/4swGRN8awMz).
 
@@ -251,7 +251,7 @@ Next day, started the trek from Kalaw to Inle. Turns out one of the other people
 
 #### Mandalay
 
-[Mandalay Photo Album](https://photos.app.goo.gl/UHd5a3PIULzxmEgb2)
+<a href="https://photos.app.goo.gl/UHd5a3PIULzxmEgb2" target=”_blank”><img src="/images/image-gallery.png" title="Mandalay Photo Album" alt="Mandalay Photo Album" height="50"></a>
 
 Then we headed to Mandalay to meet Pat and Liz staying at ~~Studio~~ [Hotel 82](https://goo.gl/maps/Ay73AS29VWN2). 2 nights of beer gardens and earthquake cracked temples, then off to Hpa-An again on our way out of Myanmar, back to Thailand.
 
@@ -277,7 +277,7 @@ Then we headed to Mandalay to meet Pat and Liz staying at ~~Studio~~ [Hotel 82](
 
 #### Hpa-An Revisited
 
-[Hpa-An Revisited Photo Album](https://photos.app.goo.gl/t9VUyjpiEQxr97st7)
+<a href="https://photos.app.goo.gl/t9VUyjpiEQxr97st7" target=”_blank”><img src="/images/image-gallery.png" title="Hpa-An Revisited Photo Album" alt="Hpa-An Revisited Photo Album" height="50"></a>
 
 We all took the night bus together. Stayed at the [Galaxy Hotel](https://goo.gl/maps/tgZDZGHcfHz2nuTd7) again when we got to Hpa-An with it's spectacular rooftop views. Ate some more tomato salad and drank more Myanmar beer! Paul, Pat, Liz and Yann all climbed [Mt. Zwegabin](https://goo.gl/maps/UbBDHaJZza9gWASD9). Paul said it was one of the hardest things he has done. 750m of straight up stairs of random heights. I was smart and took care of my cankles, and had cold water, beer and oranges waiting for them. Next day our G5 split Yann heading to Yangon and Sri Lanka, Pat, Liz, Paul and I to Chiang Mai.
 

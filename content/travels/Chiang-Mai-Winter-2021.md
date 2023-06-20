@@ -39,7 +39,7 @@ During this time, there was another mini lockdown as the cases were increasing. 
 
 Eventually things settled down and we were able to go see Dao at Small House. There was still a curfew for bars, so we went together to an after hours place… it was fun to have time with Dao away from the bar. We got to see many of the same people we had met last year, met some new ones and had some great times. After one night, we ended up at some bar up by God’s place that had a big LFC sign. We had lots of food and beer with God and Ness, Ian was smart and had headed home! We got to spend an afternoon out at Huay Tueng Thao Lake, including a trip to see the large straw figurines. Then a walk through of the large veggie market by the American Embassy which was awesome. The fruit and veggies were fresh and crazy cheap.
 
-[Chiang Mai Veggie Market Photo Album](https://photos.app.goo.gl/Vdhyaovsq3YjvrQC9)
+<a href="https://photos.app.goo.gl/Vdhyaovsq3YjvrQC9" target=”_blank”><img src="/images/image-gallery.png" title="Chiang Mai Veggie Market Photo Album" alt="Chiang Mai Veggie Market Photo Album" height="50"></a>
 
 </br>
 <div style="text-align: center">
@@ -50,7 +50,7 @@ Eventually things settled down and we were able to go see Dao at Small House. Th
 
 Unfortunately, God’s Mom was really sick and ended up in hospital. We went to visit her but she was already in a coma so we weren’t able to speak to her. We were able to offer support to God and his sisters. She went downhill quickly and passed away within a couple of days. Ness and Ian included us in the sending of flowers and we attended the ceremony for her funeral. This was a 3 day service with the local monks coming to chant, tables and shelter set up for food and drinks with the local ladies cooking, friends and family gathered to remember her. While it was a very sad occasion, you could tell she was very well liked and people enjoyed being together to remember her. We were honored to be included. The final day, God and his nephew became monks for the day to perform the service at the crematorium. We went out with Ness and Ian, spent the day then went to the cremation.
 
-[God's Mum's Funeral Photo Album](https://photos.app.goo.gl/WsZpoisRMcfsS8oXA)
+<a href="https://photos.app.goo.gl/WsZpoisRMcfsS8oXA" target=”_blank”><img src="/images/image-gallery.png" title="God's Mum's Funeral Photo Album" alt="God's Mum's Funeral Photo Album" height="50"></a>
 
 Afterwards, Ness, Paul and I headed off to SriLanna National Park. There was a dam built with house rafts we could spend the night at. God, his sister Klangjai, her son and his friend came out later on. It was a nice experience. We brought beer and ice, ate a lot and hung out on the house raft. Klangjai tried to show me how to make flowers out of the the pandam leaf, but I wasn't very good. The next day we headed back into Chiang Mai with a stop at the Legendary Sausage vendor. Paul and I ate all of ours before we got home. We also stopped close to God’s village at a really cool farm and coffee shop.
 
