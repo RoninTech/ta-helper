@@ -22,6 +22,9 @@ url = "https://github.com/RoninTech"
 #[[params.ananke_socials]]
 #name = "linkedin"
 #url = "https://www.linkedin.com/in/paul-rimmer-a46a461/"
+[[params.ananke_socials]]
+name = "youtube"
+url = "https://www.youtube.com/@CarryOnRTW"
 
 [sitemap]
   changefreq = "monthly"

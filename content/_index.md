@@ -6,7 +6,7 @@ images:
 description: ""
 ---
 
-On February 28th, 2017 we left Calgary, Canada on a one way ticket to Thailand after selling our house and most of our possessions and retiring. After a lot of preparation it was the start of a massive ongoing adventure. This is how long ago our adventure started:
+On February 28th, 2017 we left Calgary, Canada on a one way ticket to South East Asia after selling our house and most of our possessions and retiring early. After a lot of preparation it was the start of a massive ongoing adventure. This is how long ago our adventure started:
 
 <!DOCTYPE html>
 <html lang="en">
