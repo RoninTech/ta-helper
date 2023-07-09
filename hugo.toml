@@ -85,6 +85,12 @@ url = "https://www.youtube.com/@CarryOnRTW"
     url = "/about/"
     weight = 6
 
+  [[menu.main]]
+    name = "Search"
+    identifier = "search"
+    url = "/search/"
+    weight = 7 
+
 [module]
 [[module.imports]]
     path = 'github.com/theNewDynamic/gohugo-theme-ananke'

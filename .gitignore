@@ -70,3 +70,6 @@ node_modules/
 
 # Hugo generated stuff
 public/
+
+# Pagefind search
+static/_pagefind
