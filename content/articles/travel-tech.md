@@ -220,6 +220,11 @@ Cozy is a modern audiobook player for Linux. It is part of the [Gnome circle pro
 Static website generator. Our blog has evolved over the years. Originally it was hosted from our Linux server running in our basement using [Dragonfly CMS](https://dragonflycms.org/) when we had a home. After we sold our home, we transitioned the website to Wordpress and hosted it on Siteground. After Siteground jacked up their rates to unreasonable levels I switched the site to Google Sites. After I realized I couldn't use our own domain with Google Sites I switched to using Hugo to generate the site and Google Firebase to host it for free.
 Hugo has been great to work with. We chose the popular Ananke theme and didn't have too much difficulty setting it all up. The community forums are quite active and a great place to get help from. Open source.
 
+#### Pagefind
+
+<a href="https://pagefind.app/"><img src="/images/pagefind.svg" height="64" alt="Pagefind static website search" title="Pagefind static website search"></a>  
+I used to use Google for site searches on our website.  With pagefind, I build a search index every time Hugo generates the website.  After indexing, Pagefind adds a static search bundle to the built files which get uploaded as part of the website.  It exposes a JavaScript search API that can be used anywhere on our site. Pagefind also provides a prebuilt UI that can be used with no configuration.  See it in action [here](/search/).
+
 #### Codium
 
 <a href="https://vscodium.com/"><img src="https://raw.githubusercontent.com/VSCodium/vscodium/aec3519ea7387ba83a6d792bd35280e25a694fff/src/resources/win32/code.ico" width="64" height="64" alt="Codium Editor" title="Codium IDE"></a>  
