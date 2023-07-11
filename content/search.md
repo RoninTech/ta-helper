@@ -47,3 +47,11 @@ function waitForElm(selector) {
   });
 }
 </script>
+
+#### Example Searches
+
+Find all articles [by Paul](/search/?q=%22By%20Paul%22)  
+
+Find all articles [by Helen](/search/?q=%22By%20Helen%22)  
+
+Find all mentions of [coffee](/search/?q=coffee)
