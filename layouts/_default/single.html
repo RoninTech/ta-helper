@@ -5,7 +5,7 @@
 
 {{ define "main" }}
   {{ $section := .Site.GetPage "section" .Section }}
-  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+  <article class="flex-l flex-wrap justify-between mw8 center ph3" data-pagefind-meta="section:{{ $.CurrentSection.Title }}">
     <header class="mt4 w-100">  
       <aside class="instapaper_ignoref b helvetica tracked">
           {{/*
@@ -19,7 +19,7 @@
         {{- .Title -}}
       </h1>
       {{ with .Params.author | default .Site.Params.author }}
-      <p class="tracked">
+      <p class="tracked" data-pagefind-meta="author:{{ . }}">
         {{ $.Render "by" }} <strong>
         {{- if reflect.IsSlice . -}}
             {{ delimit . ", " | markdownify }}
