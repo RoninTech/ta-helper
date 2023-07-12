@@ -8,7 +8,7 @@ author: "Helen"
 omit_header_text: true
 album: "https://photos.app.goo.gl/LljpPFA1IxR63Ghz2"
 ---
-#### Cebu
+## Cebu
 
 We decided after all our driving around in Oz and NZ, that we needed some beach time. We'd heard so many awesome things and seen great photos so decided the Philippines was the next stop and used some of our precious mileage points to fly business class to Manilla from Auckland, with a stop in Singapore. After some research, we didn't even leave the airport in Manilla as it is supposedly a sketchy shithole, and just headed over to get a flight to Cebu. We were lucky that our flight was in the same terminal so we didn't have to deal with buses or traffic. We did have to deal with the check in process which was very unorganized and somewhat hectic but we made it. The A/C was out in the area that we were in so that was awesome... said no one ever.
 
@@ -19,7 +19,7 @@ We decided after all our driving around in Oz and NZ, that we needed some beach 
 
 We arrived in Cebu in the late afternoon and took a taxi into town to get to our hostel. We decided since it was just for a night to go cheap and cheerful so booked a "capsule" hostel: the Shejoje Poshtel Hostel. Never having stayed in one, we weren't sure what to expect. All in all, it wasn't so bad... the bed was very comfortable and we didn't feel too cramped. The other guests were pretty noisy though... we were woken up at 3am by a couple "enjoying each others company". We weren't keen on the area but we managed to get ourselves to a mall where we were able to get food. The next morning, we walked to the bus station and headed off South.
 
-#### Moalboal
+## Moalboal
 
 There are various areas that make up Moalboal and it is very spread out. We arrived in a rain storm but managed to find our way to Emok's Guesthouse. This is a different place and we were a bit taken aback when we first arrived. There is a pool, but it seems to be occupied by plants, fish, potentially snakes and lots of spiders. The room was fine and the staff friendly. It was a bit off the beaten path so was very quiet at night. We found out from the owners daughter that they do hosting for people who volunteer in the community with cheaper rents, food, etc. I did get in trouble for doing my laundry, still not sure on that...
 
@@ -51,7 +51,7 @@ We decided to go see Kawasan Falls before committing to the canyon tour which wo
 
 We decided that Moalboal wasn't for us and so its time to head to our next spot.
 
-#### Bohol
+## Bohol
 
 We hopped a bus and headed back to Cebu City to get the ferry over to Bohol. Sam and Roisin, the English couple we had met, were also heading to Bohol so we decided to go together to share costs. When we arrived in Bohol we squeezed into a taxi and headed to the ferry terminal. When we arrived there Sam realized he had left his passport at the guest house... have to say, they were both totally calm about it... they borrowed our phone and arranged to get it on the next bus to Cebu. We parted ways, they went back to the bus terminal and we went to get the ferry. While I am never the most comfortable on water, I can't say that the prayer that played on the screen and speakers before we left made me feel any better. That said, the ride was good and we made it to Bohol with no problems.
 
@@ -63,7 +63,7 @@ We hopped a bus and headed back to Cebu City to get the ferry over to Bohol. Sam
 
 Getting to our Panglao Birdwatcher's Beachfront Hotel which was located on Alona Beach, Panglao was a 30 minute tuk tuk ride, no negotiations allowed. We had found a place right on the beach, run by an Aussie who had been there for years. We checked in and headed out to explore... after a beer! The beach was crowded, this seems to be a trend, and boats were everywhere out front. It reminded me of Pattaya beach on Lipe, except even more boats and people, fancy resorts and beach huts. We ended up coming back to where we were staying for a few more beers and supper. It was quite the crowd of old expats with young Filipino wives and a couple of other random tourists. Seemed like this was a regular hang out for most of them. We had an interesting conversation with a very inebriated Irish guy and his wife, he started buying shots for the bar before his wife could drag him away. Great surprise with the food, it was really good and an even better surprise when Roisin and Sam showed up. They managed to get everything sorted with the lost passport and caught the last ferry over. We had a great night with them, went to several bars, saw a fight, practiced our dance moves and stayed out till around 4am. We spent a lazy day wandering around, found a good breakfast cafe and a decent vegetarian restaurant. We also arranged a snorkel tour for the 4 of us the next day.
 
-#### Balicasag and Virgin Island
+## Balicasag and Virgin Island
 
 We headed out to Balicasag Island which is apparently part of a protected marine park so we were looking forward to seeing the corals and possibly turtles up close. We were to pay the park fees and equipment rentals when we got to the island. We will admit surprise when we got to the area and saw boats everywhere and the coral looked like it had been bombed. Our driver pulled us in and took us to a restaurant where we got a guide and equipment, paid the fee. You had to pay extra to go to the turtle area, so we decided not to. Not what we were expecting but okay off to the canoe that would take us to the snorkeling area... we paid for that too. When we got to the snorkel spot, which we could have walked out to, the guide told us to get out and just stand up... okay... the coral was very damaged in this area... then he pointed us to go out a bit. You swim out (or in my case life jacket float) out to the drop off and swim along it. We went off to the side a bit to escape the crowds and swam along the ridge. We did see some nice colors and coral but our favorite part was seeing the turtles... and we didn't even pay extra! We had some equipment malfunctions, Paul's fin strap broke and my mask strap as well. When I went back to get a new one, I had a Chinese snorkeler swim right under my legs and take me out while I waited. It was crazy packed. We swam a bit more and then were called back to the canoe as our time was up. That was surprising since we had booked the boat for a day. Our driver advised that to see the next island we had to leave since it was only available at low tide.
 
@@ -71,7 +71,7 @@ Virgin Island is a large sand bar with some mangroves and a really nice area tha
 
 Our next stop ended up being dropped back at Alona Beach... we were mistaken in expecting that since we paid for it we would get a full day or even a half day. If you decide to go, don't book through the guys on the beach, go online, pay a bit more and get a real tour. A bit disappointed we headed off to have lunch. We met an English guy who runs a restaurant, he gave us a self directed scooter tour to do the following day.
 
-#### Chocolate Hills and Tarsiers
+## Chocolate Hills and Tarsiers
 
 Finding a scooter rental wasn't easy, surprisingly, and we ended up getting one by chance from an ATM security guard, when walking for breakfast. We used up our good luck with that since the restaurant had a power outage so only had cake... for breakfast. I can't eat cake but Paul was happy. We ended up having a great time on our little trip. On the way up to see the Chocolate Hills we passed the Loboc Eco Adventure Park, imagine my surprise when we drove in. Paul had seen it and decided he was doing the zip line across the valley. It was really cool, we walked up a hill, he got put in a what looked like a body wrap, hooked up to the zip line and away he went. It was super cool to watch. There were two sections, the one on the way out and back. I managed to get a couple of good videos of Paul and he had a blast.
 
@@ -87,7 +87,7 @@ We continued up to the Chocolate Hills, driving by the ShipHaus on the way. Some
 
 After that we headed back to our place, stopping at the Blood Compact Monument for a photo. Unfortunately the Baclayon Church was being refurbished so we didn't get to see anything.
 
-#### Siquijor
+## Siquijor
 
 We had originally intended to head to Siargo but there was a monsoon in the area so we choose Siquijor instead. The group we met on Lambug Beach told us it was a good island with nice beaches. A ferry ride later and we were there. We stayed at a small place called Isla Inn, outside of the main area. It wasn't our first choice but it was busy on the island so we were limited. We rented a scooter and took off to explore. We had an excellent lunch at OceanLife Explorers, this is the place we originally wanted to stay but they were booked. The staff here were very nice and friendly, they went as far as calling another place they knew to see if they had rooms.
 
@@ -113,7 +113,7 @@ At this point, it's Chinese New Year and the island is packed but we were still 
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMLIEmflcA8csafzmYsnoXTh_qg0Qi4neN6OG3sfm6XpcnVHQd2fGtumVOBh6F0RQ/photo/AF1QipNhLk2xehR017Rhh_1GNiUic3V5NLxhxL8XlcgI?key=Ui01UFJfUXhKTHltUVJuZWhhdmt5TmFvWFl2NnVn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3c42HuNm09ILS1nNa8rUgMO1oHr0kA7RFR8B8MUs93frhL6Oing-vQME4ZxPizAIXnWONaUik1Jg91d6be4ZcMyGbOzLLB_FikIDM-YTLCdXK_JUHQyJpoJUPFen7DYeSuJESiZm-BEUQ6rkH-FhtN7_Q=w1000-no" width="1000" /><div>View point</div></a>
   </div>
 
-#### Apo Island
+## Apo Island
 
 We booked a tour with Coco Grove to have a day trip out to the island. We rented gear and headed out on a boat that was also doing some dives. When we got to Apo Island the first thing we did was get to see the turtle area. It was chaotic to say the least since we weren't the only boat there. We were divided into groups and were given a guide who gave us info and instructions about the turtles. You had to stay a certain distance away and not touch them... some people had trouble following instructions and the guides were often pulling people back. Even with the number of people we still had a nice time. The turtles were cool to see, the guides would let you know when they found one but you had a limited amount of time before you were surrounded by other people. It was still cool. Our guide was good, took us out into the water to see corals, etc. so it was a nice morning. Lunch was provided at the local resort so we walked over to get it. It was good and we met a couple from Poland who had been travelling a while and had lived in Calgary. After a light swim and relax, we headed to the next spot. We spent a good amount of time in the water here and it was also nice. A good day!
 
@@ -123,7 +123,7 @@ We booked a tour with Coco Grove to have a day trip out to the island. We rented
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMLIEmflcA8csafzmYsnoXTh_qg0Qi4neN6OG3sfm6XpcnVHQd2fGtumVOBh6F0RQ/photo/AF1QipO5tQjh5QzQnIEPiWcdnKkochk-Q0PtJbtf3cA-?key=Ui01UFJfUXhKTHltUVJuZWhhdmt5TmFvWFl2NnVn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3e8yytJQzvmdZ2iBfRYx6JPglnwlVQ9n-J-sEpwqaWS2HW9gSkWjVZgb7NyrwH4_s3NJJeSoBQc8syPvGfcs_CEiOwfB01Yuzv2ivG1gOQDbu3HDD_zHmuciuFxE3M4H7r9xg4rdFZvlq1m9O4PYWUp-A=w315-no" width="315" /><div>Apo in the distance</div></a>
   </div>
 
-#### Cliff Jumping, Waterfall Slides, Caves and Cats
+## Cliff Jumping, Waterfall Slides, Caves and Cats
 
 In our last week on Siquijor we spent time going to beaches and marine parks, watching my face puff up like a balloon and relaxing. We did have some standout experiences that deserve honorable mention!
 
@@ -147,7 +147,7 @@ We found cave on the island and decided a trip was in order... the drive to the 
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMLIEmflcA8csafzmYsnoXTh_qg0Qi4neN6OG3sfm6XpcnVHQd2fGtumVOBh6F0RQ/photo/AF1QipONq6iw3plwbJfiIPLgiiNSH0BdJLlqp5yeqOCy?key=Ui01UFJfUXhKTHltUVJuZWhhdmt5TmFvWFl2NnVn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3ckRaawyZclB3QF47jL1wrh_OuFMAoy39iqqKPVmkpD6vl0fU8ZOEF32pWWss85vdZ6Dyf03naTooIM40073qhgn7U1eTroi5tC_epXlaQtQH0XGKTdx6IuAKLPTmcJatNuoIHoypaEZCamP20wE7NyaA=w370-no" width="370" /><div>Orderly luggage line</div></a>
   </div>
  
-#### Mactan Island
+## Mactan Island
 
 We decided to head back to near the airport for our last two nights, didn't want to risk the ferry not running. We found a decent place with a pool where we could just relax, do some laundry and get organized for our next stop. Not surprisingly, didn't turn out quite as expected. The hotel we choose ended up being in a more secluded area than indicated, didn't have food other then breakfast and rents out the pool to local businesses or families for functions. We ended up there on a day when the pool was rented and were entertained by karaoke all day... some good, some not. We also ended up having to switch rooms after a stubborn mouse kept coming back after we chased him out twice. We also had to order in delivery since there was nothing other then a mall that had a small food court that you could tuk tuk to and when we asked, it had a KFC. The time spent in the airport was very similar and doesn't deserve a mention.
 

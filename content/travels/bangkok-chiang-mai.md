@@ -17,13 +17,13 @@ John and Rita dropped us off at Cranbrook airport on December 12. It was a nice 
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipODiiBEcvSEv725BsI5m5L5cgfMLH6eU9XcmwT6ZyNsCHjNBmuTQK8zJ4382wVyOw/photo/AF1QipOvr25F0lJ1xoNSNCDd0tNYiBsHS220r-GgORj4?key=OFNNT0J5NmJxckwwdGFWTjJkRWFmaVBLM0VTT013" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3fYWdvtbossJFO3zL8vxQprfKOyfxXD1NIntSYCXAMXUyIU7Fu83uEUlRSrZ-sl8uq9gGSbUggWypMbKCrkDsBjTpBroRCQ98b8g35BZfGFCf2pY8VXsuMh_owElKamwJ7l3PNqOCC6rU5irdj9Ur07Jg=w210-no" width="210" /><div>Sisters</div></a>
   </div>
 
-#### BKK December 14-16
+## BKK December 14-16
 
 The flights were uneventful, which is always good! There was a long stopover in Tokyo, we were in Haneda not Narita so we didn’t bother to leave the airport. We arrived in Bangkok quite early, but being old hands took the train to our hotel, the awesome [Vie Bangkok](https://g.page/viehotelbangkok?share). They arranged to check us in early, so we enjoyed a nice breakfast before settling in for a snooze.
 
 We slept, went to the malls, ate great Thai food around the corner at [Grandmothers](https://goo.gl/maps/2zp46goEeNjNBc487) and found a place to watch the LFC game at [Witches Sports Tavern](https://goo.gl/maps/mFXPs3esUFFhAHDY7). We sat at the bar with some other supporters, one of the quieter footie evenings! We ended up taking the wrong train on one of our trips, but we were able to rectify that quickly. After a relaxing couple of days, we headed back to the airport to go to Chiang Mai.
 
-#### Chiang Mai December 16- January 11
+## Chiang Mai December 16- January 11
 
 We had booked an [airbnb in an area that we were familiar with](https://goo.gl/maps/pLSiCo53MUT7nee77) so it was easy to walk places and go out. Our first night, still feeling a bit jet lagged, we headed off to see God and Yves at their bar. It took about 20 minutes to get to the new [MellowMango bar](https://goo.gl/maps/ohXfqGAZebvoqVSZ7) but it was great to be there. Interestingly it was in an area that we had been before, near the old night market and not far from the Top North Guest House where we stayed in 2000. It was great to see everyone and we spent a lot of nights here! 😃
 

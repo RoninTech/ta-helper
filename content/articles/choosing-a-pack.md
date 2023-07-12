@@ -9,17 +9,17 @@ omit_header_text: true
 draft: false
 ---
 
-#### Expect The Unexpected
+## Expect The Unexpected
 
 Choosing a travel pack is a major decision when traveling. The wrong choice can have a big impact on a trip. Dragging a roller through sand to your beach side bungalow, carrying a duffel bag by its single carry strap for half an hour through a city or seeing your backpack come up the luggage carousel ramp with one of its shoulder straps torn off is no fun. If you know exactly what you’ll be doing on your trip then choosing a travel pack to avoid frustrating scenarios is fairly straight forward. However the longer the trip, the more likely you’ll be in a situation that you didn’t expect.
 
 For example you planned a month in southern Thailand with your roller suitcase. You arrive in Krabi or Phuket and the roller is perfect for these highly developed tourist friendly areas. You then decided to go check out one of the Andaman islands after hearing great stuff about it. Boarding the speedboat isn’t bad but then you need to go from the speedboat to the off-shore loading platform, then to the long-tail and finally jump off to the beach. Once you get to the beach, hopefully near your accommodation, you’ll have an extremely uncomfortable drag/carry ahead of you. For reasons like this, a backpacks flexibility has made them the go to luggage for long-term travelling. Therefore choosing a travel pack is one of your most important trip decisions.
 
-#### What is a travel pack?
+## What is a travel pack?
 
 The first use for backpacks was for hiking and camping. Eventually some smart traveler realized that it was way easier and more flexible to lug their possessions around in a backpack than carrying them in a suitcase, duffel bag or roll aboard. So people started traveling with the more convenient camping style backpacking gear. Over the years companies realized that there was a market for a non-camping, travel specific backpacks and created products to fill the niche.
 
-#### Size matters
+## Size matters
 
 Kevin Costner has that famous line in one of his movies: “If you bring it, they will come”. He was referring to the well known travel fact that you will always think of something to put into any available space in your pack. 😉 We used to wilderness backpack in the Canadian Rockies. To do that we made a couple of our all time best purchases in 2 Arc’teryx Bora 65’s. This was 20 years ago when Arc’Teryx was made in Canada, still striving to be the best and not resting on their laurels. The suspension distributed their weight amazingly well and they were bomb proof. When we started traveling to Thailand in Y2K we brung what we had. Here they are on our Y2K honeymoon (some dive on Khao San road):
 
@@ -39,11 +39,11 @@ There were definitely some downsides to using these packs though:
 - We brought way more stuff than we needed because we had the room so why not? 🙂
 - They were heavy. Over 2kg each and 30+ lbs packed!! These were ruggedly designed for multi-day, self-sufficient back-country trips with food, water, shelter etc. We’d get home and find maybe 20% of our gear untouched. It was nice to be able to go 2 weeks+ without doing laundry though. 😉
 
-#### Weight!
+## Weight!
 
 Hold on! Just because you’ve nailed the right size doesn’t mean your home free. Now you have to be careful not to overload it. Your pack [might meet the airline size requirement](/articles/airline-carry-on-rules/) but they also have maximum weights so make sure you check ahead of time. Smaller packs usually mean lower weights (except for maybe photography geeks) so not going for the 80L behemoth might be wise. The weight will also have a big effect on how far you can go without help. You can’t predict these situations so obviously the further you can walk with your pack, the better. Suspension components like hip belts and load-lifter straps can make a heavier pack more comfortable to carry than a lighter one without these features. The downside is they also add to the size and weight of your pack and give more things for airlines to tear off your bag. 😮
 
-#### May I Enter?
+## May I Enter?
 
 Another thing to consider when choosing a travel pack is how do you access the interior? The more camping oriented ones typically only have top access through a drawstring opening that can be cinched closed. Some would have a second compartment for your sleeping bag. This meant that you might have to take out a bunch of stuff to get to the thing you need and then put everything back in. Fun right? Not. Many packs now have main compartment zippers. You lay the pack on the ground, open up the big compartment zippers and you have easy access to everything. Definitely the way to go.
 
@@ -51,15 +51,15 @@ Another thing to consider when choosing a travel pack is how do you access the i
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipNzXM2ejuel-cP83GpoUxFt9iC4bXV1U2VTzFt7yNrz603xIJ6qkUjeAFAOt1-G6w/photo/AF1QipOej6xzWU6JN7_uDxYQv6jI0hDp9nImGTeeMXI_?key=NGhOVGJJZUVpYmVFM08wZTZzeGpMQktHYWxWX0V3" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3dfUVtMUsCCE-icKTzXrAfAKqVoQRzvevrv_EFC7k-9CFrC-FY6ODcvwK9c55v3MtJyedAZPliGM2aNP7r0QwZZXw2m7m74j--b0hVpsVlDP6trVKwmtWL2N_UFF0oyXiuICUh8QHlXmFnnY3mpSlWWEQ=w370-no" width="370" /><div>Gregory Z40 clamshell opening</div></a>
 </div>
 
-#### Our Choices
+## Our Choices
 
 After much consideration we picked a Gregory Z40 and a J38 (pics at the top). We bypassed travel specific packs with features like laptop sleeves, shuttle craft zip-off day-packs and minimal suspension that can be hidden away. Instead we figured we’d rather be able to carry them further, comfortably, so a good suspension and easy access to the main compartment were the 2 big reasons we chose these. Both of these packs weighed about 1.3kg.
 
-#### Update - August 2018!
+## Update - August 2018!
 
 After a year and a half of travel we couldn't be happier with our Gregory packs. We've taken them onto many flights including low cost carriers like AirAsia, Jetstar and Cebu Pacific with no issues. We also used them as our bags for trekking the Annapurna Circuit (twice!) in Nepal. We did this without a porter or guide and carried all of our own gear in these bags. So whether its rocking onto a plane in business class or lugging our stuff through the Himalayas these bags have proven to be more than up to the task.
 
-#### Update - March 2020!
+## Update - March 2020!
 
 So in summer 2019 we [hiked across Washington and Oregon on the Pacific Crest Trail heading southbound (SOBO)](/travels/sobo-pct-2019/). We purchased new packs for this: [Northern Ultralight Sundowns](https://www.northernultralight.com/shop/sundown). These weigh half of what our Gregory packs do, 690g vs 1.3kg, and are even more comfortable. The only downside with these is their price at $360. We liked them so much that they are now our full time packs for travel and hiking. They only weigh about 690g and have detachable hip belts and removable aluminum stays. For travel we remove the aluminum stays in case we needed to stuff them in somewhere tight. We now have no problem meeting the magical 7kg carry on weight limit that many low cost carriers have and our backs sure appreciate it. We were worried about losing the clamshell opening but our packing cube organization made the impact of top opening bearable. We've basically learned over 3 years of travel and backpacking that pack weight is most import to us.
 

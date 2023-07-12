@@ -10,7 +10,7 @@ omit_header_text: true
 album: "https://photos.app.goo.gl/v8PhAtrHrPrLRY6y7"
 ---
 
-#### Hanoi January 11 - 22
+## Hanoi January 11 - 22
 
 We flew from Chiang Mai to Hanoi, it was a short flight and we arrived in the afternoon. We cleared customs and headed out in the chaos to find the bus. There was a shuttle that was advertised by Vietnam Airlines that could take you down by the Hoan Kiem Lake for 35,000VND. We thought we had found it but they wanted to charge us 200,000VND so off we got. Luckily we were able to find the bus that took us down to the lake area for the right price. They were really nice and asked where we wanted to go so that they could let us know where to get off the bus.
 
@@ -58,7 +58,7 @@ We sadly said goodbye to Dreambeans and made do with other coffee shops. Our las
 
 The next day we said goodbye to Hanoi and headed down to Phu Quoc.
 
-#### Phu Quoc - January 22- 25
+## Phu Quoc - January 22- 25
 
 We went back to Chang and Josua’s place, since it was perfect last time. My cold had gotten worse on the plane, so we really didn’t do much. We rented a scooter, went to Iris Cafe for some Creme Broulee, found a breakfast place that was closer then the Saigon Cafe. We went shopping for some basics, yogurt and fruit and laid low. We got to the beach twice, even though we were in the shade, we both ended up with a sunburn.
 

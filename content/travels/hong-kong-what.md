@@ -19,7 +19,7 @@ After Siem Reap, we did 2 nights in Phnom Penh, then flew via BKK to Chiang Mai.
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipN-V1Bm1sw3Fa2b-ECLIa9D4gg-VP2U0pToILsKSVAl8T3qs2BLsN5NLH6KP0BsBw/photo/AF1QipOgLNvZRb_CqEqAZ7oTc-O5HYcDE2_QEqAmU-OH?key=UEJjQzZCeWlETW4xdWFIdnlBYTVSQ2VhRl9iZXpB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3cJFg3uFm48pQZANzrC_GcbROKpstSq0i1cJ_NcW8Y7Y70gUgAQd7m1tjdUs7T-wKEQzIPNVT3PJR8UEC3JjkwS293vlsG-NL3_0MJxLAKKWbQJoYkLTfBZ9uKnf7I9jnt5QT1lFghyFMJ2x4wL2MmgjQ=w370-no" width="370" /><div>Birthday Sushi in Chiang Mai Musashi Sushi Bar</div></a> 
 </div>
 
-#### Downtown Hong Kong
+## Downtown Hong Kong
 
 If our goal was to eat our weight in dim sum, we succeeded in our 3 days there, as we ate at [Dim Dim Sum](https://goo.gl/maps/z81qqPpj9WP2) at least 5 times! A lucky coincidence that our [Charterhouse Causeway Bay hotel](https://goo.gl/maps/YXJ6d5PcyqWfgEGA7) was less than 5 minutes from amazing dim sum. In between eating we took ferries and buses, took the worlds [longest moving staircase](https://goo.gl/maps/t2ACG3eZbeNaoxpWA), scaled [Victoria Peak](https://goo.gl/maps/WEJSQYx57g11n1Fo8), stayed out at the bar until 5 am, saw the game, went to Kowloon and saw the light show!
 
@@ -36,7 +36,7 @@ If our goal was to eat our weight in dim sum, we succeeded in our 3 days there, 
   <a style="display:inline-block;text-decoration:none;color: grey;" href=https://photos.google.com/share/AF1QipN-V1Bm1sw3Fa2b-ECLIa9D4gg-VP2U0pToILsKSVAl8T3qs2BLsN5NLH6KP0BsBw/photo/AF1QipObACSfIxUFBCRn8LP69j5AvxewmSH5STRqd6pb?key=UEJjQzZCeWlETW4xdWFIdnlBYTVSQ2VhRl9iZXpB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3cLM9dgGwJLgMMCmPaOwHrrzA94JYIP-zflfD5H05PycAk47YhYpn2mKU9K9ltUkpAyMut4ZGJD6zvFDQ2Wn5hpf7kbwMdfWjXkRlRchgf1BzriXNLK16CnTazG71THDFsrTosgDkRmIU_ILOVb3LBg9Q=w210-no" width="210" /><div>Great skyline</div></a> 
 </div>
 
-#### The Anfield Wrap
+## The Anfield Wrap
 
 By posting on the Anfield Wrap Facebook group we managed to get tickets to the match from someone who worked at Standard Chartered in Hong Kong. The day before the game was the live show which was awesome. Hung out and went clubbing until 5AM with Gareth Roberts and John Gibbons from the show. We also met Melissa Reddy who is a Liverpool sports writer. Turns out the organizer of the Hong Kong LFC Club, Ian, went to St. Eddy’s ([St. Edwards College, Liverpool](https://goo.gl/maps/wwkfj1Ar21fZvidL6)) just a year or two behind Paul and remembered all the same teachers. Small world! 🙂
 
@@ -52,7 +52,7 @@ By posting on the Anfield Wrap Facebook group we managed to get tickets to the m
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipN-V1Bm1sw3Fa2b-ECLIa9D4gg-VP2U0pToILsKSVAl8T3qs2BLsN5NLH6KP0BsBw/photo/AF1QipN7QUpyTPOlMXhTD_CncC5Zp-msGhjRvIDpsikD?key=UEJjQzZCeWlETW4xdWFIdnlBYTVSQ2VhRl9iZXpB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3fFbDQMSdmVtgYYmj2asTQ1cbPaAlRp_0BN1hXav6ZWlPDyWY5fsyYf21D0E1F378UK1DElJ2YD4vFmRWp-h_6HfXDtntgAgkwEMd9q4aQpViex_SXL7fPeJhEoma-Rz32-smN7wJk7HFex4e8OizCFSQ=w370-no" width="370" /><div>Ian McCallen from my old Liverpool school, St. Eddie's</div></a> 
 </div>
 
-#### Sightseeing
+## Sightseeing
 
 Since we only had a really short time here, we still got up early(ish) and made it out to see the sights of Hong Kong. We started with a bus ride up to Victoria Peak which in itself was really cool. When we got up to the top we decided we could walk instead of taking the tram… maybe a mistake in the heat and tired state we were in… especially considering we went the wrong way and had to come halfway back down before going up again to get to the right area.
 

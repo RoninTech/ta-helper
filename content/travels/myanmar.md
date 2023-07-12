@@ -11,7 +11,7 @@ album: "https://photos.app.goo.gl/CTDXziBoTvyggg4TA"
 
 After 60+ days in Thailand we headed to Myanmar for a new adventure. We woke up early and headed to the green bus depot to take us to Mae Sot on the border. We stayed one night at a nice little place called [Phanu Guesthouse](https://goo.gl/maps/6wM5shGNkJM2).
 
-#### Hpa-An
+## Hpa-An
 
 First stop Myawaddy, right across the border from Mae Sot. We were helped by “Mike” and were soon sharing a taxi with Karen, nurse from USA who was volunteering in Thailand at the Burmese border during her retirement. Apparently lots of Burmese cross here to use the hospital at Mae Sot. After a harrowing drive through the countryside (1 dead body from moped accident) we arrived in Hpa-An and checked into the [Galaxy Motel](https://goo.gl/maps/tgZDZGHcfHz2nuTd7) with it's amazing rooftop views.
 
@@ -99,7 +99,7 @@ Spent the next day wandering the area with Karen and Verena having a relaxing ti
 {{< youtube q9q6D9g-Kwg >}}
 </br>
 
-#### Yangon
+## Yangon
 
 <a href="https://photos.app.goo.gl/Nw2m7stPlpZrpMYE2" target=”_blank”><img src="/images/image-gallery.png" title="Yangon Photo Album" alt="Yangon Photo Album" height="50"></a>
 
@@ -137,7 +137,7 @@ We took the [circular train](https://en.wikipedia.org/wiki/Yangon_Circular_Railw
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipPkqsk_nURUEDH972DDKGRMnuGYax7PKihCrDgcpGDkMULRcouefnvMr0gfs8iGDg/photo/AF1QipNiYCQ4k8kT47HBNe5sUpIkfnOaZYr9mZgLvm46?key=WFlidEdQNXVRdlhKVmVJc0ZRRFRSMGpwd0NEUVJR" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3fBXR5_gAYTRT2lwIJg67H1WTjaAWerUE6PfFQBMC05OEYUhKaIBA0Rly-rwLzdvVXUqOnQHDkxVizgTxI5t1EKT-cDazF7K5q5NDyVhkrJUR_us-lwBhJrYvuv9HOiuGX5NiTjamZdzK4HZIcwEtifSw=w370-no" width="370" /><div>Yangon circular train gets pretty rural in places</div></a> 
 </div>
 
-#### Bagan
+## Bagan
 
 <a href="https://photos.app.goo.gl/2NxutKykB4TYJUBb8" target=”_blank”><img src="/images/image-gallery.png" title="Bagan Photo Album" alt="Bagan Photo Album" height="50"></a>
 
@@ -181,7 +181,7 @@ For our last day the 5 of us took a van to [Mount Popa](https://goo.gl/maps/5Qw8
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipORd-KbQPZ1-3xVuCaDgWhGkbGPxARSVmaoBSbVoyMF3a-L9CnYxa150MatdshXjg/photo/AF1QipOwpeRDUBzrK1FLrRxjvV8cVVOGzihUSpZDff8F?key=SjRSNlFVa2lodnBza2lVV2xrQWFUMkExZzhXSW9R" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3f1JS0rFiJJ9sw1f7jsmaJKCrtkqr_dkAZUdlr_5GRd1msJRBxr_S-b-MuOt0o8VH7_o_n1YOgmnVg-Gn7gW8van8ZsH_xHdpMUA6Oas2_4WYFNTt2kKSAhudaEyOMn9dmRLx5wWHm-QE-x8yg6U2-9cA=w1000-no" width="1000" /><div>Great views from the top</div></a>
 </div>
 
-#### Inle Lake
+## Inle Lake
 
 <a href="https://photos.app.goo.gl/RnvnHEx2w7Dcncaz8" target=”_blank”><img src="/images/image-gallery.png" title="Inle Lake Photo Album" alt="Inle Lake Photo Album" height="50"></a>
 
@@ -216,7 +216,7 @@ Headed off to Inle Lake with Yann on the day bus. The bus rides in Myanmar are d
 {{< youtube _0Mr9MCQRKo >}}
 </br>
 
-#### 3 Day Trek: Kalaw to Inle Lake
+## 3 Day Trek: Kalaw to Inle Lake
 
 <a href="https://photos.app.goo.gl/RnvnHEx2w7Dcncaz8" target=”_blank”><img src="/images/image-gallery.png" title="Kalaw to Inle Lake Photo Album" alt="Kalaw to Inle Lake Photo Album" height="50"></a>
 
@@ -249,7 +249,7 @@ Next day, started the trek from Kalaw to Inle. Turns out one of the other people
 {{< youtube Ae1z0MtnQDM >}}
 </br>
 
-#### Mandalay
+## Mandalay
 
 <a href="https://photos.app.goo.gl/UHd5a3PIULzxmEgb2" target=”_blank”><img src="/images/image-gallery.png" title="Mandalay Photo Album" alt="Mandalay Photo Album" height="50"></a>
 
@@ -275,7 +275,7 @@ Then we headed to Mandalay to meet Pat and Liz staying at ~~Studio~~ [Hotel 82](
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipOv5eHuDc4isXcmIq-6H252dgnhwRkryfUM5KdJIDTzS-lRZwxMsvSlLzzd7wfhMA/photo/AF1QipPFU0JAETvkyKpJE6eHjV4oxLemafgk6qapvbHU?key=VWo3ekF0ejNleEkzNmVOZlNwYmstRlh3MS1IaFhR" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3esejSH8sN5qcqvhLBSWpKC6wI2XYpgpZ2NxTDQbRRVXKSw-VhMFdEf-Sz3FqpBY3odxEV2107ZLh3IF-3UXx0D9MpSCLibVZai3uvAECVUVWT-yYZLsUiyaF9ujxecwA1z51vSGv10lWEEwpBG1Y9UPQ=w370-no" width="370" /><div>So was the street food</div></a> 
 </div>
 
-#### Hpa-An Revisited
+## Hpa-An Revisited
 
 <a href="https://photos.app.goo.gl/t9VUyjpiEQxr97st7" target=”_blank”><img src="/images/image-gallery.png" title="Hpa-An Revisited Photo Album" alt="Hpa-An Revisited Photo Album" height="50"></a>
 

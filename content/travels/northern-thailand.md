@@ -11,7 +11,7 @@ album: "https://photos.app.goo.gl/qglYDEQDLrifYFH22"
 
 After Myanmar we spent several weeks in Northern Thailand. All the Chiang’s together: Chiang Mai, Chiang Dao, Chiang Rai and Chiang Khong!
 
-#### Chiang Mai
+## Chiang Mai
 
 We decided to get organized in Chiang Mai. Mailed some items back that we don’t use, saw Wonder Woman and did a cooking class with Pat and Liz. I’d wanted to a do a class so this was more for me then Paul. We got to make several dishes and no injuries occurred. After wandering the night market we spent some time at the shopping malls, not either of our favorite things to do but we managed. Had a nice evening at [Small House Kafe](https://goo.gl/maps/HG6bY4qjTYiincyu8) where some advice from Dao had us heading off to Chiang Dao instead of Pai.
 
@@ -27,7 +27,7 @@ We decided to get organized in Chiang Mai. Mailed some items back that we don’
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipNKjb6LFrsqTgOX2lBkNTbL39y8enOkuVlCdfNYUJw8sbtjoweP38FP_7waJFcaPA/photo/AF1QipMC3MrP_Ong_lXGtBkiy4VOkSo0nHJpMyq-gGAP?key=VnVLLXBNb1Y4bWVNYWFrbGo4RmxqNzJwa1dBY3dn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3ep2wjgfZl71krhLSwsxVXxyQ5NgJ4dbpfzEn5JsduDcYRTlW6uhShxhejnChFePtlapeL9QXxiO8GNqc5UAvTHZHt6IYBoIkcEmRNwtvaC81c_3GtTL4q9OmvZp_cxL3KPrCUlO3HAgAsgI3pAZpsU0Q=w370-no" width="370" /><div>Cool graffiti</div></a> 
 </div>
 
-#### Chiang Dao
+## Chiang Dao
 
 <a href="https://photos.app.goo.gl/qglYDEQDLrifYFH22" target=”_blank”><img src="/images/image-gallery.png" title="Chiang Dao Photo Album" alt="Chiang Dao Photo Album" height="50"></a>
 
@@ -61,7 +61,7 @@ Awesome place! Our friend from Small House Kafe, Dao, recommended it to us. We s
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipNKjb6LFrsqTgOX2lBkNTbL39y8enOkuVlCdfNYUJw8sbtjoweP38FP_7waJFcaPA/photo/AF1QipNFY9rj5N_DZ8GyBdrtGcAaqBs6yUZotT1gI2Ro?key=VnVLLXBNb1Y4bWVNYWFrbGo4RmxqNzJwa1dBY3dn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3dQUDNtaS9P9TqUU67xYGORuhWc7D6AU9Ch3611W88aCdTQV3wnD3SxpCy-4HEbpJCt_nKs75bdFURHqn6cWnODYaOEXCg_4thOJkspxHRDYOOuwts0nfmOcYwY0NaLMwYL-O2jCvyV5pAhlMMmzk2P7w=w370-no" width="370" /><div>Great fun at Bhuppas bar: "The Cave"</div></a> 
 </div>
 
-#### Chiang Rai
+## Chiang Rai
 
 <a href="https://photos.app.goo.gl/3rbPrXwsLLRY9n5V6" target=”_blank”><img src="/images/image-gallery.png" title="Chiang Rai Photo Album" alt="Chiang Rai Photo Album" height="50"></a>
 
@@ -97,7 +97,7 @@ Took a bus from Chiang Dao to [Tha Ton](https://goo.gl/maps/jkwD2LbXtGXQxFiV8), 
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipP1eIQcHtRzhzteIs43dmv1RAtY7q83OTyEpuo6azFfEEZWGaxCAoL6ombaN4whMA/photo/AF1QipM6ywxVqcS0J4CtCedAbp6SVr4bbRFLecgZyCXH?key=d28xdzBHSlBpNmRHM0RYOWlCUGZUOWlmUUZnckl3" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3cz60x4z4TUIOZft1ExUTs_Tdq7whHNPyS7zPV5UNxQh5y01hHFGdxsHVeuZVKpveEUEfWSijlQGl3JDfccPIoEcW8UqfM7CO1uCx8XodDLBMR2b2ccBBLy8mgOkQrBt0hl9YkqJqtRuaY0b7xYRzstcQ=w370-no" width="370" /><div>Lots of death at the Black House</div></a> 
 </div>
 
-#### Chiang Khong
+## Chiang Khong
 
 <a href="https://photos.app.goo.gl/MiNuevFXuwjGYPYD2" target=”_blank”><img src="/images/image-gallery.png" title="Chiang Khong Photo Album" alt="Chiang Khong Photo Album" height="50"></a>
 

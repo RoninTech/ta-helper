@@ -45,7 +45,7 @@ url = "https://www.youtube.com/@CarryOnRTW"
   recent_posts_number = 5
   show_reading_time = true
   commentoEnable = false
-  mainSections = ["travels", "van-life", "articles", "packs"]
+  mainSections = ["travels", "packs", "articles", "van-life"]
   custom_css = ["formatted_tables.css", "next_prev_links.css", "site_search.css"]
 
 [menu]
@@ -62,16 +62,10 @@ url = "https://www.youtube.com/@CarryOnRTW"
     weight = 2
 
   [[menu.main]]
-    name = "Van Life"
-    identifier = "van-life"
-    url = "/van-life/"
-    weight = 3
-
-  [[menu.main]]
     name = "Packs"
     identifier = "packs"
     url = "/packs/"
-    weight = 5
+    weight = 3
 
   [[menu.main]]
     name = "Articles"
@@ -80,16 +74,28 @@ url = "https://www.youtube.com/@CarryOnRTW"
     weight = 4
 
   [[menu.main]]
+    name = "Van Life"
+    identifier = "van-life"
+    url = "/van-life/"
+    weight = 5
+
+  [[menu.main]]
     name = "About Us"
     identifier = "about"
     url = "/about/"
     weight = 6
 
   [[menu.main]]
+    name = "Contact"
+    identifier = "contact"
+    url = "/contact/"
+    weight = 7 
+
+  [[menu.main]]
     name = "Search"
     identifier = "search"
     url = "/search/"
-    weight = 7 
+    weight = 8 
 
 [module]
 [[module.imports]]

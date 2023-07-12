@@ -16,7 +16,7 @@ Our next stop was Vietnam… well, with a stop in Bangkok to get our Vietnamese 
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMqOG3tFh_Usm-gDDcpCLYh_VWl4rTC0mJGnE0l4M4imhi40H7VbDpe6pC8LB9VlQ/photo/AF1QipPdOuVvr_kNB1--8MrC-3FcuTHb9NPtDIqTQB9t?key=UFlyUTNZOHgtZHFNVlJ2cG4wRlJYbUZNVzdCaXdR" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3daqjlECl_nsV06llSR2550OIM_ZtWeVzq0OARZWg4JV4Pn7aFLgqSnZwMYpRuN5lA4DSI7_536jJ9d7akB5fktn5HPg_ePYAATizUCOCd0uZI64ECpt2yhgVCeRvkXP1mEpjXDGjne_HAYBt1udYbYhg=w370-no" width="370" /><div>Ben</div></a>
 </div>
 
-#### Hanoi
+## Hanoi
 
 
 We arrived in Hanoi on a Friday evening. We had heard so many bad things about taxis in Vietnam that we had decided to get a pick up from our guesthouse. We went to the ATM, which was challenging, got our sims and headed out. The taxi was waiting and we had a long, but nice ride to the hotel. We got our rooms and went out in the chaos that is Hanoi!
@@ -32,7 +32,7 @@ We spent a couple of days enjoying walking the area of Old Town, drinking coffee
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMqOG3tFh_Usm-gDDcpCLYh_VWl4rTC0mJGnE0l4M4imhi40H7VbDpe6pC8LB9VlQ/photo/AF1QipMV97MSlSPnUb_GRfAgPp2MtD62XriHrgTF3_IR?key=UFlyUTNZOHgtZHFNVlJ2cG4wRlJYbUZNVzdCaXdR" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3dzbneQ4y4zU6IVx0pOs8-pVJJjwoBfPNkBhWesWnGPo1DOWc3x9_G0KYUJFbA9TxT0ufeWMxIcJBGNJykfNe_eijScAOTL1ewTn1aY8NTPHjl1LeSVvsDk1Fi7hNFgki2WSxf636k5jzjLmVxdxL0W1A=w210-no" width="210" /><div>Hoan Kiem Lake</div></a>
     </div>
 
-#### Cat Ba Island
+## Cat Ba Island
 
 <a href="https://photos.app.goo.gl/Ui6tGDv8f7SqaK1m7" target=”_blank”><img src="/images/image-gallery.png" title="Cat Ba Island Photo Album" alt="Cat Ba Island Photo Album" height="50"></a>
 
@@ -56,7 +56,7 @@ We found a good restaurant that night, had a nice chat with the owner who had be
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMqOG3tFh_Usm-gDDcpCLYh_VWl4rTC0mJGnE0l4M4imhi40H7VbDpe6pC8LB9VlQ/photo/AF1QipMU4-vLYmA8ickoHv2g9W-R0JsiWRuDd2U7Ofa1?key=UFlyUTNZOHgtZHFNVlJ2cG4wRlJYbUZNVzdCaXdR" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3d4_73GjjZ08-ik68fcf9wKRays1QdmG60uw_SsNjcbTQL7tntrjwWaBM51lZppr9VFgkVzqiWaxOTOv8CCOWqqvj3_rIAzEfU9B_Ar00b2yI9cRsliF5_rVMifwEpmx6YA_vfTSfcWmQSbLXQtTpjnnQ=w315-no" width="315" /><div>Hospital Cave</div></a>
     </div>
 
-#### Ha Giang Loop
+## Ha Giang Loop
 
 <a href="https://photos.app.goo.gl/LQG6J6B8jre5U6xQA" target=”_blank”><img src="/images/image-gallery.png" title="Ha Giang Loop Photo Album" alt="Ha Giang Loop Photo Album" height="50"></a>
 
@@ -78,7 +78,7 @@ These few photos don't do this justice, so check out the album. We headed back t
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMqOG3tFh_Usm-gDDcpCLYh_VWl4rTC0mJGnE0l4M4imhi40H7VbDpe6pC8LB9VlQ/photo/AF1QipOmxnfg6DH0tkWvMgz8zphBxnaiVRWHYIzKIsDT?key=UFlyUTNZOHgtZHFNVlJ2cG4wRlJYbUZNVzdCaXdR" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3cV3EGSKMAiiSyfXcteQBSPEHdTXuA-DnQAhSnYFYnd7tLOScYKjpWuTqKn3XsKbU_L62HgJLP3yO7w9JNuvEQ6DCcXRV0Oekrsnf8mQ_upVWZv1N5lr1aarvCLWg81mdE4KtHX738fX9FP-uRTTJ1g1w=w315-no" width="315" /><div>Tuan and Huyen</div></a>
     </div>
 
-#### Phong Nha
+## Phong Nha
 
 <a href="https://photos.app.goo.gl/qQsXgYbTazXgG3XQ7" target=”_blank”><img src="/images/image-gallery.png" title="Phong Nha Photo Album" alt="Phong Nha Photo Album" height="50"></a>
 
@@ -99,7 +99,7 @@ The next day we rented a scooter and heading into the mountains, we did have an 
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO238Bhbl6m_uvAgzTNS8v43bdB1092elq-P66qfXt4GWEXRLVbz_KDjTlQUCYCQw/photo/AF1QipMggn7i7hf9qg5DYmn1wqgiYslfjaxkfQh2MBqU?key=bDVGbXVNcGRQa0FtOXhnaXcwUUpfU0dVdUxqd01B" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3e74sKZmFOAn67auTnV8wEtQ3I6w0BTvN8FTD9vFLOtQ6UpMybOcOM3qt44Ms8jkGHYH8PU_gILIk5bfjci1Ywx-0TRHI3pdOWWFKllmH7FsIBbvQK5CYRWt8Cmv-v_AsNnSQ3bRtsfelok8a8uh02AkQ=w370-no" width="370" /><div>Paradise Cave</div></a>
   </div>
 
-#### Hue and Hoi An
+## Hue and Hoi An
 
 <a href="https://photos.app.goo.gl/LtQRL7hRQqAL6T1g9" target=”_blank”><img src="/images/image-gallery.png" title="Hue and Hoi An Photo Album" alt="Hue and Hoi An Photo Album" height="50"></a>
 
@@ -124,7 +124,7 @@ We got our scooter and headed off to Hoi An over Hai Van Pass. The weather was n
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMqOG3tFh_Usm-gDDcpCLYh_VWl4rTC0mJGnE0l4M4imhi40H7VbDpe6pC8LB9VlQ/photo/AF1QipPVGR21D7EaS3gq9gVrmz-y5ebW4uM2a9yUwavW?key=UFlyUTNZOHgtZHFNVlJ2cG4wRlJYbUZNVzdCaXdR" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3cvwie_G8clC6kW-YjrUh4ryf3hFrJ8ytZ3MISMrbLCVylRmbzddfeKoEib-0L09Gc8Sw0aSD56rPR33liEPmp--g4AD5gMDWdKcY25zdLzFqHO_nbrrT8E-q-wf_8snq71Q-DP4UUkCJTAJHVpe5lLvQ=w315-no" width="315" /><div>Hoi An</div></a>
   </div>
 
-#### Dalat
+## Dalat
 
 <a href="https://photos.app.goo.gl/kJDHeSV24K38h74r5" target=”_blank”><img src="/images/image-gallery.png" title="Dalat Photo Album" alt="Dalat Photo Album" height="50"></a>
 
@@ -138,7 +138,7 @@ One night we were invited into a local shop to watch Vietnam play in the footie 
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMqOG3tFh_Usm-gDDcpCLYh_VWl4rTC0mJGnE0l4M4imhi40H7VbDpe6pC8LB9VlQ/photo/AF1QipNXt3AJe1EE9v-NA6xjy6B1XhBqUleKu2YM91nR?key=UFlyUTNZOHgtZHFNVlJ2cG4wRlJYbUZNVzdCaXdR" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3fw6cSTYp19qZDdNJEfcSXhzfOL7Tda29qL7HFgl2_L6bYIFBjwPq2tGczRMQkDnxrmHh_vLKXUe0vwZviiDmUSzEU9LNBwoYUgmAHE4XeX8SRnI2PO7q0zE3bkf8cLUZhvu4aa1txV-dXyQjRvfha1ng=w370-no" width="370" /><div>The Game</div></a>
   </div>
 
-#### HCMC
+## HCMC
 
 <a href="https://photos.app.goo.gl/2L9Xa2bXQwvk1PGq7" target=”_blank”><img src="/images/image-gallery.png" title="HCMC Photo Album" alt="HCMC Photo Album" height="50"></a>
 
@@ -150,7 +150,7 @@ We had met an English couple when we flew into Dalat, and were on the same plane
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMqOG3tFh_Usm-gDDcpCLYh_VWl4rTC0mJGnE0l4M4imhi40H7VbDpe6pC8LB9VlQ/photo/AF1QipOqXQWTroaeB6WGu48Oj2KXsveiApMHOPV4AR4I?key=UFlyUTNZOHgtZHFNVlJ2cG4wRlJYbUZNVzdCaXdR" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3czrcZHQsagjaPq4GRIw8ZBQSoenKyG1W8lDD0QXq9kqWOaIhBRS_y0DrUGL3cVGHDF0ZlTZFeSNKOE_922zyl7bz-UmdVmGikyMTNKLRwHuoaUybHBFtygETegDwGaR2Bjo4DF-MpFfQVldRvVRHnDaQ=w315-no" width="315" /><div>Unofficial Cup</div></a>
   </div>
 
-#### Phu Quoc
+## Phu Quoc
 
 <a href="https://photos.app.goo.gl/pLPY8obLzd7Ecvrs9" target=”_blank”><img src="/images/image-gallery.png" title="Phu Quoc Photo Album" alt="Phu Quoc Photo Album" height="50"></a>
 

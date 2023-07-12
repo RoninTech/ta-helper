@@ -12,7 +12,7 @@ album: "https://photos.app.goo.gl/esSFk43cjfq5oeUm7"
 
 On Facebook, you may have been exposed to our constant updates and many temple and/or Pagoda photos. For those not on Facebook or who have blocked us after being fed up with the aforementioned pagodas… here is the Cole’s notes version of our first couple of months:
 
-#### Koh Lipe – March 2017
+## Koh Lipe – March 2017
 This time we stayed at [The Reef](https://goo.gl/maps/Rt72kc2nSC2DiwSk8) instead of our usual Andaman Resort, which was taken over by new owners. We really enjoyed our accommodation and met some great people. We highly recommend The Reef, the staff was super nice, beds comfortable and breakfast was good. The orange tabby cat that I spent a lot of time with has no bearing on my opinion.
 
 </br>
@@ -33,7 +33,7 @@ We connected with old friends, made new ones, learned how to play “shithead”
 {{< youtube wvb83ypeV4E >}}
 </br>
 
-#### Couple of Highlights
+## Couple of Highlights
 
 Paul finally took a diving class and passed his PADI open water test. The instructor told Paul it was like he was diving for years and he was one of the easiest people he had ever taught. My thought on that was that he should be happy I didn’t take mine. Paul was able to get in a few dives and meet some nice people…even though they are “divers”. 😉
 
@@ -77,7 +77,7 @@ We met Chip, his wife and daughter. Chip invited us to watch sunset at his place
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipM9dxLx8Pxy8STdCtLfOY4ErF6zJgNP3m1XXDeJvjQLYVv6hhbcG-_pHiNWjfJ-lA/photo/AF1QipON3RQX-arZ_JVYSN-TDEb4h8jiXeA69ty3b2S6?key=RVdIajRsWGV5N0k2eWdZVG9CeGk1Y0F2c1RtQndn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3cdy29yZGY6CPB9GvS1gnODyEXYnTtRvpR3vDmej_B-6tGyFx7PwC8L7zh5twgd77IyuFeQ1p56LNndKiyU66VuDUJ9eMNLLAuyxa0x_BQXB1oYiqbPLOq9xLArTTWsbA3OokxmMOUm2mDTioWtZyVSWA=w370-no" width="370" /><div>Corner Bar</div></a> 
 </div>
 
-#### Satun to Bangkok, March 31 – April 4, 2017
+## Satun to Bangkok, March 31 – April 4, 2017
 
 <a href="https://photos.app.goo.gl/Sb4oWDaQHzZu8Khx9" target=”_blank”><img src="/images/image-gallery.png" title="Satun Photo Album" alt="Satun Photo Album" height="50"></a>
 
@@ -138,7 +138,7 @@ Finally, it was on to Hat Yai with the family to visit a sick uncle, a family su
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipNWYl3tuP-npTqrST82biUH3ge_4FqIjfifs7VwupsAbpWexjBkHT-YnOW5-B-mvQ/photo/AF1QipMDRH-3tuhvEwfQJmrhK79sdu4zaoiQ3wcW1IFj?key=SWs0aTVfbC1velI4cG9ScDdPLXFHRllRWW9EbVFn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3feOBTaBfoRp0Ki5mWpXqNvOtzGmmHw7Ed5G2YEHUiYlieJqdzUepzRmUIZIJflha7OjPBOTCsXosV6vlhpfyJYbjBeTPq5aTuemx8ikDbRFw-xgBoEAddAATFYWZWYrse8El24KViYXOoTjWZeljFdtg=w370-no" width="370" /><div>Just arrived at Bangkok Train Station</div></a> 
 </div>
 
-#### Bangkok, April 5 – 8, 2017
+## Bangkok, April 5 – 8, 2017
 
 This was quick. We were lucky to meet up with God and Yves who were heading for a wedding. Had a nice evening visiting. Paul wasn’t feeling well, so we didn’t do much. Didn't have time for any shopping. Our hotel wasn’t well placed so we happily moved on. I will admit excitement thinking we had a massage place at the end of the street… not as excited when I noticed all customers were male. Flew to Chiang Mai.
 
@@ -148,7 +148,7 @@ This was quick. We were lucky to meet up with God and Yves who were heading for 
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipNWYl3tuP-npTqrST82biUH3ge_4FqIjfifs7VwupsAbpWexjBkHT-YnOW5-B-mvQ/photo/AF1QipOAAIqw9S_DA8mUc9N4zxEhEGLyC_gtdKPKt5Kh?key=SWs0aTVfbC1velI4cG9ScDdPLXFHRllRWW9EbVFn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3fnUPmSn_XMMSMDfyTjyoX_fuwCMcvxsxIeSJRVOV2saEZ98wif3L73vWt2KMzvnYL5XscJz0d2M0pNw5fSW8vrQAqYfpTFH1S3sWU_1fRmeyGpfXJnqVKRWjo8HM8X5pye2F2ikaWsai4fVpFRoSIW7g=w370-no" width="370" /><div>Helen throwing a hissy cause no time for shopping</div></a> 
 </div>
 
-#### Chiang Mai, April 8 – May 8, 2017
+## Chiang Mai, April 8 – May 8, 2017
 
 <a href="https://photos.app.goo.gl/AE13PLKfrEQmYEAt6" target=”_blank”><img src="/images/image-gallery.png" title="Chiang Mai, April 8 – May 8, 2017 Photo Album" alt="Chiang Mai, April 8 – May 8, 2017 Photo Album" height="50"></a>
 

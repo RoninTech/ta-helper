@@ -19,7 +19,7 @@ The ferry was great. They were very well organized and it was surprising how muc
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipN4dPJpiavA2RzT8CLTSfqBrN9KuKhXptkfxKV91h-qaMHlWit1GEegQtefRYUoZg/photo/AF1QipPjcJL7wPs1xThN4NS5GNKGa-GMQ2V4UAbj5z5v?key=XzYxNFhOcWlUS1dna0RCUXg1UVBNeXFrYzZqM2xn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3crz7riizmA9A42QnxPK7RSTzFl5Zxh1qYANEZAJbieQjoasBQgVhzy1H_vepoXnfiLElFvWtw7KycVwOhE3C_P4nYRK6gdFlOOblbeC2dRnAl1hHbwHJ4MrQ4sb_435u1uUKCEOrapmh3qsqtEHqXvrQ=w370-no" width="370" /><div>Getting on the ferry</div></a>
 </div>
 
-#### Wellington
+## Wellington
 
 We decided to spend two nights in Wellington so we could see The Museum of New Zealand Te Papa Tongarewa. On our first day, still hyped on my coffee, I decided to walk to the bank, the nearest being a 30 minute walk each way. I didn't get lost or chased by dogs so considered this a win. The next day we headed off the to the bus and downtown Wellington. The transit here was easy to navigate and the bus stop was only 15 minutes from the campground so it didn't make sense to drive. We stopped for a coffee, wandered around the downtown area a bit before we headed off to the Museum. Peter Jackson and Weta Studio were involved in the Gallipoli display. This was an incredible display but unfortunately extremely popular, it was so packed you could barely move, still glad we saw it. The rest of the Museum was well done and we spent hours wandering around seeing all sorts of different displays. I also learnt how Vegemite got it's name. We walked around downtown a little before heading back to our bus stop.
 
@@ -29,7 +29,7 @@ We decided to spend two nights in Wellington so we could see The Museum of New Z
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipN4dPJpiavA2RzT8CLTSfqBrN9KuKhXptkfxKV91h-qaMHlWit1GEegQtefRYUoZg/photo/AF1QipPB7KS-Ddz8u_-HmtUmlpC-KyrezgGyhvwjPPrq?key=XzYxNFhOcWlUS1dna0RCUXg1UVBNeXFrYzZqM2xn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3fF41C3ujvld0KGL9G-v6QYoAYOD0NR9pI0YSzASJ1q97QwyKJpDC5kamfsDxXoesfH2LD4_RIlFvOqUtQSewYeW7wlnNUe3YqBkJs6RIQ-8STbeOqFifBndG_JlmL29EyE_xU700-e9vah9ZA2X6zfEQ=w370-no" width="370" /><div>Someone was hungry</div></a>
   </div>
  
-#### Himitangi Beach
+## Himitangi Beach
 
 We stopped here for an overnight based on some google reviews. The beach was more black sand and had huge dunes around it. A lot of people had quads or cars driving down the beach, we just walked. You could swim but it was a little chilly. There was a weekend festival where items were hidden on the beach and people had to dig them up so it was very busy. Lots and lots of kids. Had a nice conversation with some people who came for this yearly from further north. We didn't participate, deciding to continue on our way after a coffee stop at The Fat Seagull. We had to go there because how you could not with a name like that?
 
@@ -37,7 +37,7 @@ We stopped here for an overnight based on some google reviews. The beach was mor
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipN4dPJpiavA2RzT8CLTSfqBrN9KuKhXptkfxKV91h-qaMHlWit1GEegQtefRYUoZg/photo/AF1QipMS1J8onyw2T47wAldfqOcJC7r0fS6qBjNfOv_3?key=XzYxNFhOcWlUS1dna0RCUXg1UVBNeXFrYzZqM2xn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3e41D_4yWjiQw3BRl0aSUa-Z6MY8Dj2TZ9v6du62OijV7wCtKJOeZQCm809QAJkhlysBDFAeIz-sRNHYMYC0mgeWyOqen-33o2vRMj5KYs8nPgtmam6ByLEDis7UTelhJUKzIkTLtEYvhoeTkdUpL5wiw=w1000-no" width="1000" /><div>Himitangi</div></a>
    </div>
 
-#### Mt. Taranaki
+## Mt. Taranaki
 
 Our next stop was at Stratford, which was in the Mt. Taranaki area. This wasn't our original choice, the first campground we went to we had an electrical issue... there is a pattern developing here... so we moved to this site. It was actually a really nice place, a pool, hedges between sites and a cat. We drove up to Dawson Falls and did a walk, checked out the power house and the falls.
 
@@ -49,7 +49,7 @@ We decided to take the Forgotten Worlds Highway inland. It was amazing, beautifu
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipN4dPJpiavA2RzT8CLTSfqBrN9KuKhXptkfxKV91h-qaMHlWit1GEegQtefRYUoZg/photo/AF1QipPFaqVgBtm4dM1hKhVKvuVLDBM-ed5O8AqDF9kg?key=XzYxNFhOcWlUS1dna0RCUXg1UVBNeXFrYzZqM2xn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3cFiJ3YL__Y2HkpR-UoP-DSrCRjkM4EaW5zIf_NMvL9GnO884QSHf9Er4RpX8UP2_hnQJvEiQd_h8m5Fo_nVqAa5Y1u8kTYV0aGvg-_lVmy8pDX6FNzwgypG2FucYNxdUISlqVUGD1xdQocqU25j-s_NQ=w315-no" width="315" /><div>Forgotten Highway</div></a>
   </div>
 
-#### Tongariro
+## Tongariro
 
 So, being that we had been hiking and walked at almost every opportunity we thought we should try the Tongariro Alpine Crossing. To do this hike the best way to to stay in Whakapapa... and with a name like that you almost have to. From the Whakapapa Holiday Park you can do several hikes, we choose Taranaki Falls loop. We had a nice day and enjoyed the walk to the falls. You could go pretty much to the edge and look down before you walked it.
 
@@ -79,7 +79,7 @@ Luck changed the next day and the weather cleared. We had booked the early shutt
 
 We were a bit tired so the next day just went to Lake Taupo. Again, power issue so had to switch campgrounds but luckily for us people were really great about it.
 
-#### Waitomo
+## Waitomo
 
 We decided to head to this area after reading about some caves... after our "cave stream" experience we decided we were ready for another go. We stayed at Juno Hall which was a hostel with a few spots for vans or tents. Great people who run it, super friendly and down to earth. The kitchen was really well set up and they had real coffee on offer all day! This was part of a farm where they had a rescued deer, goats, calves and a pig which were all funny to watch. On the first day we drove down to Marokopa Falls, stopped off at the PiriPiri Cave and the Mangapohue Natural Bridge.
 

@@ -19,11 +19,11 @@ After the Philippines, we decided to do a stop in Taiwan. A good friend of Helen
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipOlha608EVRP6WED6k5o7qOJLSVqMyehUxZeAMb_5UWUjzijzmj_0p68MBU-h5YEA/photo/AF1QipNxk5AVMUBxmSv48lqigEt-RDX59YeY67XpQ6W0?key=V2RhMk91d2twTlVIV3BQX282OW92UmZYYXV3dlFn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3cqW9F5LcH_xiVFjvvg3g_4QuVrm_hdfbZf-EkdQAbMrK8UHyZn0kn6ekajCtbPeIorp6qkSjQss3-q99t_OlnkEYUOjYkdHuNReOCDv68sfcs-Y5B_mOHfD15xOBh6iYItBRyrM9xQYzrlrzFB96_5ag=w210-no" width="210" /><div>Excellent Eva Air!</div></a>
 </div>
 
-#### Taipei Taoyuan Airport
+## Taipei Taoyuan Airport
 
 After a nice flight, our first with EVA air, we arrived in Taipei. Customs was very efficient and we were soon in the arrivals area. We were sure surprised by the quiet hush when we came through the arrival gates, not at all what we expected. The airport was well laid out so we were able to get great Chunghwa SIM cards, do an ATM stop and get the local metro cards at the 7-11 in the basement. While English isn't everyone's first language, we were able to do everything quite easily. We quickly found the metro access and headed off into Taipei proper.
 
-#### Da'An District
+## Da'An District
 
 Hotels and hostels were very expensive, so we had found an AirBnb which seemed reasonable. The host was very nice and gave excellent directions, so it was easy to find. After a bag drop we decided a wander was in order so hit the streets of Taipei. We started at a restaurant for soup. Paul was amazing at using google translate by video to figure out what to get. It's pretty cool to point your phone camera at a big sign in Mandarin and watch the Chinese turn into English. Then we took a walk over to Taipei 101 to see it at night. The traffic here is extremely organized and quiet, again not as expected. The streets are very clean and walkable so we were able to get around easily.
 

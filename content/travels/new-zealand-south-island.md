@@ -11,7 +11,7 @@ album: "https://photos.app.goo.gl/msBcYkRlsULBLFcg2"
 
 When we were in Australia, hiding from the rain for a couple of days in Alva Beach, we organized Tasmania and determined our next stop should be New Zealand. We organized flights with Jet Star and rented an older camper van from CampaSouth. We were able to fly from Hobart to Christchurch, with a short stopover in Melbourne. We had some issues in Melbourne, going from the domestic terminal to international isn't a long walk but was very challenging. We had to do a desk check since they wanted proof on onward travel, luckily we had that. Then the luggage system was down so we were told to leave our bags in piles, Jet Star is 7kgs of luggage so we checked our bags. Getting through security was a gong show and we literally had to run to our gate as our flight was boarding.
 
-#### Christchurch
+# Christchurch
 
 We arrived at 5 am and went to get our luggage. Strangely there were a lot of bags on the carousel none of which happened to be ours... in fact none of which belonged to about 30 people who had gotten off the flight with us and were waiting. I did feel badly for the baggage supervisor, it was her first day in charge and 30 people missing luggage at 5 am can't be the most pleasant thing to deal with. We all had to fill out forms and they "would be in touch" about the bags. A total PITA since we hadn't organized our stops or SIM cards, so had to give the contact info for our van rental place. We got our SIMs, called Campasouth and they came and picked us up. Really nice couple, had no issue with us using their location for the luggage drop and off we went. We had decided to stay in Christchurch since we figured our luggage would arrive soon so found a camp ground, Amber Kiwi Holiday Park, and settled in. We did a wander around, got some groceries and supplies then had a nap. One thing of note... check expiry dates when buying boxed wine. We thought we were getting a real deal until we tasted it... it expired almost a year prior. When we returned it, the store seemed to think that boxed wine doesn't go bad... I suggested that might only apply when it's properly sealed, in a bottle not in a goonsack. The next day we drove around and rode the gondola. Since Tasmania showed us that my rain jacket wasn't water proof, never mind water repellent, we stopped in at MacPac where I got a new one that worked perfectly.
 
@@ -25,7 +25,7 @@ We stopped in to see about our luggage, but unfortunately no luck so Graham sugg
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMvaJKIBtOPCqE4hIseZwgUcEYpyX6YPvyzC18-tKEsG2lwVVDGBa5JLEJTiWdCug/photo/AF1QipNdZy4r0buSu4wRYDkMncywwoqg38GG2_gv_dLT?key=RHR1Q2tLc0JuX2RBYU5ZVzdidVl0TUFkS0oyWW93" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3djUZi_HjAxTUHKFkzHFTTDveLt4UVrq0IIuTfh2rUdzWO7TtJKhej5_D3Axvhcplx-EvRkRXWO2yWSGiwdHBRu25yUDTIq_CdX5vc_4E3tsv7G7mZnuu9DUFsKmVU6_ad-0G5zO-wKEXUAZGBE8iTyjg=w370-no" width="370" /><div>Akaroa</div></a>
     </div>
 
-#### Mount Cook
+## Mount Cook
 
 We did a quick stop in Lake Tepako, but it was really crowded so we left quickly and headed over to Mount Cook. WE did a quick photo stop by Lake Pukaki well as along the side of the road so I could immerse myself in lupins that grow wild. We were lucky to spend the night in the White Horse Hill campground at the base of Hooker Valley track. We did the hike up Hooker Valley, where at the end we could see Mount Cook. It was a beautiful day and we really enjoyed the hike. The next day we headed out but did a short little hike to see the Tasman Glacier and what looked like the Lonely Mountain.
 
@@ -40,7 +40,7 @@ We did a quick stop in Lake Tepako, but it was really crowded so we left quickly
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMvaJKIBtOPCqE4hIseZwgUcEYpyX6YPvyzC18-tKEsG2lwVVDGBa5JLEJTiWdCug/photo/AF1QipNR3gC0ykfehn48jB4eKUiVREWBfE45FdhXJ6eS?key=RHR1Q2tLc0JuX2RBYU5ZVzdidVl0TUFkS0oyWW93" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3dITVKvlL6Fktkeg_8a8PPC4X2HYLdMA8d_moPyInhZjqRhKGSzqXcyFm0KPFRExybEC4RJoxAS7-ytW6o9bi3EZ1qI7PVn7RuhWBfD6T0DI0h3UqkxIntBs9_1NqpbHqTDGpHvC9leGpMWOwX3O-roTw=w315-no" width="315" /><div>Lake Tasman</div></a>
   </div>
 
-#### Queenstown
+## Queenstown
 
 We drove South and decided to try free camping again and stayed outside of the city at Lake Hayes. We managed to get the van in some trees, a really nice little area not far from the lake. There was a walk around the lake but it was quite warm so we didn't get far We ended up feeding some ducks in a picnic area before chilling by the lake for the evening. We stayed here twice, on the second time a highlight was watching planes come into land in Queenstown from nearby mountainside.
 
@@ -54,7 +54,7 @@ We drove South and decided to try free camping again and stayed outside of the c
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMvaJKIBtOPCqE4hIseZwgUcEYpyX6YPvyzC18-tKEsG2lwVVDGBa5JLEJTiWdCug/photo/AF1QipMOjCoA_1pky8ASEFQfAGnTW6PHU9XlqQU40o6X?key=RHR1Q2tLc0JuX2RBYU5ZVzdidVl0TUFkS0oyWW93" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3ejE1Zre8lIt40uZQQ0dwvgtqKFvvSmegS-x1cvnouDePPs8F_WHzkgFpb70ksbOLCjkTTKxU3NRLb0hdbsK6rfVTUHwjBV6IWDul0ZF5exPPSf4T6oNQPGQvVIXZzSw-Eav-ay4pmw_R2e70lEkrPCoA=w370-no" width="370" /><div>Sheep</div></a>
     </div>
 
-#### Milford Sound
+## Milford Sound
 
 Next stop was in Mossburn Country Park for the night. This was a nice little campground but we had an issue with the van. When we first set up at a spot and plugged in the power breaker kept flipping. We moved over to another site and it worked fine so we thought it was the campground. The next day was off to Te Anau Lakeview Kiwi Holiday Park. At the last minute we decided to drive out to Milford Sound. We did some stops along the way, Chasm Bridge and a waterfall but they were so packed it was hard to find parking. We made it to the tunnel, where we had a short wait before heading through. When you get out to the other side the view is stunning and it's a gorgeous drive down to the sound. Unfortunately, it's was so crowded when we got there we didn't really enjoy it. Tons of people, cars, buses, boats, planes and choppers. After a short walk around the area, we headed back to Te Anua.
 
@@ -67,7 +67,7 @@ Next stop was in Mossburn Country Park for the night. This was a nice little cam
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMvaJKIBtOPCqE4hIseZwgUcEYpyX6YPvyzC18-tKEsG2lwVVDGBa5JLEJTiWdCug/photo/AF1QipNh0eJYJqBi_aQHEAF6zREBCRpZCuNR37iurg6n?key=RHR1Q2tLc0JuX2RBYU5ZVzdidVl0TUFkS0oyWW93" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3fE4nHTnSQF0kflLE3jJ0RUf-E4B4vEehJKnVX7_FXa7V7_MAVMpJfTYJfCCeV279hZPWv2HHKuJVvFR5KjBR6lnvmC9d7D5fMdVF1ImeZQW4v4trJmYGERf7ZKAkH1RYirFEPRUMasKa0afZSWMj7gVA=w1000-no" width="1000" /><div>Milford Sound</div></a>
   </div>
 
-#### Manapouri
+## Manapouri
 
 We decided to spend Christmas at Manapouri and treat ourselves to a day trip out to Doubtful Sound on Boxing Day. We arrived on Christmas Eve to the Manapouri Motorhome and Caravan Park, which was run by an older couple and was fairly new. We pulled up to our spot, plugged in and flipped the breaker. We tried again on another site... after about 4 times of flipping breakers we realized that something was wrong with the van. After discussions with Campasouth and the people who run the Manapouri Motorhome Park, we were able to determine that the power system in the van won't work with the new electric systems that code requires in New Zealand campgrounds. Apparently all campgrounds had to install a new power system after someone was killed. Our van being older, would flip the breaker when plugged in the new systems. When we spoke to Campasouth they said most campgrounds have older outlets, so not to worry as it shouldn't happen often. Turned out there were quite a few nights without power because of this. The owners of Manapouri were amazing... they moved a trailer out of their outdoor storage shed so that we could park there and use the power. They went above and beyond in service and this is on top of it being really well set up. We settled in and shared our Christmas dinner of curry, some unexpired red wine and a small box of Rose's chocolates. On Christmas day we hung out at Lake Manapouri and had a nice day.
 
@@ -77,7 +77,7 @@ We decided to spend Christmas at Manapouri and treat ourselves to a day trip out
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMvaJKIBtOPCqE4hIseZwgUcEYpyX6YPvyzC18-tKEsG2lwVVDGBa5JLEJTiWdCug/photo/AF1QipPFAp0AGJHeFXdejzXWZVX5Z48ItpFGVcjgOfai?key=RHR1Q2tLc0JuX2RBYU5ZVzdidVl0TUFkS0oyWW93" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3dsV52-l0FGHzXMxcBDB-Vb4RRMraZPrCpY57SHC19v-hqDB6LdBgq32DNXANebBufdORstSyPS0BpgzE6TOP4ZLpag_bbIxzs-MWsokv_2hJ3BfCOgC6Q2NFkASd19olSidzXggfdjNUvbMotW-bRprg=w315-no" width="315" /><div>Christmas Coffee at Lake Manapouri</div></a>
   </div>
 
-#### Doubtful Sound
+## Doubtful Sound
 
 After our Milford Sound experience, we really weren't sure what to expect for crowds so headed over with some trepidation... we needn't have worried. To get to Doubtful Sound you have to take a ferry across Lake Manapouri, a bus from the power station through the national park area over to where you board the final boat. This was all booked through and handled by Real Journeys, who while a bit expensive were great. We were given a history of the area, info about the Ents and shown where Jurassic Park was almost filmed. The scenery was just wow, every time we turned around it was another epic view. Waterfalls, craggy mountains, fjords... it was incredible. We went all the way out to Secretary Island, Paul went and looked at the seals, but I stayed inside the cabin for the warmth. It was an awesome day and we are so glad we were able to do this. We headed back to Queenstown for another overnight at Lake Hayes and then made our way up the west coast.
 
@@ -95,7 +95,7 @@ After our Milford Sound experience, we really weren't sure what to expect for cr
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMvaJKIBtOPCqE4hIseZwgUcEYpyX6YPvyzC18-tKEsG2lwVVDGBa5JLEJTiWdCug/photo/AF1QipM8xSsYz-1YlnbIBuDOMZD_SNsFoV-PPor0CE16?key=RHR1Q2tLc0JuX2RBYU5ZVzdidVl0TUFkS0oyWW93" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3dFjZeawj9mS7y_phdpwOJZxnEIBnW8p4eBnPM6oKIyN9LgpbCkm_iAzhzpOpo8KUTsSrzfJLhE-A4Rlr7r6CbEj1Ap9D8q5uZQJrN9Yc45PmSnJXwrcNocGu6f2NN6xlNHP6kXragj99fA09J3khTDFQ=w1000-no" width="1000" /><div>Doubtful Sound</div></a>
   </div>
 
-#### Fox & Franz Josef Glaciers, Otira Gorge
+## Fox & Franz Josef Glaciers, Otira Gorge
 
 The Fox Glacier was a bit disappointing, very crowded and dusty hike to get to the viewpoint. The glacier has moved back a lot and they do provide excellent information about it. After that we decided to go to to Lake Matheson, which was highly rated for the walk around the lake. Apparently that wasn't our day since it was windy so we weren't able to get the Mount Cook reflection photo that is the big draw here. Funnily enough, even the campground that night carried on the tradition of just not our day... people were totally jammed in, 2 ladies rooms for over 100 campers and someone cut in front of my in the dish washing line.
 
@@ -113,7 +113,7 @@ Franz Josef was a different story, even though it was a cold, rainy day and stil
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMvaJKIBtOPCqE4hIseZwgUcEYpyX6YPvyzC18-tKEsG2lwVVDGBa5JLEJTiWdCug/photo/AF1QipMpej_iOhMjAxCznGCCIImCLAUeR2C9k81LjCkc?key=RHR1Q2tLc0JuX2RBYU5ZVzdidVl0TUFkS0oyWW93" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3fnIVLOY-NiE4H2U-QDdiCWe2Uj6i-r-MsazJwVdkuLQz3HH6jKaWf7zE0ZFI0f9OG6U2i-hgwbzeqBpWnIfMocyVFGcyz_Y4aoG0JMkmv29YvxI7LxYKdQ96iyz0l0r2N5QooFOdJy_D_l1y_dYDMDzQ=w370-no" width="370" /><div>Happy New Year</div></a>
     </div>
 
-#### Arthur's Pass and Otira Valley
+## Arthur's Pass and Otira Valley
 
 We stayed at Jacksons Retreat Alpine Holiday Park for New Years. It's a really nice campground with lots of nice little walks in the area. Waterfalls, glow worms and streams in abundance. We did a drive to find another amazing hike, this time to Otira Gorge. This was another valley filled with waterfalls and mountains. The hike ended at a sign stating you needed mountaineering experience to continue... we felt that our prior hiking in the Canadian Rockies qualified so continued on. We got to scramble over rocks, see more mountains streams and pools, torment a ground squirrel and have an amazing time.
 
@@ -127,9 +127,9 @@ We stayed at Jacksons Retreat Alpine Holiday Park for New Years. It's a really n
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMvaJKIBtOPCqE4hIseZwgUcEYpyX6YPvyzC18-tKEsG2lwVVDGBa5JLEJTiWdCug/photo/AF1QipNUNOIqs2pOs4BYTW4S11S_72lR3SNH56R3AHK_?key=RHR1Q2tLc0JuX2RBYU5ZVzdidVl0TUFkS0oyWW93" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3e-QWGxz3sRLjsjtr0sVRUs3QGT0e4nlr3-M-VjRrn3_AjLgwhX7nfXijOEQs8oHzsOP1hFqN7UoVqfdw3py_sWNUoTyUg9Um5emo1os-QwBjZ3SVQrShG4745zpw375ZQO-bEeOe5ZKtzXd6X-1CX3LA=w1000-no" width="1000" /><div>Lake Pearson</div></a>
   </div>
 
-#### Cave Stream
+## Cave Stream
 
-Our first real caving experience happened by total fluke. We decided to free camp again at Lake Pearson DOC. We were lucky to get a spot in some trees right by the lake so spent an afternoon hanging out, feeding ducks and chatting with others. The next day as we decided to head to Castle Hill, some of Narnia was filmed here, Paul saw a sign with a camera and "Cave Stream" on it. We figured it might be a nice place for a photo stop so pulled in. Well, not only was it lovely but there actually was a stream that runs through a cave and you could actually walk through it for about a kilometer. Paul went in one side to check it out and saw that there was a ladder and a small waterfall. He spoke to some people and was told you start at the other entrance and go against the current... after a lot of convincing we went and got our headlamps and headed in. It was an adrenaline rush the whole way. The water was up to chest height right away and pretty cold, but then dropped off to knee level for most of the rest. Balancing on the rocks in a fast flowing stream while looking around to not bump your head was challenging but totally awesome. We had a couple of small areas with little narrow falls where I had to push Paul up and then he would pull me, but it was so much fun. Paul also helped get a mom and a couple of kids up. At the end I was a little spooked, as you have to climb a tall ladder by a waterfall and then hold onto a chain to get out. I basically had the death grip on the chain and slid myself along on my butt. To date, this still remains one of my favorite moments... possibly because it was so unexpected.
+Our first real caving experience happened by total fluke. We decided to free camp again at Lake Pearson DOC. We were lucky to get a spot in some trees right by the lake so spent an afternoon hanging out, feeding ducks and chatting with others. The next day we decided to head to Castle Hill, some of Narnia was filmed there. On the way, Paul saw a road sign with a camera and "Cave Stream" on it. We figured it might be a nice place for a photo stop so pulled in. Well, not only was it lovely but there actually was a stream that runs through a cave and you could actually walk through it for about a kilometer. Paul went in one side to check it out and saw that there was a ladder and a small waterfall. He spoke to some people and was told you start at the other entrance and go against the current... after a lot of convincing we went and got our headlamps and headed in. It was an adrenaline rush the whole way. The water was up to chest height right away and pretty cold, but then dropped off to knee level for most of the rest. Balancing on the rocks in a fast flowing stream while looking around to not bump your head was challenging but totally awesome. We had a couple of small areas with little narrow falls where I had to push Paul up and then he would pull me, but it was so much fun. Paul also helped get a mom and a couple of kids up. At the end I was a little spooked, as you have to climb a tall ladder by a waterfall and then hold onto a chain to get out. I basically had the death grip on the chain and slid myself along on my butt. To date, this still remains one of my favorite moments... possibly because it was so unexpected.
 
 <div style="text-align: center">
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMvaJKIBtOPCqE4hIseZwgUcEYpyX6YPvyzC18-tKEsG2lwVVDGBa5JLEJTiWdCug/photo/AF1QipOOGwWfN7Ud-hKw5I3Lkw9i6auPwGSt8qmV0GXu?key=RHR1Q2tLc0JuX2RBYU5ZVzdidVl0TUFkS0oyWW93" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3fYUh_a64GZRPxnvnGw8Jo3I0xkHJVrMWIEtUENaKsEXeU9v8IY2CeiCPZBXQxYuN3PeOYWI-ykviTAUQisVWWYYIvx-Aqnp4Ev_yJpRBbu0aoMnmEAwxdRVJ7dRN3IOXfvBq1MP01rnoaZgtHqCqHMHw=w370-no" width="370" /><div>Warnings!</div></a>
@@ -137,7 +137,7 @@ Our first real caving experience happened by total fluke. We decided to free cam
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMvaJKIBtOPCqE4hIseZwgUcEYpyX6YPvyzC18-tKEsG2lwVVDGBa5JLEJTiWdCug/photo/AF1QipMj1mO3DB4lcn7DkmFMhyAlO9cWySe_xybhSkF4?key=RHR1Q2tLc0JuX2RBYU5ZVzdidVl0TUFkS0oyWW93" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3cX9X_HR8BKX-QmHX3JunTM2REVmjCKtvyp-EtiF68pW0NS6aIIZXqmWci-vX12OpuCbjkE_Kgo0SrOOR4xSh-GBouH4oVv111HTLTch003LZEA2LBImZRGV27BI0do8t4_ixlF9kKqHyZYDH5bt8zDbg=w210-no" width="210" /><div>By the Exit</div></a>
     </div>
 
-#### Pukanaiki
+## Pukanaiki
 
 We were told to stop here to see the "Pancake Rocks". We camped in Greymouth, went to the local brewery for a flight and had the nicest sunset we had seen in some time. The irony being we were camped in a parking lot behind a gas station when said sunset occurred. We continued up the coast to see the rocks and blowhole, which were actually quite neat. We had stopped for lunch at some random pull in and walked along the beach... Paul got caught by the surf and had to make a run for it but was okay. All these sites we stopped at in New Zealand are free... even though they are in national parks. From here we headed more inland to head across to the east side of the island.
 
@@ -152,7 +152,7 @@ We were told to stop here to see the "Pancake Rocks". We camped in Greymouth, we
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMvaJKIBtOPCqE4hIseZwgUcEYpyX6YPvyzC18-tKEsG2lwVVDGBa5JLEJTiWdCug/photo/AF1QipOKTgtVl1Jdk5D_a1KMH6UHy0RvqeUTF8rvQZc5?key=RHR1Q2tLc0JuX2RBYU5ZVzdidVl0TUFkS0oyWW93" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3eU2AvmJD50mTVoJ0zO5pmmecCEn1zvmlqq5OqXT805Y5SJqbv1P_2jolE0waZbrl2oCPGIyevEJIWIZcgfaN29SxOnSGa0uYb6yblxksVJbqLrojhcCBC3g0Pn_VKVrM97Ia-IiiooNMeUbPTAtNHUZw=w370-no" width="370" /><div>Paparoa Nature Walk</div></a>
     </div>
 
-#### Kiakoura & Omaka Aviation Heritage Centre
+## Kiakoura & Omaka Aviation Heritage Centre
 
 We realized at this point that we were moving too quickly so had to slow down a bit. Everyone had told us you have to go to Kiakoura and drive up the coast so we had a couple of stops on the way. Murchison was a neat little campground where we spent some time feeding clover to the calves and wandering down by the river. Hanmer Springs was a "natural site"... that had rave reviews so we decided a stop was in order. Turns out it's a resort town and the campground is a bible camp. There was supposed to be a walk into town from the campground but we weren't able to locate it. The drive to Kiakoura was beautiful and we stopped several times for photies. We decided to go the Blenheim area for a night which allowed us to drive up the newly repaired highway along the coast. The drive was spectacular and Paul, even though driving, managed to spot some penguins. This still remains an unconfirmed siting.
 
@@ -170,7 +170,7 @@ The Omaka Aviation Centre was great. Turns out that Peter Jackson, of LOTR fame,
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMvaJKIBtOPCqE4hIseZwgUcEYpyX6YPvyzC18-tKEsG2lwVVDGBa5JLEJTiWdCug/photo/AF1QipMEyQGH2xGvDxFH8bhIEo7I5zNpxdXiyXKhzHGA?key=RHR1Q2tLc0JuX2RBYU5ZVzdidVl0TUFkS0oyWW93" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3fo0n-HSaaMGNPir16tg76hzMyRk7i5AWP8AyMQa4CI23WJmR5iDl2eDm2JXQQSS4Fm7U_1cfRf5DrcbpVE--QoRUVqcgFNEkccgvFdCrNPF6aDytR3gVIn1YM9Gei18R_kvYBsXLful4E4ignLwawJuw=w315-no" width="315" /><div>Amazing</div></a>
     </div>
 
-#### Abel Tasman
+## Abel Tasman
 
 We decided to go north, but took the long route heading back through Murchison. We had a nice evening with a local couple who had come down from the North Island for vacation. From here we headed north to some rainy weather. Our first stop was Bethany Park Christian Camp... not sure why it was called that but we were jammed in small spots, the area around the toilets flooded and they ran out of gas when we were cooking. The drive to get here though, spectacular.
 
@@ -182,7 +182,7 @@ The next morning we went for a hike in the pouring rain to Split Apple Rock. It 
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMvaJKIBtOPCqE4hIseZwgUcEYpyX6YPvyzC18-tKEsG2lwVVDGBa5JLEJTiWdCug/photo/AF1QipPhnBh3FZ6FYm6Q-1eRxlvrJ3i7KsZB96n4EJOT?key=RHR1Q2tLc0JuX2RBYU5ZVzdidVl0TUFkS0oyWW93" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3cCfK8hAczAg2CCom5pPLLhJ5_LmNurcTWfsPXFoABXmfM6ETovrI4l-HkPqeg6_vJY9h86CHO_uKWNLY-efe-r2B7AxRNttTUmWnU0xqUm4ZMJelLrlcO98ovmSU_Fq7jJIv7oZJ7sFt0iUdnWCE2CSA=w370-no" width="370" /><div>Amazing</div></a>
     </div>
 
-#### Our Anniversary, January 15
+## Our Anniversary, January 15
 
 We had to start heading over to Picton for the ferry so did a quick overnight in Nelson... where we had another van power issue and stocked up on groceries. The next day was our anniversary so we drove through Havelock so we could have some amazing mussels for lunch. I have to say, expensive but totally worth it to stop at The Mussel Pot. We decided to stay at Smith's Farm which was fun. We were greeted with banana muffins and a bag of feed for the animals. When we told the owner it was our wedding anniversary they gave us a bottle of wine, which was really nice. We fed the animals, the goats were freaky, and walked up to a nice waterfall. The next day we headed to Picton, stopping along the way to hike a little bit of the Queen Charlotte trail. The road from Anakiwa to Picton was crazy... only a picture will do it justice. We had an overnight before getting on the ferry.
 

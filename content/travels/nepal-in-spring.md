@@ -10,7 +10,7 @@ omit_header_text: true
 album: "https://photos.app.goo.gl/MjqKMEC9QD6oaka72"
 ---
 
-#### Bangkok
+## Bangkok
 
 After an early morning departure from our Taipei AirBnB, we were outside waiting for the cab at 4:30 am. We are headed to Nepal with an over night in Bangkok. We decided to spoil ourselves and booked the [Vie Hotel Bangkok](https://g.page/viehotelbangkok?share) and even better, breakfast buffet at The Vie. Even though we got to the hotel at 7AM, they let us check into our upgraded suite a few hours early. The benefits of regularly visiting a hotel. We spent the afternoon in Bangkok looking for gear for Nepal and going to a movie (Black Panther, we liked it better the second time). After a nice supper at Muay Thai we headed back to pack and relax at our room. The next morning we were up early to gorge ourselves at the breakfast buffet before heading off to the airport and the second leg of our flight to Nepal.
 
@@ -20,7 +20,7 @@ After an early morning departure from our Taipei AirBnB, we were outside waiting
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipMmXkiyt1xhp98-qxk2eW12RSwbVzCCM_Ce9g0U?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3d715WsaGDg10DvI-RCBuNeere_dLQHBqrJBL8rUqy8ANdpAG4DIvxVETsBrNp13TbbIF8eT1ew5eNgBMwhE3vtW-My8tX564wigqIIrfglU4E3BDK01S9KE8HuLKL3DIDrACAve9V7WwqBppdKaH4kDg=w370-no" width="370" /><div>Our favorite hotel breakies!</div></a>
 </div>
 
-#### Kathmandu
+## Kathmandu
 
 Even though our flight was on time arriving we weren't able to land and spent an hour circling above Kathmandu. When we eventually did land it was a bit hectic... Going through to immigration was partially automated and there was a person helping at the machine. We made a mistake and didn't get the 45 day visa but the 90 so we ended up paying more. At the counter there was a sign stating that you can pay with card but the guy kept saying "cash" and Helen kept responding with "no, card" until he finally put it through. The lady beside us had an argument with the staff, accused them of keeping her money. They only accept American at that counter and will refuse bills if they feel they are too old... apparently they asked for a replacement $10 bill and didn't give her back the original. It was quite heated. Then it was figuring out what line to go thru to get our visa stamps but the people there were friendly and called us over.
 
@@ -43,7 +43,7 @@ The next day it was walking over to the Nepal Tourism Board to get our Annapurna
 
 The last day was rough for Paul, the dust had aggravated his sinuses and since he was just getting over his cold we decided it was best for him to stay out of the dust. I got some last minute things while he packed. Teamwork! We stripped our packs down to only what we needed for the trek and left the rest in a cheap duffel bag at the hotel for retrieval upon our return.
 
-#### The Micro Bus to Besisahar
+## The Micro Bus to Besisahar
 
 So we decided to take the mini bus to [Besisahar](https://goo.gl/maps/Xza1ijTCDjJK4JBV6) which deserves it's own segment. Paul got us to the right place and we managed to get our tickets with the help of a local fellow who was also heading in the same direction. The mini bus was, like every other one we've taken, built to hold 12 but at one point had 16 people plus luggage. I consider this a win since we saw goats on top of one. The drive out of Kathmandu was long and dusty, we stopped a lot to pick up people... finally getting on the highway was a relief. Until we got to a huge line of traffic. One thing about Nepal, there are accidents everywhere. Our driver maneuvered us to close to the front where he stopped and everyone got out. We waited there for a bit while our driver figured out options. He loaded us all back in and took off back the way we came and turned onto some random dirt road.
 
@@ -60,7 +60,7 @@ At that point, we started 4x4'ing in an overloaded Toyota Hiace... Paul even com
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipOWtoRFH5O2wTTUVoQ_h8mAKRMFtpwH5ClnDXtw?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3e7aSyrb8zfhzqb2cPvLGZQlemaK58xy7UB6I2GFe1iESNrvNX-rzmRmpwFzIh3_wVS9L1InCT_h_Z18jSYWyCsfXHIqv1CPb0IBTtQbjLsVIq372DHFhV2RkoyfHwKywlDqVj2wsiQqH2cgf_rzUu9YA=w370-no" width="370" /><div>Mountains finally came back</div></a> 
 </div>
 
-#### The Annapurna Circuit
+## The Annapurna Circuit
 
 These are the places we stayed during our 16 days on the Annapurna Circuit. We continued to use the excellent free maps.me app to navigate along with a KMZ file we found on the web that showed all the places to stop on the circuit.  ~~Use the [contact link](/contact/) above to request the Annapurna Circuit KMZ file and we will send it to you~~.  Never mind, [Here it is](/downloads/Annapurna%20Circuit.kmz).  Maps.me was able to import the file and it showed us elevation profiles between points on the trek. Excellent for planning and seeing what hellish ups and/or downs awaited. Another invaluable resource was the [New Annapurna Trekking Trail (NATT) guide](http://www.nepal-dia.de/Trekking_the_Annapurna_Circuit_with_the_new_NATT_trails_111017.pdf).
 
@@ -228,7 +228,7 @@ These are the places we stayed during our 16 days on the Annapurna Circuit. We c
 
 **\*** Keep in mind that the altitudes are "net".  So if you hiked 2000m uphill then 1900m downhill, Altitude Delta would list +100m and you would have no idea there is a 2000m climb and 1900m descent in that section.  Use the app above between stops to see the actual elevation profile.
 
-#### Bahundanda
+## Bahundanda
 
 This was our first stop on the trek, it was about an 18K walk with about a 400m elevation gain. We had decided to walk instead of taking a jeep since we had the time and felt this would help with fitness and acclimatization. We did miss a turn and had to do a little back tracking but soon learned to watch for the red/white painted flags for directions. I struggled on the stairs, did my usual over heating and feeling like poop while being passed by kids heading to school. They had a little laugh at my condition but I was still traumatized by our first suspension bridge crossing so was oblivious. We stopped for lunch at Hotel Hilton and had our very first dal bhat... which was delicious.
 
@@ -261,7 +261,7 @@ At Wanderlust the owner's son was having a birthday, he just turned 1 and there 
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipOiw5BSqZvfUtBb2GudrRcODjISL2VxdRP5h_iS?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3fAvn22z9a8DtJi6GwyMVDItthL3UlyxtyiyfkpXAhe1n2gAI9QIMaQJHfozvr1zqLW8SpV7G9tunFIlQtiyJu3q5x1M5JIR0yly643JYZ2E_R0QnUZ6Li8QnSm1gizTSiaAxYmosE5eyTcpakECEBXiA=w370-no" width="370" /><div>Birthday Boy</div></a> 
 </div>
 
-#### Chamje
+## Chamje
 
 Our next day was the 18K walk to Chamje with about 700m elevation gain. The thing about elevation is you are gaining and losing on a regular basis and the estimated amount doesn't account for it. You are up and down valleys, crossing suspension bridges and walking along rivers being passed by herds of goats, pony trains, porter trains and other trekkers. We were on and off the road at various times, lots of stairs and at one point we went up off the road, crossed a steep creek only to come back down to the road. We had a nice tea and lunch with Chris from Holland, who had stayed at the same guesthouse the night before.
 
@@ -285,7 +285,7 @@ The ascents aren't easy for me, but I was put to shame by the elderly locals who
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipN5oYYDVPfhB4pbT4bCIlPUGxRzZoZWUT9NiiRA?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3c0rkdQp3B5q1vTB-UGKhicdMEfOkQSx3y6gkLak-v4AyQOD9WOq6jMcDF7bGVhgTjR-yzEuhlKO7DExxn_TSiFmKUue3QXfXjqd2WTRQLuOr0R2zXHjzf4qymQaoGRiRGJCJCeO5pW060hGhuwa1aeeQ=w210-no" width="210" /><div>More Dal Bhat</div></a> 
 </div>
 
-#### Dharapani
+## Dharapani
 
 Today was a shorter 12K walk but we had a 900m gain on the way into Tal. The walk today was along gorge cliff edges, past waterfalls and up the stairs to Tal. It was a beautiful walk and we did get some good mountain views on the way. When we stopped for tea in Tal, there was some blasting going on for road construction but it was on the other side so we could watch. Later on we passed a herd of goats heading down and saw some people we had met at the first guest house. Paul's pace is much different then mine so he took a chance to stretch his legs and headed off while I did my usual plodding along. This worked great... until I headed the wrong way and spent 15 minutes going up stairs that I didn't have to.
 
@@ -310,7 +310,7 @@ It started raining in the afternoon so we were happy to get to the New Tibet Lha
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipMp5Lud93LYkp9nnmIOA0ZoHrTRpDxFBQEOLtmM?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3cOoJYUU4JNUSe12RlGeNfUncjUVwt_YuKh6gV9szQWJdpYdWjugOPM8rtalGTr_EjtPQ50KfRTVleV9xvwXoM2d4XKSLhKde-qbOq1vIZcWHqO-SgOWjopperl3XyVCKhJtuJitw1kbwwR6EAadmSSYw=w210-no" width="210" /><div>Dharapani</div></a> 
 </div>
 
-#### Chame
+## Chame
 
 Not be be confused with Chamje, even though it is confusing, which was a 17K walk with 500m gain. This is the spot where many people jeep into to start the circuit, skipping the first few days of walking. We had a check in at the local tourist office and proceeded to find a guest house. We ended up at Potala Guest House and settled in our room then went wandering through Chame looking for blister band-aids for our hot spots. When we got back we met three guys who were travelling together, two knew each other previously and they had just met the 3rd on the prior days. We also met Jin from South Korea. We spent the evening chatting and exchanging stories. Jin was travelling on his own with his porter/guide Ram as his wife had to cancel. We had a really nice evening and headed to bed. We were lucky because the pipe for the fire ran underneath our room's floor so it was almost like heat!
 
@@ -320,7 +320,7 @@ Not be be confused with Chamje, even though it is confusing, which was a 17K wal
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipP2txvwfJvRmfyqB9_ua7eYWE8DI_odvBnXdj-B?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3dFTQF3ohhhRs2SUouMYTa2u9UI3uYT52frlRMitikIwARKyRfazKgIgA4mC43fyuu1Z1ljS3ST9RA_RvLhrFfl-2TpkRU46aH4fe0BH9RFlAAk_y8SKILBM1TzpmGukdPZHQObPqyzbBDvUbDQrU2OXg=w210-no" width="210" /><div>More Views</div></a> 
 </div>
 
-#### Lower Pisang
+## Lower Pisang
 
 Our next target was Pisang which was a 15K walk and 300m gain. This had us walking past a few apple orchards which explained all the apple pie in the area. We were supposed to go to Upper Pisang which would of added about 200 more in elevation and another few km's but we decided to check out Lower Pisang instead. We had met Jin and Ram on the trail and they had mentioned that it is really busy in Upper Pisang and they were staying in Lower. We thought if we wanted we could head to Upper Pisang if we didn't like where we were. We were walking through when Ram stuck his head out a doorway and told us to come stay at the same guesthouse, the Monalisa Hotel and Restaurant. The building was a bit sloped and we might not have stopped if it wasn't for Ram. Super glad we did through... there was a solar shower, the rooms were a bit insulated and the food was excellent. We had a really nice visit with Jin, Ram and the owner sitting around the fire that night.
 
@@ -340,7 +340,7 @@ Our next target was Pisang which was a 15K walk and 300m gain. This had us walki
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipM3JFZ7Sac8sAv87J-2ww_bNf6uE-BLKr-2MiVH?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3e_krdRQDEA2OiRYacbq5A6ALB5toy-jIKV578A1iGS6dyi04FYJm1Yu5M2Ht2kDr60PW38kYuNntYXcRzHMVQAc5reGLLhm2rVrf9TdHLqWVH8RuDkzaf6e3Za_PMKldXALKkYIC_fsk0usBFjMS2wFA=w370-no" width="370" /><div>Jin & Ram</div></a> 
 </div>
 
-#### Manang
+## Manang
 
 From Lower Pisang to Manang, going through Ghyaru and Ngawal on the way which was over 20K with an end elevation of 500m gain. We had a huge gain at the front to Ghyaru, a drop, then several hundred meters gain to Ngawal at 3800m before dropping to Manang for our acclimatization at 3500m. Today was the day that we saw the the Himalaya's for real. We saw Annapurna 2 and 3, you could see back down the valley and ahead into the mountains. This may have been one of my favorite days while it was one of the hardest. Going up to Ghyaru was beautiful. Paul went on ahead since we figured it would be pretty hard for me to take a wrong turn... nope, I still managed to go left instead of right and I ended up walking past the town instead of heading up. I figured it out when I couldn't see anyone on the trail ahead and turned around and started heading up. One of my favorite moments was seeing Paul on the wall around the village with my cup of tea. This was a beautiful area and we saw the "yeti" in the snow on Annapurna 2. After an apple pie for Paul and a Snickers for me we continued on to Ngawal.
 
@@ -371,7 +371,7 @@ We met Edwin and Scott for lunch, then attended the HAS(high altitude sickness) 
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipOdkew4BwPmx2uGYJfaqzyEnF4qDjPTofDRcidQ?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3ew7cG9DXc0cBTVwaBaNx4Mt6I5w8xpplzFv1wrwyOQtTvk4h6Ok9vJFwvj53guVNg533OYOCd_vFBPeRIZH5N-ABf883WiV0IprB4JXLqt61OJkV1U89gSIPOUw90bcfcaHtb2V8fK8TTBGMx0dY5xWg=w210-no" width="210" /><div>Gangapurna Lake</div></a> 
 </div>
 
-#### Tanki Manang
+## Tanki Manang
 
 At this point we were travelling with Jin and his porter/guide Ram was taking care of arranging our accommodation, which was nice. Today was a 14K journey with about 500m gain. One of the side effects of the altitude pills is numbness and tingling in your extremities... I am already bad enough with dropping things so probably not the best person to handle anything fragile. Unfortunately, I dropped Paul's Vapur water bottle on the frozen ground when trying to attach it to his pack so it shattered. Luckily we had bought a Nalgene in Kathmandu... it was a fake but it still worked. We had a nice walk, spent most of it with Jin and stopped for lunch together. The food wasn't great but the walk was beautiful. We got in to our place in the earlier afternoon and went to meet Edwin and Scott for a tea. When we were sitting there some other people came and sat with us, turns out they knew Scott's brother back in the US. He was their professor... small world. We all had a nice visit before we headed back. We ate in the common room with Jin and met lots of other people as the trek was busy. There was a lady, from Germany(?) who had hiked and lived all over the world, a younger guy from New Zealand, a young couple from the US and a 12 year old Ukrainian who was travelling with her Dad. Turns out she is a figure skater and this was her break. It was really cold at night so we were happy we had our warm bags.
 
@@ -386,7 +386,7 @@ At this point we were travelling with Jin and his porter/guide Ram was taking ca
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipNLUYBha2BkAw_fqwAl9W8-qROEPatIPR64U-Ro?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3cj77RbL_YbCmpVQA2y7hZa3Qjjzt8P4ikPOVIAm8RCs9hT9_yFwacGHAwXXRLhxWpb72OsxhxjkuqZzXH-k_YToDUll8jem6qXI_yVASrLrrbBlgencAOSSAGb8XRmzqb4pMm0RaU8wnWYvsOf159GeA=w370-no" width="370" /><div>The Gang</div></a> 
 </div>
 
-#### Thorong Pedi High Camp
+## Thorong Pedi High Camp
 
 On the way up you have two options to hit the pass. You can stop at Thorong Pedi at the bottom of the pass. It's a nice guest house and atmosphere but you have to get up really, really early the next day and it adds another few hours and a larger elevation gain to clear the pass. We decided to go straight through to Thorong High Camp. You still get up early but it shaves elevation and time off the big pass day. Ram went ahead to make sure he could get us a room which was great. We took our time and got to camp in the early afternoon. It's crowded here so we ended up sharing a room with Jin. After lunch Paul and Jin went up the hill at camp to see the view... I tried but the wind was freezing so I bailed.
 
@@ -404,7 +404,7 @@ When we got to the room, Jin had put hot pocket hand warmers in our sleeping bag
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipPxC6ZpK09LHG3C0suug507T_talZxYdAWZcJ3M?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3cgfrdhIot3l2yO6fO5cTbHiL_Gf8L1mY1ZsnkKM3_jiYmgXUuslL6bNWcrNQrWoOoc5L5VinBO7XftDkTNxYTy6r9V0d5S-OpcGhs1dz1XXHHpXb2i89EY5C_Mg2F6vNdRk7F_kiDoITzkPpaFbjZoZA=w370-no" width="370" /><div>Epic Views</div></a> 
 </div>
 
-#### Thorong La Pass to Muktinath
+## Thorong La Pass to Muktinath
 
 This is what it is all about, the highest pass in the world that you can cross by walking. We started off at 4 am after a breakfast of garlic soup. Paul was tired but said he was fine, slight headache. There were a lot of people heading up but it was so dark out you felt like you were on your own. Ram set a good pace and we started up. This was not easy, it was cold, dark and even with the head lamps hard to see. The elevation was also hard to handle and the air is noticeably thin. As we were heading up Paul started to feel unwell, his head started pounding and he felt very nauseated.... aka Altitude Sickness. At this point we had seen people on horses, huddled on the side of the slopes resting and people throwing up. Lesson learned, at the slightest sign, start taking Diamox! Ram felt we were close enough to keep going and Paul refused to turn around. We made the pass!! 5416m!!!
 
@@ -444,7 +444,7 @@ On our way out of Muktinath the next morning we popped into the famous Hindu/Bud
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipNuyRXJaFqEkBKjIkOhyEKZ15IA_QWrY9qpnUt7?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3cZ90lM-S2Li-zIUJaMmu07bUQvYvap6yNkyI-KYBOjlTmGV85a0d3HmAA_caTyLj6-Gf9dIQY6BXRqFf25gqP2kJUwIlPkESQKNz0MJc5qVwM-EsW4Y6izzuivyrln7QLp8iRwF5MpoBaoiYgaOludcQ=w370-no" width="370" /><div>Buddha</div></a> 
 </div>
 
-#### Jeep Roads
+## Jeep Roads
 
 A brief description of jeep roads. With all the development in Annapurna you can basically do the pass in 5 days. You jeep in to Manang walk over the pass and jeep out from Muktinath, most people take the bus from Jonsom or even fly out. The roads are 4x4 roads at best, narrow, with drop offs and huge channels since it's all rock and dirt. If a jeep breaks down, which happens a lot, it blocks the whole road in both directions for hours. While the development has made things easier for the locals to get around, it's also made it easier for all the tourists to come in. For trekking there are lots of trails that take you off the jeep roads. Just lookout for the red and white painted flags which are the NATT trail markers.
 
@@ -454,7 +454,7 @@ A brief description of jeep roads. With all the development in Annapurna you can
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipO6yHMMK0n_6fXgdFfwyAF1JkAeZWH7K0FHE-JE?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3e26VR5lNBoqocYi_-on-Dk8bpqZ9V-OLN0YCJjI_hssI2hA9Q_PfkY0L3ZSIgPB_X3a17cxoHpZR8BHSbgVp8bhfvnnRAaG8XjEFt9NLEeP_lfigvVuVfLsX7n7ZZE3SzWcYnQ6rwS2KREMQdpdlQ68Q=w370-no" width="370" /><div>Jeep Road Kagebni</div></a> 
 </div>
 
-#### Kagbeni
+## Kagbeni
 
 We said goodbye to Edwin and Scott, they had to get back for work so took the jeep to Jonsom. We headed off with Jin and Ram for our 11K walk. It was a dry and dusty walk down to Kagbeni but the scenery was amazing. On this side it seemed more like a lunar landscape then mountains. We saw villages and farmers, the area by the river was really green and there were orchards. We had a lot of elevation loss and not too much gain, so it was an easy day.
 
@@ -473,7 +473,7 @@ Remember that blister, the one I didn't get sorted? Well it had gotten very, ver
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipPSCKNHWD6C4sReJJw6ss05yDZAyCuwphih46jE?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3e4DGAt8op2gUya9EJVqqZXjvPZm-fLoK_gMUpFgQ31Ty0krcGgrk0KrEodqUTTyr93hsPzjoLdxUc9P_E4VnygUhY8jsiHa9FxgDI-UXiL8om8vKg5cskR_tgEEIZ3jXIoZ0rohzyF0Z5nT-KITU_10w=w370-no" width="370" /><div>Leaving Kagbeni</div></a> 
 </div>
 
-#### The Jomsom Hospital
+## The Jomsom Hospital
 
 The next day we decided we had an 18K hike to get to Marpha. My toe was really sore so we decided to stop at the local clinic/hospital in Jonsom. Jin needed to make up some time so was heading all the way to Marpha. We said our good byes at the hospital and Jin and Ram headed off. The hospital was pretty rustic but the nurses were nice and the doctor spoke good English. They took off my bandage and took a look at the toe... the blister had moved under the nail, lifting it up from the base of the nail bed so basically an open wound. The doctor told me the nail would have to come off and took me to the treatment room. When I asked if it would hurt, I was given a funny look and told yes. When they were actually able to take a close look, the doctor changed his mind. My toe was cleaned, wrapped and I was given a warning to stay under 5000m. $10 and 40 minutes... a new record.
 
@@ -483,11 +483,11 @@ The next day we decided we had an 18K hike to get to Marpha. My toe was really s
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipP1tXs_lY5RwyvKDhZkhNdIw_f8QyAqrMx_RIEa?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3d9HzhGFqepqCAoNFJW2Ha895refKKQcZYIh9uhKHZFoFRhNag03uZVCoJxPIxHEXYp2AEzCxM0Q7dLaVQKHLM2F9pMR1KyIWH8wwLp9bf5uZvJNe2TPuWDiLxw0DOcUN8lyYB2xkntMe5E_jPETp-3ZQ=w210-no" width="210" /><div>The treatment room</div></a> 
 </div>
 
-#### Marpha
+## Marpha
 
 After the treatment, the toe was feeling good so we decided to try and catch up to Jin and Ram. We did about an hour outside of Jonsom and continued on to Marpha. I really liked Marpha, the town had cobbled streets and was very pretty. It was also packed... with Russians. Apparently people have retreats there for companies and rooms were quite scarce. Ram got us into the Hotel Old Snow Leopard that was actually quite nice. We had a nice afternoon, Paul and Jin enjoyed the local cider and the food was excellent. We ended up doing some laundry and didn't see much of the town, so don't really have photos.
 
-#### Ghasa
+## Ghasa
 
 The next day was the longest yet, 26k with a lot of elevation changes. Jin needed to make up time so was going all the way to Ghasa, we said we'd do a game time decision in Kalopani and see if we would go on or not. In the end we stayed together. We ended up stopping for tea in a small village, we were the only non locals. There was a rain storm when we were leaving so Ram said we should stay for lunch and wait it out. The ladies there were really nice, gave us a little brazier to sit around. They were looking after a little girl who was trouble, but really cute. She kept watching us the whole time. We had a nice break while it was raining then headed off.
 
@@ -511,7 +511,7 @@ We all yelled out John Denver's Country Roads at one point to keep ourselves goi
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipPvRTUU3VfT-0X3wpoSI7NszIFRo027zD-mWq4k?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3dJt3Osl0IOdoQZU7BRge7UCif52uwhoAQCGN7Eal-JqKyc2WZhn3jSSSaIluICB-ei1GvHudLqJd6Z5Q_ITiA9Vs1Pw0Q2kQAOKWIT_inoRqOsurIyLctb2VvXkYLw5BdOSgaVxzx-l_YoipMkDIynkg=w210-no" width="210" /><div>Tricky Bridge</div></a> 
 </div>
 
-#### Tatopani
+## Tatopani
 
 Our next day was a more reasonable 21K. The area was beautiful and we had very little exposure to the roads... anywhere we did go through were cobblestone or rock. We stopped for lunch along the way and saw the biggest marijuana plant either of us had ever seen. Along with the cutest cow. It was a really nice place and we did take our time.
 
@@ -532,7 +532,7 @@ We had an amazing meal of Mali Kofta and biriyani. At this point Ram and Jin sat
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipPwhIw28yyokPaTHnVnz-se3Ce62jGNF8xYclNH?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3ctwvZ7xccnXQZOAadzxtpHC9C-TCkqnHTJnINlYL57Jjp8FTiPQwF2JzK4Gb4Yva0q0rsCOxmCrqSg84TAMAo_z2QoNeWjX1oPZXBlKGld5iATU4Ag5Do4hbpX0i_pFYhmz9-rc7OOAoDAmndb2RYotQ=w210-no" width="210" /><div>Massive load</div></a> 
 </div>
 
-#### Ghorepani
+## Ghorepani
 
 This was a day of stairs and rain. Ghorepani was 23K with a huge elevation gain of 1600m in total. When we started off it was a beautiful day. We stopped for a random tea and walked through lots of lovely villages. There were countless stairs and it was pretty continuous gains. We kept being passed by groups of young men. Jin told us there was a sports day going on... to me it was already a sport just getting there. We had a nice lunch in a small town where the games were and continued on.
 
@@ -559,7 +559,7 @@ Paul and I discussed what to do and decided to skip ABC for now, heading down to
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipPcSMy6RDu1ZL2LJ-FjoLEpNqpj5Lzp63zie5Re?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3elk9R_Ci_8OuDhG9bWzhtlt5sguA0GLde1crCSsFmqqXdBNPBpBSh6_7RtukUrGrNEW7mfCB6uZijMIsVoi5cOueYV4zhmH3yIBDuOLnf7ocbwckUVtJAq8Mn9CVinCNTKHmnV1ClBm598ajhTQnx9RQ=w370-no" width="370" /><div>Poon Hill</div></a> 
   </div>
 
-#### The Jeep
+## The Jeep
 
 Ram had arranged a jeep to take Jin to Pokhara from Ulleri. We asked if we could tag along and still not sick of us, they agreed. The walk to Ulleri was easy, all down hill. We took our time and had a nice tea stop. Along the way, we realized we made the right decision by leaving as the trail heading up to ABC was crowded with large groups, porters, ponies and guides. It was the busiest we had seen it.
 
@@ -571,7 +571,7 @@ When we got to Ulleri, we all loaded into a jeep and headed off down the road. I
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMC1tl18iYlujNqp2pmneM3WI-Xol5vSUa3H3rqrx21pQ_T0BRTY0Pmk2vUw7O29g/photo/AF1QipPNk6CjVo_nLZYwvJ-wWFsU8SG3i8mlmEAi1Tag?key=MlFjSlpRaC1ybnVERkJYSy11YUpiRjFtNVVNdGhn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3eESblog4rjr1SN3ap_voyhsx-MUuyeXYooM54X3W5s7wZtq7EE-qgItz7dp7UYM4D_xEPrT_OLB0dzxFFA75kSGozGuwRqovraF5qhMEFHGSkqz0OZFuOlRTX-XYm7qd8Btm2AQ_1Vwuu2rIAUsDojMg=w370-no" width="370" /><div>Well Deserved Rest</div></a> 
 </div>
 
-#### Pokhara
+## Pokhara
 
 When we got to Pokhara, we were dropped off at the place that Ram was hired from. Jin wouldn't accept any money from us to pay for Ram's services so we just gave Ram a big tip as a thank you for everything he did for us. Besides his infectious laugh, he was a really nice person and we really appreciated everything he did. Once Jin gave his review, we headed off to find a hotel.
 

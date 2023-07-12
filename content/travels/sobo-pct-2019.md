@@ -15,7 +15,7 @@ We got back to Canada on March 17th and started organizing our gear and training
 
 </br>
 
-#### Our Gear
+## Our Gear
 
 Here's what we had in our packs not including food and water:
 
@@ -31,7 +31,7 @@ And here it is all laid out on the bed, just before we left. Click to see the fu
 
 </br>
 
-#### The Big 3: Tent, Sleep System and Backpacks
+## The Big 3: Tent, Sleep System and Backpacks
 
 Since we were hiking as a couple we were able to split the weight of our [3FUL Lanshan 2 tent](https://photos.app.goo.gl/Pdqj4G2SRYgBHrfh6). It breaks down into an inner and a fly along with a DIY polycro groundsheet and the pegs. We specifically chose a 2 wall tent for this reason. We purchased this tent of Aliexpress for $115 CAD and had no problem with billing or shipping. That's a fraction of the price of most popular brand name tents. Needless to say the tent performed flawlessly in the 63 nights we slept in it and we would use it again on any other overnight or longer hikes.
 
@@ -57,7 +57,7 @@ Most ultralight sleeping mats are 21" wide or narrower. We found that we slept m
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMZK8p_vcSWK9bqdogl9uSQUPZ9v81NkI002Na-_f-KGrn51JkhaVeO3zVerqql7A/photo/AF1QipPnbh10ZdtkhP86cFzfcvWohtlBNjCY72C8L4GY?key=WVJlV1BXbjJrUHloU3FJOHRubkZJOHJMcElkY2V3" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AJFCJaUzPBgcCmE4XQAotPKyWK-1vyK3W1RwBQ7hQnmEBjVCongwLUyFm_xNgh5nohIQWhxKh5lcluDhuYyRZji8bUf1epgj_fCm7P9QcMilLzID959pc9XO2wFVHcglQXcj1r1T6EiS0Bk3FnUNWkDnC7Z6Mw=w370-no?authuser=0" width="370" /><div>MEC deluxe pillows are super comfy and light @ 172g</div></a>
 </div>
 
-#### Backpacks
+## Backpacks
 
 We purchased new packs for this adventure: [Northern Ultralight Sundowns](https://www.northernultralight.com/shop/sundown). They are made in Nelson, BC which is just a 2 hour drive from where we live. These packs weigh half of our old [Gregory packs](/articles/choosing-a-pack/) and are even more comfortable. The only downside is their price at $360 CAD each. We liked them so much that they are now our full time packs for everything: travel and hiking. They only weigh about 690g and have detachable hip belts and removable aluminum stays and can cinch down to comfy day packs. For travel we remove the aluminum stays in case we need to stuff them in somewhere tight like overhead bins on planes. We now have no problem meeting the magical 7kg carry on weight limit that many low cost carriers have and our backs sure appreciate it.
 
@@ -75,7 +75,7 @@ To keep our stuff dry inside the packs we used a couple of [Nylofume pack liners
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipPSAt6NhcimmQr4Cymljtjvm2DmHlR1iSG06MJGCZWNs-8u8h3nGV1ZsJr4mVkWCw/photo/AF1QipNSi9CNpJampgYoCKSl9sEbUmfZZMGA9W0PE9xg?key=WmxXX3lOVjlveERZVHl0dl9peXVkd2tYazF6SHN3" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3cPooC7wcWd_lGs6leYa1as9g9r4QEdw9y6M7NIxEBsYUa5ODSIIkQVTCNa5VPbFWsuJSsFBh0KeRsSpYaBSPBbnuFMExGp1cWLuB9DrJTzZj4WGteFDHDofZqvx_3GwfsJyLbBnEifp0DM_zQga41M1Q=w370-no" width="370" /><div>Mount Rainier</div></a>
 </div>
 
-#### Cooking
+## Cooking
 
 This was another area that we were able to share our stuff and reduce weight. We shared a stove and fuel and each had our own container to eat out of. For breakfast and dinner we would boil water for oatmeal/coffee in the morning and a dehydrated meal after setting up camp for the evening. For our stove we went with a [Soto Amicus](https://sotooutdoors.com/product/amicus-with-stealth-igniter/) that we found on sale on Massdrop. It has its own piezo lighter that worked with one or two clicks. We also carried a couple of mini Bic lighters for backup. Since all we had to do was boil water for 2 people we went with a single 1350ml pot and boiled both servings of water at the same time. The pot was a [Toaks 1350ml with attached handle](https://www.toaksoutdoor.com/products/pot-1350). For "cooking" we had 2 [Ziploc Twist ’n Loc Containers](https://ziploc.com/en/Products/Containers/Round/Containers-Twist-Loc-Medium) that we would pour in the ingredients, add boiling water then seal the lid and let sit until cooked. A couple of [Toaks titanium long handled spoons with polished bowls](https://www.toaksoutdoor.com/products/slv-11) let us get right to the bottom of the containers. These worked great along with the reflectix coozies we made to insulate the containers to help in cooking and preventing us from getting burned while holding them.
 
@@ -101,13 +101,13 @@ For food storage we had a couple of [Basecamp odor barrier bags](https://www.ama
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipPSAt6NhcimmQr4Cymljtjvm2DmHlR1iSG06MJGCZWNs-8u8h3nGV1ZsJr4mVkWCw/photo/AF1QipNARGewkUKNRt6LHI_JMO4aTup2nuKO0Y4NgFZ8?key=WmxXX3lOVjlveERZVHl0dl9peXVkd2tYazF6SHN3" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3c3LJJwBI_w0jeawDj4SD2Er_gvUkIsbFI9Re5ldOCjW0cBMMDidqUBI4xF06JzoEBSj6VvF4CEIFNILf6MwvC3_EdOdKqo6Gaw8sJtReLzDstD3oEncGEMvB2AABDZdbStoieULhjk-xSAcG8kA8PBeQ=w370-no" width="370" /><div>Basecamp odour proof bags lasted the whole 65 days</div></a>
 </div>
 
-#### Hitchhiking and Trail Angels
+## Hitchhiking and Trail Angels
 
 <a href="https://photos.app.goo.gl/yVvUSWojrsFdS5Nr6" target=”_blank”><img src="/images/image-gallery.png" title="PCT Trail Angels Photo Album" alt="PCT Trail Angels Photo Album" height="50"></a> [Here's an album](https://photos.app.goo.gl/yVvUSWojrsFdS5Nr6) of all the people that gave us rides or helped us out on the PCT.
 
 <Add more details>
 
-#### Photo Albums
+## Photo Albums
 
 <a href="https://photos.app.goo.gl/kDzn1mFpAYbWFJSm9" target=”_blank”><img src="/images/image-gallery.png" title="Harts Pass to border to Rainy Pass Photo Album" alt="Harts Pass to border to Rainy Pass Photo Album" height="50"></a> [Harts Pass to border to Rainy Pass](https://photos.app.goo.gl/kDzn1mFpAYbWFJSm9)
 
@@ -127,7 +127,7 @@ For food storage we had a couple of [Basecamp odor barrier bags](https://www.ama
 
 <a href="https://photos.app.goo.gl/jT4cXG7gZ6pYUAAF6" target=”_blank”><img src="/images/image-gallery.png" title="Ashland To Carson Pass Photo Album" alt="Ashland To Carson Pass Photo Album" height="50"></a> [Ashland To Carson Pass To Creston](https://photos.app.goo.gl/jT4cXG7gZ6pYUAAF6)
 
-#### Map and Journal
+## Map and Journal
 
 Below is a map showing all of the places we camped as we hiked from Harts Pass to the Canadian Border and then headed South to Crater Lake in Southern Oregon. It also shows how we took a break in Ashland and then skipped down to South Lake Tahoe from where we had hoped to head into the Sierras. We've also attached Helen's journal that she worked on pretty much every night after hiking.
 

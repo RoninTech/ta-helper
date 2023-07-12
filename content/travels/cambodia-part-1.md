@@ -17,7 +17,7 @@ Cambodia (Part 1)? What? Why, you ask? Even if you didn’t, I’m pretending yo
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO1kp4khayMoI1-b69c3tBE-JNsrwY5GkMfxGJirR8CkiLn3YgzvMPYtz-AiYAeIA/photo/AF1QipNNY_d0HsEjHQ4YtXlp0K8AIKZEH1KTmIZFRAzC?key=Mk9uTDYxT3pha3dwVFh5QUtpc3UySUZrV3NISFdn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3edAavbZU3KDdHMlf1-TIUraXp4iY9PkbcyYrmHBM--XMK2dWy4rEoGUKBzYL4yQBilSQ1SOIVkYKx4auM0GShK9sfOeko9xg0_J0fYNfvf5xgTTsGhmtpd7ncE85ZkbfkVX8FFkme4jyE67CoHlMTW4w=w370-no" width="370" /><div>We were all heading to Siem Reap from Laos</div></a> 
 </div>
 
-#### Siem Reap
+## Siem Reap
 
 So really, you go here to get to Angkor Wat. We arrived after a fun, yet harrowing bus ride… the driver fell asleep and had drifted into the oncoming traffic lane. Thankfully he was woken up before any harm was done, but everyone was wide awake after that! After checking into the Schein Guest House we arranged to go see Angkor Wat. We booked a tour with tuk tuk driver [Tino](https://www.facebook.com/tinothai), who our friends Pat and Liz had recommended and setup a 4am departure for a sunrise start. Early the next morning we got to the ticket office, waited in line, got our tickets and headed over.
 
@@ -75,7 +75,7 @@ If are you ever in Siem Reap the [Phare Circus](https://pharecircus.org/) is a m
 {{< youtube XuWLDv1POTU >}}
 </br>
 
-#### Phnom Penh
+## Phnom Penh
 
 <a href="https://photos.app.goo.gl/awxApQKtKVodwckW7" target=”_blank”><img src="/images/image-gallery.png" title="Phnom Penh Photo Album" alt="Phnom Penh Photo Album" height="50"></a>
 

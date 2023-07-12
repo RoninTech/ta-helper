@@ -56,7 +56,7 @@ In summary here is the typical preferred order for travel banking for Canadians.
 6. Tangerine debit withdrawal from Global Alliance ATM. Pay no ATM fee and mystery ForEx fee of likely 2.5%. NOTE: if 1.5% or lower ForEx, swap 5 and 6.
 7. Tangerine debit withdrawal from non-Global Alliance ATM. Pay $2 ATM fee and mystery ForEx fee of likely 2.5%. NOTE: if 1.5% or lower ForEx, swap 5 and 7 for withdrawals of $(3/ForEx). For example if ForEx is 2.5%, withdrawals of < $120 are better this way. For 1.5%, swap 5 and 7 for withdrawals < $200. These exceptions beat $5 minimum for $5.
 
-#### Some final tips
+## Some final tips
 
 - Call your banks and let your them know you are travelling. This can avoid denied transactions if they think someone is hacking your account from another country.
 - Don’t keep all your money and all your cards in one spot. Distribute it evenly if you are traveling as a couple. Even then each person should have more than one storage spot to increase the chances of having a backup in case something unexpected happens.

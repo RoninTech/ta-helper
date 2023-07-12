@@ -13,7 +13,7 @@ After some very crazy, hectic, emotional weeks we are on our way. We left on the
 
 We had our [Phil’s Diner breakies](https://www.google.com/maps/place/Phil's+on+11th/@51.0306433,-114.0866417,13z/data=!4m5!3m4!1s0x0:0xbae08a7bf6717cea!8m2!3d51.0431006!4d-114.0908825?shorturl=1). Our first breakfast after we arrived in Calgary in 1993 was at Phil’s so we decided our last should be as well. We went to the [Pig and Duke](https://goo.gl/maps/mCLJATgiD9d6BFRL6) the night before we left to celebrate being done and Paul’s Dads birthday.
 
-#### On Our Way
+## On Our Way
 
 We started with an early wake up on February 28th so we could make it to the airport and through any glitches with customs. We shared a Tim Horton’s with Paul’s Mom and Dad, then said goodbye. It was all a bit surreal, but it kinda felt like we were just leaving on our usual month long holiday in Thailand.
 
@@ -26,7 +26,7 @@ That was it… we were now on our way! Freaky? A little… exciting? Majorly! Se
 
 We had 5 hours in Chicago with a terminal change. We debated going into the city but decided not to, concerned about it being too rushed, getting through security, etc. Instead, we hung out in the lounges. Ahh, the privilege of business class. 😎 While we were there we wandered through the airport, watched the news, read, etc. We also watched the weather. There was a tornado warning in place but thankfully, nothing happened. We easily boarded our Swiss Air flight to Zürich.
 
-#### The Trans Atlantic Flight
+## The Trans Atlantic Flight
 
 What can I say? I was so glad we used some of our [Aeroplan](https://aeroplan.com) air miles for business class. The plane was newer and the pods were really comfortable. The service that we got was fantastic, the food was great and even the crying toddler in front was bearable. The Swiss Air people sure know how to do gluten-free meals, some of the best airplane food I’ve had and no rice cakes!!! The only issue was that anytime Paul needed to get up, he had to climb over me when I stretched out. Not a major issue for us.
 
@@ -40,7 +40,7 @@ The flight was great and we landed in Zürich on time and ready to go. We were o
 
 We decided to store our bags and tried the lockers, figured we had it covered since we had Euro’s… not so much, we needed Swiss Francs. Luckily there was a manned luggage drop close by so we were able to leave our bags and pay by credit card. We were off on our way to explore the city.
 
-#### Zurich
+## Zurich
 
 When we were researching what to do we came across a post that talked about taking the train into town and walking the loop. Easy peasey, went to the auto kiosk, plunked in our money, got the tickets and on the train. I pointed out Zürich Insurance signs, I worked there for 7 years and the head office is, of course, in Zürich.
 
@@ -69,7 +69,7 @@ Off we went on our tour of the city. It was really neat, cobbled pathways narrow
 
 We walked for about 2-3 hours and had a great time. Unfortunately we weren’t able to get a ton of shots of the lake with the mountains. Made it back to the train station, used the correct tickets and off to the airport.
 
-#### Onto Bangkok and Beyond
+## Onto Bangkok and Beyond
 
 We collected the luggage from the storage shop outside ZRH airport, using lesson learned #2 and went back through customs. After spending some time in the lounge recovering from our walk in the city, we called our folks and then we were on our way to Bangkok. The Swiss Air flight to Bangkok was super smooth, again great service and food. We used our priority passes to get through immigration in Thailand. Since we only had a couple of hours in Bangkok, we didn’t do much. Managed to get our first of many sim cards, hit the domestic business lounge for a bit then off to Krabi.
 

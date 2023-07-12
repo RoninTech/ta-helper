@@ -11,7 +11,7 @@ album: "https://photos.app.goo.gl/Fknra4iZJxKgBoJV6"
 
 The Land of Laos was next on our list. We met wonderful people, saw some beautiful sites and had a blast. We spent the most time in Luang Prebang, Vang Vieng and the 4000 Islands.
 
-#### Slow Boat on the Mekong to Luang Prabang
+## Slow Boat on the Mekong to Luang Prabang
 
 This is a two day journey with an overnight in Pak Beng where we stayed at the [Monsavanh Guesthouse](https://goo.gl/maps/SM8ZzGJj3SJ2). We crossed over the Mekong on the [Friendship bridge](https://goo.gl/maps/Vbenx51ahV3DynQM9) which is the border at Chiang Khong into Laos and then took a minibus to the slow boats. The seats were basically car seats dropped into a boat. We stayed away from the back of the boat to avoid the engine noise and enjoyed the sites along the Mekong. These boats are big and can easily hold 50 people. We had a great Indian meal and our first beer Laos at the [Hasan restaurant](https://goo.gl/maps/7hEr7vSyyhvekZE29) in Pak Beng. Every once in a while you would see a boat heading upstream. These were usually very and small and scary fast.
 
@@ -55,7 +55,7 @@ This is a two day journey with an overnight in Pak Beng where we stayed at the [
 {{< youtube t5TbcrvK6MU >}}
 </br>
 
-#### Luang Prabang
+## Luang Prabang
 
 <a href="https://photos.app.goo.gl/pdTjrwVcfOPX86mi1" target=”_blank”><img src="/images/image-gallery.png" title="Luang Prabang Photo Album" alt="Luang Prabang Photo Album" height="50"></a>
 
@@ -93,7 +93,7 @@ As a UNESCO site, development has been very closely controlled in the Old Town. 
 {{< youtube 2oLakO-S0OU >}}
 </br>
 
-#### Vang Vieng
+## Vang Vieng
 
 <a href="https://photos.app.goo.gl/MYrGsVvhnCcp7r2W2" target=”_blank”><img src="/images/image-gallery.png" title="Vang Vieng Photo Album" alt="Vang Vieng Photo Album" height="50"></a>
 
@@ -125,7 +125,7 @@ Took the minivan through some beautiful mountain scenery to Vang Vieng. Had a gr
 {{< youtube vt0_MtuVNLg >}}
 </br>
 
-#### Vientiane
+## Vientiane
 
 <a href="https://photos.app.goo.gl/YqMxcVv9wuqjHDT28" target=”_blank”><img src="/images/image-gallery.png" title="Vientiane Photo Album" alt="Vientiane Photo Album" height="50"></a>
 
@@ -145,7 +145,7 @@ We only spent one night in Vientiane. Had an excellent Indian meal at [Jamil’s
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMRZaJd2rv1YrXtOxZxpBuapIZASSTnQB7bjfVCT9bbCXDhPuR4qWDL5d0Z4qdfRw/photo/AF1QipPX5ujU1bh_TgoWxr-D1N4mPhFcD8KisLE1hj5f?key=MXJLcVlsTkJmWEhoRlJsXzdCZEZhZHRJVW9sM1NR" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3fLJEUAxo6IdTgHvpOulmXuLvSBxLjPxeQAPYMiA1sC4ghZeKP4B02sdekQ1FTeMULzQqeErp5-gHiTWcnvlgjnUzMT81oeDQOHJ0qwuMAeF-_PIpuehendRaeqeUQ9ngc8N5MnwI0L-qZMasVHACQnXQ=w210-no" width="210" /><div>Great pizza at Tyson's</div></a>
 </div>
 
-#### Thakhek
+## Thakhek
 
 We were all ready to do the famous motorcycle loop here but weren’t able to as Paul got a bad sinus infection so we spent a week at the very nice [Le Bouton dOr Boutique Hotel](https://goo.gl/maps/rxbWzjkfZdcm4zoE6). We were able to spend more time with Nok. Had some nice food and went on a random somewhat questionable walk (that was me and I got lost in the country). Headed off on the local bus to [Pakse](https://goo.gl/maps/TB9rrqqAkXkgadir6) on which we were pretty sure we were offered BBQ'd rat (country not city!) to eat. We had a great meal at a local restaurant, then the next day another bus ride plus boat to the [4000 Islands](https://www.google.com/maps/search/4000+Islands/@14.0988048,105.730105,11z/data=!3m1!4b1).
 
@@ -165,7 +165,7 @@ We were all ready to do the famous motorcycle loop here but weren’t able to as
 {{< youtube VAjw9xqMW-U >}}
 </br>
 
-#### 4000 Islands
+## 4000 Islands
 
 <a href="https://photos.app.goo.gl/jJkpFFnPxuFUC3jB3" target=”_blank”><img src="/images/image-gallery.png" title="4000 Islands Photo Album" alt="4000 Islands Photo Album" height="50"></a>
 

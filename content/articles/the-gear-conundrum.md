@@ -32,6 +32,6 @@ Sounds like a lot right? Well, hopefully it doesn’t pack like a lot because we
 
 We are still looking into the best travel debit and credit cards since we don’t want lots of fees while travelling and this will take some additional research since there are so many out there. Back to the blogs I go.
 
-#### Update - July 2019!
+## Update - July 2019!
 
 We've [added a page](/packs/) for each of our packs using [lighterpack.com](https://lighterpack.com). You can see exactly what gear we have in our carry on only backpacks.

@@ -17,7 +17,7 @@ album: "https://photos.app.goo.gl/auCJzPB9De44zf6d8"
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipN6mEVFRqf2Qfa3POcIYEd__PFDa7crJ2jZMkXk?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3dhHUW2YCbMjaTQyqoHeVf3mMc2mRZCA-zH67DGIfMo8QZfTiSsoVzBTxa_NXlCRrXNIpHIDQ7FL6J79QdWe48Qy2jM2EJvnU_Ypqetp7dVeC2Hhev9mTWZ1TGjZFHoDcaLVBr6KQHummuddvynfA3Yjw=w370-no" width="370" /><div>Blustery</div></a>
   </div>
 
-#### Hobart Area
+## Hobart Area
 
 We arrived here quite early and went to get our next van from Tassie Motor Shacks. It was on the weekend but the owner was nice enough to pick us up from the airport in the pouring rain. This older van we called Tassie because it was tough like a Tasmanian devil and got us through some sketchy roads… thanks to Google and it’s preference to take us on undeveloped roads. We spent a cold, wet night in the camp kitchen at the 7 Mile Beach campground before heading off to Port Arthur. Luckily the van had power and a space heater, and the owner had given us extra blankets and towels, so we were nice and cozy.
 
@@ -30,7 +30,7 @@ A special mention should go to Paul for trying to start a fire with extremely we
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipOCJKk9pllM3YsHhideqcX5kGPW2RNM5l2Spbsq?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3cXljH8EhLZujE5HxHyzbhBkq6mTqY7QNpbJywB5YkNGZO4LgYRVZyxUwPSTz1ijRRR7Slp5vsmzu8QmGuHpkFVvPX1JG9M2y87M-O-HMVpPNQLzwU_5yx1Xreq5xsFYBB92ONsJYgEjpAVnDFvqIbrtA=w315-no" width="315" /><div>Paul practicing driving with eyes closed</div></a>
 </div>
 
-#### Port Arthur
+## Port Arthur
 
 This is an area that is totally worth exploring. On the way there you see Pirates Bay Beach, the Devil’s Kitchen, the Remarkable Caves and a hike to the Maignon Blowhole. Someone may of climbed over the fence and explored the Remarkable caves… If you guessed that was Paul, you are correct. The funniest bit was when he was climbing back up, he was rushing because some people were coming and he didn't want to get caught. He ended up wiping out coming over the railing so everyone noticed!
 
@@ -49,7 +49,7 @@ After exploring all day we checked in at NRMA Port Arthur Holiday Park. We had a
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipN3f061FqAnWehai0C0ys5z7743o-Dd3jLG3Uyu?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3e-nEN8_O8sJXRV5kX9_fo7uk1uJ6oFwNnpsbyqW5Iz_OiXVpESRxPukZn460jd7-U3VcRt3biunb-WzOghvPa8z-__aXqhsQzY0ie28kbn394CsLfU9UrYmeAQ0ruVQpSfjgooOnSDku6Q3mg16KHR_A=w370-no" width="370" /><div>Camp Creatures</div></a>
   </div>
 
-#### Cape Raoul
+## Cape Raoul
 
 This is an awesome hike, a bit of a slog at 14km there and back, but so worth it. The weather was perfect for hiking as it wasn't too hot and we were lucky enough to see humpback whales from the top of the cliffs. We had gotten to the tip of the cape when we heard a voice. There was a lady up there having lunch and once we recovered from our fright we had a lovely visit for over an hour sharing stories of travels.
 
@@ -68,7 +68,7 @@ The trail starts off in a forest and heads up to the cliffs, then goes back thro
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipNRSn3o_XteipHtnYH14XDbyB4UiMGvMgO3ZUya?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3eYMkaCvl2XHTO9YQbol0v2f_b8RXHRVhOI_BnfvpUj9GJfRQLqhm_sgYki3zaWPQR_NPcrU7HHlOKBCzcfQ-PXJL_1BsU4V0PiJz2_XmdvrZVb8lnGFora6H9KMHN0VI0ubwaTMCt7d5lg_DWXPPdxOw=w210-no" width="210" /><div>Made it!</div></a>
   </div>
 
-#### Cape Hauy
+## Cape Hauy
 
 After a night of rest, we decided to head off on the next part of our journey but first we had to hike Cape Hauy (9km return). We were warned there were a lot of stairs but we thought we could handle it. We did it, it hurt, but the views were totally worth it. There were a lot of up and downs rather than just a steady uphill/downhill. When you get to the platform at the end its a crazy vertigo inducing view, especially if you look down over the railing. There is a stone pillar called the Totem Pole that people climb and sometimes even highline back to the main area... crazy!
 
@@ -94,7 +94,7 @@ From here we headed to the north part of the island. We decided not to go to Cra
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipNu0u4L-9SOWl-UjQVBbNbtGsov34GBkjT7eJ4c?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3d17GLY9ccO4pr4T6NZtDz1kNEOWIMrOtnohnW5XrO9vGNAAMU9gUekmUtF-nJ1_w9DHbN5vYN20aU2dhp_kDGyeTqBdTuApmFKguuNnpp8BQNBYQQVqKE8chsacBBFMsFZiNabwoGL16mmyf8gjjxpEQ=w315-no" width="315" /><div>NomNom delish!</div></a>
   </div>
 
-#### Maria Island
+## Maria Island
 
 We hesitated about doing our day trip to Maria Island as it was very expensive ($50 per person with Encounter Maria Island) but in the end we are so glad we went. It was a great day and we really enjoyed wandering around the island and seeing the sights and the animals. The painted cliffs are amazing, the photos don’t do them justice, The island is covered in ruins and has quite the history. It was originally settled by Aborigines, then the British, convicts, whalers and sealers. Now it’s a national park inhabited by wombats (we weren't allowed to take one home) and roos.
 
@@ -119,7 +119,7 @@ The next day, the weather wasn’t co-operating where we so we headed back down 
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipMxN7qJ5TTzLQY_tSJyhhb22fobeXEIitwiynNN?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3coK_hRhAW85uiaKYJBsdoo4RVB-bcibhVqh-VUIY_Uz3tq_6upNU2HtsX2wxZzCQoLbae5NbRjtpfwoqD36DcLuzQVR5Jgy4BGqLKwyp9Q57s5hb81JypbDa1l1qBtItBwSh0jQCkUrA5whOsShsiBPw=w370-no" width="370" /><div>Mt. Wellington</div></a>
   </div>
 
-#### Huonville & Area
+## Huonville & Area
 
 We decided to spend our last days in Tasmania in this area. The place we stayed, Huon Valley Caravan Park, was a small working farm and Tasmanian Devil rescue. They had some of the remaining breeding devils on the island. Few, if any, live in the wild. There were ducks galore, calves, cows, chicks, and a platypus stop on the river. We never saw the platypus but Paul was itching for his fly fishing gear when we were down by the creek.
 
@@ -131,6 +131,6 @@ We spent the day exploring the area and the next day headed up to Mt Hartz Natio
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipMzE2mVRxeCLoU6Tbf6veY-xPPOmPbSpnx5jY47?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3e6CRui7x4q2IxuI_-fW1wBTP8VXtxTDEH0wQDP6KIi_eGoKyhfQW2Iyu5Cy70OT436Pq2Q80tAA_bRM3SUxpJW7N9ihXNxg_1wZxDCH5LL1jn0-5RJZU6zmGttxKYKT8Qk-NOY1nAwcl1i0JR8QkhpLg=w370-no" width="370" /><div>Lake Osborne</div></a>
   </div>
 
-#### MONA
+## MONA
 
 We had sometime before heading to the land of hobbits, so decided to go see the recommended Museum of Old and New Art, MONA. People we met kept telling us “it’s spectacular”. They weren’t wrong, they just didn’t specify it’s spectacularly weird. I know art is subjective but… we were done before we were halfway through. A guy sitting showing a tattoo on his back, a room of ceramic vagina casts and a poop machine? I can see tattoo’d backs on any beach, the vagina room well… use your imagination… and who isn’t a poop machine, really? If you want to see all our MONA pictures and videos, check out our album here. Next stop, New Zealand!

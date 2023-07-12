@@ -39,7 +39,7 @@ We now had 8 exposed bolt holes and 8 5-degree bevelled pads which will support 
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO-0rET7XafecISfWb_1cuW2bY9RzO3vEmhvtBrr3Jx-A-tkV5uajVaanHs-YAJXg/photo/AF1QipOUTNU9Bo8M_f8GdmYbx5pygX0IJSMyu0Y8U-3R?key=c2lmY3NBczBtaVBZRy1XT3FTZUNiRUpoNmJNY3R3" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3fYB-bCIxiXD-HQQmJpT32OarnsiFSNcJadzATVNcjFWRkFOiKdw2OhkeCItUQgXpkarTO4wKEIhJPbPduLP_iiNMwsk03G9GQ4rVpB5UM2gcCtHIS3sNQCcF7skWvPn9Sxohd7wKE0dzndATAnwfKQRA=w210-no" width="210" /><div>Checks out from above</div></a>
 </div>
 
-#### Pro Tip!
+## Pro Tip!
 
 Always check your roof for stuff after you have worked up there. You don't want a screwdriver falling off at highway speeds! Went to admire the new roof rails and spotted a forgotten screwdriver a few hours after "finishing" the job. 😲
 

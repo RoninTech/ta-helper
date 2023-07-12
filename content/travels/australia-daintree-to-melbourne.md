@@ -11,7 +11,7 @@ album: "https://photos.app.goo.gl/CjANyn2tx8zhRYoB8"
 ---
 Australia Part 2 was us heading back south from the Daintree down to Melbourne and beyond. The original plan was to head back inland but we ended up going back along the coast. The reasons… a random message allowed us to reconnect with some of our favorite people and why not? We really enjoyed some of the places on the way up. Plus we needed to test out the Zombie Apocalypse machine that we saw on the way up. Seriously, Zombie action? Head to Australia during Sugar Cane Harvest.
 
-#### Queensland to New South Wales
+## Queensland to New South Wales
 
 We skipped some places we had already seen but did end up back in a couple of the same locations because we liked them so much. After a quick overnight in Rollingstone, no relation to the magazine, we headed to Ayr for some upcoming rainy days. This worked well since we decided to head out Alva Bay and do some planning. We spent a few days planning Tasmania and New Zealand. It was a nice break from driving and the people where we stayed were very friendly. We did manage to get in a couple of walks to the beach during rain breaks.
 
@@ -31,7 +31,7 @@ After the rain we headed down to Bowen. The decision to pass on Airlie and the W
  
 Next stop was Hideaway Bay which was a neat place.  The site had sustained some damage a couple of years previously so none of the trees had recovered and it was more of an open field. After a nice walk down the beach and rocks, we had the chance to pet and hold a baby wallaby.  The little wallaby was there because the mother had been hit by a vehicle and the daughter was a wild life rescue contact.  It had to be carried around in a sling pouch and bottle fed, they didn’t think it could survive in the wild so it would be taken care of in a local park.
 
-#### The Capes
+## The Capes
 
 A drive to Cape Hillsborough to see the kangaroos who feed on the beach was next on the agenda. The campsite wasn’t great, but it was just one night and we would see something cool the next morning. There was a great hike in the area to a place called Arthur’s Point. Even though it was really hot, we managed to make it to the top and had a great walk. There were sea turtles, we walked across the sand bar to a little island and really enjoyed the day. That night was horrible… we call it “night of the sandflies”, even with screens on the windows, the little buggers made it in DV. 5am and we were on the beach with the rest of the crowds to see the kangaroos. A neat experience but we were both so tired we didn’t stay long and headed back for a snooze.
 
@@ -52,7 +52,7 @@ We had a couple more stops along the way as we headed to Brisbane. A stop in Cap
  
 There was a second stop in Moore Park and Hervey Bay… we really enjoyed those locations
 
-#### Brisbane
+## Brisbane
 
 When we arrived in Australia the news was full of flooding in the US. Our old neighbors had moved there several years ago so we sent an email in hopes that they weren’t affected. Turns out they weren’t… because they had moved to Australia two years before! Apparently we had lost touch! Anyhoo, after a few exchanged emails and phone calls, arranged a visit and we headed to Brisbane. A big thank you to Mark and Stastia for letting us stay in their beautiful home, some amazing food and beverages along with a fun day at a beer tasting. I just have to say that we were spoiled rotten with lamb lollies, fancy steaks, all sorts of cheese and wine… I was willing to stay for another week or two but didn’t want to wear out our welcome. It was great to reconnect and have a taste of home.
 
@@ -62,7 +62,7 @@ When we arrived in Australia the news was full of flooding in the US. Our old ne
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipOYQY5B8kgjrBLn_swWAI-CyvcfzcZ6wcuCp49QzlKUZ6OR9YHn-LIJTGERW-x8Mw/photo/AF1QipPimbNfLDSQEcI9nWYs_n2eHaTSSNJROlm8VfTS?key=cmtfcGZDVE9vSElnblRqdVdMeG9aOWpKWnAxWGRR" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3eKz6_eStvOADqPBiJPoeylwURfIFPKccTUJ5dMDriKx-HiM9KYeKBQidBT3q1fsm7fCmHkhpWcQSjGux9hUoXOXHx0ryAZk9uSAp9uthswxEpKyZTfycuW4gukQ-UsnLUd18EK4LvK7HKPnq1jSVu7DQ=w370-no" width="370" /><div>Brisbane</div></a>
   </div>
  
-#### The Gold Coast
+## The Gold Coast
 
 This area was a bit of a blur, we went through it quickly… well, quickly for us. We stopped in Byron Bay and were at the eastern most point in Australia. We did have the wine sacrifice in Suffolk Park which was sad. Saw tonnes of surfers in one area, including a little kid who will probably be a champion one day!
 </br>
@@ -73,7 +73,7 @@ This area was a bit of a blur, we went through it quickly… well, quickly for u
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipOYQY5B8kgjrBLn_swWAI-CyvcfzcZ6wcuCp49QzlKUZ6OR9YHn-LIJTGERW-x8Mw/photo/AF1QipNz6n0Z8LUduomcayK-VaVEAr79uhmbMlbJEmvL?key=cmtfcGZDVE9vSElnblRqdVdMeG9aOWpKWnAxWGRR" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3dOjhWd_0o2aeA3oKT_m9Xk0EAdhB1uUBVSnZs-Y84YTmnZGkcSdFdP5knWhvZ7DtKU0g3dJ8bX5mKoCfvwnCJ4oTZ030KC-sP-oTkaltGplIq0UiP32bQwKNM5Jpg76bZJ4_Jq29WEuh0ujm2S8oG_kA=w370-no" width="370" /><div>Surfers</div></a>
 </div>
 
-#### Honorable Mention
+## Honorable Mention
 
 In Port MacQuarie we spent some time at the koala rescue facility. Here they rescue injured koalas and rehabilitate them to live in the wild. Unfortunately some are so badly injured they can’t be released. It’s a well run facility and worth a visit if in the area. We also went to the MacQuarie house, turns out they immigrated from Liverpool which was neat. By far one of the highlights of the trip was dolphin watching in Nelson Bay. Yep, we got up at 4am to get to the boat and go see dolphins. It was cold, rainy and amazing!
 
@@ -84,7 +84,7 @@ In Port MacQuarie we spent some time at the koala rescue facility. Here they res
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipOYQY5B8kgjrBLn_swWAI-CyvcfzcZ6wcuCp49QzlKUZ6OR9YHn-LIJTGERW-x8Mw/photo/AF1QipN3QwHKAH5y966K4A9-2brjpWNyrrQ7Zf_ihPmN?key=cmtfcGZDVE9vSElnblRqdVdMeG9aOWpKWnAxWGRR" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3eLsifafTV1ZHHN7isLjn_qYTXVbOEcOpjVhiiaI_DEsYFTnqhFXaJm7KlD8YeFnz3ehjyrXQps-dyeNgUafz_PZxkiXE72pbyI-IXqkBlUTDeQHApUBWpcEN6neui6fj89ULaSy6dRgMQs6rXJULLdqg=w370-no" width="370" /><div>Dolphins</div></a>
   </div>
 
-#### New South Wales
+## New South Wales
 
 We spent two nights in Sydney at a local campground. It was neat since only a 15 minute walk from the train to get downtown. We spent some time downtown, explored the harbour, the Anzac Memorial, an art gallery, the gardens and saw the Opera House. We took a ferry over to Manly Island for lunch and did some more exploring before heading back to the DV. One of the cooler experiences was seeing 3 baby owls on a tree by the camp ground. Unfortunately Paul got hit with a cold so we spent a few recovery days in Kiama where I wandered the streets looking for coffee, went to the stores and walked over to the lighthouse and Blowhole. In the centre of town there was a massive old tree that was nicely protected from development. Our favorite memory here was a massive storm, the thunder was so loud that people in neighboring trailers screamed and we jumped. There was also a massive bang with a lightening strike. The next day we heard the big tree was hit, no one was injured but unfortunately the tree was badly damaged.
 
@@ -104,7 +104,7 @@ The next major stop was heading to the Great Ocean Road. We had many little stop
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipPSN7lM1gZmVbSTWdKNwqP06tK--UY-E1usTiO1OYIMfan3FAj_SRH_Tc5rrZhFXQ/photo/AF1QipPhbDYEj5Du94CltRoeeQV8TcdzIptQO2B7B7ZX?key=TDg3M1FaSG42V2trTVZPM2FDQWcwdF8wR3BwcE1n" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3fIGNWQ1kzX4CY6w0FZQqv8nL_-enZAo2S7fAtNGUdMUjiAPK5Wf23C9WEwwhQ3-TQJbrg8gJOfSqALgNRONZLvyYR7BlgC8bVaxAaIj7nTl9efIDvb97PrS2scFaYD5ujqFEDp3ZcvUtEJGaeLDbbgDQ=w315-no" width="315" /><div>Wilson Promontory</div></a>
 </div>
 
-#### The Great Ocean Road
+## The Great Ocean Road
 
 We spent 3 nights in Port Campbell so we could travel the Great Ocean Road before heading to Melbourne to return JCDV. We weren’t sure what to expect but we were not disappointed. The area is very busy with tourists but the majority are buses loads that do tours from Melbourne. You can still have a great experience, even with the crowds. We went to the Apostles, The Arch, Loch Ard Gorge, The Grotto and London Bridge. A great way to end our time with JCDV and on mainland Australia. We also did the Port Campbell discovery walk along the cliffs which was awesome.
 
