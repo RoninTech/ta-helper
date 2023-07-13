@@ -46,55 +46,56 @@ url = "https://www.youtube.com/@CarryOnRTW"
   show_reading_time = true
   commentoEnable = false
   mainSections = ["travels", "packs", "articles", "van-life"]
-  custom_css = ["formatted_tables.css", "next_prev_links.css", "site_search.css"]
+  custom_css = ["formatted_tables.css", "next_prev_links.css"]
 
 [menu]
   [[menu.main]]
     name = "Home"
     identifier = "home"
-    url = "/"
+    pageRef= "/"
     weight = 1
 
   [[menu.main]]
     name = "Travels"
     identifier = "travels"
-    url = "/travels/"
+    pageRef= "/travels"
     weight = 2
 
   [[menu.main]]
     name = "Packs"
     identifier = "packs"
-    url = "/packs/"
+    pageRef= "/packs"
     weight = 3
 
   [[menu.main]]
     name = "Articles"
     identifier = "articles"
-    url = "/articles/"
+    pageRef= "/articles"
     weight = 4
 
   [[menu.main]]
     name = "Van Life"
     identifier = "van-life"
-    url = "/van-life/"
+    pageRef= "/van-life"
     weight = 5
 
   [[menu.main]]
     name = "About Us"
     identifier = "about"
-    url = "/about/"
+    pageRef= "/about"
     weight = 6
 
   [[menu.main]]
     name = "Contact"
     identifier = "contact"
-    url = "/contact/"
-    weight = 7 
+    pageRef= "/contact"
+    weight = 7
 
   [[menu.main]]
-    name = "Search"
+    name = " "
+    pre = '<img src="/images/search-left-grey.png" alt="Search" title="Search" height="26">'
     identifier = "search"
-    url = "/search/"
+    pageRef= "/search"
     weight = 8 
 
 [module]
