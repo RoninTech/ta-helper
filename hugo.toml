@@ -93,7 +93,7 @@ url = "https://www.youtube.com/@CarryOnRTW"
 
   [[menu.main]]
     name = " "
-    pre = '<img src="/images/search-left-grey.png" alt="Search" title="Search" height="26">'
+    pre = '<img src="/images/search-left-grey.png" alt="Search" title="Search page" height="24">'
     identifier = "search"
     pageRef= "/search"
     weight = 8 
