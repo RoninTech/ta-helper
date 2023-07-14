@@ -10,6 +10,14 @@ googleAnalytics = "G-QT3G9GJDXC"
 enableRobotsTXT = true
 enableEmoji = true
 
+[[params.ananke_socials]]
+name = "search"
+url = "/search"
+label = "Search"
+[[params.ananke_socials]]
+name = "home"
+url = "/"
+label = "Home"
 #[[params.ananke_socials]]
 #name = "twitter"
 #url = "https://twitter.com/CarryOnRTW"
@@ -25,6 +33,7 @@ url = "https://github.com/RoninTech"
 [[params.ananke_socials]]
 name = "youtube"
 url = "https://www.youtube.com/@CarryOnRTW"
+
 
 [sitemap]
   changefreq = "monthly"
@@ -49,12 +58,6 @@ url = "https://www.youtube.com/@CarryOnRTW"
   custom_css = ["formatted_tables.css", "next_prev_links.css"]
 
 [menu]
-  [[menu.main]]
-    name = "Home"
-    identifier = "home"
-    pageRef= "/"
-    weight = 1
-
   [[menu.main]]
     name = "Travels"
     identifier = "travels"
@@ -90,13 +93,6 @@ url = "https://www.youtube.com/@CarryOnRTW"
     identifier = "contact"
     pageRef= "/contact"
     weight = 7
-
-  [[menu.main]]
-    name = " "
-    pre = '<img src="/images/search-left-grey.png" alt="Search" title="Search page" height="24">'
-    identifier = "search"
-    pageRef= "/search"
-    weight = 8 
 
 [module]
 [[module.imports]]
