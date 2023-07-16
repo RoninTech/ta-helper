@@ -23,7 +23,7 @@
     {{ block "favicon" . }}
       {{ partialCached "site-favicon.html" . }}
     {{ end }}
-
+    <link rel="me" href="https://mastodon.social/@carryonrtw">
     {{ if .OutputFormats.Get "RSS" }}
     {{ with .OutputFormats.Get "RSS" }}
       <link href="{{ .RelPermalink }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" />

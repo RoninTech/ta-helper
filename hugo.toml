@@ -37,7 +37,9 @@ url = "https://github.com/RoninTech"
 [[params.ananke_socials]]
 name = "youtube"
 url = "https://www.youtube.com/@CarryOnRTW"
-
+[[params.ananke_socials]]
+name = "mastodon"
+url = "https://mastodon.social/@carryonrtw"
 
 [sitemap]
   changefreq = "monthly"
