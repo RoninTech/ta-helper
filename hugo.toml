@@ -18,6 +18,10 @@ label = "Home"
 name = "search"
 url = "/search"
 label = "Search"
+[[params.ananke_socials]]
+name = "contact"
+url = "/contact"
+label = "Contact"
 #[[params.ananke_socials]]
 #name = "twitter"
 #url = "https://twitter.com/CarryOnRTW"
@@ -87,12 +91,6 @@ url = "https://www.youtube.com/@CarryOnRTW"
     identifier = "about"
     pageRef= "/about"
     weight = 6
-
-  [[menu.main]]
-    name = "Contact"
-    identifier = "contact"
-    pageRef= "/contact"
-    weight = 7
 
 [module]
 [[module.imports]]
