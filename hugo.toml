@@ -11,13 +11,13 @@ enableRobotsTXT = true
 enableEmoji = true
 
 [[params.ananke_socials]]
-name = "search"
-url = "/search"
-label = "Search"
-[[params.ananke_socials]]
 name = "home"
 url = "/"
 label = "Home"
+[[params.ananke_socials]]
+name = "search"
+url = "/search"
+label = "Search"
 #[[params.ananke_socials]]
 #name = "twitter"
 #url = "https://twitter.com/CarryOnRTW"

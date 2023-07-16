@@ -281,6 +281,7 @@ Lets you visualize various data sources such as Influx databases via graphs, cha
 The Calibre e-book library management tool mentioned above is a bit of a resource hog to leave running all the time on the Pi. COPS (Calibre OPDS Server) allows us to serve our e-book library from the Pi without the performance hit of Calibre server.  Open source.
 
 ##### Tube Archivist Docker
+
 <a href="https://www.tubearchivist.com/"><img src="https://github.com/tubearchivist/tubearchivist/blob/master/assets/tube-archivist-logo-light.png?raw=true" width="64" height="64" alt="Tube Archivist" title="Tube Archivist"></a>  
 Automatically downloads your YouTube subscription videos for watching/listening locally without Internet.  Can download audio only.  Has a [browser extension](https://github.com/tubearchivist/browser-extension) for Chrome/Firefox to allow for easy downloading/subscribing from the browser.  Open source.
 
