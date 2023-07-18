@@ -14,7 +14,7 @@ enableEmoji = true
 name = "home"
 url = "/"
 label = "Home"
-color = "#008000"
+color = "#0000ff"
 [[params.ananke_socials]]
 name = "search"
 url = "/search"
@@ -25,7 +25,7 @@ color = "#ffff00"
 name = "contact"
 url = "/contact"
 label = "Contact"
-color = "#ff0000"
+color = "#ffa500"
 #[[params.ananke_socials]]
 #name = "twitter"
 #url = "https://twitter.com/CarryOnRTW"
