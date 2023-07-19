@@ -97,7 +97,7 @@ The next day was more sightseeing taking the ferry to Kowloon and finding the [G
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipN-V1Bm1sw3Fa2b-ECLIa9D4gg-VP2U0pToILsKSVAl8T3qs2BLsN5NLH6KP0BsBw/photo/AF1QipNTdY4lRzaI9yMh7CcHuznbDZN-PBSTHpF9Fll7?key=UEJjQzZCeWlETW4xdWFIdnlBYTVSQ2VhRl9iZXpB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3fzoO9--S4j8OEh9notW3NJrhwTdu7mgxiw0_IkrQ_UqzcIZXWlOZh373XmXfdb3f0bFbMPsy5wiHjzLnYQK_wi0xKaPrWHFiGEroMM8yJG10u9UnUTWfmu4NtgIP01wf5vb5nIcqv48vJPXnRbbhgrEw=w1000-no" width="1000" /><div>Kowloon bay day time skyline</div></a>
 </div>
 
-Since the ferry is only 25c each, we headed back over to Kowloon at night to see the famous 8PM [Hong Kong Harbor light show](https://en.wikipedia.org/wiki/A_Symphony_of_Lights)! Dim sum may of been consumed for lunch… and supper! I really wasn’t kidding about eating our weight in dim sum.
+Since the ferry is only 25c each, we headed back over to Kowloon at night to see the famous 8PM [Hong Kong Harbor light show](https://en.wikipedia.org/wiki/A_Symphony_of_Lights)! Dim sum may have been consumed for lunch… and supper! I really wasn’t kidding about eating our weight in dim sum.
 
 </br>
 <div style="text-align: center">
