@@ -222,10 +222,13 @@ Hugo has been great to work with. We chose the popular Ananke theme and didn't h
 
 #### Pagefind
 
-<a href="https://pagefind.app/"><img src="/images/pagefind.svg" height="64" alt="Pagefind static website search" title="Pagefind static website search"></a>  
+<a href="https://pagefind.app/"><img src="/images/pagefind.svg" height="64" alt="Pagefind static website search" title="Pagefind static website search"></a>
+
+[Pagefind](https://pagefind.app/) is a fully static search library that runs after Hugo or any other SSG (static site generator). It aims to perform well on large sites, while using as little of your users’ bandwidth as possible, and without hosting any infrastructure. It’s a fantastic alternative to a paid search solution, and its bandwidth requirements are nothing short of incredible.
+
 I used to use Google for site searches on our website.  With pagefind, I build a search index every time Hugo generates the website.  After indexing, Pagefind adds a static search bundle to the built files which get uploaded as part of the website.  It exposes a JavaScript search API that can be used anywhere on our site. Pagefind also provides a prebuilt UI that can be used with no configuration.  See it in action [here](/search/).
 
-#### Codium
+#### VSCodium
 
 <a href="https://vscodium.com/"><img src="https://raw.githubusercontent.com/VSCodium/vscodium/aec3519ea7387ba83a6d792bd35280e25a694fff/src/resources/win32/code.ico" width="64" height="64" alt="Codium Editor" title="Codium IDE"></a>  
 Forked version of Microsoft's VS Code with all of their tracking code removed. Great for Python coding/debugging and website work. Open source.
@@ -233,7 +236,7 @@ Forked version of Microsoft's VS Code with all of their tracking code removed. G
 #### Git
 
 <a href="https://git-scm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png" width="64" height="64" alt="Git Version Control" title="Git Version Control"></a>  
-Version control software we use for our website and all of my scripting and journaling with Codium and Obsidian. We keep most of our stuff in [Github repositories](https://github.com/RoninTech). Open source.
+Version control software we use for our website and all of my scripting and journaling with VSCodium and Obsidian. We keep most of our stuff in [Github repositories](https://github.com/RoninTech). Open source.
 
 #### Obsidian
 
