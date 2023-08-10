@@ -1,0 +1,35 @@
+# Logging Level - valid levels: CRITICAL,ERROR,WARNING,INFO,DEBUG,NOTSET
+LOGLEVEL="DEBUG"
+
+# URL for your Tube Archivist server
+TA_SERVER = "http://192.168.1.11:8000"
+
+# TA API token obtained from:
+# <TA_SERVER>/settings/#integrations
+TA_TOKEN = ""
+
+# Folder where TA stores its videos with Channel/Title ID's
+TA_MEDIA_FOLDER = "/home/me/Videos/YouTube"
+
+# Folder where this script will put human readable symlinks to TA's
+# obfuscated videos, as well as per video NFO files for media managers.
+TARGET_FOLDER = "/home/me/Videos/YT-Subs"
+
+# "True" for enable, "False" for disable
+ENABLE_EMAIL_NOTIFICATIONS = "True"
+
+# Mail info for sending notifications
+MAIL_USER="me@x.com"
+# Can use 1 or multiple destination emails seperated by ','
+MAIL_RECIPIENTS="me@x.com,you@x.com"
+
+# Required for GMail Service Account Email sending
+# https://mailtrap.io/blog/send-emails-with-gmail-api/#How-to-make-your-app-send-emails-with-Gmail-API
+GOOGLE_SERVICE_NAME = 'gmail'
+GOOGLE_SERVICE_VERSION = 'v1'
+GOOGLE_SERVICE_SCOPE='["https://mail.google.com/"]'
+GOOGLE_SERVICE_ACCOUNT_SECRETS="/home/me/projects/ta-helper/sendEmail_service_key.json"
+
+# Whether this script should generate media NFO files
+# "True" for enable, "False" for disable
+GENERATE_NFO = "False"
