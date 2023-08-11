@@ -9,8 +9,11 @@ import html2text
 import json
 import logging
 import requests
+from requests import get
 import re
 import os
+import apprise
+import time
 
 logger = logging.getLogger(__name__)
 handler = logging.StreamHandler()
@@ -33,9 +36,35 @@ RECIPIENTS = RECIPIENTS.split(',')
 TA_MEDIA_FOLDER = os.environ.get("TA_MEDIA_FOLDER")
 TA_SERVER = os.environ.get("TA_SERVER")
 TA_TOKEN = os.environ.get("TA_TOKEN")
+TA_CACHE = os.environ.get("TA_CACHE")
 TARGET_FOLDER = os.environ.get("TARGET_FOLDER")
+USE_APPRISE =  os.environ.get("USE_APPRISE")
+APPRISE_LINK = os.environ.get("APPRISE_LINK")
+QUICK = os.environ.get("QUICK")
 
 logger.setLevel(os.environ.get("LOGLEVEL", "INFO"))
+
+def setup_chanel_resources(chan_name, chan_data):
+    logger.info("New Channel %s, setup resources.", chan_name)
+    # Link the channel logo from TA docker cache into target folder for media managers
+    # and file explorers.  Provide cover.jpg, poster.jpg and banner.jpg symlinks.
+    channel_thumb_path = TA_CACHE + chan_data['channel_thumb_url']
+    logger.debug("%s poster is at %s", chan_name, channel_thumb_path)
+    file_name = 'http://' + TARGET_FOLDER + '/' + chan_name + '/' + 'poster.jpg'
+    os.symlink(channel_thumb_path, TARGET_FOLDER + "/" + chan_name + "/" + "poster.jpg")
+    os.symlink(channel_thumb_path, TARGET_FOLDER + "/" + chan_name + "/" + "cover.jpg")
+    channel_banner_path = TA_CACHE + chan_data['channel_banner_url']
+    os.symlink(channel_banner_path, TARGET_FOLDER + "/" + chan_name + "/" + "banner.jpg")
+    # generate tvshow.nfo for media managers.
+    f= open(TARGET_FOLDER + "/" + chan_name + "/" + "tvshow.nfo","w+")
+    f.write('<?xml version="1.0" encoding="UTF-8" standalone="yes"?>' + '\n'
+            '<tvshow>' + '\n\t' + '<title>' +
+            chan_data['channel_name'] + "</title>\n\t" +
+            "<showtitle>" + chan_data['channel_name'] + "</showtitle>\n\t" +
+            "<uniqueid>" + chan_data['channel_id'] + "</uniqueid>\n\t" +
+            "<plot>" + chan_data['channel_description'] + "</plot>\n\t" +
+            "<premiered>" + chan_data['channel_last_refresh'] + "</premiered>\n</episodedetails>")
+    f.close()
 
 def generate_nfo(chan_name, title, video_meta_data):
     logger.debug("Generating NFO file for %s video: %s", video_meta_data['channel']['channel_name'], video_meta_data['title'])
@@ -51,19 +80,21 @@ def generate_nfo(chan_name, title, video_meta_data):
     f.close()
 
 def notify(video_meta_data):
-    # Switched to Googles new Gmail API with Service Account for
-    # secure sending emails with Gmail account.
-    logger.debug("Using Service Account tokens file: %s",
-                GSAPI_ACCOUNT_FILE)
 
-    credentials = service_account.Credentials.from_service_account_file(
-        filename=GSAPI_ACCOUNT_FILE,
-        scopes=GSAPI_SCOPE,
-        subject=FROMADDR)
+    if not USE_APPRISE:
+        # Switched to Googles new Gmail API with Service Account for
+        # secure sending emails with Gmail account.
+        logger.debug("Using Service Account tokens file: %s",
+                    GSAPI_ACCOUNT_FILE)
 
-    service_gmail = build(GSAPI_NAME, GSAPI_VERSION, credentials=credentials)
-    response = service_gmail.users().getProfile(userId='me').execute()
-    logger.debug(response)
+        credentials = service_account.Credentials.from_service_account_file(
+            filename=GSAPI_ACCOUNT_FILE,
+            scopes=GSAPI_SCOPE,
+            subject=FROMADDR)
+
+        service_gmail = build(GSAPI_NAME, GSAPI_VERSION, credentials=credentials)
+        response = service_gmail.users().getProfile(userId='me').execute()
+        logger.debug(response)
 
     email_body = '<!DOCTYPE PUBLIC “-//W3C//DTD XHTML 1.0 Transitional//EN” '
     email_body += '“https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd”>' + '\n'
@@ -95,14 +126,22 @@ def notify(video_meta_data):
     mime_message.attach(MIMEText(email_body, 'html'))
     raw_string = base64.urlsafe_b64encode(mime_message.as_bytes()).decode()
 
-    try:
-        logger.info(
-            "Emailing interested parties via Gmail:Service Account")
-        message = service_gmail.users().messages().send(
+    if(USE_APPRISE):
+        apobj = apprise.Apprise()
+        apobj.add(APPRISE_LINK)
+        apobj.notify(
+            body=email_body,
+            title=mime_message['subject'],
+        )
+    else:
+        try:
+            logger.info(
+                "Emailing interested parties via Gmail:Service Account")
+            message = service_gmail.users().messages().send(
             userId='me', body={'raw': raw_string}).execute()
-        logger.debug('Message Id: %s', message['id'])
-    except errors.HttpError as error:
-        logger.error("An error occurred sending email: %s", error)
+            logger.debug('Message Id: %s', message['id'])
+        except errors.HttpError as error:
+            logger.error("An error occurred sending email: %s", error)
 
 def urlify(s):
     s = re.sub(r"[^\w\s]", '', s)
@@ -127,7 +166,12 @@ for x in chan_data:
     logger.debug("Channel Name: " + chan_name)
     if(len(chan_name) < 1): chan_name = x['channel_id']
     chan_url = url+x['channel_id']+"/video/"
-    os.makedirs(TARGET_FOLDER + "/" + chan_name, exist_ok = True)
+    try:
+        os.makedirs(TARGET_FOLDER + "/" + chan_name, exist_ok = True)
+        setup_chanel_resources(chan_name, x)
+    except OSError as error:
+        logger.debug("We already have %s channel folder", chan_name)
+
     logger.debug("Channel URL: " + chan_url)
     chan_videos = requests.get(chan_url, headers=headers)
     chan_videos_json = chan_videos.json() if chan_videos and chan_videos.status_code == 200 else None
@@ -143,9 +187,10 @@ for x in chan_data:
             logger.debug(y['published'] + "_" + y['youtube_id'] + "_" + urlify(y['title']) + ", " + y['media_url'])
             title=y['published'] + "_" + y['youtube_id'] + "_" + urlify(y['title']) + ".mp4"
             try:
+                os.symlink(TA_MEDIA_FOLDER + os.path.splitext(y['media_url'])[0]+ ".en.vtt", TARGET_FOLDER + "/" + chan_name + "/" + title + ".en.vtt");
                 os.symlink(TA_MEDIA_FOLDER + y['media_url'], TARGET_FOLDER + "/" + chan_name + "/" + title)
                 # Getting here means a new video.
-                logger.info("Processing new video from %s: %s\n", chan_name, title)
+                logger.info("Processing new video from %s: %s", chan_name, title)
                 if ENABLE_EMAIL_NOTIFICATIONS:
                     notify(y)
                 if GENERATE_NFO:
@@ -153,4 +198,6 @@ for x in chan_data:
             except FileExistsError:
                 # This means we already had processed the video, completely normal.
                 logger.debug("Symlink exists for " + title)
-                
+                if(QUICK):
+                    time.sleep(.5)
+                    break;

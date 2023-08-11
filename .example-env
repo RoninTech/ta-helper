@@ -6,7 +6,11 @@ TA_SERVER = "http://192.168.1.11:8000"
 
 # TA API token obtained from:
 # <TA_SERVER>/settings/#integrations
-TA_TOKEN = ""
+TA_TOKEN = "c0ff142e1c336e9f43be560b5c942d61e7e7c7fb"
+
+# The host path to the TA Docker cache channel folder.
+# Just drop "/cache" from your docker's config value.
+TA_CACHE = "/home/me/dockers/YouTube"
 
 # Folder where TA stores its videos with Channel/Title ID's
 TA_MEDIA_FOLDER = "/home/me/Videos/YouTube"
@@ -33,3 +37,10 @@ GOOGLE_SERVICE_ACCOUNT_SECRETS="/home/me/projects/ta-helper/sendEmail_service_ke
 # Whether this script should generate media NFO files
 # "True" for enable, "False" for disable
 GENERATE_NFO = "False"
+
+# Apprise notification library
+USE_APPRISE = "False"
+APPRISE_LINK = ""
+
+# Stop processing channel once an already indexed video is reached
+QUICK = "False"
