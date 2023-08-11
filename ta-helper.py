@@ -24,12 +24,8 @@ logger.addHandler(handler)
 
 # Pull configuration details from .env file.
 load_dotenv()
-ENABLE_EMAIL_NOTIFICATIONS = bool(strtobool(os.environ.get("ENABLE_EMAIL_NOTIFICATIONS", 'False')))
+NOTIFICATIONS_ENABLED = bool(strtobool(os.environ.get("NOTIFICATIONS_ENABLED", 'False')))
 GENERATE_NFO = bool(strtobool(os.environ.get("GENERATE_NFO", 'False')))
-GSAPI_NAME = os.environ.get("GOOGLE_SERVICE_NAME")
-GSAPI_VERSION = os.environ.get("GOOGLE_SERVICE_VERSION")
-GSAPI_SCOPE = json.loads(os.environ.get("GOOGLE_SERVICE_SCOPE"))
-GSAPI_ACCOUNT_FILE = os.environ.get("GOOGLE_SERVICE_ACCOUNT_SECRETS")
 FROMADDR = os.environ.get("MAIL_USER")
 RECIPIENTS = os.environ.get("MAIL_RECIPIENTS")
 RECIPIENTS = RECIPIENTS.split(',')
@@ -38,13 +34,12 @@ TA_SERVER = os.environ.get("TA_SERVER")
 TA_TOKEN = os.environ.get("TA_TOKEN")
 TA_CACHE = os.environ.get("TA_CACHE")
 TARGET_FOLDER = os.environ.get("TARGET_FOLDER")
-USE_APPRISE =  os.environ.get("USE_APPRISE")
 APPRISE_LINK = os.environ.get("APPRISE_LINK")
 QUICK = os.environ.get("QUICK")
 
 logger.setLevel(os.environ.get("LOGLEVEL", "INFO"))
 
-def setup_chanel_resources(chan_name, chan_data):
+def setup_new_channel_resources(chan_name, chan_data):
     logger.info("New Channel %s, setup resources.", chan_name)
     # Link the channel logo from TA docker cache into target folder for media managers
     # and file explorers.  Provide cover.jpg, poster.jpg and banner.jpg symlinks.
@@ -81,20 +76,9 @@ def generate_nfo(chan_name, title, video_meta_data):
 
 def notify(video_meta_data):
 
-    if not USE_APPRISE:
-        # Switched to Googles new Gmail API with Service Account for
-        # secure sending emails with Gmail account.
-        logger.debug("Using Service Account tokens file: %s",
-                    GSAPI_ACCOUNT_FILE)
-
-        credentials = service_account.Credentials.from_service_account_file(
-            filename=GSAPI_ACCOUNT_FILE,
-            scopes=GSAPI_SCOPE,
-            subject=FROMADDR)
-
-        service_gmail = build(GSAPI_NAME, GSAPI_VERSION, credentials=credentials)
-        response = service_gmail.users().getProfile(userId='me').execute()
-        logger.debug(response)
+    # Send a notification via apprise library.
+    logger.debug("Sending new %s video notification: %s", video_meta_data['channel']['channel_name'],
+                video_meta_data['title'])
 
     email_body = '<!DOCTYPE PUBLIC “-//W3C//DTD XHTML 1.0 Transitional//EN” '
     email_body += '“https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd”>' + '\n'
@@ -112,36 +96,19 @@ def notify(video_meta_data):
     email_body += "\n<b>Video Link:</b> " + video_url + "<br>" + '\n'
     email_body += "\n<b>Video Description:</b>\n\n<pre>" + video_meta_data['description'] + '</pre></br>\n\n'
     email_body += '\n</body>\n</html>'
-    # Dump for local viewing
+
+    # Dump for local debug viewing
     pretty_text = html2text.HTML2Text()
     pretty_text.ignore_links = True
     pretty_text.body_width = 200
     logger.debug(pretty_text.handle(email_body))
     logger.debug(email_body)
 
-    mime_message = MIMEMultipart()
-    mime_message['to'] = ", ".join(RECIPIENTS)
-    mime_message['subject'] = (f"TA Notify: New video from "
-                            f"{video_meta_data['channel']['channel_name']} YouTube Channel")
-    mime_message.attach(MIMEText(email_body, 'html'))
-    raw_string = base64.urlsafe_b64encode(mime_message.as_bytes()).decode()
+    video_title = "TA Notify: New video from " + video_meta_data['channel']['channel_name'] + " YouTube Channel"
 
-    if(USE_APPRISE):
-        apobj = apprise.Apprise()
-        apobj.add(APPRISE_LINK)
-        apobj.notify(
-            body=email_body,
-            title=mime_message['subject'],
-        )
-    else:
-        try:
-            logger.info(
-                "Emailing interested parties via Gmail:Service Account")
-            message = service_gmail.users().messages().send(
-            userId='me', body={'raw': raw_string}).execute()
-            logger.debug('Message Id: %s', message['id'])
-        except errors.HttpError as error:
-            logger.error("An error occurred sending email: %s", error)
+    apobj = apprise.Apprise()
+    apobj.add(APPRISE_LINK)
+    apobj.notify(body=email_body,title=video_title)
 
 def urlify(s):
     s = re.sub(r"[^\w\s]", '', s)
@@ -168,7 +135,7 @@ for x in chan_data:
     chan_url = url+x['channel_id']+"/video/"
     try:
         os.makedirs(TARGET_FOLDER + "/" + chan_name, exist_ok = False)
-        setup_chanel_resources(chan_name, x)
+        setup_new_channel_resources(chan_name, x)
     except OSError as error:
         logger.debug("We already have %s channel folder", chan_name)
 
@@ -191,10 +158,14 @@ for x in chan_data:
                 os.symlink(TA_MEDIA_FOLDER + y['media_url'], TARGET_FOLDER + "/" + chan_name + "/" + title)
                 # Getting here means a new video.
                 logger.info("Processing new video from %s: %s", chan_name, title)
-                if ENABLE_EMAIL_NOTIFICATIONS:
+                if NOTIFICATIONS_ENABLED:
                     notify(y)
+                else:
+                    logger.info("Notification not sent for %s new video %s as NOTIFICATIONS_ENABLED is set to False in .env settings.", chan_name, title)
                 if GENERATE_NFO:
                     generate_nfo(chan_name, title, y)
+                else:
+                    logger.info("Not generating NFO files for %s new video: %s", chan_name, title)
             except FileExistsError:
                 # This means we already had processed the video, completely normal.
                 logger.debug("Symlink exists for " + title)

@@ -20,27 +20,20 @@ TA_MEDIA_FOLDER = "/home/me/Videos/YouTube"
 TARGET_FOLDER = "/home/me/Videos/YT-Subs"
 
 # "True" for enable, "False" for disable
-ENABLE_EMAIL_NOTIFICATIONS = "True"
+NOTIFICATIONS_ENABLED = "True"
 
 # Mail info for sending notifications
 MAIL_USER="me@x.com"
 # Can use 1 or multiple destination emails seperated by ','
 MAIL_RECIPIENTS="me@x.com,you@x.com"
 
-# Required for GMail Service Account Email sending
-# https://mailtrap.io/blog/send-emails-with-gmail-api/#How-to-make-your-app-send-emails-with-Gmail-API
-GOOGLE_SERVICE_NAME = 'gmail'
-GOOGLE_SERVICE_VERSION = 'v1'
-GOOGLE_SERVICE_SCOPE='["https://mail.google.com/"]'
-GOOGLE_SERVICE_ACCOUNT_SECRETS="/home/me/projects/ta-helper/sendEmail_service_key.json"
-
 # Whether this script should generate media NFO files
 # "True" for enable, "False" for disable
-GENERATE_NFO = "False"
+GENERATE_NFO = "True"
 
-# Apprise notification library
-USE_APPRISE = "False"
-APPRISE_LINK = ""
+# Instruction to tell apprise how to notify.  Read all of the options
+# here: https://pypi.org/project/apprise/
+APPRISE_LINK = "mailto://<username>:<password>@gmail.com"
 
 # Stop processing channel once an already indexed video is reached
-QUICK = "False"
+QUICK = "True"
