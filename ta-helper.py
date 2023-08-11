@@ -167,7 +167,7 @@ for x in chan_data:
     if(len(chan_name) < 1): chan_name = x['channel_id']
     chan_url = url+x['channel_id']+"/video/"
     try:
-        os.makedirs(TARGET_FOLDER + "/" + chan_name, exist_ok = True)
+        os.makedirs(TARGET_FOLDER + "/" + chan_name, exist_ok = False)
         setup_chanel_resources(chan_name, x)
     except OSError as error:
         logger.debug("We already have %s channel folder", chan_name)
