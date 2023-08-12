@@ -37,3 +37,13 @@ APPRISE_LINK = "mailto://<username>:<password>@gmail.com"
 
 # Stop processing channel once an already indexed video is reached
 QUICK = "True"
+
+# Set this to the port you'd like to be notified on.
+# Make sure you have no conflicts.
+# Change your apprise links in TA settings to match:
+# json://<IP/hostname where TA helper will run>:<PORT>/tahelper-trigger
+# For example: json://192.168.1.11:8001/ta-helper-trigger
+APPRISE_TRIGGER_PORT=8001
+
+# Set this path to point to your ta-helper.py script
+TA_HELPER_SCRIPT="/home/me/projects/ta-helper/ta-helper.py"

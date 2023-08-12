@@ -3,8 +3,6 @@ from distutils.util import strtobool
 from dotenv import load_dotenv
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
-from google.oauth2 import service_account
-from googleapiclient.discovery import build
 import html2text
 import json
 import logging
