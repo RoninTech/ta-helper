@@ -86,12 +86,12 @@ def notify(video_meta_data):
     email_body += '</head>' + '\n'
     email_body += '<body>'
 
-    video_url = TA_SERVER + "/video/" + video_meta_data['youtube_id'] + "<br>" + '\n'
+    video_url = TA_SERVER + "/video/" + video_meta_data['youtube_id']
     email_body += "\n\n<b>Video Title:</b> " + video_meta_data['title']  + "<br>" + '\n'
     email_body += "\n<b>Video Date:</b> " + video_meta_data['published'] + "<br>" + '\n'
     email_body += "\n<b>Video Views:</b> " + str(video_meta_data['stats']['view_count']) + "<br>" + '\n'
     email_body += "\n<b>Video Likes:</b> " + str(video_meta_data['stats']['like_count']) + "<br>" + '\n\n'
-    email_body += "\n<b>Video Link:</b> " + video_url + "<br>" + '\n'
+    email_body += "\n<b>Video Link:</b> <a href=\"" + video_url + "\">" + video_url + "</a><br>" + '\n'
     email_body += "\n<b>Video Description:</b>\n\n<pre>" + video_meta_data['description'] + '</pre></br>\n\n'
     email_body += '\n</body>\n</html>'
 
@@ -102,7 +102,7 @@ def notify(video_meta_data):
     logger.debug(pretty_text.handle(email_body))
     logger.debug(email_body)
 
-    video_title = "TA Notify: New video from " + video_meta_data['channel']['channel_name'] + " YouTube Channel"
+    video_title = "[TA] New video from " + video_meta_data['channel']['channel_name']
 
     apobj = apprise.Apprise()
     apobj.add(APPRISE_LINK)
