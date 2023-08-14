@@ -1,6 +1,6 @@
 # ta-helper
 
-Python script to post process Tube Archivist products, generate human readable folders and files, support NFO files and new video notifications using apprise library.  Various functions can be enabled/disabled.  Nothing is touched in your Tube Archivist media folders.  The image below shows your original obfuscated naming on the left and new, human readable folders on the right.
+Python script to post process Tube Archivist products, generate human readable folders and files, support NFO files and new per video notifications using apprise library.  Various functions can be enabled/disabled.  Nothing is touched in your Tube Archivist media folders.  The image below shows your original obfuscated naming on the left and new, human readable folders on the right.
 
 ![Screenshot from 2023-08-12 16-56-04](https://github.com/RoninTech/ta-helper/assets/226861/4cf31133-8d40-4a93-b363-cf8f26054f25)
 
