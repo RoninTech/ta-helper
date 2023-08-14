@@ -29,7 +29,7 @@ TA_TOKEN = os.environ.get("TA_TOKEN")
 TA_CACHE = os.environ.get("TA_CACHE")
 TARGET_FOLDER = os.environ.get("TARGET_FOLDER")
 APPRISE_LINK = os.environ.get("APPRISE_LINK")
-QUICK = os.environ.get("QUICK")
+QUICK = bool(strtobool(os.environ.get("QUICK", 'True')))
 
 logger.setLevel(os.environ.get("LOGLEVEL", "INFO"))
 
