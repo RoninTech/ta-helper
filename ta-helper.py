@@ -42,6 +42,7 @@ def setup_new_channel_resources(chan_name, chan_data):
     file_name = 'http://' + TARGET_FOLDER + '/' + chan_name + '/' + 'poster.jpg'
     os.symlink(channel_thumb_path, TARGET_FOLDER + "/" + chan_name + "/" + "poster.jpg")
     os.symlink(channel_thumb_path, TARGET_FOLDER + "/" + chan_name + "/" + "cover.jpg")
+    os.symlink(channel_thumb_path, TARGET_FOLDER + "/" + chan_name + "/" + "folder.jpg")
     channel_banner_path = TA_CACHE + chan_data['channel_banner_url']
     os.symlink(channel_banner_path, TARGET_FOLDER + "/" + chan_name + "/" + "banner.jpg")
     # generate tvshow.nfo for media managers.
