@@ -56,8 +56,9 @@ def setup_new_channel_resources(chan_name, chan_data):
     f.close()
 
 def generate_new_video_nfo(chan_name, title, video_meta_data):
-    logger.debug("Generating NFO file for %s video: %s", video_meta_data['channel']['channel_name'], video_meta_data['title'])
-    # TA has added a new video.  Create an NFO file for media managers.
+    logger.debug("Generating NFO file and subtitle symlink for %s video: %s", video_meta_data['channel']['channel_name'], video_meta_data['title'])
+    # TA has added a new video.  Create a symlink to subtitles and an NFO file for media managers.
+    os.symlink(TA_MEDIA_FOLDER + os.path.splitext(video_meta_data['media_url'])[0]+ ".en.vtt", TARGET_FOLDER + "/" + chan_name + "/" + title + ".en.vtt");
     title = title.replace('.mp4','.nfo')
     f= open(TARGET_FOLDER + "/" + chan_name + "/" + title,"w+")
     f.write('<?xml version="1.0" ?>\n<episodedetails>\n\t' +
@@ -148,18 +149,17 @@ for x in chan_data:
             logger.debug(y['published'] + "_" + y['youtube_id'] + "_" + urlify(y['title']) + ", " + y['media_url'])
             title=y['published'] + "_" + y['youtube_id'] + "_" + urlify(y['title']) + ".mp4"
             try:
-                os.symlink(TA_MEDIA_FOLDER + os.path.splitext(y['media_url'])[0]+ ".en.vtt", TARGET_FOLDER + "/" + chan_name + "/" + title + ".en.vtt");
                 os.symlink(TA_MEDIA_FOLDER + y['media_url'], TARGET_FOLDER + "/" + chan_name + "/" + title)
                 # Getting here means a new video.
                 logger.info("Processing new video from %s: %s", chan_name, title)
                 if NOTIFICATIONS_ENABLED:
                     notify(y)
                 else:
-                    logger.info("Notification not sent for %s new video %s as NOTIFICATIONS_ENABLED is set to False in .env settings.", chan_name, title)
+                    logger.debug("Notification not sent for %s new video: %s as NOTIFICATIONS_ENABLED is set to False in .env settings.", chan_name, title)
                 if GENERATE_NFO:
                     generate_new_video_nfo(chan_name, title, y)
                 else:
-                    logger.info("Not generating NFO files for %s new video: %s", chan_name, title)
+                    logger.debug("Not generating NFO files for %s new video: %s as GENERATE_NFO is et to False in .env settings.", chan_name, title)
             except FileExistsError:
                 # This means we already had processed the video, completely normal.
                 logger.debug("Symlink exists for " + title)
