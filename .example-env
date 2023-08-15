@@ -10,6 +10,7 @@ TA_TOKEN = "c0ff142e1c336e9f43be560b5c942d61e7e7c7fb"
 
 # The host path to the TA Docker cache channel folder.
 # Just drop "/cache" from your docker's config value.
+# If you do not have access to the cache folder, leave it empty: "".
 TA_CACHE = "/home/me/dockers/YouTube"
 
 # Folder where TA stores its videos with Channel/Title ID's
@@ -47,3 +48,10 @@ APPRISE_TRIGGER_PORT=8001
 
 # Set this path to point to your ta-helper.py script
 TA_HELPER_SCRIPT="/home/me/projects/ta-helper/ta-helper.py"
+
+# TA can be configured to delete watched videos.  If a video is deleted the
+# symbolic link to it in the TARGET_FOLDER becomes bad.  The bad symlinks can
+# be used to trigger resource cleanup of deleted videos.  So if the symlink
+# to video "x.mp4" becomes bad then we should delete the x.NFO file and x.vtt
+# and x.mp4 symlinks.
+CLEANUP_DELETED_VIDEOS = "False"

@@ -30,22 +30,27 @@ TA_CACHE = os.environ.get("TA_CACHE")
 TARGET_FOLDER = os.environ.get("TARGET_FOLDER")
 APPRISE_LINK = os.environ.get("APPRISE_LINK")
 QUICK = bool(strtobool(os.environ.get("QUICK", 'True')))
+CLEANUP_DELETED_VIDEOS = bool(strtobool(os.environ.get("CLEANUP_DELETED_VIDEOS")))
 
 logger.setLevel(os.environ.get("LOGLEVEL", "INFO"))
 
 def setup_new_channel_resources(chan_name, chan_data):
     logger.info("New Channel %s, setup resources.", chan_name)
-    # Link the channel logo from TA docker cache into target folder for media managers
-    # and file explorers.  Provide cover.jpg, poster.jpg and banner.jpg symlinks.
-    channel_thumb_path = TA_CACHE + chan_data['channel_thumb_url']
-    logger.debug("%s poster is at %s", chan_name, channel_thumb_path)
-    file_name = 'http://' + TARGET_FOLDER + '/' + chan_name + '/' + 'poster.jpg'
-    os.symlink(channel_thumb_path, TARGET_FOLDER + "/" + chan_name + "/" + "poster.jpg")
-    os.symlink(channel_thumb_path, TARGET_FOLDER + "/" + chan_name + "/" + "cover.jpg")
-    os.symlink(channel_thumb_path, TARGET_FOLDER + "/" + chan_name + "/" + "folder.jpg")
-    channel_banner_path = TA_CACHE + chan_data['channel_banner_url']
-    os.symlink(channel_banner_path, TARGET_FOLDER + "/" + chan_name + "/" + "banner.jpg")
-    # generate tvshow.nfo for media managers.
+    if TA_CACHE == "":
+        logger.info("No TA_CACHE available so cannot setup symlinks to cache files.")
+    else:
+        # Link the channel logo from TA docker cache into target folder for media managers
+        # and file explorers.  Provide cover.jpg, poster.jpg and banner.jpg symlinks.
+        channel_thumb_path = TA_CACHE + chan_data['channel_thumb_url']
+        logger.info("Symlink cache %s thumb to poster, cover and folder.jpg files.", channel_thumb_path)
+        os.symlink(channel_thumb_path, TARGET_FOLDER + "/" + chan_name + "/" + "poster.jpg")
+        os.symlink(channel_thumb_path, TARGET_FOLDER + "/" + chan_name + "/" + "cover.jpg")
+        os.symlink(channel_thumb_path, TARGET_FOLDER + "/" + chan_name + "/" + "folder.jpg")
+        channel_banner_path = TA_CACHE + chan_data['channel_banner_url']
+        os.symlink(channel_banner_path, TARGET_FOLDER + "/" + chan_name + "/" + "banner.jpg")
+    
+    # Generate tvshow.nfo for media managers, no TA_CACHE required.
+    logger.info("Generating %s", TARGET_FOLDER + "/" + chan_name + "/" + "tvshow.nfo")
     f= open(TARGET_FOLDER + "/" + chan_name + "/" + "tvshow.nfo","w+")
     f.write('<?xml version="1.0" encoding="UTF-8" standalone="yes"?>' + '\n'
             '<tvshow>' + '\n\t' + '<title>' +
@@ -57,9 +62,10 @@ def setup_new_channel_resources(chan_name, chan_data):
     f.close()
 
 def generate_new_video_nfo(chan_name, title, video_meta_data):
-    logger.debug("Generating NFO file and subtitle symlink for %s video: %s", video_meta_data['channel']['channel_name'], video_meta_data['title'])
+    logger.info("Generating NFO file and subtitle symlink for %s video: %s", video_meta_data['channel']['channel_name'], video_meta_data['title'])
     # TA has added a new video.  Create a symlink to subtitles and an NFO file for media managers.
-    os.symlink(TA_MEDIA_FOLDER + os.path.splitext(video_meta_data['media_url'])[0]+ ".en.vtt", TARGET_FOLDER + "/" + chan_name + "/" + title + ".en.vtt");
+    video_basename = os.path.splitext(video_meta_data['media_url'])[0]
+    os.symlink(TA_MEDIA_FOLDER + video_basename + ".en.vtt", TARGET_FOLDER + "/" + chan_name + "/" + title.replace(".mp4",".en.vtt"))
     title = title.replace('.mp4','.nfo')
     f= open(TARGET_FOLDER + "/" + chan_name + "/" + title,"w+")
     f.write('<?xml version="1.0" ?>\n<episodedetails>\n\t' +
@@ -73,7 +79,7 @@ def generate_new_video_nfo(chan_name, title, video_meta_data):
 def notify(video_meta_data):
 
     # Send a notification via apprise library.
-    logger.debug("Sending new %s video notification: %s", video_meta_data['channel']['channel_name'],
+    logger.info("Sending new %s video notification: %s", video_meta_data['channel']['channel_name'],
                 video_meta_data['title'])
 
     email_body = '<!DOCTYPE PUBLIC “-//W3C//DTD XHTML 1.0 Transitional//EN” '
@@ -106,6 +112,40 @@ def notify(video_meta_data):
     apobj.add(APPRISE_LINK)
     apobj.notify(body=email_body,title=video_title)
 
+def cleanup_after_deleted_videos():
+    logger.info("Check for broken video symlinks in our target folder.")
+    broken = []
+    for root, dirs, files in os.walk(TARGET_FOLDER):
+        if root.startswith('./.git'):
+            # Ignore the .git directory.
+            continue
+        for filename in files:
+            path = os.path.join(root,filename)
+            file_info = os.path.splitext(path)
+            if os.path.islink(path):
+                # We've found a symlink.
+                target_path = os.readlink(path)
+                # Resolve relative symlinks
+                if not os.path.isabs(target_path):
+                    target_path = os.path.join(os.path.dirname(path),target_path)     
+                if not os.path.exists(target_path):
+                    # The symlink is broken.
+                    broken.append(path)
+            else:
+                # If it's not a symlink we're not interested.
+                continue
+
+    if broken == []:
+        logger.info("No deleted videos found, no cleanup required.")
+    else:
+        logger.info('%d Broken symlinks found...', len(broken))
+        for link in broken:
+            logger.info("Deleted TA file found: %s", link )
+            # Here we need to delete the NFO file and video and subtitle symlinks
+            # associated with the deleted video.
+            os.remove(link)
+            # TBD Also check TA if channel target folder should be deleted?
+
 def urlify(s):
     s = re.sub(r"[^\w\s]", '', s)
     s = re.sub(r"\s+", '-', s)
@@ -116,22 +156,22 @@ url = TA_SERVER + '/api/channel/'
 headers = {'Authorization': 'Token ' + TA_TOKEN}
 req = requests.get(url, headers=headers)
 channels_json = req.json() if req and req.status_code == 200 else None
-chan_data = channels_json['data']
+channels_data = channels_json['data']
 
 while channels_json['paginate']['last_page']:
     channels_json = requests.get(url, headers=headers, params={'page': channels_json['paginate']['current_page'] + 1}).json()
-    chan_data.extend(channels_json['data'])
+    channels_data.extend(channels_json['data'])
                      
-for x in chan_data:
-    chan_name = urlify(x['channel_name'])
-    description = x['channel_description']
+for channel in channels_data:
+    chan_name = urlify(channel['channel_name'])
+    description = channel['channel_description']
     logger.debug("Video Description: " + description)
     logger.debug("Channel Name: " + chan_name)
-    if(len(chan_name) < 1): chan_name = x['channel_id']
-    chan_url = url+x['channel_id']+"/video/"
+    if(len(chan_name) < 1): chan_name = channel['channel_id']
+    chan_url = url+channel['channel_id']+"/video/"
     try:
         os.makedirs(TARGET_FOLDER + "/" + chan_name, exist_ok = False)
-        setup_new_channel_resources(chan_name, x)
+        setup_new_channel_resources(chan_name, channel)
     except OSError as error:
         logger.debug("We already have %s channel folder", chan_name)
 
@@ -145,20 +185,20 @@ for x in chan_data:
             chan_videos_json = requests.get(chan_url, headers=headers, params={'page': chan_videos_json['paginate']['current_page'] + 1}).json()
             chan_videos_data.extend(chan_videos_json['data'])
 
-        for y in chan_videos_data:
-            y['media_url'] = y['media_url'].replace('/media','')
-            logger.debug(y['published'] + "_" + y['youtube_id'] + "_" + urlify(y['title']) + ", " + y['media_url'])
-            title=y['published'] + "_" + y['youtube_id'] + "_" + urlify(y['title']) + ".mp4"
+        for video in chan_videos_data:
+            video['media_url'] = video['media_url'].replace('/media','')
+            logger.debug(video['published'] + "_" + video['youtube_id'] + "_" + urlify(video['title']) + ", " + video['media_url'])
+            title=video['published'] + "_" + video['youtube_id'] + "_" + urlify(video['title']) + ".mp4"
             try:
-                os.symlink(TA_MEDIA_FOLDER + y['media_url'], TARGET_FOLDER + "/" + chan_name + "/" + title)
+                os.symlink(TA_MEDIA_FOLDER + video['media_url'], TARGET_FOLDER + "/" + chan_name + "/" + title)
                 # Getting here means a new video.
                 logger.info("Processing new video from %s: %s", chan_name, title)
                 if NOTIFICATIONS_ENABLED:
-                    notify(y)
+                    notify(video)
                 else:
                     logger.debug("Notification not sent for %s new video: %s as NOTIFICATIONS_ENABLED is set to False in .env settings.", chan_name, title)
                 if GENERATE_NFO:
-                    generate_new_video_nfo(chan_name, title, y)
+                    generate_new_video_nfo(chan_name, title, video)
                 else:
                     logger.debug("Not generating NFO files for %s new video: %s as GENERATE_NFO is et to False in .env settings.", chan_name, title)
             except FileExistsError:
@@ -167,3 +207,7 @@ for x in chan_data:
                 if(QUICK):
                     time.sleep(.5)
                     break;
+
+# If enabled, check for deleted video and if found cleanup video NFO file and video and subtitle symlinks.
+if CLEANUP_DELETED_VIDEOS:
+    cleanup_after_deleted_videos()
