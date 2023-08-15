@@ -22,7 +22,7 @@ It iterates through the Tube Archivist video folders and does several things:
 2. If GENERATE_NFO is set to "True" it will generate .nfo files for each new channel and/or video which allows media managers such as Kodi, Emby, Jellyfin etc. to show meta info.
 3. If TA_CACHE is not "" it can generate symbolic links to subtitles, poster, cover and banner jpg's inside TA cache for media managers.
 4. If NOTIFICATIONS_ENABLED is set to "True" in your .env, apprise will be used to notify of new videos using the apprise URL you provide, also in .env, based off the [apprise documentation](https://github.com/caronc/apprise/wiki). Here i san example of an apprise link to send notification via Gmail: "mailto://<username>:<password>@gmail.com"
-5. If CLEANUP_DELETED_VIDEOS is set to "True" any broken symlinks or hanging nfo files (nfo file with no corresponding video) will be deleted.
+5. If CLEANUP_DELETED_VIDEOS is set to "True" any broken symlinks or hanging nfo files (nfo file with no corresponding video) will be deleted from TARGET_FOLDER.
 
 **NOTE:** When apprise is setup to send emails via gmail, each notification takes approx 3s on a Raspberry Pi4.  So if you are doing an initial run on a large library, temporarily setting NOTIFICATIONS_ENABLED to "False" will save a lot of time.
 
