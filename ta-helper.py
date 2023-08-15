@@ -113,7 +113,7 @@ def notify(video_meta_data):
     apobj.notify(body=email_body,title=video_title)
 
 def cleanup_after_deleted_videos():
-    logger.info("Check for broken video symlinks in our target folder.")
+    logger.info("Check for broken symlinks and nfo files without videos in our target folder.")
     broken = []
     for root, dirs, files in os.walk(TARGET_FOLDER):
         if root.startswith('./.git'):
@@ -122,7 +122,15 @@ def cleanup_after_deleted_videos():
         for filename in files:
             path = os.path.join(root,filename)
             file_info = os.path.splitext(path)
-            if os.path.islink(path):
+            # Check if the file is a video's nfo file
+            if not filename == "tvshow.nfo" and file_info[1] == ".nfo" :
+                # Check if there is a corresponding video file and if not, delete the nfo file.
+                expected_video = path.replace('.nfo','.mp4')
+                if not os.path.exists(expected_video):
+                    logger.info("Found hanging .nfo file: %s", path)
+                    # Queue the hanging nfo file for deletion.
+                    broken.append(path)
+            elif os.path.islink(path):
                 # We've found a symlink.
                 target_path = os.readlink(path)
                 # Resolve relative symlinks
@@ -132,7 +140,8 @@ def cleanup_after_deleted_videos():
                     # The symlink is broken.
                     broken.append(path)
             else:
-                # If it's not a symlink we're not interested.
+                # If it's not a symlink or hanging nfo file, we're not interested.
+                logger.debug("No need to clean-up  %s", path)
                 continue
 
     if broken == []:
@@ -140,7 +149,7 @@ def cleanup_after_deleted_videos():
     else:
         logger.info('%d Broken symlinks found...', len(broken))
         for link in broken:
-            logger.info("Deleted TA file found: %s", link )
+            logger.info("Deleting file: %s", link )
             # Here we need to delete the NFO file and video and subtitle symlinks
             # associated with the deleted video.
             os.remove(link)
