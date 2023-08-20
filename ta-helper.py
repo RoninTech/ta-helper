@@ -1,11 +1,12 @@
+import apprise
 from distutils.util import strtobool
 from dotenv import load_dotenv
 import html2text
 import logging
+import os
 import requests
 import re
-import os
-import apprise
+import sys
 import time
 
 # Configure logging.
@@ -20,17 +21,17 @@ logger.addHandler(handler)
 load_dotenv()
 NOTIFICATIONS_ENABLED = bool(strtobool(os.environ.get("NOTIFICATIONS_ENABLED", 'False')))
 GENERATE_NFO = bool(strtobool(os.environ.get("GENERATE_NFO", 'False')))
-FROMADDR = os.environ.get("MAIL_USER")
-RECIPIENTS = os.environ.get("MAIL_RECIPIENTS")
+FROMADDR = str(os.environ.get("MAIL_USER"))
+RECIPIENTS = str(os.environ.get("MAIL_RECIPIENTS"))
 RECIPIENTS = RECIPIENTS.split(',')
-TA_MEDIA_FOLDER = os.environ.get("TA_MEDIA_FOLDER")
-TA_SERVER = os.environ.get("TA_SERVER")
-TA_TOKEN = os.environ.get("TA_TOKEN")
-TA_CACHE = os.environ.get("TA_CACHE")
-TARGET_FOLDER = os.environ.get("TARGET_FOLDER")
-APPRISE_LINK = os.environ.get("APPRISE_LINK")
+TA_MEDIA_FOLDER = str(os.environ.get("TA_MEDIA_FOLDER"))
+TA_SERVER = str(os.environ.get("TA_SERVER"))
+TA_TOKEN = str(os.environ.get("TA_TOKEN"))
+TA_CACHE = str(os.environ.get("TA_CACHE"))
+TARGET_FOLDER = str(os.environ.get("TARGET_FOLDER"))
+APPRISE_LINK = str(os.environ.get("APPRISE_LINK"))
 QUICK = bool(strtobool(os.environ.get("QUICK", 'True')))
-CLEANUP_DELETED_VIDEOS = bool(strtobool(os.environ.get("CLEANUP_DELETED_VIDEOS")))
+CLEANUP_DELETED_VIDEOS = bool(strtobool(str(os.environ.get("CLEANUP_DELETED_VIDEOS"))))
 
 logger.setLevel(os.environ.get("LOGLEVEL", "INFO"))
 
@@ -143,6 +144,8 @@ def cleanup_after_deleted_videos():
                 # If it's not a symlink or hanging nfo file, we're not interested.
                 logger.debug("No need to clean-up  %s", path)
                 continue
+        for dir in dirs:
+            logger.debug("Found channel folder: %s", dir)
 
     if broken == []:
         logger.info("No deleted videos found, no cleanup required.")
@@ -164,8 +167,13 @@ os.makedirs(TARGET_FOLDER, exist_ok = True)
 url = TA_SERVER + '/api/channel/'
 headers = {'Authorization': 'Token ' + TA_TOKEN}
 req = requests.get(url, headers=headers)
-channels_json = req.json() if req and req.status_code == 200 else None
-channels_data = channels_json['data']
+if req and req.status_code == 200:
+    channels_json = req.json() 
+    channels_data = channels_json['data']
+else :
+    logger.info("No Channels in TA, exiting")
+    # Bail from program as we have no channels in TA.
+    sys.exit()
 
 while channels_json['paginate']['last_page']:
     channels_json = requests.get(url, headers=headers, params={'page': channels_json['paginate']['current_page'] + 1}).json()
