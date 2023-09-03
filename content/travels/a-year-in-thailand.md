@@ -7,7 +7,7 @@ images:
 author: "Helen"
 omit_header_text: true
 album: https://photos.app.goo.gl/WpdFks462dMtDPNC8
-draft: true
+draft: false
 ---
 Like most people, our past few years have been filled with turmoil, stress and uncertainty… a pandemic sure makes you reconsider life choices. Spending time in Canada allowed us to see family and friends, get some things sorted and the van sold. Our last few days in Calgary were filled with visits with my Mom, cleaning the apartment, a trip to the storage unit with John C. and packing for Thailand. We know, Thailand, again!?  🙂 
 
