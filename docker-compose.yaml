@@ -1,0 +1,25 @@
+services:  
+  ta-helper:
+    container_name: ta-helper
+    environment:
+      - LOGLEVEL=INFO
+      - TA_SERVER=http://tubearchivist:8000
+      - TA_TOKEN=${TUBEARCHIVIST_TOKEN}
+      - TA_CACHE=/cache
+      - TA_MEDIA_FOLDER=/media
+      - TARGET_FOLDER=/youtube
+      - NOTIFICATIONS_ENABLED=False
+      - MAIL_USER=me@x.com
+      - MAIL_RECIPIENTS=me@x.com,you@x.com
+      - APPRISE_LINK=mailto://<username>:<password>@gmail.com
+      - GENERATE_NFO=True
+      - QUICK=True
+      - CLEANUP_DELETED_VIDEOS=True
+    expose:
+      - '8001'
+    build: .
+    restart: unless-stopped
+    volumes:
+      - ../tubearchivist/cache:/cache:ro
+      - ../tubearchivist/media:/media:ro
+      - ./youtube:/youtube
