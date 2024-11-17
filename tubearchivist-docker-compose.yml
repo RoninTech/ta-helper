@@ -1,0 +1,35 @@
+version: '3.5'
+
+services:
+  # add downloading trigger to ta like: json://ta-helper:8001/ta-helper-trigger
+  ta-helper:
+    container_name: ta-helper
+    restart: unless-stopped
+    image: ta-helper
+    build: ta-helper/
+    command: uv run --no-cache /app/ta-helper-trigger.py
+    user: "1000:1000"
+    expose:
+      - "8001"
+    volumes:
+      - /mnt/zdata/media/ta-data:/mnt/zdata/media/ta-data:ro
+      - ./data-cache:/mnt/zfast/tubearchivist/data-cache:ro
+      - /mnt/zdata/media/youtube:/mnt/zdata/media/youtube
+    environment:
+      - LOGLEVEL=INFO
+      - TA_SERVER=http://tubearchivist:8000/
+      - TA_TOKEN=xxxFIXMExxx
+      - TA_CACHE=/mnt/zfast/tubearchivist/data-cache
+      - TA_MEDIA_FOLDER=/mnt/zdata/media/ta-data
+      - TARGET_FOLDER=/mnt/zdata/media/youtube
+      - NOTIFICATIONS_ENABLED=False
+      - GENERATE_NFO=False
+      - QUICK=FALSE
+      - APPRISE_TRIGGER_PORT=8001
+      - TA_HELPER_SCRIPT=/app/ta-helper.py
+      - CLEANUP_DELETED_VIDEOS=False
+  tubearchivist:
+    container_name: tubearchivist
+    restart: unless-stopped
+    image: bbilly1/tubearchivist
+    # ...
