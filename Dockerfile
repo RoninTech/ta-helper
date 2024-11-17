@@ -11,4 +11,6 @@ COPY README.md \
 
 WORKDIR /app
 
-RUN uv sync --frozen --compile-bytecode
+RUN set -ex \
+    && uv sync --frozen --compile-bytecode \
+    && uv sync --locked # check if uv.lock file is up-to-date
