@@ -181,6 +181,9 @@ while channels_json['paginate']['last_page']:
                      
 for channel in channels_data:
     chan_name = urlify(channel['channel_name'])
+    # some channels have False as channel_description, which later on gives a type error
+    if not channel['channel_description']:
+        channel['channel_description'] = ""
     description = channel['channel_description']
     logger.debug("Video Description: " + description)
     logger.debug("Channel Name: " + chan_name)
