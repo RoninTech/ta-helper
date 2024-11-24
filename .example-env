@@ -56,3 +56,9 @@ TA_HELPER_SCRIPT="/home/me/projects/ta-helper/ta-helper.py"
 # to video "x.mp4" becomes bad then we should delete the x.NFO file and x.vtt
 # and x.mp4 symlinks.
 CLEANUP_DELETED_VIDEOS = "False"
+
+
+# In some cases, e.g when your emby server is mounted over NFS and TA runs
+# on a local filesystem it might be useful to create relative links for your 
+# movies. 
+CREATE_RELATIVE_SYMLINKS = "False"

@@ -1,6 +1,8 @@
 import apprise
 from distutils.util import strtobool
 from dotenv import load_dotenv
+from typing import Union
+from pathlib import Path
 import html2text
 import logging
 import os
@@ -32,7 +34,7 @@ TARGET_FOLDER = str(os.environ.get("TARGET_FOLDER"))
 APPRISE_LINK = str(os.environ.get("APPRISE_LINK"))
 QUICK = bool(strtobool(os.environ.get("QUICK", 'True')))
 CLEANUP_DELETED_VIDEOS = bool(strtobool(str(os.environ.get("CLEANUP_DELETED_VIDEOS"))))
-
+CREATE_RELATIVE_SYMLINKS= bool(strtobool(str(os.environ.get("CREATE_RELATIVE_SYMLINKS"))))
 logger.setLevel(os.environ.get("LOGLEVEL", "INFO"))
 
 def setup_new_channel_resources(chan_name, chan_data):
@@ -62,11 +64,33 @@ def setup_new_channel_resources(chan_name, chan_data):
             "<premiered>" + chan_data['channel_last_refresh'] + "</premiered>\n</episodedetails>")
     f.close()
 
+
+def relative_symlink(target: Union[Path, str], destination: Union[Path, str]):
+    """Create a symlink pointing to ``target`` from ``location``.
+    Args:
+        target: The target of the symlink (the file/directory that is pointed to)
+        destination: The location of the symlink itself.
+    """
+    target = Path(target)
+    destination = Path(destination)
+    target_dir = destination.parent
+    target_dir.mkdir(exist_ok=True, parents=True)
+    relative_source = os.path.relpath(target, target_dir)
+    dir_fd = os.open(str(target_dir.absolute()), os.O_RDONLY)
+    logger.info(f"{relative_source} -> {destination.name} in {target_dir}")
+    try:
+        os.symlink(relative_source, destination.name, dir_fd=dir_fd)
+    finally:
+        os.close(dir_fd)
+
 def generate_new_video_nfo(chan_name, title, video_meta_data):
     logger.info("Generating NFO file and subtitle symlink for %s video: %s", video_meta_data['channel']['channel_name'], video_meta_data['title'])
     # TA has added a new video.  Create a symlink to subtitles and an NFO file for media managers.
     video_basename = os.path.splitext(video_meta_data['media_url'])[0]
-    os.symlink(TA_MEDIA_FOLDER + video_basename + ".en.vtt", TARGET_FOLDER + "/" + chan_name + "/" + title.replace(".mp4",".en.vtt"))
+    if (CREATE_RELATIVE_SYMLINKS):
+        relative_symlink(TA_MEDIA_FOLDER + video_basename + ".en.vtt", TARGET_FOLDER + "/" + chan_name + "/" + title.replace(".mp4",".en.vtt"))
+    else:
+        os.symlink(TA_MEDIA_FOLDER + video_basename + ".en.vtt", TARGET_FOLDER + "/" + chan_name + "/" + title.replace(".mp4",".en.vtt"))
     title = title.replace('.mp4','.nfo')
     f= open(TARGET_FOLDER + "/" + chan_name + "/" + title,"w+")
     f.write('<?xml version="1.0" ?>\n<episodedetails>\n\t' +
@@ -207,7 +231,10 @@ for channel in channels_data:
             logger.debug(video['published'] + "_" + video['youtube_id'] + "_" + urlify(video['title']) + ", " + video['media_url'])
             title=video['published'] + "_" + video['youtube_id'] + "_" + urlify(video['title']) + ".mp4"
             try:
-                os.symlink(TA_MEDIA_FOLDER + video['media_url'], TARGET_FOLDER + "/" + chan_name + "/" + title)
+                if (CREATE_RELATIVE_SYMLINKS):
+                    relative_symlink(TA_MEDIA_FOLDER + video['media_url'], TARGET_FOLDER + "/" + chan_name + "/" + title)
+                else:
+                    os.symlink(TA_MEDIA_FOLDER + video['media_url'], TARGET_FOLDER + "/" + chan_name + "/" + title)
                 # Getting here means a new video.
                 logger.info("Processing new video from %s: %s", chan_name, title)
                 if NOTIFICATIONS_ENABLED:
