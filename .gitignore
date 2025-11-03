@@ -2,3 +2,5 @@
 sendEmail_service_key.json
 *.log
 __pycache__
+.venv
+
