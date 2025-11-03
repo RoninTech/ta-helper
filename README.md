@@ -1,3 +1,7 @@
+#######################################################
+# Project No Longer Active
+#######################################################
+
 # ta-helper
 
 Python script to post process Tube Archivist products, generate human readable folders and files, support NFO files and new per video notifications using apprise library.  Various functions can be enabled/disabled.  Nothing is touched in your Tube Archivist media folders.  The image below shows your original obfuscated naming on the left and new, human readable folders on the right.
