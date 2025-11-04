@@ -1,0 +1,5 @@
+python-dotenv
+flask
+apprise
+html2text
+requests
